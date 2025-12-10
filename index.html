@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ID Pages by The Refresh</title>
+<link rel="icon" type="image/png" href="../fre5hfence/RF5.png?v=2">
+<link rel="shortcut icon" type="image/png" href="../fre5hfence/RF5.png?v=2"> 
+
+<style>
+    /* --- CORE VARIABLES & RESET --- */
+    :root {
+      --primary: #2196F3;
+      --text: #e4e8ff;
+      --bg: #050810;
+      --success: #4CAF50;
+      --card-bg: rgba(5, 10, 24, 0.9);
+      --border: rgba(120, 141, 255, 0.25);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { width: 100%; height: 100%; }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #050810;
+      background-image: radial-gradient(circle at top left, #202738 0, #050810 55%, #020308 100%);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      color: var(--text);
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+
+    .hidden { display: none !important; }
+
+    /* --- GATE OVERLAY STYLES --- */
+    #gateOverlay {
+      position: fixed; inset: 0; z-index: 2000;
+      background: radial-gradient(circle at top left, #202738 0, #050810 55%, #020308 100%);
+      overflow-y: auto;
+      display: flex; flex-direction: column;
+    }
+    
+    #gateOverlay .container {
+        max-width: 800px; margin: 0 auto; width: 100%; padding: 1rem;
+    }
+
+    #gateOverlay .card {
+      background: var(--card-bg);
+      border-radius: 18px;
+      border: 1px solid var(--border);
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.75);
+      backdrop-filter: blur(10px);
+      padding: 2.5rem; 
+      margin: 1.5rem auto;
+      text-align: center;
+    }
+
+    #gateOverlay h1 { font-size: 3rem; margin-bottom: 0rem; } 
+    
+    /* Shared Header Styling */
+    .app-header-text {
+      font-size: 3.5rem; 
+      letter-spacing: 0.04em;
+      margin: 0; line-height: 1.1;
+      display: inline-block;
+      background: linear-gradient(135deg, #ff9a3c, #ffd869);
+      -webkit-background-clip: text; background-clip: text; color: transparent;
+      text-transform: uppercase; font-weight: 800;
+      text-shadow: 0 0 18px rgba(255, 200, 120, 0.35);
+    }
+    
+    .app-title-beta {
+        font-size: 0.4em; letter-spacing: 0.1em; margin-left: 0.5em; vertical-align: middle;
+        color: #ffd869; border: 1px solid #ffd869; padding: 2px 6px; border-radius: 4px;
+    }
+
+    .app-description { 
+        font-size: 1.2rem; opacity: 0.6; margin: 0.25rem 0 1rem; color: #d8e7ff; 
+    }
+
+    #gateOverlay select {
+      padding: 14px; border-radius: 999px; width: 100%;
+      background: rgba(11, 16, 26, 0.9); color: #fff;
+      border: 1px solid rgba(120, 141, 255, 0.4);
+      margin-bottom: 1rem; font-size: 1.1rem; 
+    }
+
+    #gateOverlay button {
+      padding: 16px 32px; border-radius: 999px; 
+      font-weight: 600; cursor: pointer; border: none;
+      background: linear-gradient(135deg, #ff3366, #ffc857);
+      color: #050814; font-size: 1.2rem; 
+      transition: transform 0.1s;
+    }
+    #gateOverlay button:hover { transform: scale(1.02); }
+    #gateOverlay button:disabled { opacity: 0.6; cursor: not-allowed; transform: none; }
+
+    .container {
+      max-width: 500px; width: 100%; 
+    }
+
+    .card {
+      background: var(--card-bg);
+      border-radius: 18px;
+      border: 1px solid var(--border);
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.75);
+      backdrop-filter: blur(10px);
+      padding: 2.5rem; 
+      text-align: center;
+    }
+
+    h1 { 
+        font-size: 2.5rem; 
+        margin-bottom: 0.25rem; 
+        background: linear-gradient(135deg, #ff9a3c, #ffd869);
+        -webkit-background-clip: text; background-clip: text; color: transparent;
+        text-transform: uppercase; font-weight: 800;
+    }
+
+    select {
+      padding: 14px; border-radius: 999px; width: 100%;
+      background: rgba(11, 16, 26, 0.9); color: #fff;
+      border: 1px solid rgba(120, 141, 255, 0.4);
+      margin-bottom: 1rem; font-size: 1.1rem; outline: none;
+    }
+
+    button {
+      width: 100%;
+      padding: 16px 32px; border-radius: 999px; 
+      font-weight: 600; cursor: pointer; border: none;
+      background: linear-gradient(135deg, #2196F3, #21CBF3);
+      color: #050814; font-size: 1.2rem; 
+      transition: transform 0.1s, opacity 0.2s;
+    }
+    button:hover { transform: scale(1.02); opacity: 0.9; }
+    button:disabled { opacity: 0.5; cursor: not-allowed; transform: none; filter: grayscale(1); }
+    
+    .status-msg {
+        margin-top: 15px; font-size: 0.9rem; min-height: 20px;
+    }
+    .error { color: #ff6b6b; }
+    .success { color: #4CAF50; font-weight: bold; }
+
+    /* VIP Button Style */
+    #enterAppBtn {
+        background: linear-gradient(135deg, #4CAF50, #81C784);
+        display: none; /* Hidden by default */
+        margin-top: 15px;
+    }
+
+    /* --- PLACEHOLDER FOR NEXT STEP --- */
+    #appPlaceholder {
+        display: none;
+        text-align: center;
+        padding-top: 100px;
+    }
+    
+    .brand-logo { position: absolute; top: 15px; left: 15px; width: 60px; z-index: 100; }
+</style>
+</head>
+<body>
+
+  <div id="gateOverlay">
+    <img src="../fre5hfence/RF5.png" alt="Logo" class="brand-logo"> <div class="container">
+      <div class="card">
+        <header>
+          <h1 class="app-header-text">
+            ID Pages
+            <span class="app-title-beta">BETA</span>
+          </h1>
+<p id="description" class="app-description" style="margin-bottom: 1.5rem;">Your Policy Your Page</p>
+          <p id="instructions">Connect a Cardano wallet to create an account</p>
+          
+          <select id="walletSelect"><option value="">Scanning wallets...</option></select>
+          <button id="connectBtn" disabled>Connect Wallet</button>
+          
+          <div id="walletStatus" class="hidden" style="margin-top:10px; color:#aaa;"></div>
+        </header>
+      </div>
+  
+
+
+<div class="card">
+        <h2>Access Details</h2>
+        <p class="access-message" id="accessMessage">Let's see how Fre5h ya get!</p>
+
+        <div id="assetSyncStatus" class="asset-sync hidden" style="justify-content:center;">
+             <span class="asset-sync-spinner"></span>
+             <span id="assetSyncText">Syncing your Refresh collection...</span>
+        </div>
+
+        <button id="payAccessBtn" style="display:none; margin-top:15px;">Enter App</button>
+        
+        <a id="vipAccessLink" href="https://www.jpg.store/collection/therefresh" target="_blank" class="loc-btn-secondary" style="display:none; text-decoration:none; padding:10px 20px; border-radius:999px;">
+          Get VIP Access
+        </a>
+      </div>
+  </div>
+    </div>
+  
+  <script type="module">
+    import { BrowserWallet, Transaction } from '/meshsdk-core-1.9.0-b62.js';
+
+    // --- CONFIG ---
+    // The Policy ID required to enter
+    const ACCESS_POLICIES = [
+      'adc5716393953403109c335e68c0384238fd19653e960e03afa1fb1f' // OG The Refresh
+    ];
+
+    // --- STATE ---
+    let meshWallet = null;
+    let userAddress = null;
+
+    // --- DOM ELEMENTS ---
+    const sel = document.getElementById('walletSelect');
+    const connectBtn = document.getElementById('connectBtn');
+    const enterBtn = document.getElementById('enterAppBtn');
+    const statusDiv = document.getElementById('walletStatus');
+
+    // --- LOGIC ---
+    async function initGate() {
+        try {
+            // 1. Scan for wallets
+            const wallets = await BrowserWallet.getInstalledWallets();
+            
+            if (wallets.length) {
+                sel.innerHTML = wallets.map(w => `<option value="${w.id}">${w.name}</option>`).join('');
+                connectBtn.disabled = false;
+                connectBtn.textContent = "Connect Wallet";
+            } else { 
+                sel.innerHTML = '<option>No Cardano wallets found</option>'; 
+            }
+        } catch(e) {
+            console.error("Wallet scan error", e);
+        }
+
+        // 2. Connect Event
+        connectBtn.addEventListener('click', async () => {
+            const wid = sel.value;
+            if(!wid) return;
+            
+            connectBtn.textContent = 'Verifying...';
+            connectBtn.disabled = true;
+            statusDiv.textContent = "";
+            statusDiv.className = "status-msg";
+
+            try {
+                // A. Enable Wallet
+                meshWallet = await BrowserWallet.enable(wid);
+                userAddress = await meshWallet.getChangeAddress();
+                
+                // B. Get Assets (Lightweight check - no Koios needed yet)
+                const assets = await meshWallet.getAssets();
+                
+                // C. Check for Policy Match
+                const hasAccess = assets.some(asset => 
+                    ACCESS_POLICIES.some(policyId => asset.unit.startsWith(policyId))
+                );
+
+                if (hasAccess) {
+                    handleAccessGranted(assets); // Pass assets for Step 2
+                } else {
+                    handleAccessDenied();
+                }
+
+            } catch(e) {
+                console.error(e);
+                statusDiv.textContent = "Connection Failed or Cancelled.";
+                statusDiv.classList.add('error');
+                connectBtn.disabled = false;
+                connectBtn.textContent = 'Try Again';
+            }
+        });
+    }
+
+    function handleAccessGranted(assets) {
+        // UI Updates
+        connectBtn.style.display = 'none'; // Hide connect button
+        sel.style.display = 'none';        // Hide selector
+        
+        statusDiv.innerHTML = "✅ VIP Access Confirmed";
+        statusDiv.classList.add('success');
+
+        // Show Enter Button
+        enterBtn.style.display = 'block';
+        
+        // Define what happens when they click Enter
+        enterBtn.onclick = () => {
+            // Animation / Transition
+            document.getElementById('gateOverlay').classList.add('hidden');
+            document.getElementById('appPlaceholder').style.display = 'block';
+            
+            // SAVE STATE FOR NEXT STEPS
+            // We store this in window so the next script we merge can read it
+            window.FRESH_USER = {
+                address: userAddress,
+                assets: assets,
+                walletName: sel.options[sel.selectedIndex].text
+            };
+            
+            console.log("User Logged In:", window.FRESH_USER);
+        };
+    }
+
+    function handleAccessDenied() {
+        statusDiv.textContent = "⛔ No Access Pass Found.";
+        statusDiv.classList.add('error');
+        connectBtn.disabled = false;
+        connectBtn.textContent = 'Connect Wallet';
+    }
+
+    // Run
+    initGate();
+  </script>
+</body>
+</html>
