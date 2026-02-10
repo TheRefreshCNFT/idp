@@ -9508,8 +9508,8 @@ async function switchToCollection(key) {
                 const remoteData = await res.json();
                 
                 // A. Save to Memory
-                collStateMem.set(key, remoteData);
-                state = remoteData;
+                state = { ...remoteData, __fromJson: true };
+                collStateMem.set(key, state);
 
                 // B. Update Server Index (Fixes the Tab Label "new-2" -> "My Cool Collection")
                 const idxEntry = Array.isArray(serverCollIndex) ? serverCollIndex.find(c => (c.key||c.id||c.slug) === key) : null;
@@ -9558,6 +9558,14 @@ async function switchToCollection(key) {
 
     // 6. Merge: Defaults -> Saved State
     const merged = { ...defaults, ...(state || {}) };
+
+    // Keep in-memory state aligned with what we are about to render.
+    collStateMem.set(String(key), merged);
+
+    // Rebuild defaultProps UI rows from collection state first.
+    // This prevents stale rows from an earlier pre-init render (e.g. "new")
+    // from lingering when switching into an existing saved collection.
+    renderCollectionSettings(key);
 
     // 7. Write to UI
     writeCollectionStateToUI(merged);
@@ -9710,7 +9718,7 @@ async function loadAllCollectionsData() {
                     collectionName: colEntry.name,
                     // ... (other defaults handled by switchToCollection logic)
                 };
-                const merged = { ...defaults, ...data };
+                const merged = { ...defaults, ...data, __fromJson: true };
                 collStateMem.set(key, merged);
             }
         } catch (e) {
@@ -9773,6 +9781,10 @@ function getCollectionKey() {
 }
 
 // --- LOGIC: Properties ---
+function shouldUseJsonDefaultPropsOnly(state) {
+    return !!(state && state.__fromJson === true);
+}
+
 function renderDefaultProps() {
     const container = document.getElementById('defaultProps');
     if (!container) return;
@@ -9792,16 +9804,21 @@ function renderDefaultProps() {
     container.innerHTML = "";
     
     // C. Render STANDARD Props (Artist, Description, etc.)
-    DEFAULT_PROPS.forEach(p => {
+    // For persisted collections, JSON is source-of-truth: only render standard keys present in savedProps.
+    const standardKeysToRender = shouldUseJsonDefaultPropsOnly(savedState)
+        ? Object.keys(savedProps).filter(k => DEFAULT_PROPS.includes(k))
+        : DEFAULT_PROPS;
+
+    standardKeysToRender.forEach(p => {
         const savedVal = savedProps[p] || "";
-        
+
         const div = document.createElement('div');
         div.className = "prop-row";
         div.innerHTML = `
             <div style="color:var(--text-light)"><i class="fas fa-tag"></i></div>
             <div style="font-size:0.9rem; color:var(--text-light)">${p}</div>
             <input type="text" class="prop-val" data-prop="${p}" value="${savedVal}" placeholder="Value for ${p}...">
-            <button class="danger icon-btn" onclick="this.closest('.prop-row').remove(); window.triggerAutosave && window.triggerAutosave();">×</button>
+            <button class="danger icon-btn" onclick="window.removeDefaultPropRow(this)">×</button>
         `;
         container.appendChild(div);
     });
@@ -9822,11 +9839,50 @@ function renderDefaultProps() {
             <div class="col">
                 <input type="text" class="p-val" value="${val}" placeholder="Global Value">
             </div>
-            <button class="danger icon-btn" onclick="this.closest('.prop-row').remove(); window.triggerAutosave && window.triggerAutosave();">×</button>
+            <button class="danger icon-btn" onclick="window.removeDefaultPropRow(this)">×</button>
         `;
         container.appendChild(div);
     });
 }
+
+window.removeDefaultPropRow = function(btn) {
+    const row = btn?.closest?.('.prop-row');
+    if (!row) return;
+
+    const removedKey = (
+        row.querySelector('.prop-val')?.dataset?.prop ||
+        row.querySelector('.p-key')?.value || ''
+    ).trim();
+
+    row.remove();
+
+    const defaultsNow = getLiveDefaultProps();
+
+    if (removedKey && Array.isArray(studioAssets)) {
+        studioAssets.forEach(asset => {
+            if (!asset || !asset.traits || typeof asset.traits !== 'object') return;
+            if (Object.prototype.hasOwnProperty.call(asset.traits, removedKey)) {
+                delete asset.traits[removedKey];
+            }
+
+            if (removedKey === 'Name' && asset.defaultProps && typeof asset.defaultProps === 'object') {
+                delete asset.defaultProps.name;
+            }
+        });
+    }
+
+    syncDefaultPropsToAllAssets(defaultsNow);
+
+    const k = getActiveCollKey();
+    if (k) {
+        const prev = collStateMem.get(String(k)) || {};
+        collStateMem.set(String(k), { ...prev, defaultProps: defaultsNow, studioAssets });
+    }
+
+    if (typeof renderStudioPreview === 'function') renderStudioPreview();
+    if (typeof updateAssetPreview === 'function') updateAssetPreview();
+    if (typeof window.triggerAutosave === 'function') window.triggerAutosave();
+};
 
 
 window.applyCollectionThumbFromInput = function() {
@@ -11368,7 +11424,12 @@ function renderCollectionSettings(collKey) {
 
     // 4. Re-Render Standard Props (Artist, Description, etc.)
     if (defContainer) {
-        DEFAULT_PROPS.forEach(p => {
+        // For server-loaded collections, JSON defaultProps are the source-of-truth.
+        const standardKeysToRender = shouldUseJsonDefaultPropsOnly(state)
+            ? Object.keys(savedProps).filter(k => DEFAULT_PROPS.includes(k))
+            : DEFAULT_PROPS;
+
+        standardKeysToRender.forEach(p => {
             const val = savedProps[p] || ""; 
             const div = document.createElement('div');
             div.className = "prop-row";
@@ -11376,7 +11437,7 @@ function renderCollectionSettings(collKey) {
                 <div style="color:var(--text-light)"><i class="fas fa-tag"></i></div>
                 <div style="font-size:0.9rem; color:var(--text-light)">${p}</div>
                 <input type="text" class="prop-val" data-prop="${p}" value="${val}" placeholder="Value for ${p}...">
-                <button class="danger icon-btn" onclick="this.closest('.prop-row').remove(); window.triggerAutosave && window.triggerAutosave();">×</button>
+                <button class="danger icon-btn" onclick="window.removeDefaultPropRow(this)">×</button>
             `;
             defContainer.appendChild(div);
         });
@@ -11399,7 +11460,7 @@ function renderCollectionSettings(collKey) {
                 <div class="col">
                     <input type="text" class="p-val" value="${val}" placeholder="Global Value">
                 </div>
-                <button class="danger icon-btn" onclick="this.closest('.prop-row').remove(); window.triggerAutosave && window.triggerAutosave();">×</button>
+                <button class="danger icon-btn" onclick="window.removeDefaultPropRow(this)">×</button>
             `;
             metaContainer.appendChild(div);
         });
