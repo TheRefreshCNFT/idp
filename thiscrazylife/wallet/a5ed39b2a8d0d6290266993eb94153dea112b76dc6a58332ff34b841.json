@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933611,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "a5ed39b2a8d0d6290266993eb94153dea112b76dc6a58332ff34b841"
+    },
+    "assets_cache": [
+        {
+            "asset": "a5ed39b2a8d0d6290266993eb94153dea112b76dc6a58332ff34b8414d61785665727374617070656e417573747269616e475032303233",
+            "quantity": null,
+            "policy_id": "a5ed39b2a8d0d6290266993eb94153dea112b76dc6a58332ff34b841",
+            "asset_name": "4d61785665727374617070656e417573747269616e475032303233",
+            "onchain_metadata": {
+                "name": "Max Verstappen - Austrian GP - 2023",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmaqSx9QaZj7h9hdGtAtdaM6MvtHLhtmkHVqmKhMzyyExA",
+                        "name": "Max Verstappen - Austrian GP - 2023",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "image": "ipfs:\/\/QmcDndHdHdxtCk9VxvDjSHxYyERndncbAnjfWPgKt5kj5A",
+                "rarity": "1-1 NFT by Ernst Blaad",
+                "mediaType": "image\/jpeg",
+                "printable": "NFT contains a printable HiRes file 5000 x 5000px",
+                "description": "Max Verstappen - Austrian GP - 2023"
+            }
+        }
+    ]
+}

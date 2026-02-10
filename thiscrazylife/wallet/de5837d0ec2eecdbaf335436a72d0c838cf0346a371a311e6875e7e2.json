@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933617,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "de5837d0ec2eecdbaf335436a72d0c838cf0346a371a311e6875e7e2"
+    },
+    "assets_cache": [
+        {
+            "asset": "de5837d0ec2eecdbaf335436a72d0c838cf0346a371a311e6875e7e236353430323538306530656161",
+            "quantity": null,
+            "policy_id": "de5837d0ec2eecdbaf335436a72d0c838cf0346a371a311e6875e7e2",
+            "asset_name": "36353430323538306530656161",
+            "onchain_metadata": {
+                "name": "Free Pass",
+                "pass": "Free",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmeBxgoH5iac5ELT9fftqgytwbkNWqvHhwpsnBc9pTcGPS",
+                        "name": "Free Pass",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmeBxgoH5iac5ELT9fftqgytwbkNWqvHhwpsnBc9pTcGPS",
+                "mediaType": "image\/png",
+                "description": "ADAmail.me - NFT driven anonymous Webmail for Cardano"
+            }
+        }
+    ]
+}

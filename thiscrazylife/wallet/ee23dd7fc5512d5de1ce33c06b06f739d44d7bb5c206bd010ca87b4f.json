@@ -1,0 +1,160 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933635,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "ee23dd7fc5512d5de1ce33c06b06f739d44d7bb5c206bd010ca87b4f"
+    },
+    "assets_cache": [
+        {
+            "asset": "ee23dd7fc5512d5de1ce33c06b06f739d44d7bb5c206bd010ca87b4f42474330353432",
+            "quantity": null,
+            "policy_id": "ee23dd7fc5512d5de1ce33c06b06f739d44d7bb5c206bd010ca87b4f",
+            "asset_name": "42474330353432",
+            "onchain_metadata": {
+                "hood": "Triple Intake",
+                "name": "BGC #0542",
+                "color": "Yellow",
+                "decal": "Rooftop",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmT7Ua28YC9sdBU4zvUmjsDXEWqgn7asjjjXK7CZjZjStb",
+                        "name": "BGC #0542",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "grill": "Split",
+                "image": "ipfs:\/\/QmXGfHdS5pbMfeNLQZmCd7sWcWJmvmjNsJZyzG2JFzUC1Q",
+                "artist": "E. Anthony Lees, U.S. Army Veteran",
+                "edition": "542",
+                "website": "www.barracudathemovie.com",
+                "ornament": "Plymouth Angel",
+                "copyright": "Barracuda Media, LLC 2022",
+                "mediaType": "image\/png",
+                "background": "Mountains in the Distance",
+                "blockchain": "Cardano",
+                "description": [
+                    "Genesis Cardano Collection:",
+                    "To the community who supported us",
+                    "as filmmakers entering the NFT space, THANK YOU",
+                    "About Barracuda:",
+                    "A Marine with PTSD and a crypto entrepreneur embark on",
+                    "a journey of self-discovery and hope in a 1974 Barracuda."
+                ]
+            }
+        },
+        {
+            "asset": "ee23dd7fc5512d5de1ce33c06b06f739d44d7bb5c206bd010ca87b4f42474331333538",
+            "quantity": null,
+            "policy_id": "ee23dd7fc5512d5de1ce33c06b06f739d44d7bb5c206bd010ca87b4f",
+            "asset_name": "42474331333538",
+            "onchain_metadata": {
+                "hood": "Triple Intake",
+                "name": "BGC #1358",
+                "color": "White",
+                "decal": "Rooftop",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/Qmbfdv8HRQMQKodUrAJQWghu9LgrFw8pZUG46dvDBvA7Zz",
+                        "name": "BGC #1358",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "grill": "Lights Up",
+                "image": "ipfs:\/\/QmcZd2AACUSYEg96kxiAynVsroP5FwVv7pYZC9ewuRzdUL",
+                "artist": "E. Anthony Lees, U.S. Army Veteran",
+                "edition": "1358",
+                "website": "www.barracudathemovie.com",
+                "ornament": "Bitcoin",
+                "copyright": "Barracuda Media, LLC 2022",
+                "mediaType": "image\/png",
+                "background": "Sunset Lights",
+                "blockchain": "Cardano",
+                "description": [
+                    "Genesis Cardano Collection:",
+                    "To the community who supported us",
+                    "as filmmakers entering the NFT space, THANK YOU",
+                    "About Barracuda:",
+                    "A Marine with PTSD and a crypto entrepreneur embark on",
+                    "a journey of self-discovery and hope in a 1974 Barracuda."
+                ]
+            }
+        },
+        {
+            "asset": "ee23dd7fc5512d5de1ce33c06b06f739d44d7bb5c206bd010ca87b4f42474331363334",
+            "quantity": null,
+            "policy_id": "ee23dd7fc5512d5de1ce33c06b06f739d44d7bb5c206bd010ca87b4f",
+            "asset_name": "42474331363334",
+            "onchain_metadata": {
+                "hood": "Triple Intake",
+                "name": "BGC #1634",
+                "color": "Yellow",
+                "decal": "22toZero",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmYEyFXe3vdUTKBRqJLx54LiCcHwsL2eNmeNGyjNvyisfo",
+                        "name": "BGC #1634",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "grill": "3 by 4",
+                "image": "ipfs:\/\/QmUsXBx42AY9Xa3ZLhimiQkYWvkd2Uz7arwyowz2QGwWa5",
+                "artist": "E. Anthony Lees, U.S. Army Veteran",
+                "edition": "1634",
+                "website": "www.barracudathemovie.com",
+                "ornament": "ADA",
+                "copyright": "Barracuda Media, LLC 2022",
+                "mediaType": "image\/png",
+                "background": "Arizona",
+                "blockchain": "Cardano",
+                "description": [
+                    "Genesis Cardano Collection:",
+                    "To the community who supported us",
+                    "as filmmakers entering the NFT space, THANK YOU",
+                    "About Barracuda:",
+                    "A Marine with PTSD and a crypto entrepreneur embark on",
+                    "a journey of self-discovery and hope in a 1974 Barracuda."
+                ]
+            }
+        },
+        {
+            "asset": "ee23dd7fc5512d5de1ce33c06b06f739d44d7bb5c206bd010ca87b4f42474332333337",
+            "quantity": null,
+            "policy_id": "ee23dd7fc5512d5de1ce33c06b06f739d44d7bb5c206bd010ca87b4f",
+            "asset_name": "42474332333337",
+            "onchain_metadata": {
+                "hood": "Wide Intake",
+                "name": "BGC #2337",
+                "color": "Gold",
+                "decal": "Rooftop",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmSFWPeTLX99FqymqSSFr3T5fniHSRi5sNdQ2FNsVAriju",
+                        "name": "BGC #2337",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "grill": "3 Split",
+                "image": "ipfs:\/\/QmW23kMfCvNJjC76m4mzTCbUx7RfGxDijYRDLrNND68vhQ",
+                "artist": "E. Anthony Lees, U.S. Army Veteran",
+                "edition": "2337",
+                "website": "www.barracudathemovie.com",
+                "ornament": "Gold Star",
+                "copyright": "Barracuda Media, LLC 2022",
+                "mediaType": "image\/png",
+                "background": "Cactus View",
+                "blockchain": "Cardano",
+                "description": [
+                    "Genesis Cardano Collection:",
+                    "To the community who supported us",
+                    "as filmmakers entering the NFT space, THANK YOU",
+                    "About Barracuda:",
+                    "A Marine with PTSD and a crypto entrepreneur embark on",
+                    "a journey of self-discovery and hope in a 1974 Barracuda."
+                ]
+            }
+        }
+    ]
+}

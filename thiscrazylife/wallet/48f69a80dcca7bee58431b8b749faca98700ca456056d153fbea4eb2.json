@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933840,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "48f69a80dcca7bee58431b8b749faca98700ca456056d153fbea4eb2"
+    },
+    "assets_cache": [
+        {
+            "asset": "48f69a80dcca7bee58431b8b749faca98700ca456056d153fbea4eb24f4d4e49",
+            "quantity": null,
+            "policy_id": "48f69a80dcca7bee58431b8b749faca98700ca456056d153fbea4eb2",
+            "asset_name": "4f4d4e49",
+            "onchain_metadata": {
+                "name": "$OMNI",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmQY6VwneWZdektJ2AnKEcPSKanQnYKuXPtVmZ3deyP2ES",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmcUZkZhQrQqoSPQw2gufhhL1ds4YCXzabu9tAg38ypq2V",
+                "decimals": 8,
+                "description": "Utility Token For Nemonium Ecosystem"
+            }
+        }
+    ]
+}

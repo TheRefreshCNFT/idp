@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933635,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "df9a3ba73112cba97d9cf4fadb00ed3a8f27a23d2ce86a30d4641548"
+    },
+    "assets_cache": [
+        {
+            "asset": "df9a3ba73112cba97d9cf4fadb00ed3a8f27a23d2ce86a30d464154844726573734d79506f6f706c6530303038",
+            "quantity": null,
+            "policy_id": "df9a3ba73112cba97d9cf4fadb00ed3a8f27a23d2ce86a30d4641548",
+            "asset_name": "44726573734d79506f6f706c6530303038",
+            "onchain_metadata": {
+                "hat": "HarnoldV4Hat",
+                "base": "HarnoldV5Base",
+                "body": "HarnoldV1Body",
+                "eyes": "HarnoldV1Eyes",
+                "face": "HarnoldV1Face",
+                "name": "Dress My Poople #0008",
+                "image": "ipfs:\/\/QmQn1CL2Pk5xTyEwPSsiGVDwqfJcREdfhQzEuifesaDnUo",
+                "Artist": "Mosie-Marks",
+                "Project": "Dress My Pooples",
+                "Character": "Harnold"
+            }
+        }
+    ]
+}

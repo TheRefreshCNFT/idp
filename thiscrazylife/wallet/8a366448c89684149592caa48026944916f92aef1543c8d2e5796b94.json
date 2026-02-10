@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933735,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "8a366448c89684149592caa48026944916f92aef1543c8d2e5796b94"
+    },
+    "assets_cache": [
+        {
+            "asset": "8a366448c89684149592caa48026944916f92aef1543c8d2e5796b944d6f436f6c6c61623536",
+            "quantity": null,
+            "policy_id": "8a366448c89684149592caa48026944916f92aef1543c8d2e5796b94",
+            "asset_name": "4d6f436f6c6c61623536",
+            "onchain_metadata": {
+                "name": "Mo-Collab #56",
+                "image": "ipfs:\/\/Qmde2WqFHqAhDPMGLUNvVRTUKJC8K2AHZfdQTjuUd5UbnZ",
+                "title": "Mo-Collab Airdrop 21'-22'",
+                "rarity": "Super Mega Ultra Builder",
+                "copyright": "Mosie-Marks Inc.",
+                "mediaType": "image\/png",
+                "description": "Community Collab Year One Survivors"
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933765,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "61d41d24d0d778524c239f615cdb14fd68bc19ad1ea1c5d6591c3899"
+    },
+    "assets_cache": [
+        {
+            "asset": "61d41d24d0d778524c239f615cdb14fd68bc19ad1ea1c5d6591c389950756d706b696e53706963654e6f6f647a303032",
+            "quantity": null,
+            "policy_id": "61d41d24d0d778524c239f615cdb14fd68bc19ad1ea1c5d6591c3899",
+            "asset_name": "50756d706b696e53706963654e6f6f647a303032",
+            "onchain_metadata": {
+                "name": "Pumpkin-Spice Noodz #002",
+                "files": {
+                    "src": "ipfs:\/\/QmRcHat6J2saxVowKf9U4kZBQse967taNEo9fsZbDpGjun",
+                    "mediaType": "image\/jpeg"
+                },
+                "image": "ipfs:\/\/QmRcHat6J2saxVowKf9U4kZBQse967taNEo9fsZbDpGjun",
+                "artist": "diarpi",
+                "summary": "Pumpkin Spice and Everything Nice from the House of Noodz",
+                "assetType": "NFT",
+                "mediaType": "image\/jpeg",
+                "publisher": [
+                    "https:\/\/twitter.com\/CardanoNoodz",
+                    "https:\/\/tokhun.io"
+                ],
+                "attributes": {
+                    "Nood": "Pumpkin-Spice",
+                    "Celebrating": "The Fall Season"
+                },
+                "collection": "Fall Blend",
+                "description": [
+                    "Pumpkin-spice flavor is a mixture of nutmeg, cinnamon, ginger",
+                    "and cloves\u2014all spices that humans have enjoyed in their food",
+                    "for millennia.",
+                    "",
+                    "On Pulau Ay, one of the Banda Islands in Indonesia,",
+                    "archaeologists found ancient nutmeg residue on ceramic pottery",
+                    "shards estimated to be 3,500 years old. As spices became",
+                    "valuable commodities, people began to use them in innovative",
+                    "ways in food and medicine. Asia exported spices to the Middle",
+                    "East and North Africa, and from there, these flavorful",
+                    "ingredients trickled into Europe.",
+                    "",
+                    "The desire for spice is part of what drove European seafaring",
+                    "and contact with the Americas. In fact, the Dutch were so hungry",
+                    "for nutmeg that in late 1600s that they traded their colony of",
+                    "New Amsterdam to Britain in exchange for Pulau Run, a",
+                    "nutmeg-producing Banda Island over which Britain claimed",
+                    "control. The British renamed the colony \u201cNew York.\u201d Today,",
+                    "it is estimated that nearly a half-billion dollars in",
+                    "pumpkin-flavored products are sold in the United States each",
+                    "year."
+                ]
+            }
+        }
+    ]
+}

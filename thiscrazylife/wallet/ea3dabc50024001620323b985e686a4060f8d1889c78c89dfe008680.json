@@ -1,0 +1,73 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933815,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "ea3dabc50024001620323b985e686a4060f8d1889c78c89dfe008680"
+    },
+    "assets_cache": [
+        {
+            "asset": "ea3dabc50024001620323b985e686a4060f8d1889c78c89dfe00868047656e41727430333536",
+            "quantity": null,
+            "policy_id": "ea3dabc50024001620323b985e686a4060f8d1889c78c89dfe008680",
+            "asset_name": "47656e41727430333536",
+            "onchain_metadata": {
+                "id": 356,
+                "name": "GenArt Collection 0 #0356",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmZtDBq48PWCejQnGpQHZGCbQYdriJH2RuYCrRB9t4k67V",
+                        "name": "GenArt Collection 0 #0356",
+                        "mediaType": "image\/svg+xml"
+                    }
+                ],
+                "image": "ipfs:\/\/QmbEdMeSwizvbuhEXQxnoSg4p1eGAgCnmJJBQsez3XCt35",
+                "twitter": "https:\/\/twitter.com\/GenArtCardano",
+                "mediaType": "image\/png",
+                "counter box": "344",
+                "counter color": "4",
+                "close color name": [
+                    "goldenrod",
+                    "palegoldenrod",
+                    "goldenrod",
+                    "mediumvioletred"
+                ]
+            }
+        },
+        {
+            "asset": "ea3dabc50024001620323b985e686a4060f8d1889c78c89dfe00868047656e41727430343532",
+            "quantity": null,
+            "policy_id": "ea3dabc50024001620323b985e686a4060f8d1889c78c89dfe008680",
+            "asset_name": "47656e41727430343532",
+            "onchain_metadata": {
+                "id": 452,
+                "name": "GenArt Collection 0 #0452",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmVN7sZ8vfZYN8dJR3v6WmcZsYdXrCtYLCUEdptS8zGkqa",
+                        "name": "GenArt Collection 0 #0452",
+                        "mediaType": "image\/svg+xml"
+                    }
+                ],
+                "image": "ipfs:\/\/QmUU2NwEVqSy21js5kfotJtEYUUVBgvpd71cyq6b7GBnqQ",
+                "twitter": "https:\/\/twitter.com\/GenArtCardano",
+                "mediaType": "image\/png",
+                "counter box": "337",
+                "counter color": "9",
+                "close color name": [
+                    "mediumaquamarine",
+                    "khaki",
+                    "lightgoldenrodyellow",
+                    "darkslategrey",
+                    "khaki",
+                    "indianred",
+                    "darkslategrey",
+                    "slategrey",
+                    "indianred"
+                ]
+            }
+        }
+    ]
+}

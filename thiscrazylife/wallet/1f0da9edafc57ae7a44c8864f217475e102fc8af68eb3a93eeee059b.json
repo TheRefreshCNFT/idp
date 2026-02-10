@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933660,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "1f0da9edafc57ae7a44c8864f217475e102fc8af68eb3a93eeee059b"
+    },
+    "assets_cache": [
+        {
+            "asset": "1f0da9edafc57ae7a44c8864f217475e102fc8af68eb3a93eeee059b484f534b594d494e544b4559",
+            "quantity": null,
+            "policy_id": "1f0da9edafc57ae7a44c8864f217475e102fc8af68eb3a93eeee059b",
+            "asset_name": "484f534b594d494e544b4559",
+            "onchain_metadata": {
+                "URL": "https:\/\/hoskynft.com",
+                "NAME": "HOSKY NFT FREE MINT KEY",
+                "name": "HOSKY NFT FREE MINT KEY",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmZvhhC8cBABdDyK1GkVJA6opmt56Y8zi6mCyVirkU5Ysf",
+                        "name": "HOSKYMINTKEY",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmZvhhC8cBABdDyK1GkVJA6opmt56Y8zi6mCyVirkU5Ysf",
+                "symbol": "HOSKYMINTKEY",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 114587498
+                },
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "Description": "HOSKY NFT FREE MINT KEY. URL: https:\/\/hoskynft.com",
+                "description": "HOSKY NFT FREE MINT KEY. URL: https:\/\/hoskynft.com",
+                "totalSupply": 100000000000
+            }
+        }
+    ]
+}

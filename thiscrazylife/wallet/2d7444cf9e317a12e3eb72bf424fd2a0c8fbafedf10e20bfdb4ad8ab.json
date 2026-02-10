@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933829,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "2d7444cf9e317a12e3eb72bf424fd2a0c8fbafedf10e20bfdb4ad8ab"
+    },
+    "assets_cache": [
+        {
+            "asset": "2d7444cf9e317a12e3eb72bf424fd2a0c8fbafedf10e20bfdb4ad8ab434845444441",
+            "quantity": null,
+            "policy_id": "2d7444cf9e317a12e3eb72bf424fd2a0c8fbafedf10e20bfdb4ad8ab",
+            "asset_name": "434845444441",
+            "onchain_metadata": {
+                "name": "CHEDDA",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmPPfLBuSDmxrtXKNehrQ982ATpgUCDWrn4HpzxWjGHdcZ",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmZnGgonUNW67NKx5DBUw4WNeot7mv6VojtYNnAphSq1wX",
+                        "name": "CHEDDA (All Up In My Wallet)",
+                        "artist": "FlatDarkEarther",
+                        "twitter": "https:\/\/twitter.com\/FlatDarkEarther",
+                        "mediaType": "audio\/mp3"
+                    }
+                ],
+                "image": "ipfs:\/\/QmSJr34yv2nMeTogY7BvhU8Thx9ZxYXJq7Yi8SguxgZRBL",
+                "social": {
+                    "twitter": "https:\/\/twitter.com\/CBB_CNFT",
+                    "website": "https:\/\/cbbcnft.com"
+                },
+                "audioBy": {
+                    "artist": "FlatDarkEarther",
+                    "twitter": "https:\/\/twitter.com\/FlatDarkEarther"
+                },
+                "mediaType": "image\/png",
+                "collection": "Crypto Baller Bots",
+                "Visit Our Website": "https:\/\/cbbnft.com"
+            }
+        }
+    ]
+}

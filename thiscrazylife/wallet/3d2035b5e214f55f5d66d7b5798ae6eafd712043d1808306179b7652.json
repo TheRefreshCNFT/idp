@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933835,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "3d2035b5e214f55f5d66d7b5798ae6eafd712043d1808306179b7652"
+    },
+    "assets_cache": [
+        {
+            "asset": "3d2035b5e214f55f5d66d7b5798ae6eafd712043d1808306179b76524c6f74746572795469636b65743239353930",
+            "quantity": null,
+            "policy_id": "3d2035b5e214f55f5d66d7b5798ae6eafd712043d1808306179b7652",
+            "asset_name": "4c6f74746572795469636b65743239353930",
+            "onchain_metadata": {
+                "name": "Lottery Ticket #29590",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmbhiAbsrBDmfZg6wpTPnbY4nmwuE973yk7HahdNvibEoM",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmbhiAbsrBDmfZg6wpTPnbY4nmwuE973yk7HahdNvibEoM",
+                "website": "https:\/\/www.lovelaceclub.io\/",
+                "mediaType": "image\/png",
+                "attributes": {
+                    "Project": "Lovelace Lottery Club",
+                    "Alloted Numbers": "#925608"
+                },
+                "description": [
+                    "The Lovelace lottery",
+                    "The lovelace lottery is the first on-chain lottery on cardano!",
+                    "22,222+ Ada in prizes."
+                ]
+            }
+        }
+    ]
+}

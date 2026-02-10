@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933704,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "e9c28a71273f825b13f38244ccf1fea97c4025813610d01a7c5d681f"
+    },
+    "assets_cache": [
+        {
+            "asset": "e9c28a71273f825b13f38244ccf1fea97c4025813610d01a7c5d681f436861726c7a20546f6b656e",
+            "quantity": null,
+            "policy_id": "e9c28a71273f825b13f38244ccf1fea97c4025813610d01a7c5d681f",
+            "asset_name": "436861726c7a20546f6b656e",
+            "onchain_metadata": {
+                "name": "Charlz Token",
+                "image": "ipfs:\/\/QmeDi3J1exQYnGAuwZv7b6sAuDBAo2hYdAMM1KGgS7KFa3",
+                "symbol": "CHARLZ",
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "description": "$Charlz is bringing MemeFi to Cardano.",
+                "totalSupply": 100000000000000
+            }
+        }
+    ]
+}

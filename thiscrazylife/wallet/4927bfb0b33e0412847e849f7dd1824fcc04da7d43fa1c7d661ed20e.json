@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933840,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "4927bfb0b33e0412847e849f7dd1824fcc04da7d43fa1c7d661ed20e"
+    },
+    "assets_cache": [
+        {
+            "asset": "4927bfb0b33e0412847e849f7dd1824fcc04da7d43fa1c7d661ed20e526f62696e4a616d48657368656174696e6775703035",
+            "quantity": null,
+            "policy_id": "4927bfb0b33e0412847e849f7dd1824fcc04da7d43fa1c7d661ed20e",
+            "asset_name": "526f62696e4a616d48657368656174696e6775703035",
+            "onchain_metadata": {
+                "id": "5 of 40",
+                "name": "He's heating up! [05]",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmaMmMR1behrTX4L9BfE71WUqMpaJzNjkmWzyWq8Ur3QSN",
+                        "name": "He's heating up! [05]",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmZeKYRoh8ax47KuG2p7g3V7upf3ZjJZ8nth8kn1jmkHRw",
+                "Artist": "Fonxi",
+                "Rarity": "Common (40 of 60)",
+                "Creator": "Cardano Robin",
+                "Discord": "https:\/\/discord.gg\/AkueMuNEvn",
+                "Twitter": "https:\/\/twitter.com\/Cardano_Robin",
+                "Promoting": "https:\/\/twitter.com\/ADA__JAM",
+                "copyright": "Copyright 2021 Cardano Robin",
+                "mediaType": "image\/gif",
+                "Collection": "Robin Promo"
+            }
+        },
+        {
+            "asset": "4927bfb0b33e0412847e849f7dd1824fcc04da7d43fa1c7d661ed20e526f62696e4a616d4865736f6e666972653135",
+            "quantity": null,
+            "policy_id": "4927bfb0b33e0412847e849f7dd1824fcc04da7d43fa1c7d661ed20e",
+            "asset_name": "526f62696e4a616d4865736f6e666972653135",
+            "onchain_metadata": {
+                "id": "15 of 20",
+                "name": "He's on fire! [15]",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmVNk8eF5HcDrnPHpwvFNt3TFUZSTcE29fU4SDttzg7JXg",
+                        "name": "He's on fire! [15]",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/Qmct7xMP2anrDFVXFCUxoPE1Cs7u3LrVBcQmaC9KAMttc6",
+                "Artist": "Fonxi",
+                "Rarity": "Uncommon (20 of 60)",
+                "Creator": "Cardano Robin",
+                "Discord": "https:\/\/discord.gg\/AkueMuNEvn",
+                "Twitter": "https:\/\/twitter.com\/Cardano_Robin",
+                "Promoting": "https:\/\/twitter.com\/ADA__JAM",
+                "copyright": "Copyright 2021 Cardano Robin",
+                "mediaType": "image\/gif",
+                "Collection": "Robin Promo"
+            }
+        }
+    ]
+}

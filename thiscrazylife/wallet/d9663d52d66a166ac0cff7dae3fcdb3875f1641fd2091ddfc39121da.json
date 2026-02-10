@@ -1,0 +1,123 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933788,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "d9663d52d66a166ac0cff7dae3fcdb3875f1641fd2091ddfc39121da"
+    },
+    "assets_cache": [
+        {
+            "asset": "d9663d52d66a166ac0cff7dae3fcdb3875f1641fd2091ddfc39121da4372617a795061747465726e7a556b7261696e65",
+            "quantity": null,
+            "policy_id": "d9663d52d66a166ac0cff7dae3fcdb3875f1641fd2091ddfc39121da",
+            "asset_name": "4372617a795061747465726e7a556b7261696e65",
+            "onchain_metadata": {
+                "HTML": [
+                    "#0058B4",
+                    "#000000",
+                    "#F7CE00"
+                ],
+                "name": "Crazy Patternz Ukraine",
+                "files": [
+                    {
+                        "src": [
+                            "data:text\/html;base64,PCFET0NUWVBFIGh0bWw+PGh0bWw+PGhlYWQ+PHN0eW",
+                            "xlPmJvZHksICNteURpdnttYXJnaW46IDA7b3ZlcmZsb3c6IGhpZGRlbjt9I215RG",
+                            "l2e3dpZHRoOiA3NSU7fWNlbnRlcntwb3NpdGlvbjogYWJzb2x1dGU7IHRvcDogNT",
+                            "AlOyBsZWZ0OiA1MCU7IHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpOy",
+                            "BvcGFjaXR5OiAwLjU7fTwvc3R5bGU+PC9oZWFkPjxib2R5PjxkaXYgaWQ9Im1haW",
+                            "4iPjwvZGl2PjxzY3JpcHQ+bGV0IHQ9TWF0aC5yYW5kb20oKTwuNT8xOmkoMSw1KT",
+                            "tmdW5jdGlvbiBlKCl7QXJyYXkuZnJvbShkb2N1bWVudC5nZXRFbGVtZW50c0J5VG",
+                            "FnTmFtZSgiY2VudGVyIikpLmZvckVhY2godD0+dC5yZW1vdmUoKSk7Zm9yKGxldC",
+                            "BlPTA7ZTx0O2UrKyluKCl9ZnVuY3Rpb24gbigpe3ZhciB0PWRvY3VtZW50LmdldE",
+                            "VsZW1lbnRCeUlkKCJtYWluIiksZT1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCJjZW",
+                            "50ZXIiKSxuPWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoImNhbnZhcyIpO24uc2V0QX",
+                            "R0cmlidXRlKCJpZCIsIm15RGl2Iik7bGV0IGE9TWF0aC5taW4od2luZG93Lmlubm",
+                            "VyV2lkdGgsd2luZG93LmlubmVySGVpZ2h0KTtuLnN0eWxlLndpZHRoPWErInB4Ii",
+                            "xuLnN0eWxlLmhlaWdodD1hKyJweCIsbi5zZXRBdHRyaWJ1dGUoIndpZHRoIixhKy",
+                            "JweCIpLG4uc2V0QXR0cmlidXRlKCJoZWlnaHQiLGErInB4IiksZS5hcHBlbmRDaG",
+                            "lsZChuKSx0LmFwcGVuZENoaWxkKGUpLGQobil9ZSgpO3ZhciBhPWRvY3VtZW50Lm",
+                            "dldEVsZW1lbnRCeUlkKCJteURpdiIpLHI9YS5nZXRDb250ZXh0KCIyZCIpO2Z1bm",
+                            "N0aW9uIGkodCxlKXtyZXR1cm4gTWF0aC5yYW5kb20oKSooZS10KSt0fWZ1bmN0aW",
+                            "9uIG8oKXtyZXR1cm4iIyIrKDE2Nzc3MjE1Kk1hdGgucmFuZG9tKCk8PDApLnRvU3",
+                            "RyaW5nKDE2KS5wYWRTdGFydCg2LCIwIil9ZnVuY3Rpb24gZChlKXt2YXIgbj0iIz",
+                            "AwNThCNCIsYT0iIzAwMDAwMCIscj1pKDUsNjApKyIlIixkPWkoNSw2MCkrIiUiLG",
+                            "M9TWF0aC5yYW5kb20oKTwuNSYmdD4yPzEwMCpNYXRoLnBvdygyLE1hdGguZmxvb3",
+                            "IoaSgwLDQpKSk6MTAwL01hdGgucG93KDIsTWF0aC5mbG9vcihpKDAsNSkpKSxsPS",
+                            "JyZXBlYXRpbmctcmFkaWFsLWdyYWRpZW50KCAjRjdDRTAwLCAiK24rIiAiK2QrIi",
+                            "wgIithKyIgIityKyIpIixtPWkoMC43NSwxKTtlLnN0eWxlLmJhY2tncm91bmQ9bC",
+                            "xlLnN0eWxlLmJhY2tncm91bmRTaXplPWAke2N9JSAke2N9JWAsZS5zdHlsZS5vcG",
+                            "FjaXR5PW19dmFyIGM9c2V0SW50ZXJ2YWwoZSwxZTQpO2RvY3VtZW50LmdldEVsZW",
+                            "1lbnRCeUlkKCJtYWluIikuYWRkRXZlbnRMaXN0ZW5lcigiY2xpY2siLCgpPT5sb2",
+                            "NhdGlvbi5yZWxvYWQoKSwhMSk7IDwvc2NyaXB0PjwvYm9keT48L2h0bWw+DQo="
+                        ],
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": [
+                    "data:image\/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz",
+                    "0idXRmLTgiPz4KPHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDUwMCIgeG1sbnM9Imh0dH",
+                    "A6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczpieD0iaHR0cHM6Ly9ib3h5LX",
+                    "N2Zy5jb20iPgogIDxjaXJjbGUgc3R5bGU9InN0cm9rZTogcmdiKDAsIDAsIDApOy",
+                    "BzdHJva2Utd2lkdGg6IDEuNzgyNTJweDsgZmlsbDogcmdiKDAsIDg4LCAxODApOy",
+                    "IgdHJhbnNmb3JtPSJtYXRyaXgoMi40Mjg5MjUsIDAsIDAsIDIuNDE5NTIzLCAtNT",
+                    "kzLjEzNzg3OCwgLTY1OC4yNjQ4OTMpIiBjeD0iMzQ2LjgiIGN5PSIzNzUiIHI9Ij",
+                    "EwMC40Ii8+CiAgPGNpcmNsZSBzdHlsZT0ic3Ryb2tlOiByZ2IoMCwgMCwgMCk7IH",
+                    "N0cm9rZS13aWR0aDogMC45OTc2MTVweDsgZmlsbDogcmdiKDI0NywgMjA2LCAwKT",
+                    "siIHRyYW5zZm9ybT0ibWF0cml4KDQuMzQ2ODQ2LCAwLCAwLCA0LjMxNjE2NywgLT",
+                    "EzMTEuMTgyOTgzLCAtMTM5Ny42NjkxODkpIiBjeD0iMzU5LjIiIGN5PSIzODIuMi",
+                    "Igcj0iNTAuNCIvPgogIDxjaXJjbGUgc3R5bGU9InN0cm9rZTogcmdiKDAsIDAsID",
+                    "ApOyBzdHJva2Utd2lkdGg6IDEuMzg5NDNweDsgZmlsbDogcmdiKDAsIDg4LCAxOD",
+                    "ApOyIgdHJhbnNmb3JtPSJtYXRyaXgoMy4xMjU0OTIsIDAsIDAsIDMuMDk0NTE5LC",
+                    "AtODM3LjcyNDk3NiwgLTkyOS4yNTE2NDgpIiBjeD0iMzQ4LjQiIGN5PSIzODEuNC",
+                    "Igcj0iNjIuOCIvPgogIDxjaXJjbGUgc3R5bGU9InN0cm9rZTogcmdiKDAsIDAsID",
+                    "ApOyBzdHJva2Utd2lkdGg6IDEuNTgwNThweDsgZmlsbDogcmdiKDI0NywgMjA2LC",
+                    "AwKTsiIHRyYW5zZm9ybT0ibWF0cml4KDIuNzYyMzM3LCAwLjI1NTg0MSwgLTAuMz",
+                    "UzMTczLCAyLjY3MjAxMywgLTU3Ni4xOTg0ODYsIC04NTYuMDk5OTE1KSIgY3g9Ij",
+                    "M0OC40IiBjeT0iMzgxLjQiIHI9IjYyLjgiIGJ4Om9yaWdpbj0iMC41MzUgMC41Mi",
+                    "IvPgogIDxjaXJjbGUgc3R5bGU9InN0cm9rZTogcmdiKDAsIDAsIDApOyBzdHJva2",
+                    "Utd2lkdGg6IDEuMzk0NDFweDsgZmlsbDogcmdiKDAsIDg4LCAxODApOyIgdHJhbn",
+                    "Nmb3JtPSJtYXRyaXgoMy4xODA0NzcsIDAsIDAsIDMuMDE2MjU4LCAtODUxLjY0ND",
+                    "Q3LCAtOTEwLjQ5NDk5NSkiIGN4PSIzNDgiIGN5PSIzODUuNCIgcj0iNDgiLz4KIC",
+                    "A8Y2lyY2xlIHN0eWxlPSJzdHJva2U6IHJnYigwLCAwLCAwKTsgc3Ryb2tlLXdpZH",
+                    "RoOiAxLjQzNTI3cHg7IGZpbGw6IHJnYigyNDcsIDIwNiwgMCk7IiB0cmFuc2Zvcm",
+                    "09Im1hdHJpeCgzLjEwOTU1NiwgMCwgMCwgMi45MTA0NTcsIC04MzAuOTQ4OTE0LC",
+                    "AtODYyLjczMzY0MykiIGN4PSIzNDkuNiIgY3k9IjM4MyIgcj0iNDIuNCIvPgogID",
+                    "xjaXJjbGUgc3R5bGU9InN0cm9rZTogcmdiKDAsIDAsIDApOyBzdHJva2Utd2lkdG",
+                    "g6IDEuNDQ1NThweDsgZmlsbDogcmdiKDAsIDg4LCAxODApOyIgdHJhbnNmb3JtPS",
+                    "JtYXRyaXgoMy4xMjQ4MDYsIDAsIDAsIDIuODUxNjc3LCAtODM1LjI4ODE0NywgLT",
+                    "g0My44MTEyNzkpIiBjeD0iMzQ5LjYiIGN5PSIzODQuNiIgcj0iMzYuOCIvPgogID",
+                    "xjaXJjbGUgc3R5bGU9InN0cm9rZTogcmdiKDAsIDAsIDApOyBzdHJva2Utd2lkdG",
+                    "g6IDEuMjQyMTdweDsgZmlsbDogcmdiKDI0NywgMjA2LCAwKTsiIGN4PSIyMjYuNT",
+                    "U3IiBjeT0iMjQ4Ljc0MSIgcj0iMjYuMTE3IiB0cmFuc2Zvcm09Im1hdHJpeCgzLj",
+                    "Y0Mzg0NiwgMCwgMCwgMy4zMTEyMjYsIC01NjguMzk2NzI5LCAtNTcxLjY2ODQ1Ny",
+                    "kiLz4KICA8Y2lyY2xlIHN0eWxlPSJzdHJva2U6IHJnYigwLCAwLCAwKTsgc3Ryb2",
+                    "tlLXdpZHRoOiAxLjQwMzMzcHg7IGZpbGw6IHJnYigwLCA4OCwgMTgwKTsiIHRyYW",
+                    "5zZm9ybT0ibWF0cml4KDMuMTkyMzc3LCAwLCAwLCAyLjk2NDQ0NiwgLTg2MC4xOD",
+                    "g0NzcsIC04NzYuNTExMjMpIiBjeD0iMzUwIiBjeT0iMzgxIiByPSIyMy42Ii8+Ci",
+                    "AgPGNpcmNsZSBzdHlsZT0ic3Ryb2tlOiByZ2IoMCwgMCwgMCk7IHN0cm9rZS13aW",
+                    "R0aDogMS4zMzk5OXB4OyBmaWxsOiByZ2IoMjQ3LCAyMDYsIDApOyIgdHJhbnNmb3",
+                    "JtPSJtYXRyaXgoMy4yODUxNzgsIDAsIDAsIDMuMTYzNjA1LCAtODk0LjMwNTk2OS",
+                    "wgLTk0NC43OTg4ODkpIiBjeD0iMzUwLjgiIGN5PSIzNzguNiIgcj0iMTcuMiIvPg",
+                    "ogIDxjaXJjbGUgc3R5bGU9InN0cm9rZTogcmdiKDAsIDAsIDApOyBzdHJva2Utd2",
+                    "lkdGg6IDEuNDg5MzZweDsgZmlsbDogcmdiKDAsIDg4LCAxODApOyIgdHJhbnNmb3",
+                    "JtPSJtYXRyaXgoMy4wMDM5OSwgMCwgMCwgMi43OTcyNjMsIC04MDEuNDYyOTUyLC",
+                    "AtODAzLjg2MzU4NikiIGN4PSIzNTIuNCIgY3k9IjM3Ny44IiByPSIxMy4yIi8+Cj",
+                    "wvc3ZnPg=="
+                ],
+                "Layers": "Type 2",
+                "Rarity": "1:35",
+                "artist": "ThisCrazyLife",
+                "Animated": "No",
+                "mediaType": "image\/svg+xml",
+                "check me out": {
+                    "Discord": "https:\/\/discord.gg\/Ya4XvQ2ey6",
+                    "Twitter": "https:\/\/twitter.com\/_ThisCr8zyLife_",
+                    "Website": "https:\/\/thiscrazylife.io"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933617,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "de53e935d272dd079f3e785ee0f3aa21db5579d5399a3b5d0ce3485c"
+    },
+    "assets_cache": [
+        {
+            "asset": "de53e935d272dd079f3e785ee0f3aa21db5579d5399a3b5d0ce3485c4241425944555833343532",
+            "quantity": null,
+            "policy_id": "de53e935d272dd079f3e785ee0f3aa21db5579d5399a3b5d0ce3485c",
+            "asset_name": "4241425944555833343532",
+            "onchain_metadata": {
+                "name": "Baby Dux #3452",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmV1b3EGiZcEyE1E9xtZHJ9wheG5Hi3BA17DtZ6GwrkQX8",
+                        "name": "Baby Dux #3452",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmV1b3EGiZcEyE1E9xtZHJ9wheG5Hi3BA17DtZ6GwrkQX8",
+                "version": "1.0",
+                "mediaType": "image\/png",
+                "attributes": {
+                    "Arms": "Ghettoblaster",
+                    "Beak": "Cigar",
+                    "Body": "White",
+                    "Eyes": "Tears",
+                    "Head": "None",
+                    "Legs": "Sneakers",
+                    "Clothing": "Accident T",
+                    "Background": "Yellow"
+                },
+                "collectionName": "TheBabyDux"
+            }
+        }
+    ]
+}

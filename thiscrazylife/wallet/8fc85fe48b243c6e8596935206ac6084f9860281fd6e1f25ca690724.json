@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933777,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "8fc85fe48b243c6e8596935206ac6084f9860281fd6e1f25ca690724"
+    },
+    "assets_cache": [
+        {
+            "asset": "8fc85fe48b243c6e8596935206ac6084f9860281fd6e1f25ca6907244f75726f626f726f73506170657273",
+            "quantity": null,
+            "policy_id": "8fc85fe48b243c6e8596935206ac6084f9860281fd6e1f25ca690724",
+            "asset_name": "4f75726f626f726f73506170657273",
+            "onchain_metadata": {
+                "name": "The Ouroboros Papers",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmWCAHyi35SeXH2E4e8jRVk7yNse2x6D14uPfABnhagbvN",
+                        "name": "Ouroboros: Provably Secure Blockchain Protocol",
+                        "mediaType": "application\/pdf"
+                    },
+                    {
+                        "src": "ipfs:\/\/Qmb5xYqmq9FWtaKK7Q6eFhpGgRAcvJrnNfGXa599Z1gcyz",
+                        "name": "Ouroboros Praos: adaptively-secure, semi-synchronous",
+                        "mediaType": "application\/pdf"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmURijwPszK4wHEiRFS4E6Cy2fiof789St2NTwPuCgjX86",
+                        "name": "Ouroboros Genesis: Composable Dynamic Availability",
+                        "mediaType": "application\/pdf"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmNzWvUCanpJPtTxeunPPRioUo5ZXqHSZkcPVNFQRpYp9V",
+                        "name": "Ouroboros-BFT: Byzantine Fault Tolerant",
+                        "mediaType": "application\/pdf"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmW4215jnbrqpw8SoiZm1fceE54FCwU2S2iWhYQxrjMxMH",
+                        "name": "Ouroboros Crypsinous: Privacy-Preserving Proof",
+                        "mediaType": "application\/pdf"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmZbKpx3kRCrauekm1djQJRVSGTgkjpXqs97JX9PFPTB3b",
+                        "name": "Ouroboros Chronos: Permissionless Clock Synchronization",
+                        "mediaType": "application\/pdf"
+                    }
+                ],
+                "image": "ipfs:\/\/Qmecs2TyuBreqLhyBUTnUTkN3PgwoETSexQ4Qw533ht2Cj",
+                "mediaType": "image\/jpeg"
+            }
+        }
+    ]
+}

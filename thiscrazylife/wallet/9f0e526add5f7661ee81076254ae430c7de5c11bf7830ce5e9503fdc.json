@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933840,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "9f0e526add5f7661ee81076254ae430c7de5c11bf7830ce5e9503fdc"
+    },
+    "assets_cache": [
+        {
+            "asset": "9f0e526add5f7661ee81076254ae430c7de5c11bf7830ce5e9503fdc53544b53",
+            "quantity": null,
+            "policy_id": "9f0e526add5f7661ee81076254ae430c7de5c11bf7830ce5e9503fdc",
+            "asset_name": "53544b53",
+            "onchain_metadata": {
+                "url": "https:\/\/cardastacks.com\/",
+                "name": "CardaStacks Token",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmNtY2ueBVPvF3oRTfskRJDxQW4tJF4e16dEokEJnJoiYZ",
+                        "name": "CardaStacks Token",
+                        "mediaType": "image\/gif"
+                    }
+                ],
+                "image": "ipfs:\/\/QmUoHeJSYnZ1xDBRktBEYBZcA1ynJVz8PEGCpXG9CPUUer",
+                "ticker": "STKS",
+                "decimals": "0",
+                "mediaType": "image\/png",
+                "description": "$STKS token powers the CardaStacks economy"
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933802,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "90517502195d747168d10a52e41ef6eb5558a3662965add4d50dc938"
+    },
+    "assets_cache": [
+        {
+            "asset": "90517502195d747168d10a52e41ef6eb5558a3662965add4d50dc9384e6f7465626f6f6b732057686974657061706572",
+            "quantity": null,
+            "policy_id": "90517502195d747168d10a52e41ef6eb5558a3662965add4d50dc938",
+            "asset_name": "4e6f7465626f6f6b732057686974657061706572",
+            "onchain_metadata": {
+                "hue.": [
+                    "Each Notebook in The Notebooks collection",
+                    "is distinguished by its unique,",
+                    "and individual, Hue."
+                ],
+                "name": "The Notebooks. \"Whitepaper\" (2022)",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/Qmama9AMcsUVvgd51XH12uugDN3ACe8cNgXG88SMi6H1qn",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmeRecBBuFmhNhdQq38GVuW3sN2cLfGT9JnDhEmukSiciR",
+                        "mediaType": "image\/"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmeCXeUme1Q1nfQyu7At96DpZahJ4svtBjAbVXjEjoh2bN",
+                        "name": "Notebook 00",
+                        "mediaType": "image\/"
+                    }
+                ],
+                "image": "ipfs:\/\/QmeCXeUme1Q1nfQyu7At96DpZahJ4svtBjAbVXjEjoh2bN",
+                "size.": [
+                    "Each Notebook in The Notebooks collection",
+                    "is has one of four distinct sizes.",
+                    "Sizes, furthermore, may be read in",
+                    "the Metric or the Imperial Systems.",
+                    "In some rare instances,",
+                    "a Notebook may be both."
+                ],
+                "type.": [
+                    "Based on the elements of Size,",
+                    "each Notebook in The Notebooks collection",
+                    "is able to be distinguished with",
+                    "one of four special Types:",
+                    "_College-Ruled Notebook",
+                    "_Passport-Sized Notebook",
+                    "_Pocket-Sized Notebook",
+                    "_Journal-Sized Notebook"
+                ],
+                "pages.": [
+                    "Each Notebook in The Notebooks collection",
+                    "is composed of a specific number of pages,",
+                    "also known as: The Pagination."
+                ],
+                "wisdom": [
+                    "\"Be Your Own Author\"",
+                    "\u2014 Starchtoshi Nakamoto"
+                ],
+                "Project": "The Notebooks.",
+                "binding": [
+                    "There are four different types of Binding",
+                    "in The Notebooks collection:",
+                    "_unBound",
+                    "_Noodlebound",
+                    "_Fractalbound",
+                    "_Bubblebound"
+                ],
+                "utility": "What's inside is: Up to you.",
+                "mediaType": "image\/jpeg",
+                "veritas Immutabilis": [
+                    "The source code for every Notebook",
+                    "derives from a single on-chain asset",
+                    "living on Cardano, named TheRefre5her.",
+                    "Therefore, the formula for your",
+                    "individual Notebook will always",
+                    "be preserved on Cardano,",
+                    "even if IPFS ceases to exist."
+                ],
+                "White Paper Synopsis": "A comprehensive schematic for The Notebooks."
+            }
+        }
+    ]
+}

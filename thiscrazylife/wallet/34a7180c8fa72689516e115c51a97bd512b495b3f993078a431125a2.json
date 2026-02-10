@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933829,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "34a7180c8fa72689516e115c51a97bd512b495b3f993078a431125a2"
+    },
+    "assets_cache": [
+        {
+            "asset": "34a7180c8fa72689516e115c51a97bd512b495b3f993078a431125a254686544656174686f66417274303137",
+            "quantity": null,
+            "policy_id": "34a7180c8fa72689516e115c51a97bd512b495b3f993078a431125a2",
+            "asset_name": "54686544656174686f66417274303137",
+            "onchain_metadata": {
+                "name": "The Death of Art - 017",
+                "image": "ipfs:\/\/QmT8MXGhU3D39uVY97hqcgTbFELKvaUrz77nrwiDxG7JD8",
+                "artist": "SkullTakes x Midjourney AI",
+                "twitter": {
+                    "Skulltakes": "https:\/\/twitter.com\/SkullTakes"
+                },
+                "website": {
+                    "skulltakes.io": "https:\/\/sites.google.com\/view\/skulltakes\/home"
+                },
+                "copyright": "CC BY 4.0",
+                "mediaType": "image\/png",
+                "description": "Exploring artifice, artifact, and the fear of oblivion."
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933835,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "3d250a78df7ad14e9472d9b63159ef2d099740c593c0ba53059f144a"
+    },
+    "assets_cache": [
+        {
+            "asset": "3d250a78df7ad14e9472d9b63159ef2d099740c593c0ba53059f144a456e6c69676874656e6d696e743039363033",
+            "quantity": null,
+            "policy_id": "3d250a78df7ad14e9472d9b63159ef2d099740c593c0ba53059f144a",
+            "asset_name": "456e6c69676874656e6d696e743039363033",
+            "onchain_metadata": {
+                "name": "Enlightenmint #09603",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/Qme9eADuPmtothhXmVJCwykgNznvzJZdB1fi7gyd4j38K5",
+                        "name": "Enlightenmint #09603",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmRE86JSNnZwjfQRGzpJuJBj9DVEY93ZdktZFgfSupEBTA",
+                "Rarity:": "Common - Fuck You",
+                "series:": "Enlightenmint Token",
+                "Message:": "Charles would not approve of this.",
+                "discord:": "https:\/\/discord.gg\/qT3jMxjdvc",
+                "twitter:": "https:\/\/twitter.com\/MyEnlightenmint",
+                "website:": "https:\/\/enlightenmint.io",
+                "mediaType": "image\/gif",
+                "A path to Enlightenmint awaits.": "Send to a friend who needs to hear it or keep as a reminder."
+            }
+        }
+    ]
+}

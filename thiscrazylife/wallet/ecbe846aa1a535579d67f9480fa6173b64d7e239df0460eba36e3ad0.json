@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933788,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "ecbe846aa1a535579d67f9480fa6173b64d7e239df0460eba36e3ad0"
+    },
+    "assets_cache": [
+        {
+            "asset": "ecbe846aa1a535579d67f9480fa6173b64d7e239df0460eba36e3ad00014df1053617475726e",
+            "quantity": null,
+            "policy_id": "ecbe846aa1a535579d67f9480fa6173b64d7e239df0460eba36e3ad0",
+            "asset_name": "0014df1053617475726e",
+            "onchain_metadata": {
+                "url": "ipfs:\/\/Qmc2RWQxCmAaXn7YGZsXCcs2J5uwW8qQwYzmjh1gUiZBWA",
+                "logo": "ipfs:\/\/Qmc2RWQxCmAaXn7YGZsXCcs2J5uwW8qQwYzmjh1gUiZBWA",
+                "name": "Saturn",
+                "ticker": "SATURN",
+                "decimals": 6,
+                "mediaType": "49696d6167652f706e67",
+                "description": "Saturn is the governance token for the Saturn Swap protocol, a fast and simple decentralized exchange on the Cardano blockchain. https:\/\/saturnswap.io\/"
+            }
+        }
+    ]
+}

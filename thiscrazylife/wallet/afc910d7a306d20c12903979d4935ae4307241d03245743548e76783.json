@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933611,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "afc910d7a306d20c12903979d4935ae4307241d03245743548e76783"
+    },
+    "assets_cache": [
+        {
+            "asset": "afc910d7a306d20c12903979d4935ae4307241d03245743548e767834153484942",
+            "quantity": null,
+            "policy_id": "afc910d7a306d20c12903979d4935ae4307241d03245743548e76783",
+            "asset_name": "4153484942",
+            "onchain_metadata": {
+                "ticker": "ASHIB"
+            }
+        }
+    ]
+}

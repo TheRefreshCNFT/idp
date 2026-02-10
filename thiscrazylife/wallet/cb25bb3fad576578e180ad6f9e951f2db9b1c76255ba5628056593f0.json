@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933629,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "cb25bb3fad576578e180ad6f9e951f2db9b1c76255ba5628056593f0"
+    },
+    "assets_cache": [
+        {
+            "asset": "cb25bb3fad576578e180ad6f9e951f2db9b1c76255ba5628056593f0535433",
+            "quantity": null,
+            "policy_id": "cb25bb3fad576578e180ad6f9e951f2db9b1c76255ba5628056593f0",
+            "asset_name": "535433",
+            "onchain_metadata": {
+                "id": "1",
+                "name": "Shit Tickets",
+                "nsfw": "False",
+                "image": "ipfs:\/\/QmaV96dFzRmDqUNdbZJKhiCAQHKEf65XnRJnsV4ZkAzLWZ",
+                "rarity": "Mega-Rare",
+                "Version": "Tier 3",
+                "copyright": "Copyright @2021"
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933617,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "e1eff989f232bff227426d7661d8e7439f593d9880387fc951ef9acf"
+    },
+    "assets_cache": [
+        {
+            "asset": "e1eff989f232bff227426d7661d8e7439f593d9880387fc951ef9acf4d616b654e4654734e6f74576172556b7261696e65",
+            "quantity": null,
+            "policy_id": "e1eff989f232bff227426d7661d8e7439f593d9880387fc951ef9acf",
+            "asset_name": "4d616b654e4654734e6f74576172556b7261696e65",
+            "onchain_metadata": {
+                "name": "Make NFTs Not War",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/Qmb3SneA5uBvTyypL31W5ELwU3kfH2v5hECTbjbgSAXxy9"
+                        ],
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/Qmb3SneA5uBvTyypL31W5ELwU3kfH2v5hECTbjbgSAXxy9",
+                "Series": "#8",
+                "artists": "ThisCrazyLife X Kaleido Klara X NOODZ",
+                "Donation": [
+                    "100% of proceeds from this NFT",
+                    "will be donated in their entirety,",
+                    "to UNICEF Ukraine."
+                ],
+                "artists contact": {
+                    "NOODZ": "https:\/\/www.twitter.com\/CardanoNoodz",
+                    "Kaleido Klara": "https:\/\/twitter.com\/KaleidoKlara",
+                    "ThisCrazyLife": "https:\/\/twitter.com\/_ThisCr8zyLife_"
+                },
+                "A Word of Thanks": [
+                    "Thank you very kindly for your support.",
+                    "We wish nothing but love, safety, and healing",
+                    "for anyone and everyone who has been",
+                    "negatively affected by the ongoing crisis."
+                ],
+                "UNICEF in Ukraine": {
+                    "Donate Online": "http:\/\/unicef.org\/ukraineconflict",
+                    "Official Twitter": "https:\/\/twitter.com\/UNICEF_UA"
+                }
+            }
+        }
+    ]
+}

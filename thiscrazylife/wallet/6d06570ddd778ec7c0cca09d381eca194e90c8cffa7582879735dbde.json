@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933623,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "6d06570ddd778ec7c0cca09d381eca194e90c8cffa7582879735dbde"
+    },
+    "assets_cache": [
+        {
+            "asset": "6d06570ddd778ec7c0cca09d381eca194e90c8cffa7582879735dbde584552",
+            "quantity": null,
+            "policy_id": "6d06570ddd778ec7c0cca09d381eca194e90c8cffa7582879735dbde",
+            "asset_name": "584552",
+            "onchain_metadata": {
+                "name": "Xerberus DAO LLC",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmPWx7wFmjo3Zqsiv5V6yB8CegEG8zoadMwyQ9XLJ2fAHV",
+                        "name": "XER",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmPWx7wFmjo3Zqsiv5V6yB8CegEG8zoadMwyQ9XLJ2fAHV",
+                "symbol": "XER",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 139692870
+                },
+                "mediaType": "image\/png",
+                "description": "PoS token of Xerberus DAO LLC",
+                "totalSupply": "1000000000000000"
+            }
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933716,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "5230d16116431597796d250dcd7acf1e3afb717bf66c8108abdc83df"
+    },
+    "assets_cache": [
+        {
+            "asset": "5230d16116431597796d250dcd7acf1e3afb717bf66c8108abdc83df4b6e6974746965537769746368303833",
+            "quantity": null,
+            "policy_id": "5230d16116431597796d250dcd7acf1e3afb717bf66c8108abdc83df",
+            "asset_name": "4b6e6974746965537769746368303833",
+            "onchain_metadata": {
+                "name": "Switch Crunch #083",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmYnzDSwPhr78kwh3vXLeuKo4EmsdWLnZPWVLBAvjWdVPG",
+                        "mediaType": "model\/gltf-binary"
+                    }
+                ],
+                "image": "ipfs:\/\/QmWqejiAaYToedoSQ7iZsVx69DsrTW6nWv8xeXXnzUyJNK",
+                "copyright": "2022 Andrew King. All rights reserved.",
+                "mediaType": "image\/png",
+                "attributes": {
+                    "name": "switch",
+                    "style": "crunch",
+                    "rarity": "75\/250",
+                    "classification": "special"
+                },
+                "collection": "Knitties Season 2",
+                "description": [
+                    "I felt like I was watching a dream I&#39;d never wake up from.",
+                    "Before I knew it, the dream was all over."
+                ]
+            }
+        }
+    ]
+}

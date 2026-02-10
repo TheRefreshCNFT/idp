@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933710,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "4d192b72800649271a7518477333f541facd9b955485600029857ffe"
+    },
+    "assets_cache": [
+        {
+            "asset": "4d192b72800649271a7518477333f541facd9b955485600029857ffe53485f4d6f64756c655f53454747435f345f323731",
+            "quantity": null,
+            "policy_id": "4d192b72800649271a7518477333f541facd9b955485600029857ffe",
+            "asset_name": "53485f4d6f64756c655f53454747435f345f323731",
+            "onchain_metadata": {
+                "Meta": {
+                    "Artwork Copyright": "fredmantel"
+                },
+                "Tier": "4",
+                "name": "Stellar Hood Starbase Module - Space-EGG Cannon",
+                "files": [
+                    {
+                        "src": "bafybeihkmhfkwmfexdfcdhrdqopidve7mw53f35blbosduhype5hv2grxu",
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "QmVSEUVkhDnQKjkqgYqmfzn7TaVGbcawLUmTm9wLameGBq",
+                "Website": "https:\/\/stellarhood.com",
+                "mediaType": "image\/png",
+                "Collection": "Stellar Hood Starbase Modules",
+                "Manufacturer": "THJ Drive Yards",
+                "Tier Distribution": [
+                    "2 % - Tier 5",
+                    "5 % - Tier 4",
+                    "13 % - Tier 3",
+                    "25 % - Tier 2",
+                    "55 % - Tier 1"
+                ],
+                "Starbase Module Parameters": {
+                    "Adds": "Cannon Distance +1",
+                    "Type": "Space-EGG Cannon",
+                    "Unlocks": "Space-EGG Cannon Console",
+                    "Increases": "Max. Space EGG Cannon Tier"
+                },
+                "Manufacturing serial number": "271"
+            }
+        }
+    ]
+}

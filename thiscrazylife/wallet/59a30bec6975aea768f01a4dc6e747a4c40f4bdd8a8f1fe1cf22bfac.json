@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933721,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "59a30bec6975aea768f01a4dc6e747a4c40f4bdd8a8f1fe1cf22bfac"
+    },
+    "assets_cache": [
+        {
+            "asset": "59a30bec6975aea768f01a4dc6e747a4c40f4bdd8a8f1fe1cf22bfac43533233434c4530303334",
+            "quantity": null,
+            "policy_id": "59a30bec6975aea768f01a4dc6e747a4c40f4bdd8a8f1fe1cf22bfac",
+            "asset_name": "43533233434c4530303334",
+            "onchain_metadata": {
+                "City": "Miami",
+                "name": "Cardano Summit 2023 CLE Miami #0034",
+                "files": [
+                    {
+                        "src": "https:\/\/cdn.nucast.events\/hY52rKYwDNN95gm94rVh",
+                        "name": "Cardano Summit 2023 CLE Miami #0034",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/Qmd8Ueby5SS8y5s9wB36HjjxbUWPub1CZgBqk9sDn9nkVf",
+                        "name": "Cardano Summit 2023 CLE Miami #0034",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "https:\/\/cdn.nucast.events\/hY52rKYwDNN95gm94rVh",
+                "website": "https:\/\/summit.cardano.org\/",
+                "mediaType": "image\/png",
+                "Event date": "04.11.2023",
+                "Start time": "11:00",
+                "presented by": {
+                    "NMKR": "https:\/\/nmkr.io\/",
+                    "Nucast": "https:\/\/www.nucast.io\/",
+                    "Cardano Foundation": "https:\/\/cardanofoundation.org\/"
+                },
+                "claim your ticket at": "https:\/\/ticketing.nucast.io\/tickets"
+            }
+        }
+    ]
+}

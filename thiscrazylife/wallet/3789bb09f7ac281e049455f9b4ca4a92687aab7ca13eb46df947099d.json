@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933835,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "3789bb09f7ac281e049455f9b4ca4a92687aab7ca13eb46df947099d"
+    },
+    "assets_cache": [
+        {
+            "asset": "3789bb09f7ac281e049455f9b4ca4a92687aab7ca13eb46df947099d496b6967616934323935",
+            "quantity": null,
+            "policy_id": "3789bb09f7ac281e049455f9b4ca4a92687aab7ca13eb46df947099d",
+            "asset_name": "496b6967616934323935",
+            "onchain_metadata": {
+                "Back": "None",
+                "Eyes": "Light Brown",
+                "Face": "Concerned",
+                "Head": "Brown Ponytail",
+                "Type": "Human",
+                "name": "Ikigai #4295",
+                "image": "ipfs:\/\/QmPyYzpVuhajikNHQeui4CB1uPKrTsma6xHzozZvfpoWYV",
+                "artist": "TETSUO",
+                "Clothes": "Grey Overalls",
+                "Utility": "None",
+                "discord": "https:\/\/discord.gg\/thebookofikigai",
+                "twitter": "https:\/\/twitter.com\/IkigaiCNFT",
+                "Earrings": "None",
+                "Handheld": "Pistol",
+                "mediaType": "image\/png",
+                "Background": "Off White 2",
+                "collection": "The Book of Ikigai"
+            }
+        }
+    ]
+}

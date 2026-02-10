@@ -1,0 +1,52 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933611,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "d00bf75938a6fcc4c37e12c0d168a5eabb8b483fc00404caed30cc8a"
+    },
+    "assets_cache": [
+        {
+            "asset": "d00bf75938a6fcc4c37e12c0d168a5eabb8b483fc00404caed30cc8a417274697374546869734372617a794c696665",
+            "quantity": null,
+            "policy_id": "d00bf75938a6fcc4c37e12c0d168a5eabb8b483fc00404caed30cc8a",
+            "asset_name": "417274697374546869734372617a794c696665",
+            "onchain_metadata": {
+                "name": "Artist - This Crazy Life",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmbSNR79tdn81epp2tQ4fGJDFVFxQCzG1n4f6MzRFqXSgS",
+                        "name": "ArtistThisCrazyLife",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "QmbSNR79tdn81epp2tQ4fGJDFVFxQCzG1n4f6MzRFqXSgS",
+                "mediaType": "image\/png",
+                "description": "Creator of Refresh NFTs. Digital painting by JoLin",
+                "Digital paintin": "Lavendar and Green background"
+            }
+        },
+        {
+            "asset": "d00bf75938a6fcc4c37e12c0d168a5eabb8b483fc00404caed30cc8a546869734372617a794c696665",
+            "quantity": null,
+            "policy_id": "d00bf75938a6fcc4c37e12c0d168a5eabb8b483fc00404caed30cc8a",
+            "asset_name": "546869734372617a794c696665",
+            "onchain_metadata": {
+                "name": "This Crazy Life",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmX2B1pCcHTmnYtVgN9ae6dwnUcH2wcpGcA9nWqXsUKnUz",
+                        "name": "ThisCrazyLife",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "QmX2B1pCcHTmnYtVgN9ae6dwnUcH2wcpGcA9nWqXsUKnUz",
+                "mediaType": "image\/png",
+                "description": "A one year tribute created by Jolin",
+                "Background -Refresh CNFT": "Refresh CNFT color - Swim Shorts"
+            }
+        }
+    ]
+}

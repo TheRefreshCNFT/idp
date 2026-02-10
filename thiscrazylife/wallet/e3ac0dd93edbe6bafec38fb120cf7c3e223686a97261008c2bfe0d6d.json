@@ -1,0 +1,54 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933809,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "e3ac0dd93edbe6bafec38fb120cf7c3e223686a97261008c2bfe0d6d"
+    },
+    "assets_cache": [
+        {
+            "asset": "e3ac0dd93edbe6bafec38fb120cf7c3e223686a97261008c2bfe0d6d43617264616e6f53706163654c3235",
+            "quantity": null,
+            "policy_id": "e3ac0dd93edbe6bafec38fb120cf7c3e223686a97261008c2bfe0d6d",
+            "asset_name": "43617264616e6f53706163654c3235",
+            "onchain_metadata": {
+                "x": "11",
+                "y": "24",
+                "img": "ipfs:\/\/QmegSPCaeSnrnV4R7c4FNFyartRpCzWtm97ETPohmhK9zB",
+                "msg": "Deed to the [11, 24] coordinate on cardanospace.com",
+                "url": "https:\/\/cardanospace.com\/coordinate\/L-25",
+                "name": "Coordinate L-25",
+                "type": "Monochrome nebula",
+                "image": "ipfs:\/\/QmdjWVr6V6Sep62USsTuwsM4knb2inNdmgPg5EMpv2YY9U",
+                "traits": [],
+                "artwork": [
+                    "Monochrome #5",
+                    "Nebula #13"
+                ]
+            }
+        },
+        {
+            "asset": "e3ac0dd93edbe6bafec38fb120cf7c3e223686a97261008c2bfe0d6d43617264616e6f5370616365583639",
+            "quantity": null,
+            "policy_id": "e3ac0dd93edbe6bafec38fb120cf7c3e223686a97261008c2bfe0d6d",
+            "asset_name": "43617264616e6f5370616365583639",
+            "onchain_metadata": {
+                "x": "23",
+                "y": "68",
+                "img": "ipfs:\/\/QmegSPCaeSnrnV4R7c4FNFyartRpCzWtm97ETPohmhK9zB",
+                "msg": "Deed to the [23, 68] coordinate on cardanospace.com",
+                "url": "https:\/\/cardanospace.com\/coordinate\/X-69",
+                "name": "Coordinate X-69",
+                "type": "Chromic nebula",
+                "image": "ipfs:\/\/QmY3ptsxDHuGfz7x5xZYZRzAeYYTZKVYxbrM3x5FCFW9nR",
+                "traits": [],
+                "artwork": [
+                    "Chromic #16",
+                    "Nebula #13"
+                ]
+            }
+        }
+    ]
+}

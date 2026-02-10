@@ -1,0 +1,174 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933704,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "0050382b004772f76425bd83124475749b231d8416037382a84925a9"
+    },
+    "assets_cache": [
+        {
+            "asset": "0050382b004772f76425bd83124475749b231d8416037382a84925a951315265706f727443617264696e5669746174696f6e",
+            "quantity": null,
+            "policy_id": "0050382b004772f76425bd83124475749b231d8416037382a84925a9",
+            "asset_name": "51315265706f727443617264696e5669746174696f6e",
+            "onchain_metadata": {
+                "Date": "01 APR 2022",
+                "name": "Q1 Report Card: inVitation",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmQd5ZrBVCwTfdWoSbY1bJrAvbihMbpYP6HNcDFp4ZjxNf",
+                        "name": "Readings",
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmVzvCpUQKFUp8Vf5ZDuzhJBKHFswi8YLtERYcLGL6DuMs",
+                        "name": "Reviews",
+                        "mediaType": "image\/"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmenTDY7JhDpxxWq1F4jNJa6NqjQdvTyNqJFu4KKELPJi2",
+                        "name": "Announcements",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmegM86DX2AewdxyhwdTuxfWgFkT1qr288yVWryPWu7E6G",
+                        "name": "Timelines",
+                        "mediaType": "image\/"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmZkMVXnfQSow51JfndrQB2kWDGVZJPFgkToMGPcGLGBUh",
+                        "name": "Giveaways",
+                        "mediaType": "image\/"
+                    }
+                ],
+                "image": "ipfs:\/\/QmQd5ZrBVCwTfdWoSbY1bJrAvbihMbpYP6HNcDFp4ZjxNf",
+                "Purpose": "A Peer-2-Peer Review: from Project Inception to Present",
+                "An Event": "THE Q1 REPORT (Card)",
+                "mediaType": "image\/jpeg",
+                "Menu 1: Readings": "Just Chilling: A Thermodynamic Pilot Study",
+                "Menu 4: Timelines": [
+                    "Initatives",
+                    "Events",
+                    "Platforms",
+                    "Partnerships",
+                    "Growth & Development"
+                ],
+                "Menu 5: Giveaways": [
+                    "Abstract Potato",
+                    "ThisCrazyLife",
+                    "Fractal Fuzion",
+                    "ADATOMS",
+                    "NOODZ"
+                ],
+                "creative Developers": "The Alexandria Project",
+                "Menu 3: Announcements": [
+                    "The Alexandria Chronicle",
+                    "Language Refresher",
+                    "Workshop Bundles",
+                    "inFRE5H",
+                    "Book Club"
+                ],
+                "Menu 2: Reviews Part One, web3 CV": [
+                    "Academic Contributions",
+                    "Community Archives",
+                    "Development",
+                    "Historic Archives",
+                    "Media Appearances",
+                    "Project Commissions",
+                    "Podcasts",
+                    "Workshops"
+                ],
+                "Menu 2: Reviews Part Two, Assessment Scale": [
+                    "\ud83d\ude80 OUT OF THIS WORLD",
+                    "\ud83c\udfc6 HAS DISTINCTION",
+                    "\ud83e\udd73 AVERAGE PARTY",
+                    "\ud83d\udcda HIT THE BOOKS",
+                    "\ud83d\udd25 DUMPSTER FIRE"
+                ]
+            }
+        },
+        {
+            "asset": "0050382b004772f76425bd83124475749b231d8416037382a84925a951315265706f727443617264696e5669746174696f6e31",
+            "quantity": null,
+            "policy_id": "0050382b004772f76425bd83124475749b231d8416037382a84925a9",
+            "asset_name": "51315265706f727443617264696e5669746174696f6e31",
+            "onchain_metadata": {
+                "Date": "01 APR 2022",
+                "name": "Q1 Report Card: inVitation 1",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmQd5ZrBVCwTfdWoSbY1bJrAvbihMbpYP6HNcDFp4ZjxNf",
+                        "name": "Readings",
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmVzvCpUQKFUp8Vf5ZDuzhJBKHFswi8YLtERYcLGL6DuMs",
+                        "name": "Reviews",
+                        "mediaType": "image\/"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmenTDY7JhDpxxWq1F4jNJa6NqjQdvTyNqJFu4KKELPJi2",
+                        "name": "Announcements",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmegM86DX2AewdxyhwdTuxfWgFkT1qr288yVWryPWu7E6G",
+                        "name": "Timelines",
+                        "mediaType": "image\/"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmZkMVXnfQSow51JfndrQB2kWDGVZJPFgkToMGPcGLGBUh",
+                        "name": "Giveaways",
+                        "mediaType": "image\/"
+                    }
+                ],
+                "image": "ipfs:\/\/QmQd5ZrBVCwTfdWoSbY1bJrAvbihMbpYP6HNcDFp4ZjxNf",
+                "Purpose": "A Peer-2-Peer Review: from Project Inception to Present",
+                "An Event": "THE Q1 REPORT (Card)",
+                "mediaType": "image\/jpeg",
+                "Menu 1: Readings": "Just Chilling: A Thermodynamic Pilot Study",
+                "Menu 4: Timelines": [
+                    "Initatives",
+                    "Events",
+                    "Platforms",
+                    "Partnerships",
+                    "Growth & Development"
+                ],
+                "Menu 5: Giveaways": [
+                    "Abstract Potato",
+                    "ThisCrazyLife",
+                    "Fractal Fuzion",
+                    "ADATOMS",
+                    "NOODZ"
+                ],
+                "creative Developers": "The Alexandria Project",
+                "Menu 3: Announcements": [
+                    "The Alexandria Chronicle",
+                    "Language Refresher",
+                    "Workshop Bundles",
+                    "inFRE5H",
+                    "Book Club"
+                ],
+                "Menu 2: Reviews Part One, web3 CV": [
+                    "Academic Contributions",
+                    "Community Archives",
+                    "Development",
+                    "Historic Archives",
+                    "Media Appearances",
+                    "Project Commissions",
+                    "Podcasts",
+                    "Workshops"
+                ],
+                "Menu 2: Reviews Part Two, Assessment Scale": [
+                    "\ud83d\ude80 OUT OF THIS WORLD",
+                    "\ud83c\udfc6 HAS DISTINCTION",
+                    "\ud83e\udd73 AVERAGE PARTY",
+                    "\ud83d\udcda HIT THE BOOKS",
+                    "\ud83d\udd25 DUMPSTER FIRE"
+                ]
+            }
+        }
+    ]
+}

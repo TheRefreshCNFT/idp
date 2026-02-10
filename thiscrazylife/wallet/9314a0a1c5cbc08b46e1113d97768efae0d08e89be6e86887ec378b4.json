@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933802,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "9314a0a1c5cbc08b46e1113d97768efae0d08e89be6e86887ec378b4"
+    },
+    "assets_cache": [
+        {
+            "asset": "9314a0a1c5cbc08b46e1113d97768efae0d08e89be6e86887ec378b4552053206f6620274d7572696361",
+            "quantity": null,
+            "policy_id": "9314a0a1c5cbc08b46e1113d97768efae0d08e89be6e86887ec378b4",
+            "asset_name": "552053206f6620274d7572696361",
+            "onchain_metadata": {
+                "name": "U S of 'Murica",
+                "image": "ipfs:\/\/QmXFQQrk72wu12wYRjLKsFrT5V8SxomjiF8jDYADDR55TR",
+                "ticker": "MURICA",
+                "description": "Land of the free, and the greatest country in the world.   "
+            }
+        }
+    ]
+}

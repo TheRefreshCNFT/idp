@@ -1,0 +1,273 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933815,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "e3d01bb6580684322c87bbb6715c8458de17bdd72366f3042dc75d38"
+    },
+    "assets_cache": [
+        {
+            "asset": "e3d01bb6580684322c87bbb6715c8458de17bdd72366f3042dc75d384372617a794b69746368656e32",
+            "quantity": null,
+            "policy_id": "e3d01bb6580684322c87bbb6715c8458de17bdd72366f3042dc75d38",
+            "asset_name": "4372617a794b69746368656e32",
+            "onchain_metadata": {
+                "name": "THIS CRAZY KITCHEN: \"Workshop 2 - Advanced Minting\" (2022)",
+                "Epoch": [
+                    "314"
+                ],
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmYzUsyS9j78GMXMv9F4D2eAbToxN81vtTuGNew2zoXxR5",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmWGmUiB1ageyztH6e1h5GuJzod5XHMhxrqMWxBaRTWrCJ",
+                        "mediaType": "image\/gif"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmZZCMNHH55X8LipSq55UeVHUzcum7Mh4TVFgRjAmi5Sy9",
+                        "name": "3 Image Metadata Template",
+                        "mediaType": "text\/plain"
+                    }
+                ],
+                "image": "ipfs:\/\/QmZpshyyBVKjFMZqELb9HBATKLTv8KYB7BMRx1s4hkJyNU",
+                "Summary": [
+                    "The second THIS CRAZY KITCHEN Cardano Workshop!",
+                    "In this workshop, we cover advanced minting using",
+                    "Cardano Tools. We cover some strategies for",
+                    "moving metadata between Tools and Pool.pm.",
+                    "Participants worked through some basic coding",
+                    "structures of NFTz on Cardano, and explored",
+                    "some guidelines for reading the metadata text,",
+                    "and turning creative input into some really",
+                    "crazy, interesting, and FUN output.",
+                    "All workshop attendees are encounraged to",
+                    "use this information to participate in",
+                    "the ongoing creative compeititons on",
+                    "the ThisCrazyLife discord, and elsewhere",
+                    "throughout the Cardano ecosystem and community!",
+                    "See you again at the next",
+                    "THIS CRAZY KITCHEN workshop!"
+                ],
+                "Resources": {
+                    "Cardanotools.io": "https:\/\/cardano-tools.io\/mint",
+                    "Workshop 2 Mint": "https:\/\/tinyurl.com\/CrazyKitchen2",
+                    "Pool.pm Metadata Test": "https:\/\/pool.pm\/test\/metadata"
+                },
+                "mediaType": "image\/png",
+                "Published on": [
+                    "Cardano"
+                ],
+                "Kitchen Chefs": [
+                    "ThisCrazyLife, CardanoNoodz"
+                ],
+                "Prerequisites": {
+                    "workshop 1": "https:\/\/tinyurl.com\/CKWorkshop1"
+                },
+                "Estimated Attendance": [
+                    "25+"
+                ],
+                "Visit CardanoNoodz (Creative Developer)": {
+                    "Twitter": "https:\/\/twitter.com\/CardanoNoodz",
+                    "GET NOOD": "https:\/\/www.cardanonoodz.online\/"
+                },
+                "Visit thiscrazylife (Creative Developer)": {
+                    "Discord": "https:\/\/discord.gg\/Ya4XvQ2ey6",
+                    "Twitter": "https:\/\/twitter.com\/_ThisCr8zyLife_",
+                    "thiscrazylife.io": "https:\/\/www.thiscrazylife.io\/"
+                },
+                "Visit The Alexandria Project (Library on Cardano)": {
+                    "Twitter": "https:\/\/twitter.com\/alexandriatap",
+                    "Library Collections": "https:\/\/tinyurl.com\/TAPLibrary"
+                }
+            }
+        },
+        {
+            "asset": "e3d01bb6580684322c87bbb6715c8458de17bdd72366f3042dc75d384372617a794b69746368656e33",
+            "quantity": null,
+            "policy_id": "e3d01bb6580684322c87bbb6715c8458de17bdd72366f3042dc75d38",
+            "asset_name": "4372617a794b69746368656e33",
+            "onchain_metadata": {
+                "name": "THIS CRAZY KITCHEN: \"Workshop 3 - On-Chain Minting\" (2022)",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmNxSNAEFEGoWRYeeAvKwcBEBrzoLFC24DadoWr9tvGZrJ",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmbmYin5XE26BfQbt1DUJNZUdLF6oHnDAjTetJtLKaPyU5",
+                        "name": "On-chain metadata preview",
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": [
+                            "data:text\/plain;base64,ew0KICAiNzIxIjogew0KICAgICJQb2xpY3lJREdvZ",
+                            "XNIZXJlIjogew0KICAgICAgIkFzc2V0TmFtZSI6IHsNCiAgICAgICAgIm5hbWUiO",
+                            "iAiTkZUIFRpdGxlIiwNCiAgICAgICAgImltYWdlIjogWw0KICAgICAgICAgICJiY",
+                            "XNlNjQgZGF0YXVyaSBnb2VzIGhlcmUiLA0KICAgICAgICAgICJiYXNlNjQgZGF0Y",
+                            "XVyaSBnb2VzIGhlcmUiLA0KICAgICAgICAgICJiYXNlNjQgZGF0YXVyaSBnb2VzI",
+                            "GhlcmUiLA0KICAgICAgICAgICJiYXNlNjQgZGF0YXVyaSBnb2VzIGhlcmUiLA0KI",
+                            "CAgICAgICAgICJiYXNlNjQgZGF0YXVyaSBnb2VzIGhlcmUiDQogICAgICAgIF0sD",
+                            "QogICAgICAgICJEaXJlY3Rpb25zIOKPsu+4jyI6IFsNCiAgICAgICAgICAi4oCiI",
+                            "EVudGVyIGRlc2lyZWQgdGltZS4iLA0KICAgICAgICAgICLigKIgUHJlc3MgXCJTd",
+                            "GFydFwiLiIsDQogICAgICAgICAgIuKAoiBQcmVzcyBcIlBhdXNlXCIgdG8gUEFVU",
+                            "0UgdGhlIHRpbWVyLiIsDQogICAgICAgICAgIuKAoiBQcmVzcyBcIlN0YXJ0XCIgd",
+                            "G8gUkVTVU1FIHRoZSB0aW1lci4iLA0KICAgICAgICAgICLigKIgUHJlc3MgXCJSZ",
+                            "XNldFwiIHRvIFNUT1AgdGhlIGFsYXJtIG9yIFJFU0VUIHRvIDAuIg0KICAgICAgI",
+                            "CBdLA0KICAgICAgICAiRGVzY3JpcHRpb24g8J+agCI6IFsNCiAgICAgICAgICAiV",
+                            "GhlIENyYXp5IEtpdGNoZW4gVGltZXIhIiwNCiAgICAgICAgICAiRm9yIGV2ZXJ5Z",
+                            "GF5IHVzZSBpbiB5b3VyIENhcmRhbm8gd2FsbGV0LiIsDQogICAgICAgICAgIkEgd",
+                            "XNlZnVsIHRvb2wgZm9yIGNvb2tpbmcsIGdhbWVzLCBzdHVkeWluZywiLA0KICAgI",
+                            "CAgICAgICJwcm9mZXNzaW9uYWwgYWN0aXZpdGllcywgYW5kIG90aGVyIEZVTiEiL",
+                            "A0KICAgICAgICAgICJUaW1lIGlzIHVwPyBIZWFyIGl0IGRpbmchIg0KICAgICAgI",
+                            "CBdLA0KICAgICAgICAiTk9PRFog8J+NnCAoQ3JlYXRpdmUgRGV2ZWxvcGVyKSI6I",
+                            "HsNCiAgICAgICAgICAiR0VUIE5PT0QiOiAiaHR0cHM6Ly93d3cuY2FyZGFub25vb",
+                            "2R6Lm9ubGluZS8iLA0KICAgICAgICAgICJJbmZpbml0ZSBQb3NzaWJpbGl0aWVzI",
+                            "ChpbmZpKSI6ICJodHRwczovL2luZmluaXRlcG9vbC5pby8iLA0KICAgICAgICAgI",
+                            "CJUd2l0dGVyIjogImh0dHBzOi8vdHdpdHRlci5jb20vQ2FyZGFub05vb2R6Ig0KI",
+                            "CAgICAgICB9LA0KICAgICAgICAidGhlIEFsZXhhbmRyaWEgUHJvamVjdCDwn5OaI",
+                            "ChMaWJyYXJ5IG9uIENhcmRhbm8pIjogew0KICAgICAgICAgICJMaWJyYXJ5IENvb",
+                            "GxlY3Rpb25zIjogImh0dHBzOi8vdGlueXVybC5jb20vVEFQTGlicmFyeSIsDQogI",
+                            "CAgICAgICAgIlR3aXR0ZXIiOiAiaHR0cHM6Ly90d2l0dGVyLmNvbS9hbGV4YW5kc",
+                            "mlhdGFwIg0KICAgICAgICB9LA0KICAgICAgICAiVGhpc0NyYXp5TGlmZSDwn5SBI",
+                            "ChDcmVhdGl2ZSBEZXZlbG9wZXIpIjogew0KICAgICAgICAgICJEaXNjb3JkIjogI",
+                            "mh0dHBzOi8vZGlzY29yZC5nZy9ZYTRYdlEyZXk2IiwNCiAgICAgICAgICAiVHdpd",
+                            "HRlciI6ICJodHRwczovL3R3aXR0ZXIuY29tL19UaGlzQ3I4enlMaWZlXyIsDQogI",
+                            "CAgICAgICAgInRoaXNjcmF6eWxpZmUuaW8iOiAiaHR0cHM6Ly93d3cudGhpc2NyY",
+                            "Xp5bGlmZS5pby8iDQogICAgICAgIH0sDQogICAgICAgICJmaWxlcyI6IFsNCiAgI",
+                            "CAgICAgICB7DQogICAgICAgICAgICAic3JjIjogWw0KICAgICAgICAgICJiYXNlN",
+                            "jQgZGF0YXVyaSBnb2VzIGhlcmUiLA0KICAgICAgICAgICJiYXNlNjQgZGF0YXVya",
+                            "SBnb2VzIGhlcmUiLA0KICAgICAgICAgICJiYXNlNjQgZGF0YXVyaSBnb2VzIGhlc",
+                            "mUiLA0KICAgICAgICAgICJiYXNlNjQgZGF0YXVyaSBnb2VzIGhlcmUiLA0KICAgI",
+                            "CAgICAgICJiYXNlNjQgZGF0YXVyaSBnb2VzIGhlcmUiDQogICAgICAgICAgICBdL",
+                            "A0KICAgICAgICAgICAgIm1lZGlhVHlwZSI6ICJ0ZXh0L2h0bWwiDQogICAgICAgI",
+                            "CAgfQ0KICAgICAgICBdLA0KICAgICAgICAibWVkaWFUeXBlIjogImltYWdlL3N2Z",
+                            "yt4bWwiDQogICAgICB9DQogICAgfQ0KICB9DQp9"
+                        ],
+                        "name": "Right Click Save As: On-Chain Metadata Template",
+                        "mediaType": "text\/plain"
+                    },
+                    {
+                        "src": "ipfs:\/\/Qmf8yewwJnYTQEGWD5oStdni1Y3VmMkqiYamtA7tqs369h",
+                        "name": "WORKSHOP 3 ON-CHAIN MINTING",
+                        "mediaType": "image\/gif"
+                    }
+                ],
+                "image": "ipfs:\/\/QmS4FbGyrzdoYEXq6GyAWfhyu3wXjQv8yciiHzFsVQ5reL",
+                "Summary": [
+                    "The third THIS CRAZY KITCHEN Cardano Workshop!",
+                    "In this workshop, we cover on-chain minting using",
+                    "Cardano Tools. We cover some strategies for",
+                    "moving metadata between Tools and Pool.pm.",
+                    "We explored the differences between on-chain",
+                    "and off-chain metadata strucutres.",
+                    "We went over size restrictions for on-chain minting,",
+                    "noting 16kbs as the current limit.",
+                    "We discussed \"hybrid\" NFTs and how to make use of",
+                    "both on- and off-chain storage.",
+                    "We reviewed the differences between minting on",
+                    "Cardano-Tools and a vending-machine service.",
+                    "All workshop attendees are encounraged to",
+                    "use this information to participate in",
+                    "the ongoing creative compeititons on",
+                    "the ThisCrazyLife discord, and elsewhere",
+                    "throughout the Cardano ecosystem and community!",
+                    "See you again at the next",
+                    "THIS CRAZY KITCHEN workshop!"
+                ],
+                "Resources": {
+                    "Cardanotools.io": "https:\/\/cardano-tools.io\/mint",
+                    "Pool.pm Metadata Test": "https:\/\/pool.pm\/test\/metadata"
+                },
+                "mediaType": "image\/png",
+                "Published on": [
+                    "Cardano (Epoch 317)"
+                ],
+                "Kitchen Chefs": [
+                    "ThisCrazyLife, CardanoNoodz"
+                ],
+                "Prerequisites": {
+                    "workshop 1": "https:\/\/tinyurl.com\/CKWorkshop1",
+                    "workshop 2": "https:\/\/tinyurl.com\/CKWorkshop2"
+                },
+                "Estimated Attendance": [
+                    "25+"
+                ],
+                "nOODZ \ud83c\udf5c (Creative Developer)": {
+                    "Twitter": "https:\/\/twitter.com\/CardanoNoodz",
+                    "GET NOOD": "https:\/\/www.cardanonoodz.online\/",
+                    "Infinite Possibilities (infi)": "https:\/\/infinitepool.io\/"
+                },
+                "ThisCrazyLife \ud83d\udd01 (Creative Developer)": {
+                    "Discord": "https:\/\/discord.gg\/Ya4XvQ2ey6",
+                    "Twitter": "https:\/\/twitter.com\/_ThisCr8zyLife_",
+                    "thiscrazylife.io": "https:\/\/www.thiscrazylife.io\/"
+                },
+                "the Alexandria Project \ud83d\udcda (Library on Cardano)": {
+                    "Twitter": "https:\/\/twitter.com\/alexandriatap",
+                    "Library Collections": "https:\/\/tinyurl.com\/TAPLibrary"
+                }
+            }
+        },
+        {
+            "asset": "e3d01bb6580684322c87bbb6715c8458de17bdd72366f3042dc75d384372617a794b69746368656e4d696e74",
+            "quantity": null,
+            "policy_id": "e3d01bb6580684322c87bbb6715c8458de17bdd72366f3042dc75d38",
+            "asset_name": "4372617a794b69746368656e4d696e74",
+            "onchain_metadata": {
+                "name": "\"ThisCrazyKitchen\" Workshop 2",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmWFVWumiLifCAyk9BVDZk2x3RWWMjRUDyXMkR6MBfwvms",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmNRqdnihftfV5Trvb8tu1FutmqLrKWWrWq2v4XM9Z71pd",
+                        "name": "JingleFresh1",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmVtDN6EADUkdyqGoitisNu7G9nBLL16HAF45NEXX6yvF9",
+                        "name": "JingleFresh2",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmVtDN6EADUkdyqGoitisNu7G9nBLL16HAF45NEXX6yvF9",
+                "artist": "ThisCrazyKitchen",
+                "Socials": {
+                    "TCL Twitter": "https:\/\/twitter.com\/CardanoNoodz",
+                    "NOODz Twitter": "https:\/\/twitter.com\/_ThisCr8zyLife_"
+                },
+                "mediaType": "image\/png",
+                "Description": [
+                    "This is",
+                    "my description",
+                    "This is more description"
+                ],
+                "collab artists": "Collaborators"
+            }
+        },
+        {
+            "asset": "e3d01bb6580684322c87bbb6715c8458de17bdd72366f3042dc75d38706f7461746f66616365",
+            "quantity": null,
+            "policy_id": "e3d01bb6580684322c87bbb6715c8458de17bdd72366f3042dc75d38",
+            "asset_name": "706f7461746f66616365",
+            "onchain_metadata": {
+                "name": "PotatoFace",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmaPEDHjGNx5HZCvH9Sqoe67E9qmQUdpezrnr4gbdsTepP",
+                        "Ticker": "$pface",
+                        "mediaType": "image\/gif"
+                    }
+                ],
+                "image": "ipfs:\/\/QmaPEDHjGNx5HZCvH9Sqoe67E9qmQUdpezrnr4gbdsTepP",
+                "mediaType": "image\/gif",
+                "description": "Token of the first CrazyKitchen Workshop"
+            }
+        }
+    ]
+}

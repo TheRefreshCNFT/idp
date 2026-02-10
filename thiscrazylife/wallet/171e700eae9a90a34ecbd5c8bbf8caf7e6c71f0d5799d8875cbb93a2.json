@@ -1,0 +1,325 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933654,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2"
+    },
+    "assets_cache": [
+        {
+            "asset": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2000de140482e412e4c2e202d2033535a",
+            "quantity": null,
+            "policy_id": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2",
+            "asset_name": "000de140482e412e4c2e202d2033535a",
+            "onchain_metadata": {
+                "Series": "504d61726b20494949202d2048656c6978",
+                "image": "ipfs:\/\/bafybeif4xjkidf23hsgpr2vyx3ha2pyuufbchzlsxq7hbm5mm5cjpfehti",
+                "Frame": "4a526f79616c477265656e",
+                "Head": "4b4261636b77617264436170",
+                "Background": "45477265656e",
+                "Left_Hand": "4a4c696768747361626572",
+                "Right_Hand": "475069636b617865",
+                "name": "H.A.L. - 3SZ",
+                "files": [
+                    {
+                        "name": "hal.glb",
+                        "src": "ipfs:\/\/bafybeifpo2in74wb4ulqt7nzgkvpsb45oqx43dqjanbiidslmeqji3ydpu",
+                        "mediaType": "model\/gltf-binary"
+                    },
+                    {
+                        "name": "hal.fbx",
+                        "src": "ipfs:\/\/bafybeifu7kzmhckoooktoo67fsf6u4rpwcngwi4fvdxckfnqatt37pior4",
+                        "mediaType": "application\/octet-stream"
+                    }
+                ],
+                "Faceplate": "43537573",
+                "Faction": "4b46616374696f6e6c657373"
+            }
+        },
+        {
+            "asset": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2000de140482e412e4c2e202d20343138",
+            "quantity": null,
+            "policy_id": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2",
+            "asset_name": "000de140482e412e4c2e202d20343138",
+            "onchain_metadata": {
+                "Series": "504d61726b20494949202d2048656c6978",
+                "Chest": "4c537472697065645368697274",
+                "Legs": "4d5374726970656453686f727473",
+                "image": "ipfs:\/\/bafybeigny3e54y5zbpgaillkjd7rymbrjvu4pu76zm4vaakjgcdg3gubky",
+                "Frame": "4a526f79616c477265656e",
+                "Head": "4748617264486174",
+                "Background": "474461726b526564",
+                "Left_Hand": "49436865664b6e696665",
+                "name": "H.A.L. - 418",
+                "files": [
+                    {
+                        "name": "hal.glb",
+                        "src": "ipfs:\/\/bafybeie5tqkrmgrfyd2odklw4gdkeslh3aecfg2pak64emgeb45b65iz4e",
+                        "mediaType": "model\/gltf-binary"
+                    },
+                    {
+                        "name": "hal.fbx",
+                        "src": "ipfs:\/\/bafybeielynbamo6lr7h7oh7f7rg72bb4lkixxxirimnl73pvqfah5iz7xu",
+                        "mediaType": "application\/octet-stream"
+                    }
+                ],
+                "Faceplate": "45426f726564",
+                "Faction": "4b46616374696f6e6c657373"
+            }
+        },
+        {
+            "asset": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2000de140482e412e4c2e202d20344648",
+            "quantity": null,
+            "policy_id": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2",
+            "asset_name": "000de140482e412e4c2e202d20344648",
+            "onchain_metadata": {
+                "Series": "504d61726b20494949202d2048656c6978",
+                "Chest": "4942616e646f6c656572",
+                "Legs": "5142616e646f6c65657254726f7573657273",
+                "image": "ipfs:\/\/bafybeibsvtrvweodtaam3474ncaczk46cuayyewrz5wxuu4wzrn3qttztq",
+                "Frame": "4a526f79616c477265656e",
+                "Background": "4954757271756f697365",
+                "Right_Hand": "43417865",
+                "name": "H.A.L. - 4FH",
+                "files": [
+                    {
+                        "name": "hal.glb",
+                        "src": "ipfs:\/\/bafybeiarfuzdzm45atzd566uiccqtc2rirbydxbfburvtt6rnqlolry3r4",
+                        "mediaType": "model\/gltf-binary"
+                    },
+                    {
+                        "name": "hal.fbx",
+                        "src": "ipfs:\/\/bafybeifstgalpjk4wbq2yn6ogohnstdkfjd7p5mywyjgza3tbuqxiegytq",
+                        "mediaType": "application\/octet-stream"
+                    }
+                ],
+                "Faceplate": "45426f726564",
+                "Feet": "4a576869746553686f6573",
+                "Faction": "4b46616374696f6e6c657373"
+            }
+        },
+        {
+            "asset": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2000de140482e412e4c2e202d20355941",
+            "quantity": null,
+            "policy_id": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2",
+            "asset_name": "000de140482e412e4c2e202d20355941",
+            "onchain_metadata": {
+                "Series": "544d61726b204956202d20466f756e646174696f6e",
+                "Chest": "4c57696e7465724a61636b6574",
+                "Legs": "4c57696e74657253686f727473",
+                "image": "ipfs:\/\/bafybeibswiawn75ifkdjnwyvq2bphvffdexdfjtfbllzuuew4cm7ublk5y",
+                "Frame": "4b4c69676874507572706c65",
+                "Head": "484469786965437570",
+                "Background": "4450696e6b",
+                "Right_Hand": "4a5061696e746272757368",
+                "name": "H.A.L. - 5YA",
+                "files": [
+                    {
+                        "name": "hal.glb",
+                        "src": "ipfs:\/\/bafybeidpvctrvn5iihpz27k6yl3antroyqgoqbwswbkuukagvi7yfgkyca",
+                        "mediaType": "model\/gltf-binary"
+                    },
+                    {
+                        "name": "hal.fbx",
+                        "src": "ipfs:\/\/bafybeietmgqcy7zpdtetsccvbeikmyecav76dpqe2ugcjz6dfeqt7i2mqm",
+                        "mediaType": "application\/octet-stream"
+                    }
+                ],
+                "Faceplate": "455361646765",
+                "Faction": "4b46616374696f6e6c657373"
+            }
+        },
+        {
+            "asset": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2000de140482e412e4c2e202d20325253",
+            "quantity": null,
+            "policy_id": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2",
+            "asset_name": "000de140482e412e4c2e202d20325253",
+            "onchain_metadata": {
+                "Series": "504d61726b20494949202d2048656c6978",
+                "image": "ipfs:\/\/bafybeiceegdhzrqr23eacrs4hu4cytdsvnrbeadcdvtfw7jmfcfratxuny",
+                "Frame": "45426c61636b",
+                "Background": "474461726b526564",
+                "Left_Hand": "44436c7562",
+                "Right_Hand": "4a5061696e746272757368",
+                "Waist": "4c4772656e6164657342656c74",
+                "name": "H.A.L. - 2RS",
+                "files": [
+                    {
+                        "name": "hal.glb",
+                        "src": "ipfs:\/\/bafybeig4mm5vu7uqb5qyzgtnbulzokkcdfpunbsnm3i7rifrzzibpuab7y",
+                        "mediaType": "model\/gltf-binary"
+                    },
+                    {
+                        "name": "hal.fbx",
+                        "src": "ipfs:\/\/bafybeie6ug53mjglldshkeq45wgp7ywh7syy4rmylx42r6dju5vxljft7e",
+                        "mediaType": "application\/octet-stream"
+                    }
+                ],
+                "Faceplate": "4644616e676572",
+                "Faction": "4b46616374696f6e6c657373"
+            }
+        },
+        {
+            "asset": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2000de140482e412e4c2e202d2030474a",
+            "quantity": null,
+            "policy_id": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2",
+            "asset_name": "000de140482e412e4c2e202d2030474a",
+            "onchain_metadata": {
+                "Legs": "4e4b6172617465676953686f727473",
+                "image": "ipfs:\/\/bafybeia5hrqcpnflybljs5ulloywmzuddgh2silcbpiukcdu462n2rhzfe",
+                "Frame": "49506c75746f6e69756d",
+                "Head": "484865616462616e64",
+                "Background": "4a446f636b696e67426179",
+                "Feet": "474c6f6166657273",
+                "Series": "514d61726b2049202d2053656e74696e656c",
+                "Left_Hand": "4e436f7272757074656453776f7264",
+                "Right_Hand": "4b476f6c64656e53776f7264",
+                "Waist": "4c4b6172617465676942656c74",
+                "name": "H.A.L. - 0GJ",
+                "files": [
+                    {
+                        "name": "hal.glb",
+                        "src": "ipfs:\/\/bafybeiecmds62hmzenwcppkt3ixc7fr7nj2iqcanitq6swhfabtmzfmvwu",
+                        "mediaType": "model\/gltf-binary"
+                    },
+                    {
+                        "name": "hal.fbx",
+                        "src": "ipfs:\/\/bafybeif76mkizse6uz34skpvz3pqmno3ocy3ftdychf2tcpnyo7vjq4em4",
+                        "mediaType": "application\/octet-stream"
+                    }
+                ],
+                "Faceplate": "43537573",
+                "Faction": "4b46616374696f6e6c657373"
+            }
+        },
+        {
+            "asset": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2000de140482e412e4c2e202d20314354",
+            "quantity": null,
+            "policy_id": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2",
+            "asset_name": "000de140482e412e4c2e202d20314354",
+            "onchain_metadata": {
+                "Chest": "4c537472697065645368697274",
+                "Legs": "4d5374726970656453686f727473",
+                "image": "ipfs:\/\/bafybeiheeggsikkn2nwohixkwjalkzpurhavcyactihpnzlmz6vpwmuj3u",
+                "Frame": "4553746f6e65",
+                "Head": "4448616c6f",
+                "Background": "4c496e746572696f72426c7565",
+                "Feet": "4a576869746553686f6573",
+                "Series": "4f4d61726b204949202d20546974616e",
+                "Right_Hand": "4e436f7272757074656453776f7264",
+                "name": "H.A.L. - 1CT",
+                "files": [
+                    {
+                        "name": "hal.glb",
+                        "src": "ipfs:\/\/bafybeidfnqfvhwpihqjgmzngmow623is3vwpubb6ipszaw4pkwhgvvukei",
+                        "mediaType": "model\/gltf-binary"
+                    },
+                    {
+                        "name": "hal.fbx",
+                        "src": "ipfs:\/\/bafybeifyuq3tovh6witysyrt4kbfkxx4xk3qrkp6ffhv2wxwqhvphjvmba",
+                        "mediaType": "application\/octet-stream"
+                    }
+                ],
+                "Faceplate": "4744656661756c74",
+                "Faction": "4b46616374696f6e6c657373"
+            }
+        },
+        {
+            "asset": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2000de140482e412e4c2e202d20334842",
+            "quantity": null,
+            "policy_id": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2",
+            "asset_name": "000de140482e412e4c2e202d20334842",
+            "onchain_metadata": {
+                "Chest": "4b44656e696d4a61636b6574",
+                "Legs": "4b44656e696d53686f727473",
+                "image": "ipfs:\/\/bafybeif6hxy2i4s4lt2v64he5qqvi767hffwh35lzkcsrr7pbhpsu3xgse",
+                "Frame": "4b526f79616c507572706c65",
+                "Head": "484469786965437570",
+                "Background": "45477265656e",
+                "Feet": "4a576869746553686f6573",
+                "Series": "504d61726b20494949202d2048656c6978",
+                "Left_Hand": "43426174",
+                "name": "H.A.L. - 3HB",
+                "files": [
+                    {
+                        "name": "hal.glb",
+                        "src": "ipfs:\/\/bafybeicqt36d4tbf5co5qzulrs5xpdt4meyx5cf7dcmmm5uolw7laldc3y",
+                        "mediaType": "model\/gltf-binary"
+                    },
+                    {
+                        "name": "hal.fbx",
+                        "src": "ipfs:\/\/bafybeidzgipo5tjsro2ptobyzfhman23lpge2s6qhe6574jskfohsz7ev4",
+                        "mediaType": "application\/octet-stream"
+                    }
+                ],
+                "Faceplate": "4644616e676572",
+                "Faction": "4b46616374696f6e6c657373"
+            }
+        },
+        {
+            "asset": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2000de140482e412e4c2e202d20343151",
+            "quantity": null,
+            "policy_id": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2",
+            "asset_name": "000de140482e412e4c2e202d20343151",
+            "onchain_metadata": {
+                "Series": "504d61726b20494949202d2048656c6978",
+                "image": "ipfs:\/\/bafybeifqvcrr64u5dpcvahksxshan4bkeune6mym5vhklvgof7nejs3r3u",
+                "Frame": "45426c61636b",
+                "Head": "484865616462616e64",
+                "Background": "45477265656e",
+                "Left_Hand": "4553776f7264",
+                "name": "H.A.L. - 41Q",
+                "files": [
+                    {
+                        "name": "hal.glb",
+                        "src": "ipfs:\/\/bafybeiadt7y56bnhi7rd5jdpqale42flyoveauim35aq77gw4pwrxq2qc4",
+                        "mediaType": "model\/gltf-binary"
+                    },
+                    {
+                        "name": "hal.fbx",
+                        "src": "ipfs:\/\/bafybeibmn5g6nw6p65q56zsjwtlxlzlrjajdwcykfldpxo6mez4qqpkrzm",
+                        "mediaType": "application\/octet-stream"
+                    }
+                ],
+                "Faceplate": "43537573",
+                "Feet": "4a426c61636b426f6f7473",
+                "Faction": "4b46616374696f6e6c657373"
+            }
+        },
+        {
+            "asset": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2000de140482e412e4c2e202d20353938",
+            "quantity": null,
+            "policy_id": "171e700eae9a90a34ecbd5c8bbf8caf7e6c71f0d5799d8875cbb93a2",
+            "asset_name": "000de140482e412e4c2e202d20353938",
+            "onchain_metadata": {
+                "Chest": "484a65646953756974",
+                "Legs": "4a4a65646953686f727473",
+                "image": "ipfs:\/\/bafybeidlr3x2ozfqa2ah55wzzixq3zjepleq25m7zs7jf7k5bsmpskzly4",
+                "Frame": "49436f72616c50696e6b",
+                "Background": "455768697465",
+                "Feet": "4d426c61636b536e65616b657273",
+                "Series": "544d61726b204956202d20466f756e646174696f6e",
+                "Accessories": "504a65646948616e646c65446576696365",
+                "Right_Hand": "4b4d6f726e696e6753746172",
+                "Waist": "484a65646942656c74",
+                "name": "H.A.L. - 598",
+                "files": [
+                    {
+                        "name": "hal.glb",
+                        "src": "ipfs:\/\/bafybeibw67kyfhly72o5mxzz3lhddqiwcqjsabjkwbdwnng2oojsisv7hm",
+                        "mediaType": "model\/gltf-binary"
+                    },
+                    {
+                        "name": "hal.fbx",
+                        "src": "ipfs:\/\/bafybeifulffitqwu2srvcnnd5oh3gl4vmuzwiqvpttulfhp4t5n2uv3c3a",
+                        "mediaType": "application\/octet-stream"
+                    }
+                ],
+                "Faceplate": "4744656661756c74",
+                "Faction": "4b46616374696f6e6c657373"
+            }
+        }
+    ]
+}

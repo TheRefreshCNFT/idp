@@ -1,0 +1,40 @@
+{
+    "displayName": "ThisCrazyLife",
+    "bio": "this is my bio",
+    "location": "",
+    "pfp": "pfp_1768955998.png",
+    "address": "addr1qx526449w6a468tltxqeky4em2u24eer8w9mhsfwu4mn0285m2nujlyhr7khzhynnanjfu50lehklzpf3u42qfmjfkxs43ut04",
+    "identity": "stake1u86d4f7f0jt3ltt3tjfe7eey728lumm03q5c724qyaeymrgqy7vu3",
+    "stake": "stake1u86d4f7f0jt3ltt3tjfe7eey728lumm03q5c724qyaeymrgqy7vu3",
+    "role": "artist",
+    "combinations": [
+        {
+            "id": "group_1768416196318",
+            "name": "Cardano",
+            "policies": [
+                "37b84c373c090fc2d4d6e93a1135f18a970bc30ba85aa5e82e7de16c",
+                "59dee08fdc0ae680b7477d4aa9a86c79c1e7d7cac4ada45bb321ed37",
+                "97fd796ca4423ec3a28d8208f95378a3e3deefbed6806c658b6d9921"
+            ]
+        },
+        {
+            "id": "group_1768500282054",
+            "name": "F5 Thangs",
+            "policies": [
+                "b8b718be8c26db38b238e85a38e05ebc29c6be801ea11baf718026ab",
+                "b298a7f258fd9eb60b7931b53f89b1e92fc067368d7f5042ed8e2dc1"
+            ]
+        },
+        {
+            "id": "group_1768528597760",
+            "name": "Look",
+            "policies": [
+                "7063bf67a99d1021f2fb2ed00cef3a053b481007e156786e0da2d47d",
+                "8f9cb4234b6865e4c294ed8662bfb3b0d3273e99f17cd8347f9f5dd3",
+                "group_1768500282054"
+            ]
+        }
+    ],
+    "updatedAt": 1770494697,
+    "isDraft": true
+}

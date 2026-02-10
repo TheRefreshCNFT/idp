@@ -1,0 +1,64 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933679,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "c55944a3273b48e9f884a8e0d5f6783bb01ab97c2af97173acc3be48"
+    },
+    "assets_cache": [
+        {
+            "asset": "c55944a3273b48e9f884a8e0d5f6783bb01ab97c2af97173acc3be484e4f4f445a4d4153",
+            "quantity": null,
+            "policy_id": "c55944a3273b48e9f884a8e0d5f6783bb01ab97c2af97173acc3be48",
+            "asset_name": "4e4f4f445a4d4153",
+            "onchain_metadata": {
+                "name": "MERRY\ud83c\udf84NOODZMAS",
+                "files": [
+                    {
+                        "To": "You!",
+                        "src": "ipfs:\/\/Qmd1NKPvetPgoUAp2WG5HxQ6hTP8ZSYJ3FBquJFbdcaRV2",
+                        "From": "Everyone in Our Kitchen",
+                        "get nood": {
+                            "\ud83c\udf5c": "https:\/\/twitter.com\/cardanonoodz"
+                        },
+                        "With Love": [
+                            "Hoping that this holiday season will bring you",
+                            "nothing but cheers, meaningful time with",
+                            "the people you love, and a sense of appreciation",
+                            "for life itself while we are all here together",
+                            "to enjoy the planet."
+                        ],
+                        "mediaType": "image\/jpeg",
+                        "Celebrating": "The Holiday Season 2023"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmS3FMfpXGfm1gVizhGxzL5v4LFqa4BC8j9wkqGZPopUsf",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmWSUMcAWLSyk37bpCjEVN18WYD1VhscuV78vCoa73wqgt",
+                        "name": "Some Short Christmas Stories, by Charles Dickens",
+                        "mediaType": "application\/pdf"
+                    },
+                    {
+                        "src": "ipfs:\/\/Qmez6xknmujsNiZjM1FrmCskZfKLEDbdqKDV5LtmkPLRwu",
+                        "name": "Oh Christmas Tree, by HoliznaPATREON",
+                        "mediaType": "audio\/mpeg"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeid5ryqbrif36f6o5ghezqnsueqvpit5z7",
+                            "eaaon2fy7muquvs2hzw4\/alo.html"
+                        ],
+                        "name": "Click to Reveal the Answer!",
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/Qmd1NKPvetPgoUAp2WG5HxQ6hTP8ZSYJ3FBquJFbdcaRV2",
+                "mediaType": "image\/jpeg"
+            }
+        }
+    ]
+}

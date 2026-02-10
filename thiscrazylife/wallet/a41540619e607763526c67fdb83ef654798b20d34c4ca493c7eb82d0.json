@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933840,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "a41540619e607763526c67fdb83ef654798b20d34c4ca493c7eb82d0"
+    },
+    "assets_cache": [
+        {
+            "asset": "a41540619e607763526c67fdb83ef654798b20d34c4ca493c7eb82d04d616e64616c6131",
+            "quantity": null,
+            "policy_id": "a41540619e607763526c67fdb83ef654798b20d34c4ca493c7eb82d0",
+            "asset_name": "4d616e64616c6131",
+            "onchain_metadata": {
+                "name": "Mandala #1",
+                "image": "ipfs:\/\/Qmf533FLtps1DxUCfqphhjWdtHEUsGhe6j5iQnbwbBni5x",
+                "artist": "xdu13",
+                "summary": "Mandala #1",
+                "assetType": "FT",
+                "mediaType": "image\/png",
+                "publisher": [
+                    "https:\/\/tinyurl.com\/xdu13",
+                    "https:\/\/tokhun.io"
+                ],
+                "description": [
+                    "ARE YOU AWAKE?\r\nEarth -- here and now. Humankind is secretly ens",
+                    "laved by a global mind-control system called the GRID. Mike Morn",
+                    "ingstar and his spiritual spec-ops unit, The 13, must alter time",
+                    " and take down the GRID before it's too late.\r\n\r\nAs fiction meet",
+                    "s reality, The 13 need your help if they are to succeed in awake",
+                    "ning humanity and changing the future...\r\n\r\nEnter the Mandala...",
+                    "\r\nhttps:\/\/www.enterthemandala.io\/"
+                ]
+            }
+        }
+    ]
+}

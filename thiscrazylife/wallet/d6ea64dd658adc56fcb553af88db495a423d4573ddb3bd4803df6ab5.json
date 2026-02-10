@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933809,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "d6ea64dd658adc56fcb553af88db495a423d4573ddb3bd4803df6ab5"
+    },
+    "assets_cache": [
+        {
+            "asset": "d6ea64dd658adc56fcb553af88db495a423d4573ddb3bd4803df6ab532393939363031313035",
+            "quantity": null,
+            "policy_id": "d6ea64dd658adc56fcb553af88db495a423d4573ddb3bd4803df6ab5",
+            "asset_name": "32393939363031313035",
+            "onchain_metadata": {
+                "name": "SmartPlaces LBE Functional NFT",
+                "image": "ipfs:\/\/QmRJFjHcmpZkL4AAq9fhPvof9q5EL5Wc7waDcT37EbJ5Np",
+                "mediaType": "image\/png"
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933721,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "79371b11f083d53ba85ec2171f45bdd1d503d1b43f02c5f29dc3ab37"
+    },
+    "assets_cache": [
+        {
+            "asset": "79371b11f083d53ba85ec2171f45bdd1d503d1b43f02c5f29dc3ab375046545061737333363036",
+            "quantity": null,
+            "policy_id": "79371b11f083d53ba85ec2171f45bdd1d503d1b43f02c5f29dc3ab37",
+            "asset_name": "5046545061737333363036",
+            "onchain_metadata": {
+                "X": "https:\/\/x.com\/promofacie",
+                "name": "Promo Facie Token Pass 3606",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmVXAqtPYZKA7KuvRHsxm52Fp2CCZqh6NdBb1DYr8GG7h7",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmUAkWzJ4UoR1anezux9D4by4s9ZgZMEm5fawfqWXxLqDM",
+                "Discord": "https:\/\/discord.gg\/promo-facie",
+                "Letters": "IDW",
+                "Website": "https:\/\/promofacie.site\/",
+                "NFT Class": "Silver",
+                "mediaType": "image\/GIF",
+                "Letter Class": "SSS"
+            }
+        },
+        {
+            "asset": "79371b11f083d53ba85ec2171f45bdd1d503d1b43f02c5f29dc3ab3750465450617373353633",
+            "quantity": null,
+            "policy_id": "79371b11f083d53ba85ec2171f45bdd1d503d1b43f02c5f29dc3ab37",
+            "asset_name": "50465450617373353633",
+            "onchain_metadata": {
+                "X": "https:\/\/x.com\/promofacie",
+                "name": "Promo Facie Token Pass 563",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmNSHv7KitVw974VK4E3cDPxHhdva5QdLt7qd5jbHiC1rr",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmS4FHhdC9fQDK7AnmF3MpoEcA8BEj9NngU8XZv3q1qNUG",
+                "Discord": "https:\/\/discord.gg\/promo-facie",
+                "Letters": "ABC",
+                "Website": "https:\/\/promofacie.site\/",
+                "NFT Class": "Gold",
+                "mediaType": "image\/GIF",
+                "Letter Class": "BBG"
+            }
+        },
+        {
+            "asset": "79371b11f083d53ba85ec2171f45bdd1d503d1b43f02c5f29dc3ab3750465450617373393834",
+            "quantity": null,
+            "policy_id": "79371b11f083d53ba85ec2171f45bdd1d503d1b43f02c5f29dc3ab37",
+            "asset_name": "50465450617373393834",
+            "onchain_metadata": {
+                "X": "https:\/\/x.com\/promofacie",
+                "name": "Promo Facie Token Pass 984",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmWPy31kCEuY5nxuSZLJ8u2TVXRtaG1FNgenpEQPeEFge2",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmYnvZmb96aqWDJdL8M3LZLv1f5xYLHB5s9Bttbgpgxsob",
+                "Discord": "https:\/\/discord.gg\/promo-facie",
+                "Letters": "OPK",
+                "Website": "https:\/\/promofacie.site\/",
+                "NFT Class": "Bronze",
+                "mediaType": "image\/GIF",
+                "Letter Class": "BBB"
+            }
+        }
+    ]
+}

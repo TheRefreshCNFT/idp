@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933721,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "64c3ebd40ed377989aa3069a2936e07c6ce82df46688c473d9215206"
+    },
+    "assets_cache": [
+        {
+            "asset": "64c3ebd40ed377989aa3069a2936e07c6ce82df46688c473d921520664676166",
+            "quantity": null,
+            "policy_id": "64c3ebd40ed377989aa3069a2936e07c6ce82df46688c473d9215206",
+            "asset_name": "64676166",
+            "onchain_metadata": {
+                "name": "DGAF",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmQUNdnEcSG2e3kRhyHzx2MzCJDVTpsfNt3mfrCY74yFmB",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmQUNdnEcSG2e3kRhyHzx2MzCJDVTpsfNt3mfrCY74yFmB",
+                "symbol": "DGAF",
+                "ticker": "DGAF",
+                "mediaType": "image\/png",
+                "description": "DGAF"
+            }
+        }
+    ]
+}

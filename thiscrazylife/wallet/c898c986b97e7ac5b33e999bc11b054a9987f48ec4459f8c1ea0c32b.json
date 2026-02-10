@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933629,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "c898c986b97e7ac5b33e999bc11b054a9987f48ec4459f8c1ea0c32b"
+    },
+    "assets_cache": [
+        {
+            "asset": "c898c986b97e7ac5b33e999bc11b054a9987f48ec4459f8c1ea0c32b435245414d504945",
+            "quantity": null,
+            "policy_id": "c898c986b97e7ac5b33e999bc11b054a9987f48ec4459f8c1ea0c32b",
+            "asset_name": "435245414d504945",
+            "onchain_metadata": {
+                "image": "ipfs:\/\/QmPHxaf32RpJx4KkTQ8aiUoVecY7nnVptvUsf4Wn4U8Nb2",
+                "website": "https:\/\/creampietoken.io"
+            }
+        }
+    ]
+}

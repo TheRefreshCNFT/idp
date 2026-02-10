@@ -1,0 +1,65 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933809,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "c75cfeb87cd6f231465415005736c07728bb3dfcc9a3c7f7ba49b596"
+    },
+    "assets_cache": [
+        {
+            "asset": "c75cfeb87cd6f231465415005736c07728bb3dfcc9a3c7f7ba49b5964f6e636861696e20556b7261696e6520466c6167",
+            "quantity": null,
+            "policy_id": "c75cfeb87cd6f231465415005736c07728bb3dfcc9a3c7f7ba49b596",
+            "asset_name": "4f6e636861696e20556b7261696e6520466c6167",
+            "onchain_metadata": {
+                "url": "https:\/\/twitter.com\/abstractpotato",
+                "name": "Onchain Ukraine Flag",
+                "files": [
+                    {
+                        "src": [
+                            "data:text\/html;base64,PGh0bWw+DQogIDxkaXYgc3R5bGU9InRleHQtYWxpZ2",
+                            "46Y2VudGVyOyI+DQogICAgPGNhbnZhcyAgaWQ9Im15Q2FudmFzIiBzdHlsZT0iYm",
+                            "94LXNoYWRvdzogMnB4IDJweCA0cHggIzAwMDAwMDsgYm9yZGVyLXJhZGl1czoycH",
+                            "g7IG9iamVjdC1maXQ6IGNvbnRhaW47Ij48L2NhbnZhcz4NCiAgPC9kaXY+DQogID",
+                            "xzY3JpcHQ+DQogIHZhciBjYW52YXMgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZC",
+                            "gibXlDYW52YXMiKTsNCiAgY2FudmFzLndpZHRoID0gNTAwOw0KICBjYW52YXMuaG",
+                            "VpZ2h0ID0gMzAwOw0KICBjYW52YXMuZ2V0Q29udGV4dCgnMmQnKS5zY2FsZSgyLD",
+                            "IpOw0KICB2YXIgY3R4ID0gY2FudmFzLmdldENvbnRleHQoIjJkIik7DQoNCiAgbG",
+                            "V0IFYgPSAoZ2V0X3JhbmQoMCwgMSkgPT0gMCk7DQogIGxldCBIID0gKGdldF9yYW",
+                            "5kKDAsIDEpID09IDApOw0KICBsZXQgVCA9IGdldF9yYW5kKDAsIDIpDQoNCiAgZn",
+                            "VuY3Rpb24gZ2V0X3JhbmQobWluLCBtYXgpIHsNCiAgICByZXR1cm4gTWF0aC5mbG",
+                            "9vcigoTWF0aC5yYW5kb20oKSAqIChtYXggKyAxKSkgKyBtaW4pOw0KICB9DQoNCi",
+                            "AgZnVuY3Rpb24gcmFuZG9tQ29sb3IoeSkgew0KICAgIGxldCB5ZWxsb3cgPSBbJy",
+                            "NlZWVlMDAnLCAnI2RhZGEwMCcsICcjYzdjNzAwJ10NCiAgICBsZXQgYmx1ZSA9IF",
+                            "snIzAwODBmZicsICcjMDA3NmViJywgJyMwMDZjZDgnXQ0KICAgIGxldCB2ID0gZ2",
+                            "V0X3JhbmQoMCwgMikNCiAgICBpZiAoeSA8IDYwKSB7DQogICAgICByZXR1cm4gYm",
+                            "x1ZVt2XTsNCiAgICB9DQogICAgaWYgKHkgPiA3NSkgew0KICAgICAgcmV0dXJuIH",
+                            "llbGxvd1t2XTsNCiAgICB9DQogIH0NCg0KICBmdW5jdGlvbiBnZXRfcGxhY2VtZW",
+                            "50KCkgew0KICAgIGxldCB4ID0gZ2V0X3JhbmQoLTEwMCwgNDAwKTsNCiAgICBsZX",
+                            "QgeSA9IGdldF9yYW5kKC0xMDAsIDQwMCk7DQogICAgbGV0IHcgPSAyMDsNCiAgIC",
+                            "BsZXQgaCA9IDIwOw0KICAgIHJldHVybiBbeCwgeSwgdywgaF0NCiAgfQ0KDQogIG",
+                            "Z1bmN0aW9uIGRyYXdfcmVjdCgpIHsNCiAgICBsZXQgcCA9IGdldF9wbGFjZW1lbn",
+                            "QoKQ0KICAgIGN0eC5maWxsU3R5bGUgPSByYW5kb21Db2xvcihwWzFdKTsNCiAgIC",
+                            "BjdHguZmlsbFJlY3QocFswXSwgcFsxXSwgcFsyXSwgcFszXSk7DQogIH0NCg0KCW",
+                            "Z1bmN0aW9uIGdlbmVyYXRlKCkgew0KCSAgZm9yIChsZXQgaSA9IDA7IGkgPCAzMD",
+                            "AwOyBpKyspIHsNCiAgICAgICAgc2V0VGltZW91dChkcmF3X3JlY3QsIDEwMCk7DQ",
+                            "ogICAgICB9DQoJfQ0KDQoJZnVuY3Rpb24gcmVzZXQoKSB7DQoJICBWID0gKGdldF",
+                            "9yYW5kKDAsIDMpID09IDApOw0KCSAgSCA9IChnZXRfcmFuZCgwLCAzKSA9PSAwKT",
+                            "sNCgkgIFQgPSBnZXRfcmFuZCgwLCAyKQ0KCSAgY29uc29sZS5sb2coVCkNCgkgIG",
+                            "dlbmVyYXRlKCk7DQoJfQ0KDQoJZ2VuZXJhdGUoKTsNCgljYW52YXMuYWRkRXZlbn",
+                            "RMaXN0ZW5lcignY2xpY2snLCBmdW5jdGlvbihldmVudCkgeyByZXNldCgpIH0sIG",
+                            "ZhbHNlKTsNCiAgPC9zY3JpcHQ+DQo8L2h0bWw+DQo="
+                        ],
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/QmTSeo3cwLzdQ97AZg88jwdAG1ui82NMUnSuznf1TA7wmB",
+                "artist": "Abstract Potato",
+                "mediaType": "image\/gif",
+                "description": "Created to help raise funds for Ukraine."
+            }
+        }
+    ]
+}

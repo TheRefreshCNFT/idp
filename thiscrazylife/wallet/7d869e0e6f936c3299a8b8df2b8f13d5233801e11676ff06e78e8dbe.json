@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933771,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "7d869e0e6f936c3299a8b8df2b8f13d5233801e11676ff06e78e8dbe"
+    },
+    "assets_cache": [
+        {
+            "asset": "7d869e0e6f936c3299a8b8df2b8f13d5233801e11676ff06e78e8dbe4649474854",
+            "quantity": null,
+            "policy_id": "7d869e0e6f936c3299a8b8df2b8f13d5233801e11676ff06e78e8dbe",
+            "asset_name": "4649474854",
+            "onchain_metadata": {
+                "name": "FIGHT",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmVPA1JweBNsiMds2kUWZrxdcV1L869NWdC5bEaCZeAacK",
+                        "name": "FIGHT",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmVPA1JweBNsiMds2kUWZrxdcV1L869NWdC5bEaCZeAacK",
+                "symbol": "FIGHT",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 129487812
+                },
+                "mediaType": "image\/png",
+                "description": "Trump said FIGHT FIGHT FIGHT",
+                "totalSupply": "450000000000"
+            }
+        }
+    ]
+}

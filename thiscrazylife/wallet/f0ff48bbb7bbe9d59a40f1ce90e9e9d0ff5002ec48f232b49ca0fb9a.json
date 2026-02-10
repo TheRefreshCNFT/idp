@@ -1,0 +1,542 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933635,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a"
+    },
+    "assets_cache": [
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a000de14061646161646479",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "000de14061646161646479",
+            "onchain_metadata": {
+                "name": "$adaaddy",
+                "image": "ipfs:\/\/zb2rhmu9taFizNGSmPqhsH74uUzGUmSuMnzgNnZpupUpPJX6L",
+                "mediaType": "image\/jpeg",
+                "og": "00",
+                "og_number": "00",
+                "rarity": "46636f6d6d6f6e",
+                "length": "07",
+                "characters": "476c657474657273",
+                "numeric_modifiers": "40",
+                "handle_type": "4668616e646c65",
+                "version": "01"
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a000de140686f646c6d6f6465",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "000de140686f646c6d6f6465",
+            "onchain_metadata": {
+                "name": "$hodlmode",
+                "image": "ipfs:\/\/zb2rhgV5LBkMrfD4B1ac2XZC2ZMNsjnJqSmC6DXx6ip2shXeQ",
+                "mediaType": "image\/jpeg",
+                "og": "00",
+                "og_number": "00",
+                "rarity": "456261736963",
+                "length": "08",
+                "characters": "476c657474657273",
+                "numeric_modifiers": "40",
+                "handle_type": "4668616e646c65",
+                "version": "01"
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a000de1406d7961646479",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "000de1406d7961646479",
+            "onchain_metadata": {
+                "name": "$myaddy",
+                "image": "ipfs:\/\/zb2rhb462jX28PFzonpVdgUNVxjSGxQYd1hvxQX56igyXAH7i",
+                "mediaType": "image\/jpeg",
+                "og": "00",
+                "og_number": "00",
+                "rarity": "46636f6d6d6f6e",
+                "length": "06",
+                "characters": "476c657474657273",
+                "numeric_modifiers": "40",
+                "handle_type": "4668616e646c65",
+                "version": "01"
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a000de140746178736561736f6e",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "000de140746178736561736f6e",
+            "onchain_metadata": {
+                "name": "$taxseason",
+                "image": "ipfs:\/\/zb2rheG7tRqLDSqcz8qJ51Tx4286KJdnTTzRB7wyxhpmT4eE9",
+                "mediaType": "image\/jpeg",
+                "og": "00",
+                "og_number": "00",
+                "rarity": "456261736963",
+                "length": "09",
+                "characters": "476c657474657273",
+                "numeric_modifiers": "40",
+                "handle_type": "4668616e646c65",
+                "version": "01"
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a000de140746865646970",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "000de140746865646970",
+            "onchain_metadata": {
+                "name": "$thedip",
+                "image": "ipfs:\/\/zb2rhnNr7teyjEBu9RiH8uuATMQLkbBKanm1MLxz7TNggwBxB",
+                "mediaType": "image\/jpeg",
+                "og": "00",
+                "og_number": "00",
+                "rarity": "46636f6d6d6f6e",
+                "length": "06",
+                "characters": "476c657474657273",
+                "numeric_modifiers": "40",
+                "handle_type": "4668616e646c65",
+                "version": "01"
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a636f6d6561746d6562726f",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "636f6d6561746d6562726f",
+            "onchain_metadata": {
+                "core": {
+                    "og": 0,
+                    "prefix": "$",
+                    "version": 0,
+                    "termsofuse": "https:\/\/adahandle.com\/tou",
+                    "handleEncoding": "utf-8"
+                },
+                "name": "$comeatmebro",
+                "image": "ipfs:\/\/QmaNwwLsxakjKPtSgqEWHehapd4puAGa8xnse5RMF8THG9",
+                "website": "https:\/\/adahandle.com",
+                "description": "The Handle Standard",
+                "augmentations": []
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a66726535686d75736963",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "66726535686d75736963",
+            "onchain_metadata": {
+                "core": {
+                    "og": 0,
+                    "prefix": "$",
+                    "version": 0,
+                    "termsofuse": "https:\/\/adahandle.com\/tou",
+                    "handleEncoding": "utf-8"
+                },
+                "name": "$fre5hmusic",
+                "image": "ipfs:\/\/QmTQHgAySyWQ3gqiAxj8g7aakCHDMGTEM9k2WwKgbhrnoi",
+                "website": "https:\/\/adahandle.com",
+                "description": "The Handle Standard",
+                "augmentations": []
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a68387273676f6e6e616838",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "68387273676f6e6e616838",
+            "onchain_metadata": {
+                "core": {
+                    "og": 0,
+                    "prefix": "$",
+                    "version": 0,
+                    "termsofuse": "https:\/\/adahandle.com\/tou",
+                    "handleEncoding": "utf-8"
+                },
+                "name": "$h8rsgonnah8",
+                "image": "ipfs:\/\/QmUzj922YqAQqhVRXXDvdU7aRmuXoWz4cx6tzNqsriNA3N",
+                "website": "https:\/\/adahandle.com",
+                "description": "The Handle Standard",
+                "augmentations": []
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a6d7962616e6b6163636f756e74",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "6d7962616e6b6163636f756e74",
+            "onchain_metadata": {
+                "core": {
+                    "og": 0,
+                    "prefix": "$",
+                    "version": 0,
+                    "termsofuse": "https:\/\/adahandle.com\/tou",
+                    "handleEncoding": "utf-8"
+                },
+                "name": "$mybankaccount",
+                "image": "ipfs:\/\/Qmf7yiCv7HEZJ9EYTqUFcDrpxKJcTj8PH4geAKMehuGmD9",
+                "website": "https:\/\/adahandle.com",
+                "description": "The Handle Standard",
+                "augmentations": []
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a6f6e6574776f7468726565",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "6f6e6574776f7468726565",
+            "onchain_metadata": {
+                "core": {
+                    "og": 0,
+                    "prefix": "$",
+                    "version": 0,
+                    "termsofuse": "https:\/\/adahandle.com\/tou",
+                    "handleEncoding": "utf-8"
+                },
+                "name": "$onetwothree",
+                "image": "ipfs:\/\/Qma2nwR3cUSJyLmgTEe8swXDR4DDjrM9RuQaERr3G4jiV8",
+                "website": "https:\/\/adahandle.com",
+                "description": "The Handle Standard",
+                "augmentations": []
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a7461707365727669636573",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "7461707365727669636573",
+            "onchain_metadata": {
+                "core": {
+                    "og": 0,
+                    "prefix": "$",
+                    "version": 0,
+                    "termsofuse": "https:\/\/adahandle.com\/tou",
+                    "handleEncoding": "utf-8"
+                },
+                "name": "$tapservices",
+                "image": "ipfs:\/\/QmU9AVEG8J9Win4HAMommvEqiZvkZVhVmCqZynBDTf5vUA",
+                "website": "https:\/\/adahandle.com",
+                "description": "The Handle Standard",
+                "augmentations": []
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a746869736372617a796c696665",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "746869736372617a796c696665",
+            "onchain_metadata": {
+                "core": {
+                    "og": 0,
+                    "prefix": "$",
+                    "version": 0,
+                    "termsofuse": "https:\/\/adahandle.com\/tou",
+                    "handleEncoding": "utf-8"
+                },
+                "name": "$thiscrazylife",
+                "image": "ipfs:\/\/QmaNfJsjuDLLUx85yYSYi292qBRd8UTC3wVknZ3CUNjGqa",
+                "website": "https:\/\/adahandle.com",
+                "description": "The Handle Standard",
+                "augmentations": []
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a776879736f73616c7479",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "776879736f73616c7479",
+            "onchain_metadata": {
+                "core": {
+                    "og": 0,
+                    "prefix": "$",
+                    "version": 0,
+                    "termsofuse": "https:\/\/adahandle.com\/tou",
+                    "handleEncoding": "utf-8"
+                },
+                "name": "$whysosalty",
+                "image": "ipfs:\/\/QmPLkommPrXSvsUZ9fqX29rNBHesazjrMx8MKUE9KQVBVU",
+                "website": "https:\/\/adahandle.com",
+                "description": "The Handle Standard",
+                "augmentations": []
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a786e2d2d6331796e333666",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "786e2d2d6331796e333666",
+            "onchain_metadata": {
+                "core": {
+                    "og": 0,
+                    "prefix": "$",
+                    "version": 0,
+                    "termsofuse": "https:\/\/adahandle.com\/tou",
+                    "handleEncoding": "utf-8"
+                },
+                "name": "$xn--c1yn36f",
+                "image": "ipfs:\/\/QmXf7LiV2CByCrMrsHSokDbh6CgpdVauo5zwZyC4aMLncc",
+                "website": "https:\/\/adahandle.com",
+                "description": "The Handle Standard",
+                "augmentations": []
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a796f726f69737570706f7274",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "796f726f69737570706f7274",
+            "onchain_metadata": {
+                "core": {
+                    "og": 0,
+                    "prefix": "$",
+                    "version": 0,
+                    "termsofuse": "https:\/\/adahandle.com\/tou",
+                    "handleEncoding": "utf-8"
+                },
+                "name": "$yoroisupport",
+                "image": "ipfs:\/\/QmYBSAkJd8ia7kamP9sJJNaWiBsNJMNz6EFi7Tf4oj41yx",
+                "website": "https:\/\/adahandle.com",
+                "description": "The Handle Standard",
+                "augmentations": []
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a000de140636f6f6c6164647265737362726f",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "000de140636f6f6c6164647265737362726f",
+            "onchain_metadata": {
+                "name": "$cooladdressbro",
+                "image": "ipfs:\/\/zb2rhcYetUabDvK37MqxhxrpuJPQYWnwqDkrLQHKL8Wr5QL3K",
+                "mediaType": "image\/jpeg",
+                "og": "00",
+                "og_number": "00",
+                "rarity": "456261736963",
+                "length": "0e",
+                "characters": "476c657474657273",
+                "numeric_modifiers": "40",
+                "version": "01",
+                "handle_type": "4668616e646c65"
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a000de140646f6e74747275737462616e6b73",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "000de140646f6e74747275737462616e6b73",
+            "onchain_metadata": {
+                "name": "$donttrustbanks",
+                "image": "ipfs:\/\/zb2rheTKzkSVr38tunqoq8oLiRg9C7TP3gf4ainPiNP1e1XXP",
+                "mediaType": "image\/jpeg",
+                "og": "00",
+                "og_number": "00",
+                "rarity": "456261736963",
+                "length": "0e",
+                "characters": "476c657474657273",
+                "numeric_modifiers": "40",
+                "version": "01",
+                "handle_type": "4668616e646c65"
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a000de1406635",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "000de1406635",
+            "onchain_metadata": {
+                "name": "$f5",
+                "image": "ipfs:\/\/zb2rhm3pk83CrtRjgnBoeCx5A9y7naea6hWu8KVNcUshKGn6W",
+                "mediaType": "image\/jpeg",
+                "og": "00",
+                "og_number": "00",
+                "rarity": "4a756c7472615f72617265",
+                "length": "02",
+                "characters": "4f6c6574746572732c6e756d62657273",
+                "numeric_modifiers": "40",
+                "version": "01",
+                "handle_type": "4668616e646c65"
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a000de14066756e646d79647265616d",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "000de14066756e646d79647265616d",
+            "onchain_metadata": {
+                "name": "$fundmydream",
+                "image": "ipfs:\/\/zb2rhaQqD2C1yYe4BERBcWLjwkUspaqXW4Xv6tHsVppHpAL1C",
+                "mediaType": "image\/jpeg",
+                "og": "00",
+                "og_number": "00",
+                "rarity": "456261736963",
+                "length": "0b",
+                "characters": "476c657474657273",
+                "numeric_modifiers": "40",
+                "handle_type": "4668616e646c65",
+                "version": "01"
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a000de1406765746672653568",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "000de1406765746672653568",
+            "onchain_metadata": {
+                "name": "$getfre5h",
+                "image": "ipfs:\/\/zb2rhgcMZBqCTosJ7kYPR9hZgajLDz22vt626u3FStNZCC4Ns",
+                "mediaType": "image\/jpeg",
+                "og": "00",
+                "og_number": "00",
+                "rarity": "456261736963",
+                "length": "08",
+                "characters": "4f6c6574746572732c6e756d62657273",
+                "numeric_modifiers": "40",
+                "handle_type": "4668616e646c65",
+                "version": "01"
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a343230346c796665",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "343230346c796665",
+            "onchain_metadata": {
+                "core": {
+                    "og": 0,
+                    "prefix": "$",
+                    "version": 0,
+                    "termsofuse": "https:\/\/adahandle.com\/tou",
+                    "handleEncoding": "utf-8"
+                },
+                "name": "$4204lyfe",
+                "image": "ipfs:\/\/QmZacQ7QPhxPp6oHEWiZi632midhvJZ8QtGd4ke4PQcgAR",
+                "website": "https:\/\/adahandle.com",
+                "description": "The Handle Standard",
+                "augmentations": []
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a62746664796f6c6f",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "62746664796f6c6f",
+            "onchain_metadata": {
+                "core": {
+                    "og": 0,
+                    "prefix": "$",
+                    "version": 0,
+                    "termsofuse": "https:\/\/adahandle.com\/tou",
+                    "handleEncoding": "utf-8"
+                },
+                "name": "$btfdyolo",
+                "image": "ipfs:\/\/Qmb1EeW9umrg4njGGFcMRjqSaz1QJsfTzwEBToznpCEEWj",
+                "website": "https:\/\/adahandle.com",
+                "description": "The Handle Standard",
+                "augmentations": []
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a6372617a796b69746368656e",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "6372617a796b69746368656e",
+            "onchain_metadata": {
+                "core": {
+                    "og": 0,
+                    "prefix": "$",
+                    "version": 0,
+                    "termsofuse": "https:\/\/adahandle.com\/tou",
+                    "handleEncoding": "utf-8"
+                },
+                "name": "$crazykitchen",
+                "image": "ipfs:\/\/QmQiYZz9NAArBAAmtX3V2Vg58cL8YAtrPgu4hapR9RUwsq",
+                "website": "https:\/\/adahandle.com",
+                "description": "The Handle Standard",
+                "augmentations": []
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a6963756c6f6f6b696e",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "6963756c6f6f6b696e",
+            "onchain_metadata": {
+                "core": {
+                    "og": 0,
+                    "prefix": "$",
+                    "version": 0,
+                    "termsofuse": "https:\/\/adahandle.com\/tou",
+                    "handleEncoding": "utf-8"
+                },
+                "name": "$iculookin",
+                "image": "ipfs:\/\/QmXHy2Nu5X5VnmL7mKByyj8y1meTSkY569xMTjhKdMHvS1",
+                "website": "https:\/\/adahandle.com",
+                "description": "The Handle Standard",
+                "augmentations": []
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a746170746861746173736574",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "746170746861746173736574",
+            "onchain_metadata": {
+                "core": {
+                    "og": 0,
+                    "prefix": "$",
+                    "version": 0,
+                    "termsofuse": "https:\/\/adahandle.com\/tou",
+                    "handleEncoding": "utf-8"
+                },
+                "name": "$tapthatasset",
+                "image": "ipfs:\/\/QmebEiejYYDHxdr2j4T3de64SyfUGJ8CCoFNjddtCjNNC7",
+                "website": "https:\/\/adahandle.com",
+                "description": "The Handle Standard",
+                "augmentations": []
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a786e2d2d352d32736e7731363273",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "786e2d2d352d32736e7731363273",
+            "onchain_metadata": {
+                "core": {
+                    "og": 0,
+                    "prefix": "$",
+                    "version": 0,
+                    "termsofuse": "https:\/\/adahandle.com\/tou",
+                    "handleEncoding": "utf-8"
+                },
+                "name": "$xn--5-2snw162s",
+                "image": "ipfs:\/\/QmWbft2wVUBuK5orVB4DAYgCUctbmqfkQjSPYTqe9CeHvB",
+                "website": "https:\/\/adahandle.com",
+                "description": "The Handle Standard",
+                "augmentations": []
+            }
+        },
+        {
+            "asset": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a786e2d2d36753868",
+            "quantity": null,
+            "policy_id": "f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a",
+            "asset_name": "786e2d2d36753868",
+            "onchain_metadata": {
+                "core": {
+                    "og": 0,
+                    "prefix": "$",
+                    "version": 0,
+                    "termsofuse": "https:\/\/adahandle.com\/tou",
+                    "handleEncoding": "utf-8"
+                },
+                "name": "$xn--6u8h",
+                "image": "ipfs:\/\/QmNTjYgD9SAUvcbUQoBgipmjC2RtFtTrbEgBfEPQZ3Z2Cd",
+                "website": "https:\/\/adahandle.com",
+                "description": "The Handle Standard",
+                "augmentations": []
+            }
+        }
+    ]
+}

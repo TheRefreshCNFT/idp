@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933617,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "e13f55c16b8718edac43614146c00cadc45991af3a5355d0386a9f03"
+    },
+    "assets_cache": [
+        {
+            "asset": "e13f55c16b8718edac43614146c00cadc45991af3a5355d0386a9f0343727970746f536f636b7a",
+            "quantity": null,
+            "policy_id": "e13f55c16b8718edac43614146c00cadc45991af3a5355d0386a9f03",
+            "asset_name": "43727970746f536f636b7a",
+            "onchain_metadata": {
+                "X": "https:\/\/x.com\/cardanosockz",
+                "name": "Crypto Sockz",
+                "image": "ipfs:\/\/QmcSJZWbpueNeejdUsWRmT9MeJZX8d9AQhSm4AvNjzX6qa",
+                "ticker": "SOCKZ",
+                "Discord": "https:\/\/discord.gg\/sockz",
+                "Website": "https:\/\/sockz.store",
+                "description": "The excitement of memes on high quality sockz"
+            }
+        }
+    ]
+}

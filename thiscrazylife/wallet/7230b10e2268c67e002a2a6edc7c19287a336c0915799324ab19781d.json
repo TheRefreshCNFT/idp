@@ -1,0 +1,150 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933649,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "7230b10e2268c67e002a2a6edc7c19287a336c0915799324ab19781d"
+    },
+    "assets_cache": [
+        {
+            "asset": "7230b10e2268c67e002a2a6edc7c19287a336c0915799324ab19781d001bc2804d616765486174",
+            "quantity": null,
+            "policy_id": "7230b10e2268c67e002a2a6edc7c19287a336c0915799324ab19781d",
+            "asset_name": "001bc2804d616765486174",
+            "onchain_metadata": {
+                "files": [
+                    {
+                        "mediaType": "application\/octet-stream",
+                        "name": "MageHat.fbx",
+                        "src": "ipfs:\/\/bafybeiddubfd27ei5yulbpvopwbipertj3luna3qbaxjcigca6pabnao2m"
+                    },
+                    {
+                        "mediaType": "model\/gltf-binary",
+                        "name": "MageHat.glb",
+                        "src": "ipfs:\/\/bafybeidwj2goctklh5djo5cugx3paiiblyzrebitbvd2t6ulo4duwlu7xu"
+                    }
+                ],
+                "Slot": "4448656164",
+                "name": "MageHat",
+                "image": "ipfs:\/\/bafybeian2bykrtjlqud7suyoinx5u324sluvo2cszsctmzratssbqktrlu"
+            }
+        },
+        {
+            "asset": "7230b10e2268c67e002a2a6edc7c19287a336c0915799324ab19781d001bc2805761746572696e6743616e",
+            "quantity": null,
+            "policy_id": "7230b10e2268c67e002a2a6edc7c19287a336c0915799324ab19781d",
+            "asset_name": "001bc2805761746572696e6743616e",
+            "onchain_metadata": {
+                "files": [
+                    {
+                        "mediaType": "application\/octet-stream",
+                        "name": "WateringCan.fbx",
+                        "src": "ipfs:\/\/bafybeids5zgwozyh536kmjgb6lkv33kknymv2vvq7er37dnufwd55abhju"
+                    },
+                    {
+                        "mediaType": "model\/gltf-binary",
+                        "name": "WateringCan.glb",
+                        "src": "ipfs:\/\/bafybeidxd52j74ptybg4jivlotzxnq3jwsczmuz3lgbu46ithw4rr74j6m"
+                    }
+                ],
+                "Slot": "4548616e6473",
+                "name": "WateringCan",
+                "image": "ipfs:\/\/bafybeieznufhnlzfmxv6sl5xrizzxm4fcubebikepx3eokmytmvbv57kda"
+            }
+        },
+        {
+            "asset": "7230b10e2268c67e002a2a6edc7c19287a336c0915799324ab19781d001bc2804261736562616c6c476c6f7665",
+            "quantity": null,
+            "policy_id": "7230b10e2268c67e002a2a6edc7c19287a336c0915799324ab19781d",
+            "asset_name": "001bc2804261736562616c6c476c6f7665",
+            "onchain_metadata": {
+                "files": [
+                    {
+                        "mediaType": "application\/octet-stream",
+                        "name": "BaseballGlove.fbx",
+                        "src": "ipfs:\/\/bafybeibspbnmijwimo3e6zyg5wmnaimbk7vlx23fivelzmjmkwutf2a7hy"
+                    },
+                    {
+                        "mediaType": "model\/gltf-binary",
+                        "name": "BaseballGlove.glb",
+                        "src": "ipfs:\/\/bafybeigm6bwq26hnahojbgyjahyt4pbs77jsvbz5zs4hmzuyvlmzvflxru"
+                    }
+                ],
+                "Slot": "4548616e6473",
+                "name": "BaseballGlove",
+                "image": "ipfs:\/\/bafybeicwjbat2bne5bnlhhxlchvaz4ro6xcei2z7vilckm4h4omdxpeqte"
+            }
+        },
+        {
+            "asset": "7230b10e2268c67e002a2a6edc7c19287a336c0915799324ab19781d001bc280476f6c66436c7562447269766572",
+            "quantity": null,
+            "policy_id": "7230b10e2268c67e002a2a6edc7c19287a336c0915799324ab19781d",
+            "asset_name": "001bc280476f6c66436c7562447269766572",
+            "onchain_metadata": {
+                "files": [
+                    {
+                        "mediaType": "application\/octet-stream",
+                        "name": "GolfClubDriver.fbx",
+                        "src": "ipfs:\/\/bafybeift6ehhoqwjox77ubzwcwgan7ru4o55iqbsfigw5zradksm72wjb4"
+                    },
+                    {
+                        "mediaType": "model\/gltf-binary",
+                        "name": "GolfClubDriver.glb",
+                        "src": "ipfs:\/\/bafybeibrygqhjiswqpbzidokfruuq2ppd2ftev4rwm5v4asst2ajwhy6ka"
+                    }
+                ],
+                "Slot": "4548616e6473",
+                "name": "GolfClubDriver",
+                "image": "ipfs:\/\/bafybeihkanpvntxzw2saipnbualx3qcqyiqtctnrbifhuto3ihw35woh5u"
+            }
+        },
+        {
+            "asset": "7230b10e2268c67e002a2a6edc7c19287a336c0915799324ab19781d001bc2805363726577647269766572",
+            "quantity": null,
+            "policy_id": "7230b10e2268c67e002a2a6edc7c19287a336c0915799324ab19781d",
+            "asset_name": "001bc2805363726577647269766572",
+            "onchain_metadata": {
+                "files": [
+                    {
+                        "mediaType": "application\/octet-stream",
+                        "name": "Screwdriver.fbx",
+                        "src": "ipfs:\/\/bafybeihc6iivh7qpvldsxhhetsgezvjtmpl4irlwxcx4xgjs6voxrj5cou"
+                    },
+                    {
+                        "mediaType": "model\/gltf-binary",
+                        "name": "Screwdriver.glb",
+                        "src": "ipfs:\/\/bafybeifcyatnj7kyebyihebva2q773xjb5wc62zuqm4arijfrzlqj7djna"
+                    }
+                ],
+                "Slot": "4548616e6473",
+                "name": "Screwdriver",
+                "image": "ipfs:\/\/bafybeig6hlkphsynorxst62lhim3lehngxhthntwl3tgcq5eix4m7mgjka"
+            }
+        },
+        {
+            "asset": "7230b10e2268c67e002a2a6edc7c19287a336c0915799324ab19781d001bc2805772656e6368",
+            "quantity": null,
+            "policy_id": "7230b10e2268c67e002a2a6edc7c19287a336c0915799324ab19781d",
+            "asset_name": "001bc2805772656e6368",
+            "onchain_metadata": {
+                "files": [
+                    {
+                        "mediaType": "application\/octet-stream",
+                        "name": "Wrench.fbx",
+                        "src": "ipfs:\/\/bafybeiepmoxhojapxbpouc3nv77rhk4eivclwq4mlz4gkcspzuqzqctzqa"
+                    },
+                    {
+                        "mediaType": "model\/gltf-binary",
+                        "name": "Wrench.glb",
+                        "src": "ipfs:\/\/bafybeic63xqcbospwc5jue6cj5jrc6c5i4jrln4zdnvv5k37vgyamq4lgi"
+                    }
+                ],
+                "Slot": "4548616e6473",
+                "name": "Wrench",
+                "image": "ipfs:\/\/bafybeie3x3mdrlzlh6ikafqzwwsfxtojvkh7zqkziwf52s2oo545nhk6se"
+            }
+        }
+    ]
+}

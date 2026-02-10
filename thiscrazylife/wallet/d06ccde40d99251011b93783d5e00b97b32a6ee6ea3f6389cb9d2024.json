@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933617,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "d06ccde40d99251011b93783d5e00b97b32a6ee6ea3f6389cb9d2024"
+    },
+    "assets_cache": [
+        {
+            "asset": "d06ccde40d99251011b93783d5e00b97b32a6ee6ea3f6389cb9d2024535434",
+            "quantity": null,
+            "policy_id": "d06ccde40d99251011b93783d5e00b97b32a6ee6ea3f6389cb9d2024",
+            "asset_name": "535434",
+            "onchain_metadata": {
+                "id": "1",
+                "name": "Shit TIckets",
+                "nsfw": "False",
+                "image": "ipfs:\/\/QmbwC4BqUCd2bcR5jmMYFnGE3zTjfWoZyPdqCnEpxRCBFE",
+                "rarity": "Super-Mega-Ultra-Rare",
+                "Version": "Tier 4",
+                "copyright": "Mosie-Mark @2021"
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933710,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "465190ab16adad7e2680166de187bd092c8cf3b98d256c3a0fd4cff2"
+    },
+    "assets_cache": [
+        {
+            "asset": "465190ab16adad7e2680166de187bd092c8cf3b98d256c3a0fd4cff24361726461426f797a",
+            "quantity": null,
+            "policy_id": "465190ab16adad7e2680166de187bd092c8cf3b98d256c3a0fd4cff2",
+            "asset_name": "4361726461426f797a",
+            "onchain_metadata": {
+                "name": "\"CardaLordz\" - Island Boys",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmaCoLmqCRB6KzAD26eAb6eMEXbuv3oRyVnHwzuBdB4SRT",
+                        "the Rug": {
+                            "Last Tweet": [
+                                "https:\/\/twitter.com\/cardalordz\/status\/",
+                                "1527139613659348993?s=20"
+                            ]
+                        },
+                        "mediaType": "video\/quicktime",
+                        "Cardalordz": "14 Sept 2021 \u2013 19 May 2022",
+                        "Collection": "Rugpull Adventures",
+                        "Description": [
+                            "One of the most legendary shills in",
+                            "the history of Cardano:",
+                            "The infamous CardaLordz, before their rugpull",
+                            "hires the Island Boys on Cameo to",
+                            "shill their project."
+                        ],
+                        "book Island Boys": {
+                            "Cameo": "https:\/\/www.cameo.com\/islandboys"
+                        }
+                    },
+                    {
+                        "src": "ipfs:\/\/QmT3r8BqKyXMkbZs7ZoVG5gjd37ur3T6yWk3tUNQaE953a",
+                        "name": "For Context",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmaHoHQgxbS3fmW95jnHYnk3wacbUgRnBkTC7N9KD3QGLR",
+                        "name": "The Cardaverse: 'No scam here guys!'",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmTwT7maBjviF89kYPoFyKaNtEcWU6jAoMJF1wLF2dhLtM",
+                        "name": "The Cardaverse: Modern Day",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmTqYgjZdXMMXCC2HHe4NbkduBov95nAm8g9xdqgz8n7H6",
+                        "name": "Never Forget \ud83d\udd6f\ufe0f",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "image": "ipfs:\/\/QmQzes8PxcsngoCzxQPr6cCq1sDumqo2EqLqSocSRboQd1",
+                "mediaType": "image\/jpeg"
+            }
+        }
+    ]
+}

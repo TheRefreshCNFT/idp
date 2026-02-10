@@ -1,0 +1,83 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933735,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "8733f26b97804d2b7ee4f1eadd45a4f869c7cdb647769d5247ac57df"
+    },
+    "assets_cache": [
+        {
+            "asset": "8733f26b97804d2b7ee4f1eadd45a4f869c7cdb647769d5247ac57df54686552656672657368426174746c654368616d70696f6e",
+            "quantity": null,
+            "policy_id": "8733f26b97804d2b7ee4f1eadd45a4f869c7cdb647769d5247ac57df",
+            "asset_name": "54686552656672657368426174746c654368616d70696f6e",
+            "onchain_metadata": {
+                "name": "The Refresh Battle Champion",
+                "type": "Trophy",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmeKTSY2M3Ehn8XbLyswPVtwfPjFUyofVvpbyQ2nbW8r9v",
+                        "name": "The Refresh Battle Champion",
+                        "mediaType": "image\/gif"
+                    }
+                ],
+                "image": "ipfs:\/\/QmeKTSY2M3Ehn8XbLyswPVtwfPjFUyofVvpbyQ2nbW8r9v",
+                "artist": "thiscrazylife",
+                "policy": {
+                    "type": "all",
+                    "scripts": [
+                        {
+                            "slot": 42650372,
+                            "type": "before"
+                        },
+                        {
+                            "type": "sig",
+                            "keyHash": "41a44f94a1f4547a1e3a9d0aad1a291b954ed2aefb77ee741471e2e2"
+                        }
+                    ]
+                },
+                "traits": [
+                    "Battle Champion"
+                ]
+            }
+        },
+        {
+            "asset": "8733f26b97804d2b7ee4f1eadd45a4f869c7cdb647769d5247ac57df54686552656672657368476f6c64",
+            "quantity": null,
+            "policy_id": "8733f26b97804d2b7ee4f1eadd45a4f869c7cdb647769d5247ac57df",
+            "asset_name": "54686552656672657368476f6c64",
+            "onchain_metadata": {
+                "url": "https:\/\/twitter.com\/_ThisCr8zyLife_",
+                "name": "The Refresh Gold",
+                "type": "Award",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmSY2anPiWKNrTLfZw5Hsgf2UAwN6hC7jZTqjgqmeEgG9D",
+                        "name": "The Refresh Gold",
+                        "mediaType": "image\/gif"
+                    }
+                ],
+                "image": "ipfs:\/\/QmSY2anPiWKNrTLfZw5Hsgf2UAwN6hC7jZTqjgqmeEgG9D",
+                "artist": "thiscrazylife",
+                "policy": {
+                    "type": "all",
+                    "scripts": [
+                        {
+                            "slot": 42650372,
+                            "type": "before"
+                        },
+                        {
+                            "type": "sig",
+                            "keyHash": "41a44f94a1f4547a1e3a9d0aad1a291b954ed2aefb77ee741471e2e2"
+                        }
+                    ]
+                },
+                "traits": [
+                    "Gold"
+                ]
+            }
+        }
+    ]
+}

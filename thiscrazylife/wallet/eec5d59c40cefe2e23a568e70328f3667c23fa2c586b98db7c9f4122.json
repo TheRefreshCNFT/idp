@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933821,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "eec5d59c40cefe2e23a568e70328f3667c23fa2c586b98db7c9f4122"
+    },
+    "assets_cache": [
+        {
+            "asset": "eec5d59c40cefe2e23a568e70328f3667c23fa2c586b98db7c9f4122434f43",
+            "quantity": null,
+            "policy_id": "eec5d59c40cefe2e23a568e70328f3667c23fa2c586b98db7c9f4122",
+            "asset_name": "434f43",
+            "onchain_metadata": {
+                "url": "https:\/\/coc.cash",
+                "name": "COC Coin",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/Qmaxdqc41p1eS4Yg4vsnKarRKaNii8GZd6E8kH4s7dXMXj",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmQYhHa6m1PhmmjV3NUXiz1zhBtEifFGRLDRhMuysMFwzC",
+                "ticker": "COC",
+                "mediaType": "image\/png",
+                "description": [
+                    "Fight FUD with COC. Confidence, Optimism and Courage.",
+                    "A Cardano positivity token."
+                ]
+            }
+        }
+    ]
+}

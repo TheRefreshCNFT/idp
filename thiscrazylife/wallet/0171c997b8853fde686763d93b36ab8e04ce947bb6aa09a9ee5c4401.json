@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933710,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "0171c997b8853fde686763d93b36ab8e04ce947bb6aa09a9ee5c4401"
+    },
+    "assets_cache": [
+        {
+            "asset": "0171c997b8853fde686763d93b36ab8e04ce947bb6aa09a9ee5c4401544f4b454e",
+            "quantity": null,
+            "policy_id": "0171c997b8853fde686763d93b36ab8e04ce947bb6aa09a9ee5c4401",
+            "asset_name": "544f4b454e",
+            "onchain_metadata": {
+                "name": "TOKEN",
+                "image": "ipfs:\/\/QmfC8iUznauGUugNwyV94GmA3MwJU527tVGDvuMZnqUhRr",
+                "artist": "TOKEN",
+                "summary": "Token minted as a stake pool reward. Ticker: TOKEN",
+                "assetType": "FT",
+                "mediaType": "image\/png",
+                "publisher": [
+                    "https:\/\/token.stakepool.cc\/",
+                    "https:\/\/tokhun.io"
+                ]
+            }
+        }
+    ]
+}

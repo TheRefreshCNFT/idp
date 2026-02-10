@@ -1,0 +1,80 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933721,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "58646bb59af133ef63e5ac6eb79dddafe9ac76472d2b6f729c6e970b"
+    },
+    "assets_cache": [
+        {
+            "asset": "58646bb59af133ef63e5ac6eb79dddafe9ac76472d2b6f729c6e970b4e46463230323330303031",
+            "quantity": null,
+            "policy_id": "58646bb59af133ef63e5ac6eb79dddafe9ac76472d2b6f729c6e970b",
+            "asset_name": "4e46463230323330303031",
+            "onchain_metadata": {
+                "name": "NFF2023#0001",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmUR1gBTHiNNwCzhqwk3NJFGyoGDnJdn2LSK9MPKQjACKD",
+                        "name": "NFF2023#0001",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/Qmf5FtXAYv2NfQmcncJZSB4opTU7wggYQBj6VCnfyB7imK",
+                        "name": "NFF2023#0001",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmUR1gBTHiNNwCzhqwk3NJFGyoGDnJdn2LSK9MPKQjACKD",
+                "Discord": "https:\/\/discord.gg\/yBMmTJxVc6",
+                "Project": "Nucast Film Festival 2023",
+                "Twitter": "https:\/\/twitter.com\/NucastIO",
+                "mediaType": "image\/png",
+                "description": [
+                    "Experience the future of films at nucast.io.",
+                    "Get access to Cardano's first film festival through this ticket.",
+                    "We are creating history on Cardano.",
+                    "And you are invited to be a part of it!"
+                ],
+                "Voting Power": "One vote",
+                "Redeemable at": "https:\/\/app.nucast.io\/fest"
+            }
+        },
+        {
+            "asset": "58646bb59af133ef63e5ac6eb79dddafe9ac76472d2b6f729c6e970b4e46463230323330363336",
+            "quantity": null,
+            "policy_id": "58646bb59af133ef63e5ac6eb79dddafe9ac76472d2b6f729c6e970b",
+            "asset_name": "4e46463230323330363336",
+            "onchain_metadata": {
+                "name": "NFF2023#0636",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmUR1gBTHiNNwCzhqwk3NJFGyoGDnJdn2LSK9MPKQjACKD",
+                        "name": "NFF2023#0636",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/Qmf5FtXAYv2NfQmcncJZSB4opTU7wggYQBj6VCnfyB7imK",
+                        "name": "NFF2023#0636",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmUR1gBTHiNNwCzhqwk3NJFGyoGDnJdn2LSK9MPKQjACKD",
+                "Discord": "https:\/\/discord.gg\/yBMmTJxVc6",
+                "Project": "Nucast Film Festival 2023",
+                "Twitter": "https:\/\/twitter.com\/NucastIO",
+                "mediaType": "image\/png",
+                "description": [
+                    "Experience the future of films at nucast.io.",
+                    "Get access to Cardano's first film festival through this ticket.",
+                    "We are creating history on Cardano.",
+                    "And you are invited to be a part of it!"
+                ],
+                "Voting Power": "One vote",
+                "Redeemable at": "https:\/\/app.nucast.io\/fest"
+            }
+        }
+    ]
+}

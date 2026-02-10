@@ -1,0 +1,1869 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933666,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "5ef7ae249f3922c7a0351eab76d45c64c1a8a4c867f788e5a465746a"
+    },
+    "assets_cache": [
+        {
+            "asset": "5ef7ae249f3922c7a0351eab76d45c64c1a8a4c867f788e5a465746a43656c6c50686f6e655265636f726473325f303031",
+            "quantity": null,
+            "policy_id": "5ef7ae249f3922c7a0351eab76d45c64c1a8a4c867f788e5a465746a",
+            "asset_name": "43656c6c50686f6e655265636f726473325f303031",
+            "onchain_metadata": {
+                "name": "I Probably Should Not Have Said That #1",
+                "files": [
+                    {
+                        "src": [
+                            "ar:\/\/L3_VVy_Bv0PRVLtSTM063hS8yVGfGgxoupx13D_IZNk",
+                            "\/index.html"
+                        ],
+                        "mediaType": "text\/html"
+                    },
+                    {
+                        "src": "ar:\/\/O1xOltXnhmjuSZK53z_XzWfwE314CqGS0djxdksBdz8",
+                        "isrc": "ISRC CB-ECY-24-00001",
+                        "mood": "Relaxing, Soft",
+                        "name": "A Marie",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/M0VtJ5EZAudEw-FAEcyRwG9u1ne6tpVvux61sTANlm0",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "A Marie",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "1",
+                        "song_duration": "PT1M50S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/ojyuvR_rErunV411tTORAoVS-2rjaWBM5TJ-ZnSiFYM",
+                        "name": "A Marie Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/b5MryAzQriAVS_GNjukiS2A0czo17BmVQlxu1CMYwu8",
+                        "isrc": "ISRC CB-ECY-24-00002",
+                        "mood": "Relaxing, Soft",
+                        "name": "Basement Song",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/R7FPez9-Hpkyh9ZIsoZJvWqXmZxbQ52xIn03rW-TkNs",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Basement Song",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "2",
+                        "song_duration": "PT3M24S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/WG4fdsfpboPInybaSj4kmMLQBSj19N8bDpLjOpv-rUA",
+                        "name": "Basement Song Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/0l5wabdaIyG2ycrpY-hDGjzoI5mcqTy_AtuTESpT8dU",
+                        "isrc": "ISRC CB-ECY-24-00003",
+                        "mood": "Relaxing, Soft",
+                        "name": "Allo",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/QpmjsaWpj0NMfy4dvK-6HnWEr-zl2bTDKESpPtm-o_k",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": " Allo",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "3",
+                        "song_duration": "PT1M37S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/-NwacuAo5wUXJvcGurFgJKIpZPf_FeEnJ0AaGCgZcVA",
+                        "name": "Allo Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/pJwEMuZxVNtPhFfVf7akKXR52u6RoCVHAWax4WUROpY",
+                        "isrc": "ISRC CB-ECY-24-00004",
+                        "mood": "Relaxing, Soft",
+                        "name": "Who Are We",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/vodenZ1U7FYeK50K_aWs8yzKkH16645PAeYEl3EjTy0",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Who Are We",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "4",
+                        "song_duration": "PT4M08S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/6fC-UY1B7vXMTvGRpiq4mZEsBI7yvcYuSWsq1D0zRdY",
+                        "name": "Who Are We Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/TpzMr1jSnxnPHqIhKG9tsLrzyrcBr2klb5ge9P9IUIQ",
+                        "isrc": "ISRC CB-ECY-24-00005",
+                        "mood": "Relaxing, Soft",
+                        "name": "Beaten Battered Shoreline",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/xV90rve5GJuG4r2GCLI2uCD2vgCzweADVrG2ntTFtbI",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Beaten Battered Shoreline",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "5",
+                        "song_duration": "PT3M06S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/CDYhoYjlWJeuzDe5JX-prE93wzZuUW9LpS2CsqBDFFE",
+                        "name": "Beaten Battered Shoreline Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/UOYdxap90l7y5jb15qljrB1BgRd6SQiMgI64nl5eWXw",
+                        "isrc": "ISRC CB-ECY-24-00006",
+                        "mood": "Relaxing, Soft",
+                        "name": "Midnight",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/m8kF44I5PGlFjXFR2y6jtE9__n3LlvbT6AK0d4S_GfA",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Midnight",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "6",
+                        "song_duration": "PT2M20S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/aVezWAgYbcZE9pf5CZAbZr1BFid6_siXKiRpea_HwTw",
+                        "name": "Midnight Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/0pr8BPJEZaYjz_D9hiC_AcLUOeVBx9GPfMcxHEbpsd0",
+                        "isrc": "ISRC CB-ECY-24-00007",
+                        "mood": "Relaxing, Soft",
+                        "name": "Standing Undressed",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/-Et_hvumWPddGpT9dZ7fYJ3tF_zd-pgg92WvrQHxZ9I",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Standing Undressed",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "7",
+                        "song_duration": "PT1M29S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/K4XRYLraLp3rm2yUVUHFsB6PVwJrId8MmtfB3YQdmbQ",
+                        "name": "Standing Undressed Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/41wco6AiRlpSGdBjGvlFM5uStcjTSfSyPA_UGSDg1_I",
+                        "isrc": "ISRC CB-ECY-24-00008",
+                        "mood": "Relaxing, Soft",
+                        "name": "Mommas Boy",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/d1OLVL1pZ8GpMn8WAvBZteM0U2BbtbVt_Jvr7NjIayU",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Mommas Boy",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "8",
+                        "song_duration": "PT1M57S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/Va0kwpzwvd_4ddpLs8KTjlp9nKEB1Rw-YcHAGovxB80",
+                        "name": "Mommas Boy Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/pyrkbvnfn6uX1Hz0J-l7secEtI70UguC3MNmzu6zaXA",
+                        "isrc": "ISRC CB-ECY-24-00009",
+                        "mood": "Relaxing, Soft",
+                        "name": "Exhale",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/h0ERo_fs6AGqXBLP1CWPN6qwKKafFcx5H5DIKV64kS4",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Exhale",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "9",
+                        "song_duration": "PT1M52S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/I9q2Q9_BqIm0tqkJ-OBQXIF5CtwfNjs4Sd93ixM0CgY",
+                        "name": "Exhale Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/kqBb7G8hazEHjyKzI4HpKT4hbtJ1CJT6VFF9wYSnn04",
+                        "isrc": "ISRC CB-ECY-24-00010",
+                        "mood": "Relaxing, Soft",
+                        "name": "Those Three Words",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/-okjeuVnRxjGFHv3chuw0msuDa4mmqJu6F-WCUKnbxY",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Those Three Words",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "10",
+                        "song_duration": "PT1M21S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/ZNU1Y7VeLDxfTRRPG25f6KG7j_khUMG-B-WQUF56kTE",
+                        "name": "Those Three Words Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/ZOr13267xfOxnEPYJrWNa4lEavE-e5DAtn-ZKJ_E1h0",
+                        "name": "Album Cover Art - Main",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/8QgKRYHQr4fGQS31iyb0FoXRzA70sdpAeVBypPn5CzM",
+                        "name": "Album Cover Art - Bonus 1",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/CCDTGjhJDKNFMpu_ocoUeop73VHxML_c93s06QT7tWs",
+                        "name": "Album Cover Art - Bonus 2",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/vJ0a_kPVd5Btbaornpej80eUVLF5lN7prTZTLDvRrPg",
+                        "name": "Background Art",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ar:\/\/ZOr13267xfOxnEPYJrWNa4lEavE-e5DAtn-ZKJ_E1h0",
+                "version": "1.0",
+                "mediaType": "image\/png",
+                "distributor": "https:\/\/twitter.com\/Fre5hMusic",
+                "release_date": "2024-05-04",
+                "release_type": "Multiple",
+                "music_metadata_version": "1"
+            }
+        },
+        {
+            "asset": "5ef7ae249f3922c7a0351eab76d45c64c1a8a4c867f788e5a465746a43656c6c50686f6e655265636f726473325f303032",
+            "quantity": null,
+            "policy_id": "5ef7ae249f3922c7a0351eab76d45c64c1a8a4c867f788e5a465746a",
+            "asset_name": "43656c6c50686f6e655265636f726473325f303032",
+            "onchain_metadata": {
+                "name": "I Probably Should Not Have Said That #2",
+                "files": [
+                    {
+                        "src": [
+                            "ar:\/\/L3_VVy_Bv0PRVLtSTM063hS8yVGfGgxoupx13D_IZNk",
+                            "\/index.html"
+                        ],
+                        "mediaType": "text\/html"
+                    },
+                    {
+                        "src": "ar:\/\/O1xOltXnhmjuSZK53z_XzWfwE314CqGS0djxdksBdz8",
+                        "isrc": "ISRC CB-ECY-24-00001",
+                        "mood": "Relaxing, Soft",
+                        "name": "A Marie",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/M0VtJ5EZAudEw-FAEcyRwG9u1ne6tpVvux61sTANlm0",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "A Marie",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "1",
+                        "song_duration": "PT1M50S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/ojyuvR_rErunV411tTORAoVS-2rjaWBM5TJ-ZnSiFYM",
+                        "name": "A Marie Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/b5MryAzQriAVS_GNjukiS2A0czo17BmVQlxu1CMYwu8",
+                        "isrc": "ISRC CB-ECY-24-00002",
+                        "mood": "Relaxing, Soft",
+                        "name": "Basement Song",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/R7FPez9-Hpkyh9ZIsoZJvWqXmZxbQ52xIn03rW-TkNs",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Basement Song",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "2",
+                        "song_duration": "PT3M24S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/WG4fdsfpboPInybaSj4kmMLQBSj19N8bDpLjOpv-rUA",
+                        "name": "Basement Song Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/0l5wabdaIyG2ycrpY-hDGjzoI5mcqTy_AtuTESpT8dU",
+                        "isrc": "ISRC CB-ECY-24-00003",
+                        "mood": "Relaxing, Soft",
+                        "name": "Allo",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/QpmjsaWpj0NMfy4dvK-6HnWEr-zl2bTDKESpPtm-o_k",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": " Allo",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "3",
+                        "song_duration": "PT1M37S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/-NwacuAo5wUXJvcGurFgJKIpZPf_FeEnJ0AaGCgZcVA",
+                        "name": "Allo Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/pJwEMuZxVNtPhFfVf7akKXR52u6RoCVHAWax4WUROpY",
+                        "isrc": "ISRC CB-ECY-24-00004",
+                        "mood": "Relaxing, Soft",
+                        "name": "Who Are We",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/vodenZ1U7FYeK50K_aWs8yzKkH16645PAeYEl3EjTy0",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Who Are We",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "4",
+                        "song_duration": "PT4M08S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/6fC-UY1B7vXMTvGRpiq4mZEsBI7yvcYuSWsq1D0zRdY",
+                        "name": "Who Are We Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/TpzMr1jSnxnPHqIhKG9tsLrzyrcBr2klb5ge9P9IUIQ",
+                        "isrc": "ISRC CB-ECY-24-00005",
+                        "mood": "Relaxing, Soft",
+                        "name": "Beaten Battered Shoreline",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/xV90rve5GJuG4r2GCLI2uCD2vgCzweADVrG2ntTFtbI",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Beaten Battered Shoreline",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "5",
+                        "song_duration": "PT3M06S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/CDYhoYjlWJeuzDe5JX-prE93wzZuUW9LpS2CsqBDFFE",
+                        "name": "Beaten Battered Shoreline Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/UOYdxap90l7y5jb15qljrB1BgRd6SQiMgI64nl5eWXw",
+                        "isrc": "ISRC CB-ECY-24-00006",
+                        "mood": "Relaxing, Soft",
+                        "name": "Midnight",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/m8kF44I5PGlFjXFR2y6jtE9__n3LlvbT6AK0d4S_GfA",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Midnight",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "6",
+                        "song_duration": "PT2M20S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/aVezWAgYbcZE9pf5CZAbZr1BFid6_siXKiRpea_HwTw",
+                        "name": "Midnight Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/0pr8BPJEZaYjz_D9hiC_AcLUOeVBx9GPfMcxHEbpsd0",
+                        "isrc": "ISRC CB-ECY-24-00007",
+                        "mood": "Relaxing, Soft",
+                        "name": "Standing Undressed",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/-Et_hvumWPddGpT9dZ7fYJ3tF_zd-pgg92WvrQHxZ9I",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Standing Undressed",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "7",
+                        "song_duration": "PT1M29S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/K4XRYLraLp3rm2yUVUHFsB6PVwJrId8MmtfB3YQdmbQ",
+                        "name": "Standing Undressed Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/41wco6AiRlpSGdBjGvlFM5uStcjTSfSyPA_UGSDg1_I",
+                        "isrc": "ISRC CB-ECY-24-00008",
+                        "mood": "Relaxing, Soft",
+                        "name": "Mommas Boy",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/d1OLVL1pZ8GpMn8WAvBZteM0U2BbtbVt_Jvr7NjIayU",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Mommas Boy",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "8",
+                        "song_duration": "PT1M57S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/Va0kwpzwvd_4ddpLs8KTjlp9nKEB1Rw-YcHAGovxB80",
+                        "name": "Mommas Boy Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/pyrkbvnfn6uX1Hz0J-l7secEtI70UguC3MNmzu6zaXA",
+                        "isrc": "ISRC CB-ECY-24-00009",
+                        "mood": "Relaxing, Soft",
+                        "name": "Exhale",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/h0ERo_fs6AGqXBLP1CWPN6qwKKafFcx5H5DIKV64kS4",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Exhale",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "9",
+                        "song_duration": "PT1M52S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/I9q2Q9_BqIm0tqkJ-OBQXIF5CtwfNjs4Sd93ixM0CgY",
+                        "name": "Exhale Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/kqBb7G8hazEHjyKzI4HpKT4hbtJ1CJT6VFF9wYSnn04",
+                        "isrc": "ISRC CB-ECY-24-00010",
+                        "mood": "Relaxing, Soft",
+                        "name": "Those Three Words",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/-okjeuVnRxjGFHv3chuw0msuDa4mmqJu6F-WCUKnbxY",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Those Three Words",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "10",
+                        "song_duration": "PT1M21S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/ZNU1Y7VeLDxfTRRPG25f6KG7j_khUMG-B-WQUF56kTE",
+                        "name": "Those Three Words Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/ZOr13267xfOxnEPYJrWNa4lEavE-e5DAtn-ZKJ_E1h0",
+                        "name": "Album Cover Art - Main",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/8QgKRYHQr4fGQS31iyb0FoXRzA70sdpAeVBypPn5CzM",
+                        "name": "Album Cover Art - Bonus 1",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/CCDTGjhJDKNFMpu_ocoUeop73VHxML_c93s06QT7tWs",
+                        "name": "Album Cover Art - Bonus 2",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/vJ0a_kPVd5Btbaornpej80eUVLF5lN7prTZTLDvRrPg",
+                        "name": "Background Art",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ar:\/\/ZOr13267xfOxnEPYJrWNa4lEavE-e5DAtn-ZKJ_E1h0",
+                "version": "1.0",
+                "mediaType": "image\/png",
+                "distributor": "https:\/\/twitter.com\/Fre5hMusic",
+                "release_date": "2024-05-04",
+                "release_type": "Multiple",
+                "music_metadata_version": "1"
+            }
+        },
+        {
+            "asset": "5ef7ae249f3922c7a0351eab76d45c64c1a8a4c867f788e5a465746a43656c6c50686f6e655265636f726473325f303033",
+            "quantity": null,
+            "policy_id": "5ef7ae249f3922c7a0351eab76d45c64c1a8a4c867f788e5a465746a",
+            "asset_name": "43656c6c50686f6e655265636f726473325f303033",
+            "onchain_metadata": {
+                "name": "I Probably Should Not Have Said That #3",
+                "files": [
+                    {
+                        "src": [
+                            "ar:\/\/L3_VVy_Bv0PRVLtSTM063hS8yVGfGgxoupx13D_IZNk",
+                            "\/index.html"
+                        ],
+                        "mediaType": "text\/html"
+                    },
+                    {
+                        "src": "ar:\/\/O1xOltXnhmjuSZK53z_XzWfwE314CqGS0djxdksBdz8",
+                        "isrc": "ISRC CB-ECY-24-00001",
+                        "mood": "Relaxing, Soft",
+                        "name": "A Marie",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/M0VtJ5EZAudEw-FAEcyRwG9u1ne6tpVvux61sTANlm0",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "A Marie",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "1",
+                        "song_duration": "PT1M50S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/ojyuvR_rErunV411tTORAoVS-2rjaWBM5TJ-ZnSiFYM",
+                        "name": "A Marie Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/b5MryAzQriAVS_GNjukiS2A0czo17BmVQlxu1CMYwu8",
+                        "isrc": "ISRC CB-ECY-24-00002",
+                        "mood": "Relaxing, Soft",
+                        "name": "Basement Song",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/R7FPez9-Hpkyh9ZIsoZJvWqXmZxbQ52xIn03rW-TkNs",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Basement Song",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "2",
+                        "song_duration": "PT3M24S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/WG4fdsfpboPInybaSj4kmMLQBSj19N8bDpLjOpv-rUA",
+                        "name": "Basement Song Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/0l5wabdaIyG2ycrpY-hDGjzoI5mcqTy_AtuTESpT8dU",
+                        "isrc": "ISRC CB-ECY-24-00003",
+                        "mood": "Relaxing, Soft",
+                        "name": "Allo",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/QpmjsaWpj0NMfy4dvK-6HnWEr-zl2bTDKESpPtm-o_k",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": " Allo",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "3",
+                        "song_duration": "PT1M37S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/-NwacuAo5wUXJvcGurFgJKIpZPf_FeEnJ0AaGCgZcVA",
+                        "name": "Allo Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/pJwEMuZxVNtPhFfVf7akKXR52u6RoCVHAWax4WUROpY",
+                        "isrc": "ISRC CB-ECY-24-00004",
+                        "mood": "Relaxing, Soft",
+                        "name": "Who Are We",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/vodenZ1U7FYeK50K_aWs8yzKkH16645PAeYEl3EjTy0",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Who Are We",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "4",
+                        "song_duration": "PT4M08S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/6fC-UY1B7vXMTvGRpiq4mZEsBI7yvcYuSWsq1D0zRdY",
+                        "name": "Who Are We Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/TpzMr1jSnxnPHqIhKG9tsLrzyrcBr2klb5ge9P9IUIQ",
+                        "isrc": "ISRC CB-ECY-24-00005",
+                        "mood": "Relaxing, Soft",
+                        "name": "Beaten Battered Shoreline",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/xV90rve5GJuG4r2GCLI2uCD2vgCzweADVrG2ntTFtbI",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Beaten Battered Shoreline",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "5",
+                        "song_duration": "PT3M06S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/CDYhoYjlWJeuzDe5JX-prE93wzZuUW9LpS2CsqBDFFE",
+                        "name": "Beaten Battered Shoreline Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/UOYdxap90l7y5jb15qljrB1BgRd6SQiMgI64nl5eWXw",
+                        "isrc": "ISRC CB-ECY-24-00006",
+                        "mood": "Relaxing, Soft",
+                        "name": "Midnight",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/m8kF44I5PGlFjXFR2y6jtE9__n3LlvbT6AK0d4S_GfA",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Midnight",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "6",
+                        "song_duration": "PT2M20S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/aVezWAgYbcZE9pf5CZAbZr1BFid6_siXKiRpea_HwTw",
+                        "name": "Midnight Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/0pr8BPJEZaYjz_D9hiC_AcLUOeVBx9GPfMcxHEbpsd0",
+                        "isrc": "ISRC CB-ECY-24-00007",
+                        "mood": "Relaxing, Soft",
+                        "name": "Standing Undressed",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/-Et_hvumWPddGpT9dZ7fYJ3tF_zd-pgg92WvrQHxZ9I",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Standing Undressed",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "7",
+                        "song_duration": "PT1M29S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/K4XRYLraLp3rm2yUVUHFsB6PVwJrId8MmtfB3YQdmbQ",
+                        "name": "Standing Undressed Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/41wco6AiRlpSGdBjGvlFM5uStcjTSfSyPA_UGSDg1_I",
+                        "isrc": "ISRC CB-ECY-24-00008",
+                        "mood": "Relaxing, Soft",
+                        "name": "Mommas Boy",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/d1OLVL1pZ8GpMn8WAvBZteM0U2BbtbVt_Jvr7NjIayU",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Mommas Boy",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "8",
+                        "song_duration": "PT1M57S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/Va0kwpzwvd_4ddpLs8KTjlp9nKEB1Rw-YcHAGovxB80",
+                        "name": "Mommas Boy Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/pyrkbvnfn6uX1Hz0J-l7secEtI70UguC3MNmzu6zaXA",
+                        "isrc": "ISRC CB-ECY-24-00009",
+                        "mood": "Relaxing, Soft",
+                        "name": "Exhale",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/h0ERo_fs6AGqXBLP1CWPN6qwKKafFcx5H5DIKV64kS4",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Exhale",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "9",
+                        "song_duration": "PT1M52S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/I9q2Q9_BqIm0tqkJ-OBQXIF5CtwfNjs4Sd93ixM0CgY",
+                        "name": "Exhale Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/kqBb7G8hazEHjyKzI4HpKT4hbtJ1CJT6VFF9wYSnn04",
+                        "isrc": "ISRC CB-ECY-24-00010",
+                        "mood": "Relaxing, Soft",
+                        "name": "Those Three Words",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/-okjeuVnRxjGFHv3chuw0msuDa4mmqJu6F-WCUKnbxY",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Those Three Words",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "10",
+                        "song_duration": "PT1M21S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/ZNU1Y7VeLDxfTRRPG25f6KG7j_khUMG-B-WQUF56kTE",
+                        "name": "Those Three Words Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/ZOr13267xfOxnEPYJrWNa4lEavE-e5DAtn-ZKJ_E1h0",
+                        "name": "Album Cover Art - Main",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/8QgKRYHQr4fGQS31iyb0FoXRzA70sdpAeVBypPn5CzM",
+                        "name": "Album Cover Art - Bonus 1",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/CCDTGjhJDKNFMpu_ocoUeop73VHxML_c93s06QT7tWs",
+                        "name": "Album Cover Art - Bonus 2",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/vJ0a_kPVd5Btbaornpej80eUVLF5lN7prTZTLDvRrPg",
+                        "name": "Background Art",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ar:\/\/ZOr13267xfOxnEPYJrWNa4lEavE-e5DAtn-ZKJ_E1h0",
+                "version": "1.0",
+                "mediaType": "image\/png",
+                "distributor": "https:\/\/twitter.com\/Fre5hMusic",
+                "release_date": "2024-05-04",
+                "release_type": "Multiple",
+                "music_metadata_version": "1"
+            }
+        },
+        {
+            "asset": "5ef7ae249f3922c7a0351eab76d45c64c1a8a4c867f788e5a465746a43656c6c50686f6e655265636f726473325f333439",
+            "quantity": null,
+            "policy_id": "5ef7ae249f3922c7a0351eab76d45c64c1a8a4c867f788e5a465746a",
+            "asset_name": "43656c6c50686f6e655265636f726473325f333439",
+            "onchain_metadata": {
+                "name": "I Probably Should Not Have Said That #349",
+                "files": [
+                    {
+                        "src": "ar:\/\/L3_VVy_Bv0PRVLtSTM063hS8yVGfGgxoupx13D_IZNk",
+                        "mediaType": "text\/html"
+                    },
+                    {
+                        "src": "ar:\/\/O1xOltXnhmjuSZK53z_XzWfwE314CqGS0djxdksBdz8",
+                        "isrc": "ISRC CB-ECY-24-00001",
+                        "mood": "Relaxing, Soft",
+                        "name": "A Marie",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/M0VtJ5EZAudEw-FAEcyRwG9u1ne6tpVvux61sTANlm0",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "A Marie",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "1",
+                        "song_duration": "PT1M50S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/ojyuvR_rErunV411tTORAoVS-2rjaWBM5TJ-ZnSiFYM",
+                        "name": "A Marie Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/b5MryAzQriAVS_GNjukiS2A0czo17BmVQlxu1CMYwu8",
+                        "isrc": "ISRC CB-ECY-24-00002",
+                        "mood": "Relaxing, Soft",
+                        "name": "Basement Song",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/R7FPez9-Hpkyh9ZIsoZJvWqXmZxbQ52xIn03rW-TkNs",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Basement Song",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "2",
+                        "song_duration": "PT3M24S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/WG4fdsfpboPInybaSj4kmMLQBSj19N8bDpLjOpv-rUA",
+                        "name": "Basement Song Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/0l5wabdaIyG2ycrpY-hDGjzoI5mcqTy_AtuTESpT8dU",
+                        "isrc": "ISRC CB-ECY-24-00003",
+                        "mood": "Relaxing, Soft",
+                        "name": "Allo",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/QpmjsaWpj0NMfy4dvK-6HnWEr-zl2bTDKESpPtm-o_k",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": " Allo",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "3",
+                        "song_duration": "PT1M37S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/-NwacuAo5wUXJvcGurFgJKIpZPf_FeEnJ0AaGCgZcVA",
+                        "name": "Allo Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/pJwEMuZxVNtPhFfVf7akKXR52u6RoCVHAWax4WUROpY",
+                        "isrc": "ISRC CB-ECY-24-00004",
+                        "mood": "Relaxing, Soft",
+                        "name": "Who Are We",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/vodenZ1U7FYeK50K_aWs8yzKkH16645PAeYEl3EjTy0",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Who Are We",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "4",
+                        "song_duration": "PT4M08S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/6fC-UY1B7vXMTvGRpiq4mZEsBI7yvcYuSWsq1D0zRdY",
+                        "name": "Who Are We Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/TpzMr1jSnxnPHqIhKG9tsLrzyrcBr2klb5ge9P9IUIQ",
+                        "isrc": "ISRC CB-ECY-24-00005",
+                        "mood": "Relaxing, Soft",
+                        "name": "Beaten Battered Shoreline",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/xV90rve5GJuG4r2GCLI2uCD2vgCzweADVrG2ntTFtbI",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Beaten Battered Shoreline",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "5",
+                        "song_duration": "PT3M06S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/CDYhoYjlWJeuzDe5JX-prE93wzZuUW9LpS2CsqBDFFE",
+                        "name": "Beaten Battered Shoreline Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/UOYdxap90l7y5jb15qljrB1BgRd6SQiMgI64nl5eWXw",
+                        "isrc": "ISRC CB-ECY-24-00006",
+                        "mood": "Relaxing, Soft",
+                        "name": "Midnight",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/m8kF44I5PGlFjXFR2y6jtE9__n3LlvbT6AK0d4S_GfA",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Midnight",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "6",
+                        "song_duration": "PT2M20S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/aVezWAgYbcZE9pf5CZAbZr1BFid6_siXKiRpea_HwTw",
+                        "name": "Midnight Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/0pr8BPJEZaYjz_D9hiC_AcLUOeVBx9GPfMcxHEbpsd0",
+                        "isrc": "ISRC CB-ECY-24-00007",
+                        "mood": "Relaxing, Soft",
+                        "name": "Standing Undressed",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/-Et_hvumWPddGpT9dZ7fYJ3tF_zd-pgg92WvrQHxZ9I",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Standing Undressed",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "7",
+                        "song_duration": "PT1M29S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/K4XRYLraLp3rm2yUVUHFsB6PVwJrId8MmtfB3YQdmbQ",
+                        "name": "Standing Undressed Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/41wco6AiRlpSGdBjGvlFM5uStcjTSfSyPA_UGSDg1_I",
+                        "isrc": "ISRC CB-ECY-24-00008",
+                        "mood": "Relaxing, Soft",
+                        "name": "Mommas Boy",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/d1OLVL1pZ8GpMn8WAvBZteM0U2BbtbVt_Jvr7NjIayU",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Mommas Boy",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "8",
+                        "song_duration": "PT1M57S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/Va0kwpzwvd_4ddpLs8KTjlp9nKEB1Rw-YcHAGovxB80",
+                        "name": "Mommas Boy Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/pyrkbvnfn6uX1Hz0J-l7secEtI70UguC3MNmzu6zaXA",
+                        "isrc": "ISRC CB-ECY-24-00009",
+                        "mood": "Relaxing, Soft",
+                        "name": "Exhale",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/h0ERo_fs6AGqXBLP1CWPN6qwKKafFcx5H5DIKV64kS4",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Exhale",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "9",
+                        "song_duration": "PT1M52S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/I9q2Q9_BqIm0tqkJ-OBQXIF5CtwfNjs4Sd93ixM0CgY",
+                        "name": "Exhale Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/kqBb7G8hazEHjyKzI4HpKT4hbtJ1CJT6VFF9wYSnn04",
+                        "isrc": "ISRC CB-ECY-24-00010",
+                        "mood": "Relaxing, Soft",
+                        "name": "Those Three Words",
+                        "links": {
+                            "Mosie": "https:\/\/twitter.com\/MosieAlong",
+                            "Fre5h Music": "https:\/\/twitter.com\/Fre5hMusic"
+                        },
+                        "Series": "Cell Phone Records",
+                        "genres": [
+                            "Indie",
+                            "Acoustic"
+                        ],
+                        "lyrics": "ar:\/\/-okjeuVnRxjGFHv3chuw0msuDa4mmqJu6F-WCUKnbxY",
+                        "artists": [
+                            {
+                                "name": "Mosie"
+                            }
+                        ],
+                        "producer": "Mosie",
+                        "copyright": "\u2117 Mosie",
+                        "mediaType": "audio\/ogg",
+                        "song_title": "Those Three Words",
+                        "album_title": "I Probably Shouldn\u2019t Have Said That",
+                        "mix_engineer": "Mosie",
+                        "track_number": "10",
+                        "song_duration": "PT1M21S",
+                        "visual_artist": [
+                            "Mosie"
+                        ],
+                        "special_thanks": [
+                            "Fre5h Music",
+                            "ThisCrazyLife"
+                        ],
+                        "master_engineer": "Mosie"
+                    },
+                    {
+                        "src": "ar:\/\/ZNU1Y7VeLDxfTRRPG25f6KG7j_khUMG-B-WQUF56kTE",
+                        "name": "Those Three Words Track Art",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/ZOr13267xfOxnEPYJrWNa4lEavE-e5DAtn-ZKJ_E1h0",
+                        "name": "Album Cover Art - Main",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/8QgKRYHQr4fGQS31iyb0FoXRzA70sdpAeVBypPn5CzM",
+                        "name": "Album Cover Art - Bonus 1",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/CCDTGjhJDKNFMpu_ocoUeop73VHxML_c93s06QT7tWs",
+                        "name": "Album Cover Art - Bonus 2",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ar:\/\/vJ0a_kPVd5Btbaornpej80eUVLF5lN7prTZTLDvRrPg",
+                        "name": "Background Art",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ar:\/\/ZOr13267xfOxnEPYJrWNa4lEavE-e5DAtn-ZKJ_E1h0",
+                "version": "1.0",
+                "mediaType": "image\/png",
+                "distributor": "https:\/\/twitter.com\/Fre5hMusic",
+                "release_date": "2024-05-04",
+                "release_type": "Multiple",
+                "music_metadata_version": "1"
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933821,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "edf0ca4624d6058034d142e031276592ce8f0294a9dedc619e181ca4"
+    },
+    "assets_cache": [
+        {
+            "asset": "edf0ca4624d6058034d142e031276592ce8f0294a9dedc619e181ca46c656d6f6e",
+            "quantity": null,
+            "policy_id": "edf0ca4624d6058034d142e031276592ce8f0294a9dedc619e181ca4",
+            "asset_name": "6c656d6f6e",
+            "onchain_metadata": {
+                "name": "$LEMON",
+                "image": "ipfs:\/\/QmaWwBpugjKJWjVbsmxm9o9obM6oTG1zkPX4LDTZR2A4bn",
+                "ticker": "LEMON",
+                "decimals": 6,
+                "description": "Nudecast utility token"
+            }
+        }
+    ]
+}

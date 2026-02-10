@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933809,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "e2f51acee61bf226d996a50896b26bcefc1d1d325f31061f2e631d32"
+    },
+    "assets_cache": [
+        {
+            "asset": "e2f51acee61bf226d996a50896b26bcefc1d1d325f31061f2e631d32466f726b2332",
+            "quantity": null,
+            "policy_id": "e2f51acee61bf226d996a50896b26bcefc1d1d325f31061f2e631d32",
+            "asset_name": "466f726b2332",
+            "onchain_metadata": {
+                "name": "Fork#2",
+                "image": "ipfs:\/\/QmSJ2yijgLwTCnzFjZfuM3sd3iRYmyFi6oPJ8ty49BbQAG",
+                "Artists": "TAP",
+                "Website": "https:\/\/thelibrary.fu\/",
+                "description": "Description"
+            }
+        }
+    ]
+}

@@ -1,0 +1,372 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933679,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d"
+    },
+    "assets_cache": [
+        {
+            "asset": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d48657861666c657861676f6e3031",
+            "quantity": null,
+            "policy_id": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d",
+            "asset_name": "48657861666c657861676f6e3031",
+            "onchain_metadata": {
+                "name": "Hexaflexagon #01",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmXaV2xxFk3xQUJSjXFv4bLYUoTCPi84cvrUG8C3AK6fex",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXmMyYR3AHgkDFGqST23GtnjB1aQa5RrPZkzHx2ojyTao",
+                        "name": "Flexagon template",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmRWcsdFiz9sDXFRKjtb9MSjDA4MfWymgA1MKXW58LcmVs",
+                "mediaType": "image\/gif",
+                "Description": [
+                    "Unsigned_flexagon created by Prince of ADA.",
+                    "Minted by Kaleido Klara."
+                ],
+                "Kaleido Klara": {
+                    "twitter": "https:\/\/twitter.com\/KaleidoKlara",
+                    "website": "https:\/\/www.kklara.com"
+                },
+                "Prince of ADA": {
+                    "twitter": "https:\/\/twitter.com\/PrinceofADA1"
+                },
+                "make your own": {
+                    "youtube": "https:\/\/www.youtube.com\/watch?v=Qc0ytliIw_U"
+                }
+            }
+        },
+        {
+            "asset": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d48657861666c657861676f6e3032",
+            "quantity": null,
+            "policy_id": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d",
+            "asset_name": "48657861666c657861676f6e3032",
+            "onchain_metadata": {
+                "name": "Hexaflexagon #02",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmXaV2xxFk3xQUJSjXFv4bLYUoTCPi84cvrUG8C3AK6fex",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXmMyYR3AHgkDFGqST23GtnjB1aQa5RrPZkzHx2ojyTao",
+                        "name": "Flexagon template",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmRWcsdFiz9sDXFRKjtb9MSjDA4MfWymgA1MKXW58LcmVs",
+                "mediaType": "image\/gif",
+                "Description": [
+                    "Unsigned_flexagon created by Prince of ADA.",
+                    "Minted by Kaleido Klara."
+                ],
+                "Kaleido Klara": {
+                    "twitter": "https:\/\/twitter.com\/KaleidoKlara",
+                    "website": "https:\/\/www.kklara.com"
+                },
+                "Prince of ADA": {
+                    "twitter": "https:\/\/twitter.com\/PrinceofADA1"
+                },
+                "make your own": {
+                    "youtube": "https:\/\/www.youtube.com\/watch?v=Qc0ytliIw_U"
+                }
+            }
+        },
+        {
+            "asset": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d48657861666c657861676f6e3033",
+            "quantity": null,
+            "policy_id": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d",
+            "asset_name": "48657861666c657861676f6e3033",
+            "onchain_metadata": {
+                "name": "Hexaflexagon #03",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmXaV2xxFk3xQUJSjXFv4bLYUoTCPi84cvrUG8C3AK6fex",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXmMyYR3AHgkDFGqST23GtnjB1aQa5RrPZkzHx2ojyTao",
+                        "name": "Flexagon template",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmRWcsdFiz9sDXFRKjtb9MSjDA4MfWymgA1MKXW58LcmVs",
+                "mediaType": "image\/gif",
+                "Description": [
+                    "Unsigned_flexagon created by Prince of ADA.",
+                    "Minted by Kaleido Klara."
+                ],
+                "Kaleido Klara": {
+                    "twitter": "https:\/\/twitter.com\/KaleidoKlara",
+                    "website": "https:\/\/www.kklara.com"
+                },
+                "Prince of ADA": {
+                    "twitter": "https:\/\/twitter.com\/PrinceofADA1"
+                },
+                "make your own": {
+                    "youtube": "https:\/\/www.youtube.com\/watch?v=Qc0ytliIw_U"
+                }
+            }
+        },
+        {
+            "asset": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d48657861666c657861676f6e3034",
+            "quantity": null,
+            "policy_id": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d",
+            "asset_name": "48657861666c657861676f6e3034",
+            "onchain_metadata": {
+                "name": "Hexaflexagon #04",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmXaV2xxFk3xQUJSjXFv4bLYUoTCPi84cvrUG8C3AK6fex",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXmMyYR3AHgkDFGqST23GtnjB1aQa5RrPZkzHx2ojyTao",
+                        "name": "Flexagon template",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmRWcsdFiz9sDXFRKjtb9MSjDA4MfWymgA1MKXW58LcmVs",
+                "mediaType": "image\/gif",
+                "Description": [
+                    "Unsigned_flexagon created by Prince of ADA.",
+                    "Minted by Kaleido Klara."
+                ],
+                "Kaleido Klara": {
+                    "twitter": "https:\/\/twitter.com\/KaleidoKlara",
+                    "website": "https:\/\/www.kklara.com"
+                },
+                "Prince of ADA": {
+                    "twitter": "https:\/\/twitter.com\/PrinceofADA1"
+                },
+                "make your own": {
+                    "youtube": "https:\/\/www.youtube.com\/watch?v=Qc0ytliIw_U"
+                }
+            }
+        },
+        {
+            "asset": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d48657861666c657861676f6e3035",
+            "quantity": null,
+            "policy_id": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d",
+            "asset_name": "48657861666c657861676f6e3035",
+            "onchain_metadata": {
+                "name": "Hexaflexagon #05",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmXaV2xxFk3xQUJSjXFv4bLYUoTCPi84cvrUG8C3AK6fex",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXmMyYR3AHgkDFGqST23GtnjB1aQa5RrPZkzHx2ojyTao",
+                        "name": "Flexagon template",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmRWcsdFiz9sDXFRKjtb9MSjDA4MfWymgA1MKXW58LcmVs",
+                "mediaType": "image\/gif",
+                "Description": [
+                    "Unsigned_flexagon created by Prince of ADA.",
+                    "Minted by Kaleido Klara."
+                ],
+                "Kaleido Klara": {
+                    "twitter": "https:\/\/twitter.com\/KaleidoKlara",
+                    "website": "https:\/\/www.kklara.com"
+                },
+                "Prince of ADA": {
+                    "twitter": "https:\/\/twitter.com\/PrinceofADA1"
+                },
+                "make your own": {
+                    "youtube": "https:\/\/www.youtube.com\/watch?v=Qc0ytliIw_U"
+                }
+            }
+        },
+        {
+            "asset": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d48657861666c657861676f6e3036",
+            "quantity": null,
+            "policy_id": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d",
+            "asset_name": "48657861666c657861676f6e3036",
+            "onchain_metadata": {
+                "name": "Hexaflexagon #06",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmXaV2xxFk3xQUJSjXFv4bLYUoTCPi84cvrUG8C3AK6fex",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXmMyYR3AHgkDFGqST23GtnjB1aQa5RrPZkzHx2ojyTao",
+                        "name": "Flexagon template",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmRWcsdFiz9sDXFRKjtb9MSjDA4MfWymgA1MKXW58LcmVs",
+                "mediaType": "image\/gif",
+                "Description": [
+                    "Unsigned_flexagon created by Prince of ADA.",
+                    "Minted by Kaleido Klara."
+                ],
+                "Kaleido Klara": {
+                    "twitter": "https:\/\/twitter.com\/KaleidoKlara",
+                    "website": "https:\/\/www.kklara.com"
+                },
+                "Prince of ADA": {
+                    "twitter": "https:\/\/twitter.com\/PrinceofADA1"
+                },
+                "make your own": {
+                    "youtube": "https:\/\/www.youtube.com\/watch?v=Qc0ytliIw_U"
+                }
+            }
+        },
+        {
+            "asset": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d48657861666c657861676f6e3037",
+            "quantity": null,
+            "policy_id": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d",
+            "asset_name": "48657861666c657861676f6e3037",
+            "onchain_metadata": {
+                "name": "Hexaflexagon #07",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmXaV2xxFk3xQUJSjXFv4bLYUoTCPi84cvrUG8C3AK6fex",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXmMyYR3AHgkDFGqST23GtnjB1aQa5RrPZkzHx2ojyTao",
+                        "name": "Flexagon template",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmRWcsdFiz9sDXFRKjtb9MSjDA4MfWymgA1MKXW58LcmVs",
+                "mediaType": "image\/gif",
+                "Description": [
+                    "Unsigned_flexagon created by Prince of ADA.",
+                    "Minted by Kaleido Klara."
+                ],
+                "Kaleido Klara": {
+                    "twitter": "https:\/\/twitter.com\/KaleidoKlara",
+                    "website": "https:\/\/www.kklara.com"
+                },
+                "Prince of ADA": {
+                    "twitter": "https:\/\/twitter.com\/PrinceofADA1"
+                },
+                "make your own": {
+                    "youtube": "https:\/\/www.youtube.com\/watch?v=Qc0ytliIw_U"
+                }
+            }
+        },
+        {
+            "asset": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d48657861666c657861676f6e3038",
+            "quantity": null,
+            "policy_id": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d",
+            "asset_name": "48657861666c657861676f6e3038",
+            "onchain_metadata": {
+                "name": "Hexaflexagon #08",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmXaV2xxFk3xQUJSjXFv4bLYUoTCPi84cvrUG8C3AK6fex",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXmMyYR3AHgkDFGqST23GtnjB1aQa5RrPZkzHx2ojyTao",
+                        "name": "Flexagon template",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmRWcsdFiz9sDXFRKjtb9MSjDA4MfWymgA1MKXW58LcmVs",
+                "mediaType": "image\/gif",
+                "Description": [
+                    "Unsigned_flexagon created by Prince of ADA.",
+                    "Minted by Kaleido Klara."
+                ],
+                "Kaleido Klara": {
+                    "twitter": "https:\/\/twitter.com\/KaleidoKlara",
+                    "website": "https:\/\/www.kklara.com"
+                },
+                "Prince of ADA": {
+                    "twitter": "https:\/\/twitter.com\/PrinceofADA1"
+                },
+                "make your own": {
+                    "youtube": "https:\/\/www.youtube.com\/watch?v=Qc0ytliIw_U"
+                }
+            }
+        },
+        {
+            "asset": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d48657861666c657861676f6e3039",
+            "quantity": null,
+            "policy_id": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d",
+            "asset_name": "48657861666c657861676f6e3039",
+            "onchain_metadata": {
+                "name": "Hexaflexagon #09",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmXaV2xxFk3xQUJSjXFv4bLYUoTCPi84cvrUG8C3AK6fex",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXmMyYR3AHgkDFGqST23GtnjB1aQa5RrPZkzHx2ojyTao",
+                        "name": "Flexagon template",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmRWcsdFiz9sDXFRKjtb9MSjDA4MfWymgA1MKXW58LcmVs",
+                "mediaType": "image\/gif",
+                "Description": [
+                    "Unsigned_flexagon created by Prince of ADA.",
+                    "Minted by Kaleido Klara."
+                ],
+                "Kaleido Klara": {
+                    "twitter": "https:\/\/twitter.com\/KaleidoKlara",
+                    "website": "https:\/\/www.kklara.com"
+                },
+                "Prince of ADA": {
+                    "twitter": "https:\/\/twitter.com\/PrinceofADA1"
+                },
+                "make your own": {
+                    "youtube": "https:\/\/www.youtube.com\/watch?v=Qc0ytliIw_U"
+                }
+            }
+        },
+        {
+            "asset": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d48657861666c657861676f6e3130",
+            "quantity": null,
+            "policy_id": "493590f0a2f819a641891cd497e2e4e6d1d61501b5fd6ec2b21a595d",
+            "asset_name": "48657861666c657861676f6e3130",
+            "onchain_metadata": {
+                "name": "Hexaflexagon #10",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmXaV2xxFk3xQUJSjXFv4bLYUoTCPi84cvrUG8C3AK6fex",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXmMyYR3AHgkDFGqST23GtnjB1aQa5RrPZkzHx2ojyTao",
+                        "name": "Flexagon template",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmRWcsdFiz9sDXFRKjtb9MSjDA4MfWymgA1MKXW58LcmVs",
+                "mediaType": "image\/gif",
+                "Description": [
+                    "Unsigned_flexagon created by Prince of ADA.",
+                    "Minted by Kaleido Klara."
+                ],
+                "Kaleido Klara": {
+                    "twitter": "https:\/\/twitter.com\/KaleidoKlara",
+                    "website": "https:\/\/www.kklara.com"
+                },
+                "Prince of ADA": {
+                    "twitter": "https:\/\/twitter.com\/PrinceofADA1"
+                },
+                "make your own": {
+                    "youtube": "https:\/\/www.youtube.com\/watch?v=Qc0ytliIw_U"
+                }
+            }
+        }
+    ]
+}

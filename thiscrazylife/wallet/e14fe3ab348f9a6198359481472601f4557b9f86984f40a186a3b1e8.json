@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933617,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "e14fe3ab348f9a6198359481472601f4557b9f86984f40a186a3b1e8"
+    },
+    "assets_cache": [
+        {
+            "asset": "e14fe3ab348f9a6198359481472601f4557b9f86984f40a186a3b1e8434845525259",
+            "quantity": null,
+            "policy_id": "e14fe3ab348f9a6198359481472601f4557b9f86984f40a186a3b1e8",
+            "asset_name": "434845525259",
+            "onchain_metadata": {
+                "": "$CHERRY Token",
+                "name": "CHERRY",
+                "image": "ipfs:\/\/QmURmmg2zNAe1TyXF6zoHdrqBTk82Kk9qkw9abAWRYJ1Y4",
+                "ticker": "CHERRY",
+                "Twitter": "https:\/\/twitter.com\/CherryTokenADA",
+                "Website": "https:\/\/CherryTokenADA.com"
+            }
+        }
+    ]
+}

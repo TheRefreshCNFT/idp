@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933654,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "a89568bb399d0cdc38367e47831c95186f5c79e58174e08a18232396"
+    },
+    "assets_cache": [
+        {
+            "asset": "a89568bb399d0cdc38367e47831c95186f5c79e58174e08a182323964554424643546f6b656e",
+            "quantity": null,
+            "policy_id": "a89568bb399d0cdc38367e47831c95186f5c79e58174e08a18232396",
+            "asset_name": "4554424643546f6b656e",
+            "onchain_metadata": {
+                "name": "ETB FC Token",
+                "image": "ipfs:\/\/QmYXGEWN2EzNwDaFYCQgDz1TM2wKWegb4KrtwVVakbBKUp"
+            }
+        }
+    ]
+}

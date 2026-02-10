@@ -1,0 +1,95 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933727,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "7fe61cd2be30b6a311edbb4f7f32824af8d4495ccd86d0e3b2569cfd"
+    },
+    "assets_cache": [
+        {
+            "asset": "7fe61cd2be30b6a311edbb4f7f32824af8d4495ccd86d0e3b2569cfd4465466945647563617469766f457031",
+            "quantity": null,
+            "policy_id": "7fe61cd2be30b6a311edbb4f7f32824af8d4495ccd86d0e3b2569cfd",
+            "asset_name": "4465466945647563617469766f457031",
+            "onchain_metadata": {
+                "name": "DeFi-nitivamente Educativo Ep. 1 - Valor y Dinero",
+                "Epoch": [
+                    "310"
+                ],
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmSeuYgg5eJR2AozDyp16PP1w38wdnvwAM2Bz3R1LsQv6m",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmYY9Vwdg8dqwmd5BDDz6w2aDydQuMBFyX3Fjtjq6pmEn4",
+                        "mediaType": "audio\/ogg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmeHMb6eKUH2fyfi9dQvxxsL9WxnrGpdMZ7a8kr7noatSw",
+                        "name": "Cardano Spaces\/Espacios",
+                        "mediaType": "image\/gif"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmPytdjZvdshvBLBakdVNNaVMgJmdC8drkzQkomPGBSsjW",
+                        "name": "Guide\/Gu\u00eda",
+                        "mediaType": "application\/pdf"
+                    }
+                ],
+                "image": "ipfs:\/\/QmSeuYgg5eJR2AozDyp16PP1w38wdnvwAM2Bz3R1LsQv6m",
+                "Sinopsis": [
+                    "En este capitulo discutimos los fundamentales del",
+                    "valor y el dinero, como apertura a esta serie de podcasts",
+                    "sobre educacion financiera descentralizada.",
+                    "Desde el uso de conchas marinas o sal como dinero,",
+                    "hasta el acuerdo de Bretton-Woods y como esto",
+                    "nos llev\u00f3 al tipo de dinero que utilizamos hoy en dia."
+                ],
+                "Synopsis": [
+                    "In this episode we discuss the fundamentals of",
+                    "value and money, as an introduction to this series",
+                    "of decentralized financial-education podcasts.",
+                    "From the use of sea shells or salt as money",
+                    "to the Bretton-Woods agreements and how",
+                    "this led us to the current monetary system."
+                ],
+                "mediaType": "image\/jpeg",
+                "Twitter (ADATOMS CNFT)": {
+                    "@ADAtomsNFT": "https:\/\/twitter.com\/AdatomsNFTs"
+                },
+                "Published on\/Publicado en": [
+                    "Cardano"
+                ],
+                "zzz NFT Creative Developer": {
+                    "Cardano Noodz": "https:\/\/twitter.com\/CardanoNoodz"
+                },
+                "Host & Co-Host(s)\/Anfitriones": [
+                    "@AdatomsNFTs, @ADanielHill"
+                ],
+                "Twitter (Alberto Daniel Hill)": {
+                    "@ADanielHill": "https:\/\/twitter.com\/ADanielHill"
+                },
+                "Works-Cited & Related Mints [1]": {
+                    "High Science 06 Dec 21": "https:\/\/bit.ly\/hs211206"
+                },
+                "Works-Cited & Related Mints [2]": {
+                    "High Science 10 Dec 21": "https:\/\/bit.ly\/hs211210"
+                },
+                "Works-Cited & Related Mints [3]": {
+                    "High Science 13 Dec 21": "https:\/\/bit.ly\/hs211213"
+                },
+                "Works-Cited & Related Mints [4]": {
+                    "High Science 17 Dec 21": "https:\/\/bit.ly\/hs211217"
+                },
+                "Works-Cited & Related Mints [5]": {
+                    "High Science 20 Dec 21": "https:\/\/bit.ly\/hs211220"
+                },
+                "Invited Speakers\/Oradores invitados": [
+                    "@CardanoNoodz, @_Ch0c0Queen_, @vaniada_VR"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933852,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "21cd8256e0a6b886d6c71f0e98d5e6c56a926786a2eec9b353017963"
+    },
+    "assets_cache": [
+        {
+            "asset": "21cd8256e0a6b886d6c71f0e98d5e6c56a926786a2eec9b353017963506c617957697468596f75724e6f6f646c65",
+            "quantity": null,
+            "policy_id": "21cd8256e0a6b886d6c71f0e98d5e6c56a926786a2eec9b353017963",
+            "asset_name": "506c617957697468596f75724e6f6f646c65",
+            "onchain_metadata": {
+                "name": "Play With Your Noodle",
+                "files": [
+                    {
+                        "Get": "nood",
+                        "src": [
+                            "ipfs:\/\/bafybeiay2gvae6fwqhspxbrc3zb4w64bykjb26",
+                            "regwkmxsl2kwi4fm3xam\/html.html"
+                        ],
+                        "chef": "Cardano Noodz",
+                        "Click": "the \ud83c\udf5c",
+                        "mediaType": "text\/html",
+                        "collection": "House Specials 2024",
+                        "serving Size": "1\/1"
+                    }
+                ],
+                "image": "ipfs:\/\/QmYSrcRqbwxyGhybn59pd5nqXEyjvkTK4eHk1gxr9T8CLh",
+                "mediaType": "image\/png"
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "name": "test56",
+    "key": "test56",
+    "createdAt": "2026-02-09T18:56:47+00:00",
+    "collectionName": "test56",
+    "maxSupply": "2",
+    "policy": {
+        "policyId": "01269810ea1f77692a37e5b01c9bf500eada8a33c009da5fb0a5f784",
+        "type": "open",
+        "lockUntil": null,
+        "lockUntilSlot": null,
+        "ownerKeyHash": "a8ad56a576bb5d1d7f59819b12b9dab8aae7233b8bbbc12ee57737a8",
+        "nativeScript": {
+            "type": "all",
+            "scripts": [
+                {
+                    "type": "sig",
+                    "keyHash": "a8ad56a576bb5d1d7f59819b12b9dab8aae7233b8bbbc12ee57737a8"
+                },
+                {
+                    "type": "after",
+                    "slot": "1770662807"
+                }
+            ]
+        },
+        "maxSupply": 3,
+        "createdAt": "2026-02-09T18:56:47+00:00"
+    },
+    "assetNameInput": "test561",
+    "saleDescription": "",
+    "collectionThumbInput": "fbThumb.png",
+    "defaultProps": {
+        "Description": "",
+        "Artist": "",
+        "Creator": "",
+        "Links": "",
+        "Name": ""
+    },
+    "metaRows": [],
+    "codeRows": [],
+    "studioAssets": [
+        {
+            "id": "init_1770663407705",
+            "name": "test561",
+            "mainContent": "",
+            "mainEncoding": "base64",
+            "coverImage": "",
+            "traits": {
+                "Description": "",
+                "Artist": "",
+                "Creator": "",
+                "Links": ""
+            },
+            "codeRows": [],
+            "metaRows": [],
+            "defaultProps": []
+        },
+        {
+            "id": "gen_1770663423293_0",
+            "name": "test56 #2",
+            "mainContent": "",
+            "mainEncoding": "base64",
+            "coverImage": "",
+            "traits": {
+                "Description": "",
+                "Artist": "",
+                "Creator": "",
+                "Links": "",
+                "Name": ""
+            },
+            "codeRows": [],
+            "metaRows": [],
+            "defaultProps": []
+        }
+    ],
+    "totalAssets": "2",
+    "dist": "random",
+    "astype": "nft",
+    "useCollName": true,
+    "editionInput": "",
+    "ftTicker": "",
+    "useWalletAddr": false,
+    "receiveAddr": "",
+    "costType": "free",
+    "mintCost": "",
+    "encoding": "base64",
+    "codeContent": "",
+    "previewImgInput": "",
+    "description": ""
+}

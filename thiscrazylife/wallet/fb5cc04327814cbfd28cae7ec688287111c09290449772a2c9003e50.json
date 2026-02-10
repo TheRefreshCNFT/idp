@@ -1,0 +1,85 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933796,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "fb5cc04327814cbfd28cae7ec688287111c09290449772a2c9003e50"
+    },
+    "assets_cache": [
+        {
+            "asset": "fb5cc04327814cbfd28cae7ec688287111c09290449772a2c9003e50",
+            "quantity": null,
+            "policy_id": "fb5cc04327814cbfd28cae7ec688287111c09290449772a2c9003e50",
+            "asset_name": "",
+            "onchain_metadata": []
+        },
+        {
+            "asset": "fb5cc04327814cbfd28cae7ec688287111c09290449772a2c9003e5053717565616b795f46726535685f474954",
+            "quantity": null,
+            "policy_id": "fb5cc04327814cbfd28cae7ec688287111c09290449772a2c9003e50",
+            "asset_name": "53717565616b795f46726535685f474954",
+            "onchain_metadata": {
+                "name": "The Squeak Fre5h",
+                "files": [
+                    {
+                        "src": "https:\/\/therefreshcnft.github.io\/anytimetest\/",
+                        "name": "Clk to \ud83d\udd04 Dbl clk to \u2b07\ufe0f",
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/QmQ8LoUgUtqvrJN7TQd5dJNaSCsPyKDMgS4R4yw1EWHQsS",
+                "artist": "ThisCrazyLife",
+                "projects": "The Refresh x Squeak",
+                "mediaType": "image\/png",
+                "visit Squeak": {
+                    "x": "https:\/\/x.com\/World_of_Squeak",
+                    "discord": "https:\/\/discord.gg\/esJXRQgBd6",
+                    "website": "https:\/\/www.squeak.world\/"
+                },
+                "visit The Refresh": {
+                    "x": "https:\/\/x.com\/TheRefreshCNFT",
+                    "discord": "https:\/\/discord.gg\/RNp4aFuQbw",
+                    "website": "https:\/\/therefreshcnft.com"
+                },
+                "visit ThisCrazyLife": {
+                    "x": "https:\/\/x.com\/_ThisCr8zyLife_"
+                }
+            }
+        },
+        {
+            "asset": "fb5cc04327814cbfd28cae7ec688287111c09290449772a2c9003e5053717565616b795f5f4672653568",
+            "quantity": null,
+            "policy_id": "fb5cc04327814cbfd28cae7ec688287111c09290449772a2c9003e50",
+            "asset_name": "53717565616b795f5f4672653568",
+            "onchain_metadata": {
+                "name": "The Squeak Fre5h",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmXXgcxdQRAGNGMfMd2mdeiboUgeax8wQSSSkJAG56JY62",
+                        "name": "Clk to \ud83d\udd04 Dbl clk to \u2b07\ufe0f",
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/QmQ8LoUgUtqvrJN7TQd5dJNaSCsPyKDMgS4R4yw1EWHQsS",
+                "artist": "ThisCrazyLife",
+                "projects": "The Refresh x Squeak",
+                "mediaType": "image\/png",
+                "visit Squeak": {
+                    "x": "https:\/\/x.com\/World_of_Squeak",
+                    "discord": "https:\/\/discord.gg\/esJXRQgBd6",
+                    "website": "https:\/\/www.squeak.world\/"
+                },
+                "visit The Refresh": {
+                    "x": "https:\/\/x.com\/TheRefreshCNFT",
+                    "discord": "https:\/\/discord.gg\/RNp4aFuQbw",
+                    "website": "https:\/\/therefreshcnft.com"
+                },
+                "visit ThisCrazyLife": {
+                    "x": "https:\/\/x.com\/_ThisCr8zyLife_"
+                }
+            }
+        }
+    ]
+}

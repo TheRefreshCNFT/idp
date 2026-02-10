@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933649,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "72539140e0582e9f823f8aba126cccb64dcff24bdea6472952af847f"
+    },
+    "assets_cache": [
+        {
+            "asset": "72539140e0582e9f823f8aba126cccb64dcff24bdea6472952af847f4564656e73536576656e34303531",
+            "quantity": null,
+            "policy_id": "72539140e0582e9f823f8aba126cccb64dcff24bdea6472952af847f",
+            "asset_name": "4564656e73536576656e34303531",
+            "onchain_metadata": {
+                "name": "EdensSeven4051",
+                "race": "Angel",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmUte3iSVs1RzwEcAxwpmCgrrGKDRHPdQKBGrgzQnCWF3L",
+                        "name": "EdensSeven4051",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmT8cYuyY3iduNecBLitMBSJSiiqvpXZvEyq7uQn1k25wB",
+                "weapon": "Desert Scimitars",
+                "clothing": "EBA Uniform",
+                "headwear": "Beanie",
+                "accessory": "None",
+                "mediaType": "image\/png",
+                "background": "Blue",
+                "expression": "Stunned"
+            }
+        }
+    ]
+}

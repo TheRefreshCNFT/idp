@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933623,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "ac597ca62a32cab3f4766c8f9cd577e50ebb1d00383ec7fa3990b016"
+    },
+    "assets_cache": [
+        {
+            "asset": "ac597ca62a32cab3f4766c8f9cd577e50ebb1d00383ec7fa3990b016435241574a55",
+            "quantity": null,
+            "policy_id": "ac597ca62a32cab3f4766c8f9cd577e50ebb1d00383ec7fa3990b016",
+            "asset_name": "435241574a55",
+            "onchain_metadata": {
+                "name": "CRAWJU",
+                "image": "ipfs:\/\/Qmbyf4GkJnqYvfTxygfBtPrEqUTiS7Tp3kRyBFGbRLatvJ",
+                "ticker": "CRAWJU",
+                "poolAuthor": "2e61ca1471aae9d3c4b96e4d8db9171dcbefb4193c64f5d6e013ed87",
+                "description": [
+                    "While I was gone, apparently Crawju had an amazing adventure Cha",
+                    "rles Hoskinson"
+                ]
+            }
+        }
+    ]
+}

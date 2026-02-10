@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933840,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "98f9da40148e98343418338c3c3d372e1299190b94b9909b552811cc"
+    },
+    "assets_cache": [
+        {
+            "asset": "98f9da40148e98343418338c3c3d372e1299190b94b9909b552811cc41464649524d4154494f4e53",
+            "quantity": null,
+            "policy_id": "98f9da40148e98343418338c3c3d372e1299190b94b9909b552811cc",
+            "asset_name": "41464649524d4154494f4e53",
+            "onchain_metadata": {
+                "name": "AFFIRMATIONS",
+                "image": "ipfs:\/\/QmTvroPG2r3RCmUpNeDVMgcRtmuwjB15PTm2Dm5yFPh5A1",
+                "artist": "mishietokens",
+                "summary": "A poem to remind us",
+                "assetType": "FT",
+                "mediaType": "image\/png",
+                "publisher": [
+                    "mishiepoet.com",
+                    "https:\/\/tokhun.io"
+                ],
+                "description": [
+                    "1 x [1:8888] Fungible Poem Token\r\nbackground @TheRefreshCNFT  To",
+                    "m219\r\npublisher mishiepoet.com\/tokens twitter.com\/mishietokens\r\n",
+                    "All rights reserved by the author mishiepoet 2021\r\nCrisis help t",
+                    "ext line 741741"
+                ]
+            }
+        }
+    ]
+}

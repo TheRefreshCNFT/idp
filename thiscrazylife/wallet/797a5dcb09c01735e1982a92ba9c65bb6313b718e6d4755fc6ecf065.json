@@ -1,0 +1,73 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933649,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "797a5dcb09c01735e1982a92ba9c65bb6313b718e6d4755fc6ecf065"
+    },
+    "assets_cache": [
+        {
+            "asset": "797a5dcb09c01735e1982a92ba9c65bb6313b718e6d4755fc6ecf0654f4d4547412d4e59432d3436",
+            "quantity": null,
+            "policy_id": "797a5dcb09c01735e1982a92ba9c65bb6313b718e6d4755fc6ecf065",
+            "asset_name": "4f4d4547412d4e59432d3436",
+            "onchain_metadata": {
+                "name": "OMEGA NYC #46",
+                "Asset": "OMEGA NYC",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeiarnjrl4u4jia5hibajjk",
+                            "ex3koyxqex622bqzh6zjxef6r36tdlmi"
+                        ],
+                        "mediaType": "video\/mov"
+                    }
+                ],
+                "image": "ipfs:\/\/QmXMkhCvqTUhhnKz8LCy4rySduAf6ajx91FsAdSVJhbb9f",
+                "Rarity": [
+                    "There is nothing more precious than",
+                    "the experiences that transform",
+                    "your life and the world around you."
+                ],
+                "double": "the Alpha",
+                "Utility": [
+                    "Holders of the OMEGA NYC NFT will",
+                    "receive the official OMEGA SCRAPBOOK NFT",
+                    "airdropped to their wallet after the",
+                    "2023 NFT NYC Event.",
+                    "A commemorative snapshot offering a documentation",
+                    "of some of life's greatest moments."
+                ],
+                "double.": "the Fun",
+                "mediaType": "image\/png",
+                "Objectives": [
+                    "The simple act of gathering has the inherent ability",
+                    "to foster meaningful connections, cultivate resilience and",
+                    "inner fortitude, and instill a sense of belonging",
+                    "and community.",
+                    "We will be taking the streets of New York City",
+                    "to show the world the power of collaboration in web 3.",
+                    "The Cardano community will be there, alongside",
+                    "the Omega team, in full force.",
+                    "Doubling the fun."
+                ],
+                "Description": [
+                    "A Cardano celebration of the growth",
+                    "of all Web 3 communities in 2023.",
+                    "Based in New York City, this special occasion",
+                    "demonstrates the convictions of a unique population",
+                    "seeking to change the world through",
+                    "creative expressions, artistic contributions,",
+                    "common community, technological innovation,",
+                    "and fun!"
+                ],
+                "published by": "OMEGA",
+                "visit us online": {
+                    "omegafun.fun": "https:\/\/omegafun.fun"
+                }
+            }
+        }
+    ]
+}

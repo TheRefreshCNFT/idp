@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933821,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "fc55da262cf3a48d23d87239dcd30e872b7d149ea89c7eb4e98153b4"
+    },
+    "assets_cache": [
+        {
+            "asset": "fc55da262cf3a48d23d87239dcd30e872b7d149ea89c7eb4e98153b44d656f776e737465723138",
+            "quantity": null,
+            "policy_id": "fc55da262cf3a48d23d87239dcd30e872b7d149ea89c7eb4e98153b4",
+            "asset_name": "4d656f776e737465723138",
+            "onchain_metadata": {
+                "url": "https:\/\/www.CardanoMonsters.com",
+                "ipfs": "QmYnJQqEdJd1Gzhjk3f3KDr57RHVFkECDsDKZ5DsNDXB3T",
+                "name": "CardanoMonsters Meownster[18]",
+                "Prize": "NFT + 1x CardanoMonsters Coin",
+                "image": "ipfs:\/\/QmYnJQqEdJd1Gzhjk3f3KDr57RHVFkECDsDKZ5DsNDXB3T",
+                "Medium": "https:\/\/medium.com\/@CardanoMonsters",
+                "rarity": "Common",
+                "NFT Set": "002",
+                "Twitter": "https:\/\/twitter.com\/CardanoMonsters",
+                "Instagram": "https:\/\/instagram.com\/CardanoMonsters",
+                "copyright": "CardanoMonsters Copyright @2021",
+                "collection": "A-Day",
+                "NFT Version": "03",
+                "Chance of Acquiring": "~15%",
+                "Validate Authenticity": "https:\/\/www.cardanomonsters.com\/validate"
+            }
+        }
+    ]
+}

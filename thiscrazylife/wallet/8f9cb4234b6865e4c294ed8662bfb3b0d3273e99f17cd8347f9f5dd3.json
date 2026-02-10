@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933777,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "8f9cb4234b6865e4c294ed8662bfb3b0d3273e99f17cd8347f9f5dd3"
+    },
+    "assets_cache": [
+        {
+            "asset": "8f9cb4234b6865e4c294ed8662bfb3b0d3273e99f17cd8347f9f5dd34635436c6179",
+            "quantity": null,
+            "policy_id": "8f9cb4234b6865e4c294ed8662bfb3b0d3273e99f17cd8347f9f5dd3",
+            "asset_name": "4635436c6179",
+            "onchain_metadata": {
+                "name": "Refreshed Clay Arweave Test",
+                "files": [
+                    {
+                        "src": "ar:\/\/I3K2fBWOmEZkH2cU_rBqhdwTLYTgU9NWX3whaGKfsUc",
+                        "name": "Click me!",
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ar:\/\/lVWoCk8Fs18Kigy_AKlSFXv7Jk_TwE5qqT1tTC5aFbs",
+                "Projects": "The Refresh & Clay Nation (Claymates)",
+                "claymates": {
+                    "Visit": "https:\/\/twitter.com\/claymates"
+                },
+                "mediaType": "image\/png",
+                "Description": "Testing HTML mints using Arweave instead of IPFS.",
+                "the Refresh": {
+                    "Visit": "https:\/\/twitter.com\/TheRefreshCNFT"
+                }
+            }
+        }
+    ]
+}

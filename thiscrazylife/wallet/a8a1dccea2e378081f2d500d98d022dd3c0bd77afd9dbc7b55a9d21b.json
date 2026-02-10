@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933654,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "a8a1dccea2e378081f2d500d98d022dd3c0bd77afd9dbc7b55a9d21b"
+    },
+    "assets_cache": [
+        {
+            "asset": "a8a1dccea2e378081f2d500d98d022dd3c0bd77afd9dbc7b55a9d21b63544f5349",
+            "quantity": null,
+            "policy_id": "a8a1dccea2e378081f2d500d98d022dd3c0bd77afd9dbc7b55a9d21b",
+            "asset_name": "63544f5349",
+            "onchain_metadata": {
+                "name": "TosiDrop",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmXU7xmoFHbxJLWxwAk8sMu11JAb24SYCospBHNXeubL1U",
+                        "name": "cTOSI",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmXU7xmoFHbxJLWxwAk8sMu11JAb24SYCospBHNXeubL1U",
+                "symbol": "cTOSI",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 60625186
+                },
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "description": "Platform token for TosiDrop on Cardano",
+                "totalSupply": 1000000000
+            }
+        }
+    ]
+}

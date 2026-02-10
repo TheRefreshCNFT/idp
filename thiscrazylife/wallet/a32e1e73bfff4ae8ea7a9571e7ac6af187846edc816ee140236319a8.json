@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933840,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "a32e1e73bfff4ae8ea7a9571e7ac6af187846edc816ee140236319a8"
+    },
+    "assets_cache": [
+        {
+            "asset": "a32e1e73bfff4ae8ea7a9571e7ac6af187846edc816ee140236319a85049",
+            "quantity": null,
+            "policy_id": "a32e1e73bfff4ae8ea7a9571e7ac6af187846edc816ee140236319a8",
+            "asset_name": "5049",
+            "onchain_metadata": {
+                "name": "PI",
+                "image": "ipfs:\/\/QmVFD5ksBJ3rUfWG3ntBuYjgY6TFFn3QAPhxh3Y3sSL65o",
+                "ticker": "PI",
+                "Website": "https:\/\/pi-cyan.vercel.app\/",
+                "decimals": 9,
+                "description": "PI boasts a unique limited supply of exactly 3 coins"
+            }
+        }
+    ]
+}

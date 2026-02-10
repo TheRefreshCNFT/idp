@@ -1,0 +1,167 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933847,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "a5bb0e5bb275a573d744a021f9b3bff73595468e002755b447e01559"
+    },
+    "assets_cache": [
+        {
+            "asset": "a5bb0e5bb275a573d744a021f9b3bff73595468e002755b447e01559484f534b594361736847726162303030303439373437",
+            "quantity": null,
+            "policy_id": "a5bb0e5bb275a573d744a021f9b3bff73595468e002755b447e01559",
+            "asset_name": "484f534b594361736847726162303030303439373437",
+            "onchain_metadata": {
+                "name": "HOSKY C(ash Grab)NFT 49747",
+                "image": "ipfs:\/\/QmQxrA15SWpMCGaiSC1bk1grv2WusDUUWcf2d6YiJZZk7V",
+                "-----Traits-----": [
+                    {
+                        "Background": "Dark Black"
+                    },
+                    {
+                        "Fur": "White"
+                    },
+                    {
+                        "Eyes": "Original"
+                    },
+                    {
+                        "Hat": "King Tutankhamun"
+                    },
+                    {
+                        "Mouth": "Original"
+                    },
+                    {
+                        "Glasses": "3D Glasses"
+                    },
+                    {
+                        "Frame": "Gold"
+                    }
+                ],
+                "-----Product Information-----": [
+                    {
+                        "Website": "https:\/\/hosky.io"
+                    },
+                    {
+                        "Copyright": "HOSKY IO; all rights reserved"
+                    }
+                ]
+            }
+        },
+        {
+            "asset": "a5bb0e5bb275a573d744a021f9b3bff73595468e002755b447e01559484f534b594361736847726162303030343137363131",
+            "quantity": null,
+            "policy_id": "a5bb0e5bb275a573d744a021f9b3bff73595468e002755b447e01559",
+            "asset_name": "484f534b594361736847726162303030343137363131",
+            "onchain_metadata": {
+                "name": "HOSKY C(ash Grab)NFT 417611",
+                "image": "ipfs:\/\/QmSSpMVHWK51oG4SdB8KqY6nV1sLCRfMshvAtHUhCfqbgC",
+                "-----Traits-----": [
+                    {
+                        "Background": "Clouds"
+                    },
+                    {
+                        "Fur": "Hosky Island"
+                    },
+                    {
+                        "Eyes": "Hosky Island Eyes"
+                    },
+                    {
+                        "Hat": "Birthday Hat"
+                    },
+                    {
+                        "Mouth": "Original"
+                    },
+                    {
+                        "Glasses": "Nose Glasses"
+                    },
+                    {
+                        "Frame": "Cocktail"
+                    }
+                ],
+                "-----Product Information-----": [
+                    {
+                        "Website": "https:\/\/hosky.io"
+                    },
+                    {
+                        "Copyright": "HOSKY IO; all rights reserved"
+                    }
+                ]
+            }
+        },
+        {
+            "asset": "a5bb0e5bb275a573d744a021f9b3bff73595468e002755b447e01559484f534b594361736847726162303030343137363132",
+            "quantity": null,
+            "policy_id": "a5bb0e5bb275a573d744a021f9b3bff73595468e002755b447e01559",
+            "asset_name": "484f534b594361736847726162303030343137363132",
+            "onchain_metadata": {
+                "name": "HOSKY C(ash Grab)NFT 417612",
+                "image": "ipfs:\/\/Qmf79Z8cuyAEuwPpDhqwbLNjvwip5aMXPJsDRoqaeXUoCZ",
+                "-----Traits-----": [
+                    {
+                        "Background": "Livestream"
+                    },
+                    {
+                        "Fur": "Grave Stone"
+                    },
+                    {
+                        "Eyes": "White Eyes"
+                    },
+                    {
+                        "Ear Decoration": "Solar Panels"
+                    },
+                    {
+                        "Mouth": "Original"
+                    },
+                    {
+                        "Frame": "Retro Coins"
+                    }
+                ],
+                "-----Product Information-----": [
+                    {
+                        "Website": "https:\/\/hosky.io"
+                    },
+                    {
+                        "Copyright": "HOSKY IO; all rights reserved"
+                    }
+                ]
+            }
+        },
+        {
+            "asset": "a5bb0e5bb275a573d744a021f9b3bff73595468e002755b447e01559484f534b594361736847726162303030343137363133",
+            "quantity": null,
+            "policy_id": "a5bb0e5bb275a573d744a021f9b3bff73595468e002755b447e01559",
+            "asset_name": "484f534b594361736847726162303030343137363133",
+            "onchain_metadata": {
+                "name": "HOSKY C(ash Grab)NFT 417613",
+                "image": "ipfs:\/\/QmT3x8Udf5Gb1qK3ig6Cczds2avJsAMSrh7uMu32LHuz4r",
+                "-----Traits-----": [
+                    {
+                        "Background": "Landscape"
+                    },
+                    {
+                        "Fur": "Liberty"
+                    },
+                    {
+                        "Eyes": "Original"
+                    },
+                    {
+                        "Hat": "Pumpkin"
+                    },
+                    {
+                        "Frame": "Web"
+                    }
+                ],
+                "-----Product Information-----": [
+                    {
+                        "Website": "https:\/\/hosky.io"
+                    },
+                    {
+                        "Copyright": "HOSKY IO; all rights reserved"
+                    }
+                ]
+            }
+        }
+    ]
+}

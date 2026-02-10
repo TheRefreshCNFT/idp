@@ -1,0 +1,97 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933649,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "81914930ff49aa857d7a8d718015cdf7749c05ab85211b05d503ecaf"
+    },
+    "assets_cache": [
+        {
+            "asset": "81914930ff49aa857d7a8d718015cdf7749c05ab85211b05d503ecaf001bc280424f53",
+            "quantity": null,
+            "policy_id": "81914930ff49aa857d7a8d718015cdf7749c05ab85211b05d503ecaf",
+            "asset_name": "001bc280424f53",
+            "onchain_metadata": {
+                "files": [
+                    {
+                        "mediaType": "image\/png",
+                        "name": "card.png",
+                        "src": "ipfs:\/\/bafybeicu4qnkosxyevnf63mrwz3jkdvwbupdwy77kcbpc2jr54jxv7jr3i"
+                    }
+                ],
+                "name": "BOS",
+                "image": "ipfs:\/\/bafybeidtf2zkudocwbtu5bav35c6qzfi3wrdoahigynk5urbozzj4rriwu"
+            }
+        },
+        {
+            "asset": "81914930ff49aa857d7a8d718015cdf7749c05ab85211b05d503ecaf001bc280546f6b656f",
+            "quantity": null,
+            "policy_id": "81914930ff49aa857d7a8d718015cdf7749c05ab85211b05d503ecaf",
+            "asset_name": "001bc280546f6b656f",
+            "onchain_metadata": {
+                "files": [
+                    {
+                        "mediaType": "image\/png",
+                        "name": "card.png",
+                        "src": "ipfs:\/\/bafybeidblpqhlds4o2o5urg3iggpud7urblbyk3d4hjxxoexhbim4snquq"
+                    }
+                ],
+                "name": "Tokeo",
+                "image": "ipfs:\/\/bafybeicowqu6g33grbi2yaixi47kccdpm5kryjcx6obzujfqcoeiescmru"
+            }
+        },
+        {
+            "asset": "81914930ff49aa857d7a8d718015cdf7749c05ab85211b05d503ecaf001bc280416e76696c",
+            "quantity": null,
+            "policy_id": "81914930ff49aa857d7a8d718015cdf7749c05ab85211b05d503ecaf",
+            "asset_name": "001bc280416e76696c",
+            "onchain_metadata": {
+                "files": [
+                    {
+                        "mediaType": "image\/png",
+                        "name": "card.png",
+                        "src": "ipfs:\/\/bafybeia3h5mvquvutta4bg55fzumkbdspaqxit2oquplusts64ixcmkei4"
+                    }
+                ],
+                "name": "Anvil",
+                "image": "ipfs:\/\/bafybeifc2z7cooqrbrzt53aqpibtq7ntixjr5zglcjwd6vdudtdk2qyxja"
+            }
+        },
+        {
+            "asset": "81914930ff49aa857d7a8d718015cdf7749c05ab85211b05d503ecaf001bc280457465726e6c",
+            "quantity": null,
+            "policy_id": "81914930ff49aa857d7a8d718015cdf7749c05ab85211b05d503ecaf",
+            "asset_name": "001bc280457465726e6c",
+            "onchain_metadata": {
+                "files": [
+                    {
+                        "mediaType": "image\/png",
+                        "name": "card.png",
+                        "src": "ipfs:\/\/bafybeiehd2hkgyfzx6xhw3zf6rq5oxhpoqneuoherse44alyhxy3yggmoy"
+                    }
+                ],
+                "name": "Eternl",
+                "image": "ipfs:\/\/bafkreiawngi73pwzd4u3spjfy4xizjq3ztxx2fw5mvkwpjgdsyzk7grmcu"
+            }
+        },
+        {
+            "asset": "81914930ff49aa857d7a8d718015cdf7749c05ab85211b05d503ecaf001bc2804b657973746f6e652057616c6c657420",
+            "quantity": null,
+            "policy_id": "81914930ff49aa857d7a8d718015cdf7749c05ab85211b05d503ecaf",
+            "asset_name": "001bc2804b657973746f6e652057616c6c657420",
+            "onchain_metadata": {
+                "files": [
+                    {
+                        "mediaType": "image\/png",
+                        "name": "card.png",
+                        "src": "ipfs:\/\/bafybeidsfelfo2v7vn6mtgupwbr3seveggyfdaj7446v53wvdrwunnr62m"
+                    }
+                ],
+                "name": "Keystone Wallet",
+                "image": "ipfs:\/\/bafybeiftisxe5oqb2tmt3nz7thcyj62rhuzjw3gnk5x3xnj4yxzxyhv3ra"
+            }
+        }
+    ]
+}

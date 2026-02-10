@@ -1,0 +1,84 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933643,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "6cf6b2fa1fd2191ad48f74cc8cba258d1c5948f42325a078a79d6f9e"
+    },
+    "assets_cache": [
+        {
+            "asset": "6cf6b2fa1fd2191ad48f74cc8cba258d1c5948f42325a078a79d6f9e5361627265746f6f74684b696e5434",
+            "quantity": null,
+            "policy_id": "6cf6b2fa1fd2191ad48f74cc8cba258d1c5948f42325a078a79d6f9e",
+            "asset_name": "5361627265746f6f74684b696e5434",
+            "onchain_metadata": {
+                "name": "Sabretooth_Kin [4\/5]",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmWFNhwuEiH5DPZP4LqMnDz8oJFp5KpPCmrBzHRyLT3JxV",
+                        "name": "Sabretooth_Kin [4\/5]",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmVggj7jewvWz95NvZwypA5ogXZLjMvRwSVAS4e76qvKxX",
+                "Artist": "GlitchCreation CNFT",
+                "Discord": "https:\/\/discord.gg\/qEcrY9bKmn",
+                "Twitter": "https:\/\/twitter.com\/GlitchCreation",
+                "Website": "https:\/\/glitchcreation.com\/",
+                "Copyright": "GlitchCreation \u00a9 2021",
+                "Instagram": "https:\/\/www.instagram.com\/glitchcreationcnft",
+                "Collection": "TECHNORONIN"
+            }
+        },
+        {
+            "asset": "6cf6b2fa1fd2191ad48f74cc8cba258d1c5948f42325a078a79d6f9e416f7a6f72615432",
+            "quantity": null,
+            "policy_id": "6cf6b2fa1fd2191ad48f74cc8cba258d1c5948f42325a078a79d6f9e",
+            "asset_name": "416f7a6f72615432",
+            "onchain_metadata": {
+                "name": "Aozora [2\/4]",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmNubmbQV88GtigK6HaMrRysko31NxJVN9BNtfcNkwmnTw",
+                        "name": "Aozora [2\/4]",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmcQrQZnCWKsj2tBse8MYqvuBQDdSM4ZUYCaQLnFXBcwos",
+                "Artist": "GlitchCreation CNFT",
+                "Discord": "https:\/\/discord.gg\/qEcrY9bKmn",
+                "Twitter": "https:\/\/twitter.com\/GlitchCreation",
+                "Website": "https:\/\/glitchcreation.com\/",
+                "Copyright": "GlitchCreation \u00a9 2021",
+                "Instagram": "https:\/\/www.instagram.com\/glitchcreationcnft",
+                "Collection": "TECHNORONIN"
+            }
+        },
+        {
+            "asset": "6cf6b2fa1fd2191ad48f74cc8cba258d1c5948f42325a078a79d6f9e44616564616c75735431",
+            "quantity": null,
+            "policy_id": "6cf6b2fa1fd2191ad48f74cc8cba258d1c5948f42325a078a79d6f9e",
+            "asset_name": "44616564616c75735431",
+            "onchain_metadata": {
+                "name": "Daedalus [1\/3]",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmSZy4zj5ffTo68CWSkc31gFDvt3dy5oph2JuJSAvmbQ4S",
+                        "name": "Daedalus [1\/3]",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmcLajxYQMM83Cv9TC2xtbSZJdESBJECbt7KBXRcotozqT",
+                "Artist": "GlitchCreation CNFT",
+                "Discord": "https:\/\/discord.gg\/qEcrY9bKmn",
+                "Twitter": "https:\/\/twitter.com\/GlitchCreation",
+                "Website": "https:\/\/glitchcreation.com\/",
+                "Copyright": "GlitchCreation \u00a9 2021",
+                "Instagram": "https:\/\/www.instagram.com\/glitchcreationcnft",
+                "Collection": "TECHNORONIN"
+            }
+        }
+    ]
+}

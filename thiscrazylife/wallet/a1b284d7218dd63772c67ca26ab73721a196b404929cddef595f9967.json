@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933840,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "a1b284d7218dd63772c67ca26ab73721a196b404929cddef595f9967"
+    },
+    "assets_cache": [
+        {
+            "asset": "a1b284d7218dd63772c67ca26ab73721a196b404929cddef595f9967574f4a414b424c5545",
+            "quantity": null,
+            "policy_id": "a1b284d7218dd63772c67ca26ab73721a196b404929cddef595f9967",
+            "asset_name": "574f4a414b424c5545",
+            "onchain_metadata": {
+                "name": "WOJAKBLUE",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmNyDNpRfKk1q9jygP5iCEVc6MKBpPPSQfExpEeKBnP1Rq",
+                        "name": "WOJAKBLUE",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmNyDNpRfKk1q9jygP5iCEVc6MKBpPPSQfExpEeKBnP1Rq",
+                "symbol": "WOJAKBLUE",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 91602591
+                },
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "description": "Wojak Blue is a memecoin inspired by the iconic Wojak meme.",
+                "totalSupply": 69420000000
+            }
+        }
+    ]
+}

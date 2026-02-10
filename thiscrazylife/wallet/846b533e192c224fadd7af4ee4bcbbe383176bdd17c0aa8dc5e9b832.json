@@ -1,0 +1,153 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933727,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "846b533e192c224fadd7af4ee4bcbbe383176bdd17c0aa8dc5e9b832"
+    },
+    "assets_cache": [
+        {
+            "asset": "846b533e192c224fadd7af4ee4bcbbe383176bdd17c0aa8dc5e9b8324372617a794b69746368656e34",
+            "quantity": null,
+            "policy_id": "846b533e192c224fadd7af4ee4bcbbe383176bdd17c0aa8dc5e9b832",
+            "asset_name": "4372617a794b69746368656e34",
+            "onchain_metadata": {
+                "name": "THIS CRAZY KITCHEN: \"Workshop 4 - HTML Basics\" (2022)",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeiha6uj3bjjexbhs77c7sutptkdpdh2vejjs3egqhqjhjuh24si6",
+                            "7m\/ThisCrazyKitchenWorkshop4.mp4"
+                        ],
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmRtPbvfMkbCXTh1FymDawAP4J4tJ2wTDRQjiuieuFTSu9",
+                        "name": "Simple HTML with START TAG and END TAG",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmNMBrwiXwiYZHeBqSdu9VRstZ38WU5x3hSAVV8GSp94Vf",
+                        "name": "Basic HTML \"Skeleton\" Structure: HTML, HEAD, BODY",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmYad8P8qbZ9M3ZPpXt9iAfrP7AoufSkD9P6WskPB1C4M1",
+                        "name": "HTML with TITLE in HEAD",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmcjgkMaN3cKmsuc7ZJCqBe7Ukv613KnrDQhdTKauKPzbm",
+                        "name": "ID Attribute added to <p> START TAG in BODY",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmajouMauKCiXQWWnomxadjyKBVsM4TtTq7t7SgR5MfzGk",
+                        "name": "ID Attribute placed in <p> START TAG to make it distinct",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/Qmbn9cFQ8vuMS2fSNNiuDFnEzqCGjyR8zDqLwU92ZUzZeH",
+                        "name": "CSS STYLE TAG added to HEAD to stylize a specific <p> TAG",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmRn36vZbWQvsPhpaoU26zZeSJxE1ujMvZvj1aE4YfdNB3",
+                        "name": "JAVASCRIPT embedded inside SCRIPT TAGs, inside HTML BODY",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmWPxi95ZxKPiWin7PGv51RvTAcLyEUFFD7XQSvAQDZJCp",
+                        "name": "W3Schools: Free online resources for learning HTML",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmR6ynJPTP8vzwtAhvbAVfFyYotzGgDa4vPYnfeJqoy8yB",
+                        "name": "Editor Suite on W3Schools for practicing HTML",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmPCZmp3kS4ynpPPcJ2aiu6QUJ4azUsGAbdWzNYdhs6yCn",
+                        "mediaType": "image\/gif"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmX9Eh3TW6JU9zqFUM2VE4T1saXgHBHyicrcHb8ZhWfGwf",
+                        "name": "HMTL BASICS (PDF)",
+                        "mediaType": "application\/pdf"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmW6nktjZABC97XXoFP54PzNqE99Xjsw4Sd75XwU1QDd3V",
+                        "name": "The Missing Link: Intro to Web Development",
+                        "mediaType": "application\/pdf"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXNQtbnErhg7KhFWvEQyLGRkpKGuToXva59gFe49s9TAV",
+                        "name": "Learning HTML 5 Canvas",
+                        "mediaType": "application\/pdf"
+                    }
+                ],
+                "image": "ipfs:\/\/QmYq2QLfJch5GXHFD5pYCTyJqQTESC8zj7BuckX8vfbJCZ",
+                "Summary": [
+                    "The fourth edition of,",
+                    "THIS CRAZY KITCHEN Cardano Workshop!",
+                    "In this workshop, we cover some basics of HTML",
+                    "computer coding. We explore the general structure",
+                    "of HTML documents, and identify their",
+                    "different parts.",
+                    "The Workshop used this information to",
+                    "create an HTML document in order to see",
+                    "what it looks like on the Atom editor,",
+                    "a basic .txt document, and on a",
+                    "web browser.",
+                    "We then explored some online resources",
+                    "for learning and practicing HTML.",
+                    "See you again at the next",
+                    "THIS CRAZY KITCHEN workshop!"
+                ],
+                "Resources": {
+                    "atom.io\ud83d\udcd3": "https:\/\/atom.io\/",
+                    "w3schools\ud83d\udcd3": "https:\/\/www.w3schools.com\/",
+                    "Cardanotools.io\ud83d\udcd3": "https:\/\/cardano-tools.io\/mint",
+                    "Pool.pm Metadata Test\ud83d\udcd3": "https:\/\/pool.pm\/test\/metadata"
+                },
+                "mediaType": "image\/png",
+                "Published on": [
+                    "Cardano (Epoch 320)"
+                ],
+                "Kitchen Chefs": [
+                    "KaleidoKlara, ThisCrazyLife, NOODZ"
+                ],
+                "Previous Workshops": {
+                    "workshop 1 \ud83d\udcd6": "https:\/\/tinyurl.com\/CKWorkshop1",
+                    "workshop 2 \ud83d\udcd6": "https:\/\/tinyurl.com\/CKWorkshop2",
+                    "workshop 3 \ud83d\udcd6": "https:\/\/tinyurl.com\/nhdvvp8w"
+                },
+                "Estimated Attendance": [
+                    "25+"
+                ],
+                "nOODZ \ud83c\udf5c (Creative Developer)": {
+                    "Twitter": "https:\/\/twitter.com\/CardanoNoodz",
+                    "GET NOOD": "https:\/\/www.cardanonoodz.online",
+                    "Infinite Possibilities (infi)": "https:\/\/infinitepool.io\/"
+                },
+                "ThisCrazyLife \ud83d\udd01 (Creative Developer)": {
+                    "Discord": "https:\/\/discord.gg\/Ya4XvQ2ey6",
+                    "Twitter": "https:\/\/twitter.com\/_ThisCr8zyLife_",
+                    "thiscrazylife.io": "https:\/\/www.thiscrazylife.io\/"
+                },
+                "kaleidoKlara \u2733\ufe0f (Creative Developer)": {
+                    "Discord": "https:\/\/tinyurl.com\/KKlaraDiscord",
+                    "Twitter": "https:\/\/twitter.com\/KaleidoKlara",
+                    "kklara.com": "https:\/\/www.kklara.com\/"
+                },
+                "the Alexandria Project \ud83d\udcda (Library on Cardano)": {
+                    "Discord": "https:\/\/tinyurl.com\/TAPDiscord",
+                    "Twitter": "https:\/\/twitter.com\/alexandriatap",
+                    "Library Collections": "https:\/\/tinyurl.com\/TAPLibrary"
+                }
+            }
+        }
+    ]
+}

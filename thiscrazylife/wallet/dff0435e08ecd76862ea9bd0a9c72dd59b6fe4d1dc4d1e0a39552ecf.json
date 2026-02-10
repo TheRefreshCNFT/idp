@@ -1,0 +1,126 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933617,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "dff0435e08ecd76862ea9bd0a9c72dd59b6fe4d1dc4d1e0a39552ecf"
+    },
+    "assets_cache": [
+        {
+            "asset": "dff0435e08ecd76862ea9bd0a9c72dd59b6fe4d1dc4d1e0a39552ecf545f4f5f44",
+            "quantity": null,
+            "policy_id": "dff0435e08ecd76862ea9bd0a9c72dd59b6fe4d1dc4d1e0a39552ecf",
+            "asset_name": "545f4f5f44",
+            "onchain_metadata": {
+                "name": "The On-Chain Decoder",
+                "files": [
+                    {
+                        "src": [
+                            "data:text\/html;base64,PCFET0NUWVBFIGh0bWw+PGh0bWwgbGFuZz0iZW4iPj",
+                            "xoZWFkPjxtZXRhIGNoYXJzZXQ9IlVURi04Ij48bWV0YSBuYW1lPSJ2aWV3cG9ydC",
+                            "IgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLGluaXRpYWwtc2NhbGU9MSI+PH",
+                            "RpdGxlPlRPRDwvdGl0bGU+PHN0eWxlPmJvZHl7ZGlzcGxheTpmbGV4O2ZsZXgtZG",
+                            "lyZWN0aW9uOmNvbHVtbjthbGlnbi1pdGVtczpjZW50ZXI7anVzdGlmeS1jb250ZW",
+                            "50OmNlbnRlcjttaW4taGVpZ2h0OjEwMHZoO21hcmdpbjowO2ZvbnQtZmFtaWx5Ok",
+                            "FyaWFsLHNhbnMtc2VyaWY7YmFja2dyb3VuZC1jb2xvcjojZjBmMGYwfWgxe21hcm",
+                            "dpbi1ib3R0b206MjBweH1mb3Jte2Rpc3BsYXk6ZmxleDtmbGV4LWRpcmVjdGlvbj",
+                            "pjb2x1bW47YWxpZ24taXRlbXM6Y2VudGVyO21hcmdpbi1ib3R0b206MjBweH10ZX",
+                            "h0YXJlYXt3aWR0aDoxMDAlO21heC13aWR0aDo2MDBweDttYXJnaW4tYm90dG9tOj",
+                            "EwcHh9aW5wdXRbdHlwZT1zdWJtaXRde3BhZGRpbmc6MTBweCAyMHB4O2ZvbnQtc2",
+                            "l6ZToxNnB4fSNyZXN1bHR7ZGlzcGxheTpmbGV4O2ZsZXgtZGlyZWN0aW9uOmNvbH",
+                            "VtbjthbGlnbi1pdGVtczpjZW50ZXI7bWF4LXdpZHRoOjYwMHB4O3dpZHRoOjEwMC",
+                            "V9aWZyYW1lLGltZyxwcmV7d2lkdGg6MTAwJTttYXgtd2lkdGg6MTAwJX0jcHJldm",
+                            "lldyBpbWd7bWF4LXdpZHRoOjEwMCV9aWZyYW1le2hlaWdodDozMDBweH08L3N0eW",
+                            "xlPjwvaGVhZD48Ym9keT48aDE+VC5PLkQuPC9oMT48Zm9ybSBpZD0ianNvbkZvcm",
+                            "0iPjxsYWJlbCBmb3I9Impzb25fY29udGVudCI+RW50ZXIgSlNPTiBmb3JtYXR0ZW",
+                            "QgYmFzZTY0IGVuY29kZWQgY29udGVudDo8L2xhYmVsPjxicj48dGV4dGFyZWEgaW",
+                            "Q9Impzb25fY29udGVudCIgbmFtZT0ianNvbl9jb250ZW50IiByb3dzPSIxMCIgY2",
+                            "9scz0iNTAiPjwvdGV4dGFyZWE+PGJyPjxpbnB1dCB0eXBlPSJidXR0b24iIHZhbH",
+                            "VlPSJTdWJtaXQiIG9uY2xpY2s9InByb2Nlc3NKc29uKGV2ZW50KSI+PC9mb3JtPj",
+                            "xkaXYgaWQ9InJlc3VsdCI+PGgyPkRvd25sb2FkIExpbms6PC9oMj48YSBpZD0iZG",
+                            "93bmxvYWRfbGluayIgaHJlZj0iIyIgZG93bmxvYWQ9IlRPRF9EZWNvZGVkLnR4dC",
+                            "I+RG93bmxvYWQgUHJvY2Vzc2VkIEZpbGU8L2E+PGgyPlByb2Nlc3NlZCBDb250ZW",
+                            "50OjwvaDI+PHByZSBpZD0icHJvY2Vzc2VkX2NvbnRlbnQiPjwvcHJlPjxoMj5Qcm",
+                            "V2aWV3OjwvaDI+PGRpdiBpZD0icHJldmlldyI+PC9kaXY+PC9kaXY+DQoNCiAgIC",
+                            "A8c2NyaXB0Pg0KICAgICAgZnVuY3Rpb24gcmVtb3ZlUXVvdGVzKGxpbmUpe2xpbm",
+                            "U9bGluZS50cmltKCkucmVwbGFjZSgvXiJ8IiQvZywiIik7cmV0dXJuIGxpbmUucm",
+                            "VwbGFjZSgvIiwkLywiIil9ZnVuY3Rpb24gY29tYmluZUxpbmVzKGxpbmVzKXtyZX",
+                            "R1cm4gbGluZXMuam9pbigiIil9ZnVuY3Rpb24gcmVtb3ZlV2hpdGVzcGFjZShsaW",
+                            "5lKXtyZXR1cm4gbGluZS5yZXBsYWNlKC9ccysvZywiIil9ZnVuY3Rpb24gcHJvY2",
+                            "Vzc0pzb25Db250ZW50KGNvbnRlbnQpe2xldCBsaW5lcz1jb250ZW50LnNwbGl0KC",
+                            "JcbiIpLm1hcChyZW1vdmVRdW90ZXMpO2xldCBjb21iaW5lZFN0cmluZz1jb21iaW",
+                            "5lTGluZXMobGluZXMpO2xpbmVzPWNvbWJpbmVkU3RyaW5nLnNwbGl0KCJcbiIpLm",
+                            "1hcChyZW1vdmVXaGl0ZXNwYWNlKTtyZXR1cm4gY29tYmluZUxpbmVzKGxpbmVzKX",
+                            "1mdW5jdGlvbiBiYXNlNjRUb0Jsb2IoYmFzZTY0LHR5cGUpe2xldCBiaW5hcnk9YX",
+                            "RvYihiYXNlNjQpO2xldCBsZW49YmluYXJ5Lmxlbmd0aDtsZXQgYnVmZmVyPW5ldy",
+                            "BVaW50OEFycmF5KGxlbik7Zm9yKGxldCBpPTA7aTxsZW47aSsrKXtidWZmZXJbaV",
+                            "09YmluYXJ5LmNoYXJDb2RlQXQoaSl9cmV0dXJuIG5ldyBCbG9iKFtidWZmZXJdLH",
+                            "t0eXBlOnR5cGV9KX1mdW5jdGlvbiBzYXZlRmlsZUZyb21CYXNlNjQoY29udGVudC",
+                            "l7bGV0W21ldGFkYXRhLGJhc2U2NERhdGFdPWNvbnRlbnQuc3BsaXQoIjtiYXNlNj",
+                            "QsIik7bGV0IGZpbGVFeHRlbnNpb249InR4dCI7aWYobWV0YWRhdGEuaW5jbHVkZX",
+                            "MoImltYWdlL3BuZyIpKWZpbGVFeHRlbnNpb249InBuZyI7ZWxzZSBpZihtZXRhZG",
+                            "F0YS5pbmNsdWRlcygiaW1hZ2UvanBlZyIpKWZpbGVFeHRlbnNpb249ImpwZyI7ZW",
+                            "xzZSBpZihtZXRhZGF0YS5pbmNsdWRlcygiaW1hZ2UvZ2lmIikpZmlsZUV4dGVuc2",
+                            "lvbj0iZ2lmIjtlbHNlIGlmKG1ldGFkYXRhLmluY2x1ZGVzKCJpbWFnZS9zdmcreG",
+                            "1sIikpZmlsZUV4dGVuc2lvbj0ic3ZnIjtlbHNlIGlmKG1ldGFkYXRhLmluY2x1ZG",
+                            "VzKCJpbWFnZS93ZWJwIikpZmlsZUV4dGVuc2lvbj0id2VicCI7ZWxzZSBpZihtZX",
+                            "RhZGF0YS5pbmNsdWRlcygidGV4dC9odG1sIikpZmlsZUV4dGVuc2lvbj0iaHRtbC",
+                            "I7cmV0dXJue2Jhc2U2NERhdGE6YmFzZTY0RGF0YSxmaWxlRXh0ZW5zaW9uOmZpbG",
+                            "VFeHRlbnNpb24sbWV0YWRhdGE6bWV0YWRhdGF9fWZ1bmN0aW9uIHByb2Nlc3NKc2",
+                            "9uKGV2ZW50KXtldmVudC5wcmV2ZW50RGVmYXVsdCgpO2xldCBqc29uQ29udGVudD",
+                            "1kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgianNvbl9jb250ZW50IikudmFsdWU7bG",
+                            "V0IHByb2Nlc3NlZENvbnRlbnQ9cHJvY2Vzc0pzb25Db250ZW50KGpzb25Db250ZW",
+                            "50KTtsZXQgcHJvY2Vzc2VkRWxlbWVudD1kb2N1bWVudC5nZXRFbGVtZW50QnlJZC",
+                            "gicHJvY2Vzc2VkX2NvbnRlbnQiKTtwcm9jZXNzZWRFbGVtZW50LnRleHRDb250ZW",
+                            "50PXByb2Nlc3NlZENvbnRlbnQ7bGV0e2Jhc2U2NERhdGEsZmlsZUV4dGVuc2lvbi",
+                            "xtZXRhZGF0YX09c2F2ZUZpbGVGcm9tQmFzZTY0KHByb2Nlc3NlZENvbnRlbnQpO2",
+                            "xldCBibG9iPWJhc2U2NFRvQmxvYihiYXNlNjREYXRhLG1ldGFkYXRhKTtsZXQgZG",
+                            "93bmxvYWRVcmw9VVJMLmNyZWF0ZU9iamVjdFVSTChibG9iKTtsZXQgZG93bmxvYW",
+                            "RMaW5rPWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJkb3dubG9hZF9saW5rIik7ZG",
+                            "93bmxvYWRMaW5rLmhyZWY9ZG93bmxvYWRVcmw7ZG93bmxvYWRMaW5rLmRvd25sb2",
+                            "FkPWBUT0RfRGVjb2RlZC4ke2ZpbGVFeHRlbnNpb259YDtsZXQgcHJldmlld0VsZW",
+                            "1lbnQ9ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInByZXZpZXciKTtwcmV2aWV3RW",
+                            "xlbWVudC5pbm5lckhUTUw9IiI7aWYobWV0YWRhdGEuaW5jbHVkZXMoImltYWdlLy",
+                            "IpKXtsZXQgaW1nPWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoImltZyIpO2ltZy5zcm",
+                            "M9YGRhdGE6JHttZXRhZGF0YX07YmFzZTY0LCR7YmFzZTY0RGF0YX1gO2ltZy5zdH",
+                            "lsZS5tYXhXaWR0aD0iMTAwJSI7cHJldmlld0VsZW1lbnQuYXBwZW5kQ2hpbGQoaW",
+                            "1nKX1lbHNlIGlmKG1ldGFkYXRhLmluY2x1ZGVzKCJ0ZXh0L2h0bWwiKSl7bGV0IG",
+                            "lmcmFtZT1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCJpZnJhbWUiKTtpZnJhbWUuc3",
+                            "JjZG9jPWF0b2IoYmFzZTY0RGF0YSk7aWZyYW1lLnN0eWxlLndpZHRoPSIxMDAlIj",
+                            "tpZnJhbWUuc3R5bGUuaGVpZ2h0PSIzMDBweCI7cHJldmlld0VsZW1lbnQuYXBwZW",
+                            "5kQ2hpbGQoaWZyYW1lKX1lbHNle2xldCBwcmU9ZG9jdW1lbnQuY3JlYXRlRWxlbW",
+                            "VudCgicHJlIik7cHJlLnRleHRDb250ZW50PWF0b2IoYmFzZTY0RGF0YSk7cHJldm",
+                            "lld0VsZW1lbnQuYXBwZW5kQ2hpbGQocHJlKX19DQogICA8L3NjcmlwdD4NCjwvYm",
+                            "9keT4NCjwvaHRtbD4NCg=="
+                        ],
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": [
+                    "data:image\/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz",
+                    "0idXRmLTgiPz4KPHN2ZyB2aWV3Qm94PSI5Ny42NzEgMTc1LjI5MSAzMzEuODI0ID",
+                    "k5LjYxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZG",
+                    "Vmcy8+CiAgPHRleHQgc3R5bGU9IndoaXRlLXNwYWNlOiBwcmU7IGZpbGw6IHJnYi",
+                    "gwLCAwLCAwKTsgZmlsbC1vcGFjaXR5OiAxOyBzdHJva2U6IHJnYigwLCAyMjEsID",
+                    "M4KTsgc3Ryb2tlLXdpZHRoOiA1cHg7IGZvbnQtZmFtaWx5OiBDYWxpYnJpOyBmb2",
+                    "50LXNpemU6IDEzMS43cHg7IGZvbnQtd2VpZ2h0OiA3MDA7IiB4PSIxMDQuNDYzIi",
+                    "B5PSIyNjcuOTMxIj5ULk8uRC48L3RleHQ+Cjwvc3ZnPg=="
+                ],
+                "built by": "ThisCrazyLife",
+                "mediaType": "image\/png",
+                "Description": "A simple on-chain tool to decode on-chain assets.",
+                "check'm out": {
+                    "twitter": "https:\/\/x.com\/_ThisCr8zyLife_"
+                },
+                "Instructions": [
+                    "Copy base64 enocded content from your asset",
+                    "Paste into the text field & Click submit",
+                    "Click the download link to save the file decoded & formatted",
+                    "Interact with & view code generated works in the preview section"
+                ]
+            }
+        }
+    ]
+}

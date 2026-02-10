@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933629,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "c8282acab2f2edafd248232401456fcf1bcb080147a6429d2c109384"
+    },
+    "assets_cache": [
+        {
+            "asset": "c8282acab2f2edafd248232401456fcf1bcb080147a6429d2c109384536d696c65416761696e3035",
+            "quantity": null,
+            "policy_id": "c8282acab2f2edafd248232401456fcf1bcb080147a6429d2c109384",
+            "asset_name": "536d696c65416761696e3035",
+            "onchain_metadata": {
+                "url": "https:\/\/twitter.com\/TommyNomz?t=spG4NTsjwwOUOfzjb0tcNQ&s=09",
+                "name": "Smile Again 05",
+                "type": "Music NFT",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmWxBa1DXDiXjDegtB2iypGbJgzBRpzCxqAuYgz3ueRcAs",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmeXuzeLSYDdooyMBNz1f962zdEwB8yU9LFXE2Dj6FXsiR",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmeXuzeLSYDdooyMBNz1f962zdEwB8yU9LFXE2Dj6FXsiR",
+                "artist": "Sherman Tan",
+                "traits": [
+                    "Original song",
+                    "The Refresh remixed & animated",
+                    "Charity drop",
+                    "Music for a cause",
+                    "Designed by TommyO"
+                ],
+                "homepage": "http:\/\/shermtan.weebly.com\/",
+                "mediaType": "image\/png",
+                "description": "An original music NFT"
+            }
+        }
+    ]
+}

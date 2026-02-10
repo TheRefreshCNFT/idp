@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933674,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "1111170eb2f1fc2eaf1ea6503c0160eda20de2a84418f988720a7c8e"
+    },
+    "assets_cache": [
+        {
+            "asset": "1111170eb2f1fc2eaf1ea6503c0160eda20de2a84418f988720a7c8e4b525950544f",
+            "quantity": null,
+            "policy_id": "1111170eb2f1fc2eaf1ea6503c0160eda20de2a84418f988720a7c8e",
+            "asset_name": "4b525950544f",
+            "onchain_metadata": {
+                "url": "https:\/\/kryptothreadz.com",
+                "name": "KryptoCoin",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmYXRkqTcu3gZqqN2uKSE3joe1C56AwdroRcQoa2CgWXTh",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmYXRkqTcu3gZqqN2uKSE3joe1C56AwdroRcQoa2CgWXTh",
+                "Discord": "https:\/\/discord.gg\/2Fs4ERC9Re",
+                "Twitter": "https:\/\/twitter.com\/KryptoThreadz"
+            }
+        }
+    ]
+}

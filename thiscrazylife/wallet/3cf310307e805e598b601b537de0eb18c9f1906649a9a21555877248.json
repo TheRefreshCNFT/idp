@@ -1,0 +1,146 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933835,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "3cf310307e805e598b601b537de0eb18c9f1906649a9a21555877248"
+    },
+    "assets_cache": [
+        {
+            "asset": "3cf310307e805e598b601b537de0eb18c9f1906649a9a215558772483035343754616265746861",
+            "quantity": null,
+            "policy_id": "3cf310307e805e598b601b537de0eb18c9f1906649a9a21555877248",
+            "asset_name": "3035343754616265746861",
+            "onchain_metadata": {
+                "Id": "0547",
+                "name": "Jabi-Z Tabetha",
+                "Score": "1663",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "bafybeifl4solvktnr2jok62kazou45acteelewtzfnpskoyexr5eyslxxq"
+                        ],
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "bafkreiafmmo2d32mx6dh6r2q3ov4qoxt3ch22ye4544r5blsntzfvhd7yi"
+                        ],
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "bafybeihanlxa323po5xmbkgwy2b7ni4gr6p5crm4akmwemu52hosziznmi"
+                        ],
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": [
+                    "ipfs:\/\/",
+                    "bafybeiadvxqfuc4te3abocxmrtvjfxscejfcq6ta36taqyleuc5lep5ehq"
+                ],
+                "Rarity": "Common",
+                "Twitter": "@BlockOwls",
+                "Publisher": "https:\/\/blockowls.io",
+                "attributes": {
+                    "Clan": "Warrior",
+                    "Class": "Support",
+                    "Environment": "DesertBlue",
+                    "Jabi-Z Mood": "Heroic",
+                    "Mechsuit Arms": "Skeleton",
+                    "Mechsuit Base": "Froggy",
+                    "Mechsuit Wear": "10",
+                    "Jabi-Z Eyewear": "None",
+                    "Jabi-Z Palette": "N84G67",
+                    "Jabi-Z Pattern": "SkinPattern2198",
+                    "Jabi-Z Headwear": "None",
+                    "Mechsuit Cockpit": "Construction",
+                    "Mechsuit Palette": "SageGraphitePeacockSepiaSage_constant",
+                    "Mechsuit Pattern": "None",
+                    "Jabi-Z Face Paint": "None",
+                    "Mechsuit Backpack": "None",
+                    "Mechsuit Left Hand": "JointThumbsUp",
+                    "Mechsuit Materials": "PearlWoodPlasticShinymetal",
+                    "Mechsuit Right Hand": "JuiceGunShooting",
+                    "Mechsuit Club Sticker": "Magicians",
+                    "Mechsuit Gear Palette": "MossLimeWhiteWhiteVenom_constant",
+                    "Mechsuit Basic Sticker": "None",
+                    "Mechsuit Gear Materials": "DullmetalWoodCarpaintShinymetal",
+                    "Mechsuit Passion Sticker": "None"
+                }
+            }
+        },
+        {
+            "asset": "3cf310307e805e598b601b537de0eb18c9f1906649a9a215558772483134343841647269",
+            "quantity": null,
+            "policy_id": "3cf310307e805e598b601b537de0eb18c9f1906649a9a21555877248",
+            "asset_name": "3134343841647269",
+            "onchain_metadata": {
+                "Id": "1448",
+                "name": "Jabi-Z Adri",
+                "Score": "2456",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "bafybeigfgnxxy6sgk4jtrucatsycb6nhikxakj4bh7ywdwq4af7f5njity"
+                        ],
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "bafkreigv6ccv7i2oagevky7v5o75xchxfdwbwcq5sew27bvvxvx7boyjgu"
+                        ],
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "bafybeicaxpvjqwd22natpki42dka5c7gh4k5pfsbykimm7kchbtlx3rciy"
+                        ],
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": [
+                    "ipfs:\/\/",
+                    "bafybeicdbvqn5ypu3q7oxzbcxa7kx4arh6wphgllpshbpaxt2mx4c3ej3i"
+                ],
+                "Rarity": "Rare",
+                "Twitter": "@BlockOwls",
+                "Publisher": "https:\/\/blockowls.io",
+                "attributes": {
+                    "Clan": "Elite",
+                    "Class": "Intelligence",
+                    "Environment": "SpikesBlack",
+                    "Jabi-Z Mood": "Emotional3",
+                    "Mechsuit Arms": "Basho",
+                    "Mechsuit Base": "SpinDisc",
+                    "Mechsuit Wear": "45",
+                    "Jabi-Z Eyewear": "None",
+                    "Jabi-Z Palette": "D1K12",
+                    "Jabi-Z Pattern": "SkinPattern1058",
+                    "Jabi-Z Headwear": "Cowboy",
+                    "Mechsuit Cockpit": "Morningstar",
+                    "Mechsuit Palette": "BiscottiTruffleWhiteEchoWhite_pulse",
+                    "Mechsuit Pattern": "ElitePattern018",
+                    "Jabi-Z Face Paint": "None",
+                    "Mechsuit Backpack": "None",
+                    "Mechsuit Left Hand": "JointFist",
+                    "Mechsuit Materials": "DullmetalDullmetalPaintedmetalShinymetal",
+                    "Mechsuit Right Hand": "TennisRacket",
+                    "Mechsuit Club Sticker": "Magicians",
+                    "Mechsuit Gear Palette": "LimonadeWhiteBeigeWhisperLimonade_pulse",
+                    "Mechsuit Basic Sticker": "LazyEye",
+                    "Mechsuit Gear Materials": "RubberDullmetalPaintedmetalDullmetal",
+                    "Mechsuit Passion Sticker": "None"
+                }
+            }
+        }
+    ]
+}

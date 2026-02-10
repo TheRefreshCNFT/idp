@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933635,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "dd2bebba256099ddbc70d691935215d6dfd73cef054a087207947e89"
+    },
+    "assets_cache": [
+        {
+            "asset": "dd2bebba256099ddbc70d691935215d6dfd73cef054a087207947e894d4d",
+            "quantity": null,
+            "policy_id": "dd2bebba256099ddbc70d691935215d6dfd73cef054a087207947e89",
+            "asset_name": "4d4d",
+            "onchain_metadata": {
+                "info": [
+                    "This token enables its holder to verify for and claim a ",
+                    "whitelist spot in Motley Moon's upcoming NFT drop."
+                ],
+                "name": "Motley Moon",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmcHYG9Dw5Pwg1vvHdU3DiwJuAUuxSPFaSMyogYmrzb4Wx",
+                        "name": "Motley Moon",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmZrAYUY2x4Dh36LQWABQxRHLonSoA7nowHGMzWKtwjj7C",
+                "discord": "https:\/\/discord.gg\/GAratpvddk",
+                "twitter": "https:\/\/twitter.com\/motleymoonnft",
+                "website": "https:\/\/www.motleymoon.io\/"
+            }
+        }
+    ]
+}

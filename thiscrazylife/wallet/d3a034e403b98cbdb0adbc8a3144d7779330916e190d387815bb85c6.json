@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933635,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "d3a034e403b98cbdb0adbc8a3144d7779330916e190d387815bb85c6"
+    },
+    "assets_cache": [
+        {
+            "asset": "d3a034e403b98cbdb0adbc8a3144d7779330916e190d387815bb85c650555252",
+            "quantity": null,
+            "policy_id": "d3a034e403b98cbdb0adbc8a3144d7779330916e190d387815bb85c6",
+            "asset_name": "50555252",
+            "onchain_metadata": {
+                "name": "CatKinson",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmRH1LT4Lc7nPk2Aa3VA4yxfYQdBYcpbrXXw2ryunQct8s",
+                        "name": "PURR",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmRH1LT4Lc7nPk2Aa3VA4yxfYQdBYcpbrXXw2ryunQct8s",
+                "symbol": "PURR",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 45956028
+                },
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "description": "The first Cat Meme coin to go to the Moon without a plan!",
+                "totalSupply": 100000000000
+            }
+        }
+    ]
+}

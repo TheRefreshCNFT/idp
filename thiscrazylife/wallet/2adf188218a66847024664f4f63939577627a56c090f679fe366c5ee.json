@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933757,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "2adf188218a66847024664f4f63939577627a56c090f679fe366c5ee"
+    },
+    "assets_cache": [
+        {
+            "asset": "2adf188218a66847024664f4f63939577627a56c090f679fe366c5ee535441424c45",
+            "quantity": null,
+            "policy_id": "2adf188218a66847024664f4f63939577627a56c090f679fe366c5ee",
+            "asset_name": "535441424c45",
+            "onchain_metadata": {
+                "name": "Stablecoin",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmNTGVDtiZARCFeoHxDozxYfZudAdF7FHN7cG1EDwg6Vhn",
+                        "name": "STABLE",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmNTGVDtiZARCFeoHxDozxYfZudAdF7FHN7cG1EDwg6Vhn",
+                "symbol": "STABLE",
+                "ticker": "STABLE",
+                "mediaType": "image\/png",
+                "description": "Galloping in to DeFi with the most unstablecoin on Cardano"
+            }
+        }
+    ]
+}

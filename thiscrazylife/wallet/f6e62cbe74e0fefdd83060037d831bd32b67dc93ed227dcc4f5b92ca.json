@@ -1,0 +1,317 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933796,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "f6e62cbe74e0fefdd83060037d831bd32b67dc93ed227dcc4f5b92ca"
+    },
+    "assets_cache": [
+        {
+            "asset": "f6e62cbe74e0fefdd83060037d831bd32b67dc93ed227dcc4f5b92ca45706f6368353030",
+            "quantity": null,
+            "policy_id": "f6e62cbe74e0fefdd83060037d831bd32b67dc93ed227dcc4f5b92ca",
+            "asset_name": "45706f6368353030",
+            "onchain_metadata": {
+                "name": "Epochs End 500",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmYV5asSbYx4MLx8uim9huNWAggPczv9pBDzizSYupzvhB",
+                        "Epoch": "500",
+                        "series": "Reflections in Green",
+                        "Frequency": "Every Five Days",
+                        "mediaType": "image\/png",
+                        "Epochs End": {
+                            "Twitter": "https:\/\/twitter.com\/EpochsEnd",
+                            "Every5days.com": "https:\/\/twitter.com\/EpochsEnd"
+                        },
+                        "Description": "Official NFT for Epochs End",
+                        "cheaper Than": "Therapy",
+                        "sponsored by": {
+                            "WEED STAKE POOL": [
+                                "https:\/\/pool.pm\/932a460e99687c00e8afbda204f1ae",
+                                "db9479a9c4448c4bf738058590\/stake"
+                            ],
+                            "The Alexandria Project": [
+                                "https:\/\/thelibrary.fun"
+                            ]
+                        },
+                        "see The Website": {
+                            "every5days.com": [
+                                "https:\/\/every5days.com"
+                            ]
+                        },
+                        "epoch Synopsis 500.0": [
+                            "The one where EPOCHS END celebrated 500 Epochs on Cardano!",
+                            "Totaling 2,500 days, or 6.84 years, this important",
+                            "milestone reflects both the longevity and robustness",
+                            "of Cardano as a network and ecosystem.",
+                            "To commemorate the occasion, EPOCHS END released",
+                            "a commemorative edition mint on DRIP DROPZ to",
+                            "share this historical moment with the community,",
+                            "and officially launched every5days.com,",
+                            "which is an online tools for viewing the",
+                            "contents of Epochs End NFTs thanks to the",
+                            "amazing work from our buddy Mad Okrestra.",
+                            "Cheers to 500 more from your friends",
+                            "at EPOCHS END!"
+                        ]
+                    },
+                    {
+                        "src": "ipfs:\/\/QmPWUhmLHMJbCAxXDTfwzDPfFykko4wUxJtLnC3c4vuD9u",
+                        "mediaType": "image\/png",
+                        "see the Events": {
+                            "ADN": [
+                                "https:\/\/x.com\/MauroAndreoliA\/status\/1819346708679348691"
+                            ],
+                            "Convention Preview": [
+                                "https:\/\/x.com\/IOHK_Charles\/status\/1818283336768581815"
+                            ],
+                            "Graduation Ceremony": [
+                                "https:\/\/x.com\/CardanoSolar\/status\/1818051163197219217"
+                            ],
+                            "Meeting Local Officials": [
+                                "https:\/\/x.com\/MauroAndreoliA\/status\/1818411061483389190"
+                            ]
+                        },
+                        "epoch Synopsis 500.1": [
+                            "The one where ARGENTINA took center stage as a keystone",
+                            "of the development of the Cardano ecosystem, and the",
+                            "future of Cardano governance in particular.",
+                            "This Epoch saw members of IOG visiting the country",
+                            "to attend the ALBA graduation ceremony showcasing a",
+                            "Cardano-focused graduation thesis, as well as Cardano",
+                            "founder Charles Hoskinson meeting with local",
+                            "organizations and officials in the lead up to",
+                            "this year's Constitutional Convention.",
+                            "In addition, there was the ADN event, which was a",
+                            "celebration and exploration of Argentina's entrepreneurial,",
+                            "leadership and political DNA that was attended by over 40",
+                            "Cardano community members and builders, and which was",
+                            "sponsored by Input Output Global and Intersect,",
+                            "with significant presence and participation of",
+                            "Cardano Foundation and Midnight."
+                        ]
+                    },
+                    {
+                        "src": "ipfs:\/\/QmZgPccTGp3ohJZtBAy5HfR2RKxahFVuA3tjZoii29LPpB",
+                        "mediaType": "image\/png",
+                        "see the News": {
+                            "on Coin Telegraph": [
+                                "https:\/\/cointelegraph.com\/news\/sec-drops-ruling",
+                                "-request-security-token-claims-binance-lawsuit"
+                            ]
+                        },
+                        "epoch Synopsis 500.2": [
+                            "The one where the SEC retracted its request for a",
+                            "court ruling to classify tokens such as Cardano,",
+                            "Solana, Polygon and others as securities.",
+                            "On July 30, the SEC wrote that it seeks to amend its",
+                            "complaint regarding the 'Third Party Crypto Asset Securities'",
+                            "defined in its opposition to Binance. This filing removes the",
+                            "need to 'issue a ruling as to the sufficiency of the",
+                            "allegations as to those tokens at this time.'",
+                            "As a result, the government agency is no longer asking",
+                            "a court to decide whether the affected tokens are",
+                            "unregistered securities. This change-of-heart comes after",
+                            "a June 2023 claim at least 68 tokens were securities,",
+                            "which led to the delisting of ADA on many large platforms",
+                            "such as Robinhood, among others, and successfully",
+                            "nuked more than $100 billion worth",
+                            "of cryptocurrencies from the market."
+                        ]
+                    },
+                    {
+                        "src": "ipfs:\/\/QmNTT777v35WrXfW2hrkHwH8npK3SMJPqZmariNiJD5bjZ",
+                        "mediaType": "image\/png",
+                        "Epoch Synopsis 500.3": [
+                            "The one where IOG released their PARTNER CHAIN toolkit",
+                            "for Cardano, which enables blockchain builders to",
+                            "bootstrap security leveraging Cardano SPOs.",
+                            "As some chains lack a sufficient number of validators,",
+                            "rendering the network vulnerable to low-cost attacks,",
+                            "the partner-chains release allows developers of a",
+                            "new blockchain network to bootstrap its security",
+                            "by leveraging Cardano\u2019s extensive network of",
+                            "stake pool operators (SPOs). Many speculated how",
+                            "and why SPOs would lend their infrastructure to",
+                            "nacent blockchains as they emerge, but were informed",
+                            "that Midnight will be the first partner chain",
+                            "to launch incorporating partner-chain technology",
+                            "for Cardano SPOs to act as bootstrapping",
+                            "validators for the network."
+                        ],
+                        "See the Announcement": {
+                            "from IOG": [
+                                "https:\/\/x.com\/InputOutputHK\/status\/1818979720521777634"
+                            ]
+                        }
+                    },
+                    {
+                        "src": "ipfs:\/\/QmWhFabbwbEkWdtdfTyfqYTWDaJH2iuQYywuGCaxq6jqz6",
+                        "mediaType": "image\/png",
+                        "Epoch Synopsis 500.4": [
+                            "The one where DRIP DROPZ announced a formal partnership",
+                            "with ATRIUM. Atrium is an upcoming service on Cardano",
+                            "where users will be able to delegate to multiple pools",
+                            "using Staking Baskets, and this partnership will",
+                            "bring Dripdropz token distribution technology",
+                            "also known as Phyrhose by Andrew Westberg,",
+                            "to \u00c2trium Staking Baskets. Additionally, Dripdropz",
+                            "users will be able to claim a set amount of",
+                            "\u00c2trium DAO tokens each epoch, separate from",
+                            "any Baskets rewards. Drip Dropz CEO Kyle Solomon",
+                            "was quoted in a statement that:",
+                            "'\u00c2trium is highly anticipated to bring tremendous",
+                            "value to Cardano. In partnering with \u00c2trium,",
+                            "the DripDropz team is extremely proud to",
+                            "unleash Phyrhose to help push Cardano forward",
+                            "while continuing to live up to our reputation",
+                            "as Cardano\u2019s most trusted token delivery platform."
+                        ],
+                        "see the Announcement": {
+                            "from ATRIUM": [
+                                "https:\/\/medium.com\/atrium-lab\/%C3%A2trium-partners",
+                                "-with-dripdropz-7b91f688a733"
+                            ]
+                        }
+                    },
+                    {
+                        "src": "ipfs:\/\/QmbY1hF4dhzs1odMg9TgJZT9daADFUpreaPgfcR2Pza3bD",
+                        "mediaType": "image\/png",
+                        "See The News": {
+                            "from ROT": [
+                                "https:\/\/x.com\/rotitans\/status\/1818448025494163488"
+                            ]
+                        },
+                        "Epoch Synopsis 500.5": [
+                            "The one where REALM OF TITANS released their official token",
+                            "sale for Galaxy Dust. Realm Of Titans is a browser-based",
+                            "fusion of massive multiplayer online games (MMO),",
+                            "multiplayer online battle arenas (MOBA) and Web 3.",
+                            "The Realm Of Titans Game employs a single currency,",
+                            "Galaxy Dust ($GXD), which is used for all in-game assets",
+                            "across the Realm Of Titans universe and pays for",
+                            "various game features, including the Forge, Arena,",
+                            "Marketplace, and Guilds framework."
+                        ]
+                    },
+                    {
+                        "src": "ipfs:\/\/QmQouyNs28ap8XEyhPcoDnkeWwmaUn75efXJ22MRjfpoLu",
+                        "mediaType": "image\/png",
+                        "see the Anouncement": {
+                            "from NUCAST": [
+                                "https:\/\/x.com\/NucastIO\/status\/1818995101357740271"
+                            ]
+                        },
+                        "Epoch Synopsis 500.6": [
+                            "The one where NUCAST announced the winners of the first-",
+                            "ever Music Video Fest on Cardano. This event, in",
+                            "partnership with Project NEWM, was an innovative",
+                            "event showcasing blockchain technology linked to",
+                            "video-streaming, NFT Ticketing and On-Chain Voting",
+                            "as well as providing community artists the opportunity",
+                            "to put their hard-work on display.",
+                            "Winners included SHARL in first place with 'Earf Boy,'",
+                            "Rogue Tactics in second place, and a tie for third place",
+                            "between Cullah Music and SRRY.",
+                            "All Finalists at this inaugural event received prizes",
+                            "for their work, and enter the Cardano history books as",
+                            "the first wave of innovators for original",
+                            "streaming content for musicians in our ecosystem."
+                        ]
+                    },
+                    {
+                        "src": "ipfs:\/\/QmZPAkMH6BcMCPYuzyXqAkCbPAe15BFnWR1wqaQGiZF2SJ",
+                        "mediaType": "image\/png",
+                        "Epoch Synopsis 500.7": [
+                            "The one where IAGON teased a partnership with with EQUINIX,",
+                            "one of the world\u2019s largest bare-metal providers.",
+                            "This development could significantly enhance Iagon\u2019s",
+                            "ability to meet the growing demand for storage",
+                            "and compute needs, while bringing substantial benefits",
+                            "to the Cardano ecosystem. Equinix, a global leader in data",
+                            "center services is currently valued at a $73.3 billion",
+                            "market cap on the NASDAQ under ticker EQIX.",
+                            "According to $Brock, Iagon\u2019s Product Manager,",
+                            "\u201cIt\u2019s an enterprise-grade bare metal server company",
+                            "who will be running Iagon storage nodes.\u201d",
+                            "This integration would not only enhance Iagon\u2019s",
+                            "capabilities but also drive Cardano further in becoming",
+                            "a comprehensive and competitive blockchain ecosystem."
+                        ],
+                        "See the Announcement": {
+                            "from TAPPY": [
+                                "https:\/\/medium.com\/tap-in-with-taptools\/iagon",
+                                "-teases-partnership-with-bare-metal-",
+                                "giant-e511613bdfa5"
+                            ]
+                        }
+                    },
+                    {
+                        "src": "ipfs:\/\/QmWeMqaQeYAji33aC4QNSyhHHw7zQQM8eoihJAQ8tVyZDm",
+                        "mediaType": "image\/png",
+                        "Epoch Synopsis 500.8": [
+                            "The one where TAPTOOLS officially announced the upcoming",
+                            "release of TAPPY v2. The TAPPY NFT from TAPTOOLS has been",
+                            "one of their keystone products for accessing the Cardano",
+                            "analytics platform, where holders of TAPPY NFTs are",
+                            "able to utilize premium chart-trading and wallet-analysis",
+                            "features, and holders of 5 TAPPY NFTs have access to",
+                            "these premium services for life. Holders of only 1",
+                            "TAPPY, however, will see this access expire later",
+                            "this summer, and many were left speculating what",
+                            "the next step would be for TAPTOOLS premium services.",
+                            "This announcement sparked heated debate as to",
+                            "whether the company should release another NFT",
+                            "collection, while others supported the news",
+                            "arguing that their company has to have some",
+                            "source of revenue in order to remain",
+                            "in operation. TAPPY v2 is set to debut on Cardano",
+                            "at the end of the month on August 30th."
+                        ],
+                        "See the Announcement": {
+                            "from TAPPY": [
+                                "https:\/\/x.com\/TapTools\/status\/1819069125442130223"
+                            ]
+                        }
+                    },
+                    {
+                        "src": "ipfs:\/\/QmdnPCjnbsZncSe7PkqS12JcDKPKpCkiRnYJvUHped6A8Z",
+                        "mediaType": "image\/png",
+                        "See the Workshop": {
+                            "from NICO": [
+                                "https:\/\/x.com\/NicolasC3rny\/status\/1817609769928024522"
+                            ]
+                        },
+                        "Epoch Synopsis 500.9": [
+                            "The one where INTERSECT kicked off the Summer of Voltaire",
+                            "with the first-ever Constitutional Consultation Workshop.",
+                            "Hotsed in Berlin by NICO aka Nicolas Cerny, who is the",
+                            "Governance Lead at the Cardano Foundation, this inaugural",
+                            "workshop event is the first of over 50 happening",
+                            "all around the world in anticipation of the Cardano",
+                            "Constitutional Convention in Argentina later",
+                            "this year. Workshops are designed to facilitate feedback",
+                            "and participation from Cardano community members",
+                            "at each workshop location, and these inputs will have",
+                            "a direct influence on the final ratified version",
+                            "of the Cardano Constitution. Workshop participants will",
+                            "also vote to send a member from their event to Argentina",
+                            "as a representative at the Cardano Constitutional",
+                            "Convention happening at the end of the year.",
+                            "Epochs End congratulates everyone who will be hosting",
+                            "one of the many workshops around the world, and sends",
+                            "thanks to each and every participant working to",
+                            "help shape the future of decentralized",
+                            "governance on Cardano."
+                        ]
+                    }
+                ],
+                "image": "ipfs:\/\/QmbLqsrDHPRhhQtd9hjiyqyBh65W8knM4EYWXjXQcU1pBo",
+                "mediaType": "image\/gif"
+            }
+        }
+    ]
+}

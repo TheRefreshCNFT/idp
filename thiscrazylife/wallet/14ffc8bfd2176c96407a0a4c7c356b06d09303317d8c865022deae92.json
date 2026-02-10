@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933752,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "14ffc8bfd2176c96407a0a4c7c356b06d09303317d8c865022deae92"
+    },
+    "assets_cache": [
+        {
+            "asset": "14ffc8bfd2176c96407a0a4c7c356b06d09303317d8c865022deae92436c6f776e",
+            "quantity": null,
+            "policy_id": "14ffc8bfd2176c96407a0a4c7c356b06d09303317d8c865022deae92",
+            "asset_name": "436c6f776e",
+            "onchain_metadata": {
+                "name": "Clown",
+                "image": "ipfs:\/\/QmWfSLLcY94P5fx1xhc4NjgsozFE8e3KH2yyS98hJq6e7c",
+                "ticker": "CLOWN",
+                "description": "01100011 01101100 01101111 01110111 01101110\n"
+            }
+        }
+    ]
+}

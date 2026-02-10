@@ -1,0 +1,237 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933821,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "ecd0970cb2d599a8bdb61f6eb597e25eaf34d76bdf8ade17b6a8fa59"
+    },
+    "assets_cache": [
+        {
+            "asset": "ecd0970cb2d599a8bdb61f6eb597e25eaf34d76bdf8ade17b6a8fa59000de140534830313933",
+            "quantity": null,
+            "policy_id": "ecd0970cb2d599a8bdb61f6eb597e25eaf34d76bdf8ade17b6a8fa59",
+            "asset_name": "000de140534830313933",
+            "onchain_metadata": {
+                "name": "Yoshiko Garrison",
+                "image": "ipfs:\/\/bafkreieazjwyqnutorvd7udjffegkjxvlpiolmqztewmqgyasgaj4pm5xy",
+                "mediaType": "image\/jpeg",
+                "files": [
+                    {
+                        "name": "Yoshiko Garrison",
+                        "src": "ipfs:\/\/bafybeiduzoytr7dclten6hdaf3gwqmvveu6rowk27bdpee5wmtgve2jk2e",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "Realm": "474f627369646961",
+                "Class": "484761727269736f6e",
+                "Town Hall": "474c6576656c2034",
+                "Barracks": "474c6576656c2033",
+                "Fortifications": "474c6576656c2031",
+                "Mine": "474c6576656c2033",
+                "Sites": "9f544d7973746963204775696c64204c6576656c20335244697374696c6c657279204c6576656c2032ff"
+            }
+        },
+        {
+            "asset": "ecd0970cb2d599a8bdb61f6eb597e25eaf34d76bdf8ade17b6a8fa59000de140534830353439",
+            "quantity": null,
+            "policy_id": "ecd0970cb2d599a8bdb61f6eb597e25eaf34d76bdf8ade17b6a8fa59",
+            "asset_name": "000de140534830353439",
+            "onchain_metadata": {
+                "name": "Alva Garrison",
+                "image": "ipfs:\/\/bafkreicrzszjryyt4qb4hmfmhv4ww7mi3chimm6c64p6bqmfnr5jatntqi",
+                "mediaType": "image\/jpeg",
+                "files": [
+                    {
+                        "name": "Alva Garrison",
+                        "src": "ipfs:\/\/bafybeibvppbvkrb7cztgvod4lhnb6rbcpu7scfuvew7a2zhhvy275udfty",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "Realm": "474f627369646961",
+                "Class": "484761727269736f6e",
+                "Town Hall": "474c6576656c2031",
+                "Barracks": "474c6576656c2033",
+                "Fortifications": "474c6576656c2031",
+                "Mine": "474c6576656c2034",
+                "Sites": "9f544d7973746963204775696c64204c6576656c20315244697374696c6c657279204c6576656c2032ff"
+            }
+        },
+        {
+            "asset": "ecd0970cb2d599a8bdb61f6eb597e25eaf34d76bdf8ade17b6a8fa59000de140534830373538",
+            "quantity": null,
+            "policy_id": "ecd0970cb2d599a8bdb61f6eb597e25eaf34d76bdf8ade17b6a8fa59",
+            "asset_name": "000de140534830373538",
+            "onchain_metadata": {
+                "name": "Camelot Garrison",
+                "image": "ipfs:\/\/bafkreifhbi6cvessjml3gdodfjfogjx7ajvqfsiyq7jrojcmrha2tfmdta",
+                "mediaType": "image\/jpeg",
+                "files": [
+                    {
+                        "name": "Camelot Garrison",
+                        "src": "ipfs:\/\/bafybeie2ecpv2vtvk6xs4m6hpioqrknrjrihesibeu47gyni4kswsfqaui",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "Realm": "474f627369646961",
+                "Class": "484761727269736f6e",
+                "Town Hall": "474c6576656c2033",
+                "Barracks": "474c6576656c2031",
+                "Fortifications": "474c6576656c2031",
+                "Mine": "474c6576656c2034",
+                "Sites": "9f5244697374696c6c657279204c6576656c2033544d7973746963204775696c64204c6576656c2033ff"
+            }
+        },
+        {
+            "asset": "ecd0970cb2d599a8bdb61f6eb597e25eaf34d76bdf8ade17b6a8fa59000de140534830393933",
+            "quantity": null,
+            "policy_id": "ecd0970cb2d599a8bdb61f6eb597e25eaf34d76bdf8ade17b6a8fa59",
+            "asset_name": "000de140534830393933",
+            "onchain_metadata": {
+                "name": "Phatsodia Garrison",
+                "image": "ipfs:\/\/bafkreic3sgaanwwg2sqhpuc3torfybmmib5ks7bbrrkwewd2l4v6flfiiu",
+                "mediaType": "image\/jpeg",
+                "files": [
+                    {
+                        "name": "Phatsodia Garrison",
+                        "src": "ipfs:\/\/bafybeibldkw7iy4pufcdsuez5c6k7yt2ymz4b4t36upqxuaeql4leizk7a",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "Realm": "485461727461727573",
+                "Class": "484761727269736f6e",
+                "Town Hall": "474c6576656c2032",
+                "Barracks": "474c6576656c2032",
+                "Fortifications": "474c6576656c2031",
+                "Mine": "474c6576656c2033",
+                "Sites": "9f544d7973746963204775696c64204c6576656c20315244697374696c6c657279204c6576656c2033ff"
+            }
+        },
+        {
+            "asset": "ecd0970cb2d599a8bdb61f6eb597e25eaf34d76bdf8ade17b6a8fa59000de140534831383631",
+            "quantity": null,
+            "policy_id": "ecd0970cb2d599a8bdb61f6eb597e25eaf34d76bdf8ade17b6a8fa59",
+            "asset_name": "000de140534831383631",
+            "onchain_metadata": {
+                "name": "Eldrilyn Garrison",
+                "image": "ipfs:\/\/bafkreihiilyiftlmonwgyvkes2eoxb4dee7pamnddaiohk3jbfuvotboxq",
+                "mediaType": "image\/jpeg",
+                "files": [
+                    {
+                        "name": "Eldrilyn Garrison",
+                        "src": "ipfs:\/\/bafybeibq66isjmsxebuwzwo6d6xcafo5bkld7k7qhhuvrjivitwbd3hef4",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "Realm": "4c456c64617220466f72657374",
+                "Class": "484761727269736f6e",
+                "Town Hall": "474c6576656c2033",
+                "Barracks": "474c6576656c2031",
+                "Fortifications": "474c6576656c2031",
+                "Mine": "474c6576656c2034",
+                "Sites": "9f5244697374696c6c657279204c6576656c2034544d7973746963204775696c64204c6576656c2031ff"
+            }
+        },
+        {
+            "asset": "ecd0970cb2d599a8bdb61f6eb597e25eaf34d76bdf8ade17b6a8fa59000de140534832303333",
+            "quantity": null,
+            "policy_id": "ecd0970cb2d599a8bdb61f6eb597e25eaf34d76bdf8ade17b6a8fa59",
+            "asset_name": "000de140534832303333",
+            "onchain_metadata": {
+                "name": "Alathor Garrison",
+                "image": "ipfs:\/\/bafkreifyr47q43ysanwuxl2b2slt7tywidezq45n47yntku4hvdz4enfzm",
+                "mediaType": "image\/jpeg",
+                "files": [
+                    {
+                        "name": "Alathor Garrison",
+                        "src": "ipfs:\/\/bafybeidmabwrxdz57nmpvaa3uvfl5n2iqrm27dk4bch7ax7zzpat5eypmm",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "Realm": "4c456c64617220466f72657374",
+                "Class": "484761727269736f6e",
+                "Town Hall": "474c6576656c2031",
+                "Barracks": "474c6576656c2031",
+                "Fortifications": "474c6576656c2033",
+                "Mine": "474c6576656c2033",
+                "Sites": "9f544d7973746963204775696c64204c6576656c20325244697374696c6c657279204c6576656c2032ff"
+            }
+        },
+        {
+            "asset": "ecd0970cb2d599a8bdb61f6eb597e25eaf34d76bdf8ade17b6a8fa59000de140534832363938",
+            "quantity": null,
+            "policy_id": "ecd0970cb2d599a8bdb61f6eb597e25eaf34d76bdf8ade17b6a8fa59",
+            "asset_name": "000de140534832363938",
+            "onchain_metadata": {
+                "name": "Gwennan Fortress",
+                "image": "ipfs:\/\/bafkreihvxoqmmiqegjx5a5bjum33segwdwpc7wngwopszuto2egqo3txsa",
+                "mediaType": "image\/jpeg",
+                "files": [
+                    {
+                        "name": "Gwennan Fortress",
+                        "src": "ipfs:\/\/bafybeif374ezjdknsrkbeucac5a3i5hjecsxcaukudnq7ny3fwyrezp74e",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "Realm": "474f627369646961",
+                "Class": "48466f727472657373",
+                "Town Hall": "474c6576656c2032",
+                "Barracks": "474c6576656c2033",
+                "Fortifications": "474c6576656c2031",
+                "Mine": "474c6576656c2032",
+                "Sites": "9f4f44756e67656f6e204c6576656c20315244697374696c6c657279204c6576656c20345244697374696c6c657279204c6576656c2033544d7973746963204775696c64204c6576656c2031544d7973746963204775696c64204c6576656c2031ff"
+            }
+        },
+        {
+            "asset": "ecd0970cb2d599a8bdb61f6eb597e25eaf34d76bdf8ade17b6a8fa59000de140534833333430",
+            "quantity": null,
+            "policy_id": "ecd0970cb2d599a8bdb61f6eb597e25eaf34d76bdf8ade17b6a8fa59",
+            "asset_name": "000de140534833333430",
+            "onchain_metadata": {
+                "name": "Zolrakos Fortress",
+                "image": "ipfs:\/\/bafkreihm7umsit5mdqh637peqbmstlxqnuphovcoma2fdgpfn3hht3iiva",
+                "mediaType": "image\/jpeg",
+                "files": [
+                    {
+                        "name": "Zolrakos Fortress",
+                        "src": "ipfs:\/\/bafybeif7clihnuxypbexfcans2sjnj2wk4xj7y4j5slhfpubmxkrqvzr7q",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "Realm": "485461727461727573",
+                "Class": "48466f727472657373",
+                "Town Hall": "474c6576656c2031",
+                "Barracks": "474c6576656c2031",
+                "Fortifications": "474c6576656c2033",
+                "Mine": "474c6576656c2031",
+                "Sites": "9f5244697374696c6c657279204c6576656c2031544d7973746963204775696c64204c6576656c2031544d7973746963204775696c64204c6576656c20324f44756e67656f6e204c6576656c20314f44756e67656f6e204c6576656c2031ff"
+            }
+        },
+        {
+            "asset": "ecd0970cb2d599a8bdb61f6eb597e25eaf34d76bdf8ade17b6a8fa59000de140534834313231",
+            "quantity": null,
+            "policy_id": "ecd0970cb2d599a8bdb61f6eb597e25eaf34d76bdf8ade17b6a8fa59",
+            "asset_name": "000de140534834313231",
+            "onchain_metadata": {
+                "name": "Gontier Citadel",
+                "image": "ipfs:\/\/bafkreifb3rxaqaysog6odl46ygbv2mosku3fvzfijpnrs5rin4jan6d6rm",
+                "mediaType": "image\/jpeg",
+                "files": [
+                    {
+                        "name": "Gontier Citadel",
+                        "src": "ipfs:\/\/bafybeifvdnj3kvwhqpusdzvbbs26m5x3qxbzr52fe3uvbg6aywwk355iqm",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "Realm": "474f627369646961",
+                "Class": "474369746164656c",
+                "Town Hall": "474c6576656c2031",
+                "Barracks": "474c6576656c2031",
+                "Fortifications": "474c6576656c2031",
+                "Mine": "474c6576656c2031",
+                "Sites": "9f534d61726b6574706c616365204c6576656c20315244697374696c6c657279204c6576656c2031534d61726b6574706c616365204c6576656c2031534d61726b6574706c616365204c6576656c20324f44756e67656f6e204c6576656c2031544d7973746963204775696c64204c6576656c2032534d61726b6574706c616365204c6576656c2031534d61726b6574706c616365204c6576656c2031ff"
+            }
+        }
+    ]
+}

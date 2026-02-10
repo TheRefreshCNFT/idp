@@ -1,0 +1,1090 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933727,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "7e6c4c5a823112a2af38533311e1b7a5a63933ed3cf55c609aeae36f"
+    },
+    "assets_cache": [
+        {
+            "asset": "7e6c4c5a823112a2af38533311e1b7a5a63933ed3cf55c609aeae36f4272656174685265766f6c7665724e6f31506f656d",
+            "quantity": null,
+            "policy_id": "7e6c4c5a823112a2af38533311e1b7a5a63933ed3cf55c609aeae36f",
+            "asset_name": "4272656174685265766f6c7665724e6f31506f656d",
+            "onchain_metadata": {
+                "name": "Breath Revolver No. 1 (Poem)",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmckLzYhiMwHRQrB7H97wByE92h7z2qDEZDL5STpHoT56U",
+                        "name": "Album Cover",
+                        "encrypted": "true",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmdR2etYCJSjhh12JE9BJr7hVCgn968sVqRuysut4LZb6s",
+                        "mood": "Expansive, Self-aware, Hopeful",
+                        "name": "Breath Revolver No. 1 (poem)",
+                        "genres": [
+                            "Hip-Hop",
+                            "New Age",
+                            "R&B"
+                        ],
+                        "artists": [
+                            "Samantha Sharman"
+                        ],
+                        "explicit": "FALSE",
+                        "producer": "Andy Chess",
+                        "copyright": "\u2117 Sam Sharman",
+                        "encrypted": "true",
+                        "mediaType": "audio\/wav",
+                        "song_title": "Breath Revolver No. 1 (Poem)",
+                        "Album_title": "ROSE RIOT",
+                        "mix_engineer": "Andy Chess",
+                        "track_number": "1",
+                        "song_duration": "PT1M31S",
+                        "visual_artist": [
+                            "Sam Sharman",
+                            "The Friz"
+                        ],
+                        "special_thanks": [
+                            "Ahmed Hassaballa"
+                        ],
+                        "master_engineer": "Andy Chess",
+                        "recording_engineer": "The Friz",
+                        "contributing_artists": [
+                            "Andy Chess",
+                            "The Friz"
+                        ]
+                    },
+                    {
+                        "src": "ipfs:\/\/QmSjbuQCGApC3APujsqREpQkoxicsbfC9KCg422P24HZqP",
+                        "name": "Breath Revolver No. 1 (Poem) Lyrics",
+                        "encrypted": "true",
+                        "mediaType": "text\/plain"
+                    },
+                    {
+                        "src": "ipfs:\/\/Qmabx9F8w5vUSwfUaJzvJe7BqpwdiMBcnscc4rpHoowbVC",
+                        "name": "Breath Revolver No. 1 (Poem) ",
+                        "encrypted": "true",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/Qmchw5ZgFuQNFDK5ea14Ukdov8NVmNZJ7gft2knMtaVtZ5",
+                        "name": "Breath Revolver Blue Green",
+                        "encrypted": "true",
+                        "mediaType": "image\/jpg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmNtvBUbfZykaTPiFYHcnQmSrfDw1TZpejMnWD6pNVUdTo",
+                        "name": "Breath Revolver Orange",
+                        "encrypted": "true",
+                        "mediaType": "image\/jpg"
+                    },
+                    {
+                        "src": "ipfs:\/\/Qmbm91w8YxqqkhaQVRzrvgmFTWThAkkDfw2xZ2QriXogSD",
+                        "name": "Breath Revolver Pink",
+                        "encrypted": "true",
+                        "mediaType": "image\/jpg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmaiYakPC5zBEh2dSQKr61P3ZQ5UqaWNJF8PVWkRDjnDwf",
+                        "name": "Breath Revolver Red",
+                        "encrypted": "true",
+                        "mediaType": "image\/jpg"
+                    }
+                ],
+                "image": "ipfs:\/\/QmXPc2xpz2XoVNc4EQ2rQGcyFUwref6t6wkXtb2w6n9qk4",
+                "mediaType": "image\/png",
+                "distributor": "https:\/\/www.soundrig.io\/",
+                "release_date": "2023-29-08",
+                "release_type": "Single",
+                "publication_date": "2023-29-08",
+                "music_metadata_version": "v1"
+            }
+        },
+        {
+            "asset": "7e6c4c5a823112a2af38533311e1b7a5a63933ed3cf55c609aeae36f4461726b447265616d7353776565744e696768746d6172657333",
+            "quantity": null,
+            "policy_id": "7e6c4c5a823112a2af38533311e1b7a5a63933ed3cf55c609aeae36f",
+            "asset_name": "4461726b447265616d7353776565744e696768746d6172657333",
+            "onchain_metadata": {
+                "name": "Dark Dreams Sweet Nightmares #3",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/QmNnRQrT32JweLhiSDsU7XnMQ5nVeST8oByBHm2DFERzKr",
+                            "\/index.html"
+                        ],
+                        "mediaType": "text\/html"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmWVrJQyg2ASXaq6HAa4vqS3nFLCvztchokKafdxWgpHGW",
+                        "Mood": "Melodic",
+                        "name": "Angelic Anguish",
+                        "Stems": {
+                            "KICK": [
+                                "ipfs:\/\/QmS1sDgAPXdNKXmmrLN2kiikA9Lg3NVyKVidFuVG8SwMHE"
+                            ],
+                            "LEAD": [
+                                "ipfs:\/\/QmbsswYB89bVeyBFgtVCze9PNvu7cYRaSFM3ZaCv9PVVGC"
+                            ],
+                            "SNARE": [
+                                "ipfs:\/\/Qmew32gSRysraN2Hc4GE3RWq7MinizEdazKB5L6fNxWt72"
+                            ],
+                            "VOCAL": [
+                                "ipfs:\/\/QmcmBpjMau3ApPJKFnWd39F2ofWxZknKQg7qFMWGTgESk9"
+                            ],
+                            "DROP FX": [
+                                "ipfs:\/\/QmTUe64LBmu43vtreNeCDAPtR72AQT2nnA25qLvaPZvAD9"
+                            ],
+                            "SUB BASS": [
+                                "ipfs:\/\/QmQWgyZyM4gsykkKmQtG6gtbdkGeBDLSbE6WNCAdicg5oD"
+                            ],
+                            "ATMOSPHERE": [
+                                "ipfs:\/\/QmbrNt4aCvzc5jJFxPFZ6FGpFkXVrjwtLngHAzYmumGGVG"
+                            ],
+                            "DROP CHORDS": [
+                                "ipfs:\/\/QmWabQSA3hEC1YebFe39zu4hds4gBBG7Br5mzmNcLBPc7V"
+                            ],
+                            "MAIN CHORDS": [
+                                "ipfs:\/\/Qmayreihy5Hffntv2ixCnctPnWEsye1jEeTPFCqpJCNDa6"
+                            ],
+                            "TRANSITION FX": [
+                                "ipfs:\/\/QmVs1ayLtwrcRuHf1byeemWwMo6P87vbwKrNKMvxUMGRAn"
+                            ],
+                            "SUPPORT CHORDS": [
+                                "ipfs:\/\/QmcaBr8JwRKUUtVzpZF7wU1fQQhwr81TWMqGRmogQahbX9"
+                            ],
+                            "RHYTHM PERCUSSION": [
+                                "ipfs:\/\/QmVM1cewZH5SBjUwAvz14kR4mAPatwY1RvF1sHnGZjuUdo"
+                            ]
+                        },
+                        "genres": [
+                            "Electronic",
+                            "Dance",
+                            "Future Bass"
+                        ],
+                        "artists": [
+                            "LVllABY"
+                        ],
+                        "producer": "LVllABY",
+                        "copyright": "\u2117 LVllABY",
+                        "encrypted": "true",
+                        "mediaType": "audio\/mp3",
+                        "song_title": "Angelic Anguish",
+                        "mix_engineer": "LVllABY",
+                        "track_number": "1",
+                        "song_duration": "PT3M36S",
+                        "visual_artist": "Glus",
+                        "master_engineer": "MIPERSPECTIVE"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmaYGwHXJmaXF4vD7eMk91BsWHVZNsbX2VgRq1qhXYon2g",
+                        "encrypted": "true",
+                        "mediaType": "image\/gif"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXaDrYNSxrWbWCXKHiY9cfZpe8m8wMe8cwhY8AKQp4Hfo",
+                        "Mood": "Agressive",
+                        "name": "Catching Z's",
+                        "Stems": {
+                            "KICK": [
+                                "ipfs:\/\/QmWi9DYrMLwACw3mUQoXDL8hBZB9grXrtVm3NPyhCkzapW"
+                            ],
+                            "LEAD": [
+                                "ipfs:\/\/QmPYst7DG6ZUJbykLsBU83KaDhvXa4NNNJeHRC4oEnWMLV"
+                            ],
+                            "SNARE": [
+                                "ipfs:\/\/QmdQUNktXsCGSXoXDWh9MAw4x1uWm2gMKrCV4H7HiixA7n"
+                            ],
+                            "VOCAL": [
+                                "ipfs:\/\/QmZgY6TpEFQzBkWVgC4QgpUKbipom4EpXUFBpiLZXUTCoa"
+                            ],
+                            "DROP FX": [
+                                "ipfs:\/\/QmPUy68VvZ114zDoriDgP8b1RorjBLp2areg9gfxpCjmin"
+                            ],
+                            "SUB BASS": [
+                                "ipfs:\/\/QmTVdfN1PTGWquaddQj1jp1hV8SF7cxoBR9WZeYmxw9q8G"
+                            ],
+                            "ATMOSPHERE": [
+                                "ipfs:\/\/QmTCXx5sDDLqK7qh8zbrdhWnAsMsQFA5aawuNjwVHJXJEE"
+                            ],
+                            "MELODIC FX": [
+                                "ipfs:\/\/QmeQf3p8Tfdqxr96iRkPSBJgNPC5Qwat1hheG3xm3CPbTW"
+                            ],
+                            "MAIN CHORDS": [
+                                "ipfs:\/\/QmTrEPDkbuEav85Lyec6G6MS5YpFppLViLjGS6mAgDPEVT"
+                            ],
+                            "MELODIC LAYER": [
+                                "ipfs:\/\/QmWH4cvEUtX6cQsyHj1QWvhaYHpryXPfNHmfcKSc6pyBLq"
+                            ],
+                            "TRANSITION FX": [
+                                "ipfs:\/\/QmUB4VGKgHkXuD92UynCKAWgEcfumD2QhRHuGDz9g1ucvf"
+                            ],
+                            "RHYTHM PERCUSSION": [
+                                "ipfs:\/\/QmUenbD8KVBAT27pbghp1t6Ka2ZoPs34o4qzd1pmrmWzqX"
+                            ],
+                            "ONE SHOT PERCUSSION": [
+                                "ipfs:\/\/QmUbuhj2YR4pDot81UyufjEDzp4o6YRWDS4RWNeGLVLF3b"
+                            ]
+                        },
+                        "genres": [
+                            "Electronic",
+                            "Leftfield",
+                            "Left field bass"
+                        ],
+                        "artists": [
+                            "LVllABY"
+                        ],
+                        "explicit": "TRUE",
+                        "producer": "LVllABY",
+                        "copyright": "\u2117 LVllABY",
+                        "encrypted": "true",
+                        "mediaType": "audio\/mp3",
+                        "song_title": "Catching Z's",
+                        "mix_engineer": "LVllABY",
+                        "track_number": "2",
+                        "song_duration": "PT3M0S",
+                        "visual_artist": "Glus",
+                        "special_thanks": "Professor Twig",
+                        "master_engineer": "MIPERSPECTIVE",
+                        "recording_engineer": "LVllABY"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmPwr1ZynKAPrCxwa8H5LLNWiMdpYMYXKVnirZot3p5K9H",
+                        "name": "Catching Z's",
+                        "encrypted": "true",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmeENCQqz238ETGg59edW5c2A1WwXRVQUjP98WxjuW8L3Q",
+                        "encrypted": "true",
+                        "mediaType": "image\/gif"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmRFJV5DcvnznhgoPs3pZ2onNpipVAfd5nQfMqnLcnSLa3",
+                        "Mood": "Energetic",
+                        "name": "Halcyon",
+                        "Stems": {
+                            "KICK": [
+                                "ipfs:\/\/QmZg76KfafqQdF4TeXcfvpTUhvoP28sxZcx4RxxFk8RSk1"
+                            ],
+                            "SNARE": [
+                                "ipfs:\/\/QmYcU5E9yaAESSwxUDdCoykt7JPHr5qnYR6WLWzZnbTHtY"
+                            ],
+                            "AUX FX": [
+                                "ipfs:\/\/QmVcosVcJw5rdx1wu6YDZ8DXGPaUq4QwS9XeyyoEp2LWju"
+                            ],
+                            "CHORDS": [
+                                "ipfs:\/\/QmZPNXjV5ha4FSoGKXM68ZY6mnn5AKxrPUfkCYXBNydHVc"
+                            ],
+                            "VOCALS": [
+                                "ipfs:\/\/QmUo12g8VnJ1d33Q3LC2LALj81mtBpDnUPxab5oCyExCzh"
+                            ],
+                            "DROP FX": [
+                                "ipfs:\/\/QmcRgVq2Hr3vsH4aYCQSX6gTSqMF4q6sYTGxdUCtPTHSjx"
+                            ],
+                            "AMBIENCE": [
+                                "ipfs:\/\/QmUH6z8y4qfttNRsr1QjjcUjRdiZ3ZL1FvoeEsu4v6fSPq"
+                            ],
+                            "SUB BASS": [
+                                "ipfs:\/\/QmZCe6jiyYnFQefYAsmgExf6af3W4zbmffj2g1mBqE4hbZ"
+                            ],
+                            "MAIN DROP": [
+                                "ipfs:\/\/QmUEUPx1dNjtCRrDgX9r16R1KAWXipVcjnebyaErz5wYME"
+                            ],
+                            "REMASTERED": "ipfs:\/\/QmWXnwQPbmDBsgQtNYzPB58t1bGsqVXz4kMXjjgpma3ayA",
+                            "MELODY CHIP": [
+                                "ipfs:\/\/QmbKvv2cbGxBNUM8p1axbsfoMkWHQC97EqqNH3VB188L69"
+                            ],
+                            "DROP LAYER 1": [
+                                "ipfs:\/\/QmUXLqJUpCMiAdAcRXNcu5CWaxcbEJ8AGuWHooigGRYrmU"
+                            ],
+                            "DROP LAYER 2": [
+                                "ipfs:\/\/QmYAF9ThLRDdBxyFSw7Q7KSv9spU93CejWFtUMtaqdYHFR"
+                            ],
+                            "DROP LAYER 3": [
+                                "ipfs:\/\/QmUcH5x4bdDhhRvsBphu145a7AENYJNHNQs7V8yJV6hhyF"
+                            ],
+                            "DROP LAYER 4": [
+                                "ipfs:\/\/QmbqcSS3G3Sa2k3n72H5F4yfYSDgNgPxD128T2inLziziG"
+                            ],
+                            "DROP LAYER 5": [
+                                "ipfs:\/\/QmQHw2UjfjKhZrHzwv2asDvAh1yFCGZNPV8PGFJQtcpeZo"
+                            ],
+                            "TRANSITION FX": [
+                                "ipfs:\/\/QmYgu2Gq4MiSFEmFoTSjbhPfKzCAgBpR6Rc6ndQ1gejb2q"
+                            ],
+                            "RHYTHM PERCUSSION": [
+                                "ipfs:\/\/QmNjker4sd2zTz9GFxgmCt44wYtLsGc6cdZh7LJVwAJwiW"
+                            ],
+                            "ONE SHOT PERCUSSION": [
+                                "ipfs:\/\/QmWSSy7UsPZNd2v6bwvc5bsmesYE5njnbGG9wkpKFGqvqX"
+                            ]
+                        },
+                        "genres": [
+                            "Electronic",
+                            "Dubstep",
+                            "Future Riddim"
+                        ],
+                        "artists": [
+                            "LVllABY"
+                        ],
+                        "producer": "LVllABY",
+                        "copyright": "\u2117 LVllABY",
+                        "encrypted": "true",
+                        "mediaType": "audio\/mp3",
+                        "song_title": "Halcyon",
+                        "mix_engineer": "LVllABY",
+                        "track_number": "3",
+                        "song_duration": "PT2M38S",
+                        "visual_artist": "Glus",
+                        "master_engineer": "MIPERSPECTIVE"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmTSMfgLkikC77eAn6BTU9aDk5c5k63WFs4oH1pYdAzdXY",
+                        "encrypted": "true",
+                        "mediaType": "image\/gif"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmaAtBFxHNcCQNJDCCfpxTvVVr57teSk5m7ggjK8EdcuyW",
+                        "Mood": "Somber",
+                        "name": "Too Scared of the Future",
+                        "Stems": {
+                            "SUB": [
+                                "ipfs:\/\/QmNNRDabGSRMRoA3PKv3mnexbppXhzoBsz3HQz3Xfg5Dmk"
+                            ],
+                            "KICK": [
+                                "ipfs:\/\/QmS8P4sfsG9CEDKfTELm1mhoUZ5GgN4zeEiKAwcFAQXpzy"
+                            ],
+                            "SNARE": [
+                                "ipfs:\/\/QmQXbESUwZyAjDTX1eajqPuuZWaFKmfDsSarQE5JtNcEim"
+                            ],
+                            "VOCAL": [
+                                "ipfs:\/\/Qmcd7aLRYvatg282ReYnDvD6v7Z8cHZPDKPJQhZ4hDnWyH"
+                            ],
+                            "GUITAR": [
+                                "ipfs:\/\/QmNzXAVPEeoKWDUsqaNUThXv4Fd9tCY1KcXCfRSEN1ncCq"
+                            ],
+                            "PERCUSSION": [
+                                "ipfs:\/\/QmSjv9XT3NQDveQ1w2Xq8tzqcDpUz1dEBbaWnsYbVytkJM"
+                            ],
+                            "SAW CHORDS": [
+                                "ipfs:\/\/QmeFzW6zhtVT2gY4ExZEc64qWUdAbjYnWWb4U3negRzSgQ"
+                            ],
+                            "MAIN CHORDS": [
+                                "ipfs:\/\/QmfUqzzjPyFHYeezo9br7oQwf8McxzJkvY9gXS95my1AEh"
+                            ],
+                            "OUTRO CHORDS": [
+                                "ipfs:\/\/QmS7q2eNKxvHD54QngMszXTaEvkUe1z8MHMQaXBgg4rEWJ"
+                            ],
+                            "FX RECORD STOP": [
+                                "ipfs:\/\/QmWQvMdJxsUxcBfQpT3HuohQ5B1yS9gHkTAkLDti3vzcNM"
+                            ],
+                            "FX GLASS SHATTER": [
+                                "ipfs:\/\/QmRoRZoYyPkpvcwXAc3L4GF8W24xbLdMhsBGNQ1zbCaiZj"
+                            ],
+                            "FX VINYL CRACKLE": [
+                                "ipfs:\/\/QmeXbnU6oczrDYzT71pue4pfYy5g3bUbDTiPY59o45CUVP"
+                            ]
+                        },
+                        "genres": [
+                            "Lo-Fi ",
+                            "Pop"
+                        ],
+                        "lyrics": "ipfs:\/\/QmUe8SiY4pCyGwv1QEbtLv1kXBhcfobzfjfUJTjDnemfmk",
+                        "artists": [
+                            "LVllABY"
+                        ],
+                        "producer": "LVllABY",
+                        "copyright": "\u2117 LVllABY",
+                        "encrypted": "true",
+                        "mediaType": "audio\/mp3",
+                        "song_title": "Too Scared of the Future",
+                        "mix_engineer": "LVllABY",
+                        "track_number": "4",
+                        "song_duration": "PT2M30S",
+                        "visual_artist": "Glus",
+                        "master_engineer": "MIPERSPECTIVE",
+                        "recording_engineer": "LVllABY"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmS8b2WernWGVPgNj7TZb8BdPbZm35GWQ2SRX6XB5kfgtL",
+                        "name": "Test Name",
+                        "encrypted": "true",
+                        "mediaType": "image\/gif"
+                    }
+                ],
+                "image": "ipfs:\/\/QmYCUBvFHTGmQBEeniP2ryQTrQiRSYhgHZh8Cdufgv9vmg",
+                "links": "https:\/\/cosoc.com\/Lvllaby",
+                "player": "https:\/\/Fre5hMusic.com",
+                "Album_title": "Dark Dreams Sweet Nightmares",
+                "distributor": "https:\/\/www.soundrig.io\/",
+                "release_type": "EP",
+                "country_of_origin": "U.S",
+                "music_metadata_version": "v1"
+            }
+        },
+        {
+            "asset": "7e6c4c5a823112a2af38533311e1b7a5a63933ed3cf55c609aeae36f4461726b447265616d7353776565744e696768746d6172657335",
+            "quantity": null,
+            "policy_id": "7e6c4c5a823112a2af38533311e1b7a5a63933ed3cf55c609aeae36f",
+            "asset_name": "4461726b447265616d7353776565744e696768746d6172657335",
+            "onchain_metadata": {
+                "name": "Dark Dreams Sweet Nightmares #5",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/QmNnRQrT32JweLhiSDsU7XnMQ5nVeST8oByBHm2DFERzKr",
+                            "\/index.html"
+                        ],
+                        "name": "Album player",
+                        "encrypted": "true",
+                        "mediaType": "text\/html"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmWVrJQyg2ASXaq6HAa4vqS3nFLCvztchokKafdxWgpHGW",
+                        "isrc": "QZXLZ2353686",
+                        "mood": "Melodic",
+                        "name": "Angelic Anguish",
+                        "stems": {
+                            "KICK": [
+                                "ipfs:\/\/QmS1sDgAPXdNKXmmrLN2kiikA9Lg3NVyKVidFuVG8SwMHE"
+                            ],
+                            "LEAD": [
+                                "ipfs:\/\/QmbsswYB89bVeyBFgtVCze9PNvu7cYRaSFM3ZaCv9PVVGC"
+                            ],
+                            "SNARE": [
+                                "ipfs:\/\/Qmew32gSRysraN2Hc4GE3RWq7MinizEdazKB5L6fNxWt72"
+                            ],
+                            "VOCAL": [
+                                "ipfs:\/\/QmcmBpjMau3ApPJKFnWd39F2ofWxZknKQg7qFMWGTgESk9"
+                            ],
+                            "DROP FX": [
+                                "ipfs:\/\/QmTUe64LBmu43vtreNeCDAPtR72AQT2nnA25qLvaPZvAD9"
+                            ],
+                            "SUB BASS": [
+                                "ipfs:\/\/QmQWgyZyM4gsykkKmQtG6gtbdkGeBDLSbE6WNCAdicg5oD"
+                            ],
+                            "ATMOSPHERE": [
+                                "ipfs:\/\/QmbrNt4aCvzc5jJFxPFZ6FGpFkXVrjwtLngHAzYmumGGVG"
+                            ],
+                            "DROP CHORDS": [
+                                "ipfs:\/\/QmWabQSA3hEC1YebFe39zu4hds4gBBG7Br5mzmNcLBPc7V"
+                            ],
+                            "MAIN CHORDS": [
+                                "ipfs:\/\/Qmayreihy5Hffntv2ixCnctPnWEsye1jEeTPFCqpJCNDa6"
+                            ],
+                            "TRANSITION FX": [
+                                "ipfs:\/\/QmVs1ayLtwrcRuHf1byeemWwMo6P87vbwKrNKMvxUMGRAn"
+                            ],
+                            "SUPPORT CHORDS": [
+                                "ipfs:\/\/QmcaBr8JwRKUUtVzpZF7wU1fQQhwr81TWMqGRmogQahbX9"
+                            ],
+                            "RHYTHM PERCUSSION": [
+                                "ipfs:\/\/QmVM1cewZH5SBjUwAvz14kR4mAPatwY1RvF1sHnGZjuUdo"
+                            ]
+                        },
+                        "genres": [
+                            "Electronic",
+                            "Dance",
+                            "Future Bass"
+                        ],
+                        "artists": [
+                            "LVllABY"
+                        ],
+                        "producer": "LVllABY",
+                        "copyright": "\u2117 LVllABY",
+                        "encrypted": "true",
+                        "mediaType": "audio\/mp3",
+                        "song_title": "Angelic Anguish",
+                        "album_title": "Dark Dreams Sweet Nightmares",
+                        "mix_engineer": "LVllABY",
+                        "track_number": "1",
+                        "song_duration": "PT3M36S",
+                        "visual_artist": "Glus",
+                        "master_engineer": "MIPERSPECTIVE"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmaYGwHXJmaXF4vD7eMk91BsWHVZNsbX2VgRq1qhXYon2g",
+                        "name": "Angelic Anguish track art",
+                        "encrypted": "true",
+                        "mediaType": "image\/gif"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXaDrYNSxrWbWCXKHiY9cfZpe8m8wMe8cwhY8AKQp4Hfo",
+                        "isrc": "QZXLZ2353687",
+                        "mood": "Agressive",
+                        "name": "Catching Z's",
+                        "stems": {
+                            "KICK": [
+                                "ipfs:\/\/QmWi9DYrMLwACw3mUQoXDL8hBZB9grXrtVm3NPyhCkzapW"
+                            ],
+                            "LEAD": [
+                                "ipfs:\/\/QmPYst7DG6ZUJbykLsBU83KaDhvXa4NNNJeHRC4oEnWMLV"
+                            ],
+                            "SNARE": [
+                                "ipfs:\/\/QmdQUNktXsCGSXoXDWh9MAw4x1uWm2gMKrCV4H7HiixA7n"
+                            ],
+                            "VOCAL": [
+                                "ipfs:\/\/QmZgY6TpEFQzBkWVgC4QgpUKbipom4EpXUFBpiLZXUTCoa"
+                            ],
+                            "DROP FX": [
+                                "ipfs:\/\/QmPUy68VvZ114zDoriDgP8b1RorjBLp2areg9gfxpCjmin"
+                            ],
+                            "SUB BASS": [
+                                "ipfs:\/\/QmTVdfN1PTGWquaddQj1jp1hV8SF7cxoBR9WZeYmxw9q8G"
+                            ],
+                            "ATMOSPHERE": [
+                                "ipfs:\/\/QmTCXx5sDDLqK7qh8zbrdhWnAsMsQFA5aawuNjwVHJXJEE"
+                            ],
+                            "MELODIC FX": [
+                                "ipfs:\/\/QmeQf3p8Tfdqxr96iRkPSBJgNPC5Qwat1hheG3xm3CPbTW"
+                            ],
+                            "MAIN CHORDS": [
+                                "ipfs:\/\/QmTrEPDkbuEav85Lyec6G6MS5YpFppLViLjGS6mAgDPEVT"
+                            ],
+                            "MELODIC LAYER": [
+                                "ipfs:\/\/QmWH4cvEUtX6cQsyHj1QWvhaYHpryXPfNHmfcKSc6pyBLq"
+                            ],
+                            "TRANSITION FX": [
+                                "ipfs:\/\/QmUB4VGKgHkXuD92UynCKAWgEcfumD2QhRHuGDz9g1ucvf"
+                            ],
+                            "RHYTHM PERCUSSION": [
+                                "ipfs:\/\/QmUenbD8KVBAT27pbghp1t6Ka2ZoPs34o4qzd1pmrmWzqX"
+                            ],
+                            "ONE SHOT PERCUSSION": [
+                                "ipfs:\/\/QmUbuhj2YR4pDot81UyufjEDzp4o6YRWDS4RWNeGLVLF3b"
+                            ]
+                        },
+                        "genres": [
+                            "Electronic",
+                            "Leftfield",
+                            "Left field bass"
+                        ],
+                        "artists": [
+                            "LVllABY"
+                        ],
+                        "explicit": "TRUE",
+                        "producer": "LVllABY",
+                        "copyright": "\u2117 LVllABY",
+                        "encrypted": "true",
+                        "mediaType": "audio\/mp3",
+                        "song_title": "Catching Z's",
+                        "album_title": "Dark Dreams Sweet Nightmares",
+                        "mix_engineer": "LVllABY",
+                        "track_number": "2",
+                        "song_duration": "PT3M0S",
+                        "visual_artist": "Glus",
+                        "special_thanks": "Professor Twig",
+                        "master_engineer": "MIPERSPECTIVE",
+                        "recording_engineer": "LVllABY"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmeENCQqz238ETGg59edW5c2A1WwXRVQUjP98WxjuW8L3Q",
+                        "name": "Catching Z's track art",
+                        "encrypted": "true",
+                        "mediaType": "image\/gif"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmRFJV5DcvnznhgoPs3pZ2onNpipVAfd5nQfMqnLcnSLa3",
+                        "isrc": "QZXLZ2353688",
+                        "mood": "Energetic",
+                        "name": "Halcyon",
+                        "stems": {
+                            "KICK": [
+                                "ipfs:\/\/QmZg76KfafqQdF4TeXcfvpTUhvoP28sxZcx4RxxFk8RSk1"
+                            ],
+                            "SNARE": [
+                                "ipfs:\/\/QmYcU5E9yaAESSwxUDdCoykt7JPHr5qnYR6WLWzZnbTHtY"
+                            ],
+                            "AUX FX": [
+                                "ipfs:\/\/QmVcosVcJw5rdx1wu6YDZ8DXGPaUq4QwS9XeyyoEp2LWju"
+                            ],
+                            "CHORDS": [
+                                "ipfs:\/\/QmZPNXjV5ha4FSoGKXM68ZY6mnn5AKxrPUfkCYXBNydHVc"
+                            ],
+                            "VOCALS": [
+                                "ipfs:\/\/QmUo12g8VnJ1d33Q3LC2LALj81mtBpDnUPxab5oCyExCzh"
+                            ],
+                            "DROP FX": [
+                                "ipfs:\/\/QmcRgVq2Hr3vsH4aYCQSX6gTSqMF4q6sYTGxdUCtPTHSjx"
+                            ],
+                            "AMBIENCE": [
+                                "ipfs:\/\/QmUH6z8y4qfttNRsr1QjjcUjRdiZ3ZL1FvoeEsu4v6fSPq"
+                            ],
+                            "SUB BASS": [
+                                "ipfs:\/\/QmZCe6jiyYnFQefYAsmgExf6af3W4zbmffj2g1mBqE4hbZ"
+                            ],
+                            "MAIN DROP": [
+                                "ipfs:\/\/QmUEUPx1dNjtCRrDgX9r16R1KAWXipVcjnebyaErz5wYME"
+                            ],
+                            "REMASTERED": "ipfs:\/\/QmWXnwQPbmDBsgQtNYzPB58t1bGsqVXz4kMXjjgpma3ayA",
+                            "MELODY CHIP": [
+                                "ipfs:\/\/QmbKvv2cbGxBNUM8p1axbsfoMkWHQC97EqqNH3VB188L69"
+                            ],
+                            "DROP LAYER 1": [
+                                "ipfs:\/\/QmUXLqJUpCMiAdAcRXNcu5CWaxcbEJ8AGuWHooigGRYrmU"
+                            ],
+                            "DROP LAYER 2": [
+                                "ipfs:\/\/QmYAF9ThLRDdBxyFSw7Q7KSv9spU93CejWFtUMtaqdYHFR"
+                            ],
+                            "DROP LAYER 3": [
+                                "ipfs:\/\/QmUcH5x4bdDhhRvsBphu145a7AENYJNHNQs7V8yJV6hhyF"
+                            ],
+                            "DROP LAYER 4": [
+                                "ipfs:\/\/QmbqcSS3G3Sa2k3n72H5F4yfYSDgNgPxD128T2inLziziG"
+                            ],
+                            "DROP LAYER 5": [
+                                "ipfs:\/\/QmQHw2UjfjKhZrHzwv2asDvAh1yFCGZNPV8PGFJQtcpeZo"
+                            ],
+                            "TRANSITION FX": [
+                                "ipfs:\/\/QmYgu2Gq4MiSFEmFoTSjbhPfKzCAgBpR6Rc6ndQ1gejb2q"
+                            ],
+                            "RHYTHM PERCUSSION": [
+                                "ipfs:\/\/QmNjker4sd2zTz9GFxgmCt44wYtLsGc6cdZh7LJVwAJwiW"
+                            ],
+                            "ONE SHOT PERCUSSION": [
+                                "ipfs:\/\/QmWSSy7UsPZNd2v6bwvc5bsmesYE5njnbGG9wkpKFGqvqX"
+                            ]
+                        },
+                        "genres": [
+                            "Electronic",
+                            "Dubstep",
+                            "Future Riddim"
+                        ],
+                        "artists": [
+                            "LVllABY"
+                        ],
+                        "producer": "LVllABY",
+                        "copyright": "\u2117 LVllABY",
+                        "encrypted": "true",
+                        "mediaType": "audio\/mp3",
+                        "song_title": "Halcyon",
+                        "album_title": "Dark Dreams Sweet Nightmares",
+                        "mix_engineer": "LVllABY",
+                        "track_number": "3",
+                        "song_duration": "PT2M38S",
+                        "visual_artist": "Glus",
+                        "master_engineer": "MIPERSPECTIVE"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmTSMfgLkikC77eAn6BTU9aDk5c5k63WFs4oH1pYdAzdXY",
+                        "name": "Halcyon track art",
+                        "encrypted": "true",
+                        "mediaType": "image\/gif"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmaAtBFxHNcCQNJDCCfpxTvVVr57teSk5m7ggjK8EdcuyW",
+                        "isrc": "QZXLZ2353689",
+                        "mood": "Somber",
+                        "name": "Too Scared of the Future",
+                        "stems": {
+                            "SUB": [
+                                "ipfs:\/\/QmNNRDabGSRMRoA3PKv3mnexbppXhzoBsz3HQz3Xfg5Dmk"
+                            ],
+                            "KICK": [
+                                "ipfs:\/\/QmS8P4sfsG9CEDKfTELm1mhoUZ5GgN4zeEiKAwcFAQXpzy"
+                            ],
+                            "SNARE": [
+                                "ipfs:\/\/QmQXbESUwZyAjDTX1eajqPuuZWaFKmfDsSarQE5JtNcEim"
+                            ],
+                            "VOCAL": [
+                                "ipfs:\/\/Qmcd7aLRYvatg282ReYnDvD6v7Z8cHZPDKPJQhZ4hDnWyH"
+                            ],
+                            "GUITAR": [
+                                "ipfs:\/\/QmNzXAVPEeoKWDUsqaNUThXv4Fd9tCY1KcXCfRSEN1ncCq"
+                            ],
+                            "PERCUSSION": [
+                                "ipfs:\/\/QmSjv9XT3NQDveQ1w2Xq8tzqcDpUz1dEBbaWnsYbVytkJM"
+                            ],
+                            "SAW CHORDS": [
+                                "ipfs:\/\/QmeFzW6zhtVT2gY4ExZEc64qWUdAbjYnWWb4U3negRzSgQ"
+                            ],
+                            "MAIN CHORDS": [
+                                "ipfs:\/\/QmfUqzzjPyFHYeezo9br7oQwf8McxzJkvY9gXS95my1AEh"
+                            ],
+                            "OUTRO CHORDS": [
+                                "ipfs:\/\/QmS7q2eNKxvHD54QngMszXTaEvkUe1z8MHMQaXBgg4rEWJ"
+                            ],
+                            "FX RECORD STOP": [
+                                "ipfs:\/\/QmWQvMdJxsUxcBfQpT3HuohQ5B1yS9gHkTAkLDti3vzcNM"
+                            ],
+                            "FX GLASS SHATTER": [
+                                "ipfs:\/\/QmRoRZoYyPkpvcwXAc3L4GF8W24xbLdMhsBGNQ1zbCaiZj"
+                            ],
+                            "FX VINYL CRACKLE": [
+                                "ipfs:\/\/QmeXbnU6oczrDYzT71pue4pfYy5g3bUbDTiPY59o45CUVP"
+                            ]
+                        },
+                        "genres": [
+                            "Lo-Fi ",
+                            "Pop"
+                        ],
+                        "artists": [
+                            "LVllABY"
+                        ],
+                        "producer": "LVllABY",
+                        "copyright": "\u2117 LVllABY",
+                        "encrypted": "true",
+                        "mediaType": "audio\/mp3",
+                        "song_title": "Too Scared of the Future",
+                        "album_title": "Dark Dreams Sweet Nightmares",
+                        "mix_engineer": "LVllABY",
+                        "track_number": "4",
+                        "song_duration": "PT2M30S",
+                        "visual_artist": "Glus",
+                        "master_engineer": "MIPERSPECTIVE",
+                        "recording_engineer": "LVllABY"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmcVw9ehZvG5b8ocuAW3DvWhBvcuA8uhEZwcmpA7ZkTk2W",
+                        "name": "Too Scared of the Future Lyrics",
+                        "encrypted": "true",
+                        "mediaType": "text\/plain"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmS8b2WernWGVPgNj7TZb8BdPbZm35GWQ2SRX6XB5kfgtL",
+                        "name": "Too Scared of the Future track art",
+                        "encrypted": "true",
+                        "mediaType": "image\/gif"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmPqeqqaUPjb2wyC4L33mrc9LHGA3YzLVaLCUVPsEGzLoe",
+                        "name": "Catching Z's - Music Video",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmQsK3pUEpnHQmbe1YmGs7KrZs1F1auDyJeb2WQAJmYyTH",
+                        "name": "Phy Prime Video Breakdown",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXwwFDAicyZQynTooZ1X7T2L75CN5jkWVjNtxfVnEKf6B",
+                        "name": "LVllABY Production Breakdown",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmfFVFQox37hLmc54rxh5qMFuV9Tg7t6GVdgqVRAJVG69k",
+                        "name": "Miper Spective on Dark Dreams Sweet Nightmares",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmYCUBvFHTGmQBEeniP2ryQTrQiRSYhgHZh8Cdufgv9vmg",
+                "links": "https:\/\/cosoc.com\/Lvllaby",
+                "player": "https:\/\/Fre5hMusic.com",
+                "distributor": "https:\/\/www.soundrig.io\/",
+                "release_type": "Multiple",
+                "country_of_origin": "U.S",
+                "music_metadata_version": "v1"
+            }
+        },
+        {
+            "asset": "7e6c4c5a823112a2af38533311e1b7a5a63933ed3cf55c609aeae36f526f736552696f745465737438",
+            "quantity": null,
+            "policy_id": "7e6c4c5a823112a2af38533311e1b7a5a63933ed3cf55c609aeae36f",
+            "asset_name": "526f736552696f745465737438",
+            "onchain_metadata": {
+                "name": "Rose Riot Test #8",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmTe5ReZ87nvWRsX4VMdEdgaKntPQMBh8ybJNpHyxHWhjz",
+                        "name": "Album Cover",
+                        "encrypted": "true",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/Qmaq2rXucenzgAd7Ws7au5xEqTpLk3uTYNV9m5HC6tohJF",
+                        "isrc": "QZES72383824",
+                        "mood": "Sexy, Real Talk, Empowered",
+                        "name": "Words Spoken",
+                        "genres": [
+                            "R&B",
+                            "Rap",
+                            "Pop"
+                        ],
+                        "artists": [
+                            "Samantha Sharman"
+                        ],
+                        "explicit": "TRUE",
+                        "producer": "OVSMA",
+                        "copyright": "\u2117 Sam Sharman",
+                        "encrypted": "true",
+                        "mediaType": "audio\/wav",
+                        "song_title": "Words Spoken",
+                        "Album_title": "Rose Riot",
+                        "mix_engineer": "Jon Margulies",
+                        "track_number": "1",
+                        "song_duration": "PT3M33S",
+                        "visual_artist": [
+                            "Sam Sharman",
+                            "Skylar Smith"
+                        ],
+                        "special_thanks": [
+                            "Ahmed",
+                            "Goddessey",
+                            "Friz"
+                        ],
+                        "master_engineer": "Jon Margulies",
+                        "recording_engineer": "Jeremy Classic",
+                        "contributing_artists": [
+                            "Mike Pierre"
+                        ]
+                    },
+                    {
+                        "src": "ipfs:\/\/QmQijaDcxc8BpNvK28Ab7zUeZs4LQXZfq7gT7ZbyzQPQKe",
+                        "name": "Words Spoken Lyrics",
+                        "encrypted": "true",
+                        "mediaType": "text\/plain"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmQb6aiP7xtHKTLDzMhew6f1MMWQUD82hMMv7nfEtCjwti",
+                        "name": "Words Spoken",
+                        "encrypted": "true",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmQPr8T8GnKGgkpMDv16TepDqrdWaFAZ6yqS9pSvHy9Dkm",
+                        "name": "Behind the Scenes",
+                        "encrypted": "true",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXR4YfNAmfMELEenK4jC2SuRywLkYeepPamkfwXkon8m4",
+                        "name": "Spring Shoot_ Attitude",
+                        "encrypted": "true",
+                        "mediaType": "image\/jpg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmPnTHj3odzzMaMWUaJNnXtwguM4WU1eJArhwRBnkpUS8m",
+                        "name": "Spring Shoot_ Hollywood Blvd",
+                        "encrypted": "true",
+                        "mediaType": "image\/jpg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmeYrNwFpXh9VtKFZBb15YbWH57XKboZTdZh84C9skUbRk",
+                        "name": "Spring Shoot_ Inside a Laugh",
+                        "encrypted": "true",
+                        "mediaType": "image\/jpg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmZf3CCR3QYFWcu545118mePwggATyeFunJWE914cmRiLA",
+                        "name": "Spring Shoot_ Let it Out",
+                        "encrypted": "true",
+                        "mediaType": "image\/jpg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmSKAPcLjcXNj6quLReFXuordqLeKwJk4aHoXq5edbxPEo",
+                        "name": "Spring Shoot_ Mauve Strawberry",
+                        "encrypted": "true",
+                        "mediaType": "image\/jpg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmZAwp6gt1PB5r8cAW7zQugz8QPvUE3W3nYU56WXNeR4Lr",
+                        "name": "Spring Shoot_ Movement",
+                        "encrypted": "true",
+                        "mediaType": "image\/jpg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmUH7Bc8n6sifv1gDeHNpXt9fHGY6F7ZwYVDypVSBe58Ne",
+                        "name": "Spring Shoot_ Pink Velvet",
+                        "encrypted": "true",
+                        "mediaType": "image\/jpg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmRAAg4tLFfQjNM4FbXUVhCGm7rFeQu95fVPxSmDzLFpgN",
+                        "name": "Spring Shoot_ Pink",
+                        "encrypted": "true",
+                        "mediaType": "image\/jpg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmT7TAvHoeMsLJWJo4gk3sfhcQPHYm2THJyry6QRWuduVZ",
+                        "name": "Spring Shoot_ Transcendental",
+                        "encrypted": "true",
+                        "mediaType": "image\/jpg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmPaAcgv2j1hBiykHZEr7oqk2eLVLQhGPGb9qj16XgyizC",
+                        "isrc": "QZXLZ2330000",
+                        "mood": "Sad, Heartbreak, Love Song",
+                        "name": "Words Spoken Acoustic",
+                        "genres": [
+                            "Pop",
+                            "R&B",
+                            "Rap"
+                        ],
+                        "artists": [
+                            "Samantha Sharman"
+                        ],
+                        "explicit": "FALSE",
+                        "copyright": "\u2117 Sam Sharman",
+                        "encrypted": "true",
+                        "mediaType": "audio\/wav",
+                        "song_title": "Words Spoken Acoustic",
+                        "Album_title": "Rose Riot",
+                        "mix_engineer": "Thodoris Stamatogiannakis",
+                        "track_number": "2",
+                        "song_duration": "PT3M11S",
+                        "special_thanks": [
+                            "Ahmed",
+                            "Goddessey",
+                            "Friz"
+                        ],
+                        "featured_artist": [
+                            "INOY"
+                        ],
+                        "master_engineer": "Thodoris Stamatogiannakis",
+                        "recording_engineer": "Johnny Fero",
+                        "contributing_artists": [
+                            "Mike Pierre",
+                            "INOY"
+                        ]
+                    },
+                    {
+                        "src": "ipfs:\/\/QmQijaDcxc8BpNvK28Ab7zUeZs4LQXZfq7gT7ZbyzQPQKe",
+                        "name": "Words Spoken Acoustic Lyrics",
+                        "encrypted": "true",
+                        "mediaType": "text\/plain"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmeG2qB1J9Lk5tKCxdL6n73xPFYhuYQuaFNS3vZA2wZDus",
+                        "name": "Words Spoken Acoustic",
+                        "encrypted": "true",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmRRriWShaxAAwbQcw8g8ZGGhPErf63hdweLxfP2LFntN2",
+                        "name": "In the Studio_ Close Up",
+                        "encrypted": "true",
+                        "mediaType": "image\/jpg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmPWU9nwiTCXzBuVd6WSFPoqTqJK6ordtwia2q19ad9EeV",
+                        "name": "In the Studio_ Sam _ Nick, 2",
+                        "encrypted": "true",
+                        "mediaType": "image\/jpg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmZFL1zdm5cCDn9fCGH3AsvVQvKjq6BFFtVJE8aCJsW3Rn",
+                        "name": "In the Studio_ Sam _ Nick, 3",
+                        "encrypted": "true",
+                        "mediaType": "image\/jpg"
+                    },
+                    {
+                        "src": "ipfs:\/\/Qmc6PvnxUxdLPw9fY7UWY7gSMRB3DuRQQPwHSs69egz4KD",
+                        "name": "In the Studio_ Sam _ Nick",
+                        "encrypted": "true",
+                        "mediaType": "image\/jpg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmPuW7uQiwTXgapvu68VoG7ar3xQZJJQ6gvGLVPCaFnmuV",
+                        "name": "In the Studio_ Sam and Nick 3",
+                        "encrypted": "true",
+                        "mediaType": "image\/jpg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmR5pEmVvS1qzg76Bs2wkgQUw2g71MiS1qD9NAagkq7wMA",
+                        "name": "In the Studio_ The Friz",
+                        "encrypted": "true",
+                        "mediaType": "image\/jpg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmUREnrgBQDjXGPkZwLf9JLpy42SFPEy5sUTApw7798E49",
+                        "isrc": "QZXLZ2329999",
+                        "mood": "Fierce, Empowered, Magical",
+                        "name": "I AM S A M",
+                        "genres": [
+                            "Rap",
+                            "Pop",
+                            "R&B"
+                        ],
+                        "artists": [
+                            "Samantha Sharman"
+                        ],
+                        "explicit": "FALSE",
+                        "producer": "Segnon",
+                        "copyright": "\u2117 Sam Sharman",
+                        "encrypted": "true",
+                        "mediaType": "audio\/wav",
+                        "song_title": "I AM S A M",
+                        "Album_title": "Rose Riot",
+                        "mix_engineer": "The Friz",
+                        "track_number": "3",
+                        "song_duration": "PT5M26S",
+                        "visual_artist": [
+                            "Sam Sharman",
+                            "Skylar Smith"
+                        ],
+                        "special_thanks": [
+                            "Ahmed",
+                            "Goddessey",
+                            "Friz",
+                            "Segnon"
+                        ],
+                        "master_engineer": "The Friz",
+                        "recording_engineer": "Segnon",
+                        "contributing_artists": [
+                            "Segnon"
+                        ]
+                    },
+                    {
+                        "src": "ipfs:\/\/QmZsZjQaoGCUwvxwd3nJ5T8U7KwEUvi67qrGBFRccmiL7k",
+                        "name": "I AM SAM Lyrics",
+                        "encrypted": "true",
+                        "mediaType": "text\/plain"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmWbwhweJUpQvaqpEtffQtDrK2ppABYBp4nU8mbnBm1Qdv",
+                        "name": "I AM SAM",
+                        "encrypted": "true",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmSDJPBFtf6fxv8PJSEuMUBTgki6WVEjmWakd5XWJACM8G",
+                        "name": "I AM SAM_ Clandestine",
+                        "encrypted": "true",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmSTNxFGvpRais26rmkc1Ra2pt2aidmYCykAeQ6v91ddva",
+                        "name": "I AM SAM_ Flame",
+                        "encrypted": "true",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmR9ymbBXwL9maeV3bdtQ7SsePQnpMFgh5YXafAC9P4BkL",
+                        "name": "I AM SAM_ Orange",
+                        "encrypted": "true",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmTQDB4Rwymz1VK6iGWxHhr28Gnf8FEz1YvBDYEMc6kmea",
+                        "name": "I AM SAM_ Reflexion",
+                        "encrypted": "true",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXR2zGY9QxK8L3ghhWn81YLyk9etEUsubcqHBPJnYd68v",
+                        "name": "I AM SAM_ Trinity",
+                        "encrypted": "true",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXt6KAgbsWMHr6VDFKpHC8imTQE2LXTHCoyR1kV6B6vV7",
+                        "name": "I AM SAM_ Vision",
+                        "encrypted": "true",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmZBdUTpsZjLFfQvJ7bgcZNpEJqTTHUCtjEnqJSp22gXfi",
+                "mediaType": "image\/png",
+                "distributor": "https:\/\/www.soundrig.io\/",
+                "release_date": "2023-31-05",
+                "release_type": "multiple",
+                "music_metadata_version": "v1"
+            }
+        }
+    ]
+}

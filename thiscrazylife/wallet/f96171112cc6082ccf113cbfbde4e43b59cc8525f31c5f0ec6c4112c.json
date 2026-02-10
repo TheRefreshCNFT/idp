@@ -1,0 +1,43 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933796,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "f96171112cc6082ccf113cbfbde4e43b59cc8525f31c5f0ec6c4112c"
+    },
+    "assets_cache": [
+        {
+            "asset": "f96171112cc6082ccf113cbfbde4e43b59cc8525f31c5f0ec6c4112c4c78465245534830343230",
+            "quantity": null,
+            "policy_id": "f96171112cc6082ccf113cbfbde4e43b59cc8525f31c5f0ec6c4112c",
+            "asset_name": "4c78465245534830343230",
+            "onchain_metadata": {
+                "Cham": "Rimaong",
+                "name": "Language Refresher: TIGER [0420]",
+                "\ud83d\udc05": "Tiger",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmRHQEuo6Z5XaqvsSNdJ2FiCNfnLmEKHySkPPCmCyRaW5L",
+                        "mediaType": "image\/"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmWe6tmqzP3GCfzL4fARgii13BLeEWmSBoTRehisi1Uidc",
+                        "name": "\ud83d\udc05",
+                        "mediaType": "image\/"
+                    }
+                ],
+                "image": "ipfs:\/\/QmUNqyC1bBzCvmpVdjfE29fHBxCBBHMbqmJdDuWpqWbntt",
+                "series": "Vocabulary Builder",
+                "English": "Tiger",
+                "Spanish": "Tigre",
+                "Hungarian": "Tigris",
+                "mediaType": "image\/jpeg",
+                "collection": "The Language Refresher",
+                "the Creative Developers": "The Alexandria Project",
+                "Vietnamese (Ti\u1ebfng Vi\u1ec7t)": "Con C\u1ecdp"
+            }
+        }
+    ]
+}

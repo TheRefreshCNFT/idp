@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933727,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "81074c0995544cdc379ffb66df5b3a7cdcf07c5855aa932de4a4067d"
+    },
+    "assets_cache": [
+        {
+            "asset": "81074c0995544cdc379ffb66df5b3a7cdcf07c5855aa932de4a4067d544652454e",
+            "quantity": null,
+            "policy_id": "81074c0995544cdc379ffb66df5b3a7cdcf07c5855aa932de4a4067d",
+            "asset_name": "544652454e",
+            "onchain_metadata": {
+                "URL": "https:\/\/adafren.net",
+                "name": "FREN Rewards Ticket",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmTaSeyqMUBoGFVhFfNX5yybLZymCxqwJRgPTbVUyrFMSY",
+                        "name": "TFREN",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmTaSeyqMUBoGFVhFfNX5yybLZymCxqwJRgPTbVUyrFMSY",
+                "symbol": "TFREN",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 113571930
+                },
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "Description": "FREN Rewards Ticket to receive FREN as rewards",
+                "description": "Claim $FREN Rewards at https:\/\/adafren.net",
+                "totalSupply": 1000000
+            }
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933771,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "7e7dbfe44b4145a2f994a9c649ce84a3ee0706f06e9ec82360e0f642"
+    },
+    "assets_cache": [
+        {
+            "asset": "7e7dbfe44b4145a2f994a9c649ce84a3ee0706f06e9ec82360e0f64250494e54",
+            "quantity": null,
+            "policy_id": "7e7dbfe44b4145a2f994a9c649ce84a3ee0706f06e9ec82360e0f642",
+            "asset_name": "50494e54",
+            "onchain_metadata": {
+                "url": "https:\/\/beerhouse.io",
+                "name": "PINT",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmTmxkvj9ygGJRm23S4yU6rEejhobHbyqudPwfccXcDyb3",
+                        "name": "PINT",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmTmxkvj9ygGJRm23S4yU6rEejhobHbyqudPwfccXcDyb3",
+                "symbol": "PINT",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 51757722
+                },
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "description": "BeerHouse.io is the Portfolio Manager on Cardano",
+                "totalSupply": 10000000
+            }
+        }
+    ]
+}

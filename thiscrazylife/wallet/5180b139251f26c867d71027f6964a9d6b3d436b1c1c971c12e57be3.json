@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933716,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "5180b139251f26c867d71027f6964a9d6b3d436b1c1c971c12e57be3"
+    },
+    "assets_cache": [
+        {
+            "asset": "5180b139251f26c867d71027f6964a9d6b3d436b1c1c971c12e57be3546f7869636146696c6d313632",
+            "quantity": null,
+            "policy_id": "5180b139251f26c867d71027f6964a9d6b3d436b1c1c971c12e57be3",
+            "asset_name": "546f7869636146696c6d313632",
+            "onchain_metadata": {
+                "name": "Toxica Feature Film #162",
+                "files": [
+                    {
+                        "src": "ar:\/\/hJo_6OgKrZFOKszLqLgsdBR7gMb8c1voKVWlpAxLGHw",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmTSzoM8kEWBPVR7KcU7f17mjdTkehvB5FJDPbrALDaAYv",
+                "series": "Toxica",
+                "source": "ipfs:\/\/QmWpwTH4YtPxGcZ2Q93o2TB38vEzDVMVXAwpAHtFDeHeCW",
+                "director": "Rona Walter",
+                "copyright": "Tin Cowboys Productions LTD \u00a9 2021",
+                "publisher": [
+                    "Serenity Pictures Ltd",
+                    "https:\/\/www.serenity-pictures.com",
+                    "https:\/\/twitter.com\/nft_serenity"
+                ],
+                "production": "Carlos Boellinger",
+                "description": [
+                    "Toxica: an original motion picture distributed on Cardano"
+                ]
+            }
+        }
+    ]
+}

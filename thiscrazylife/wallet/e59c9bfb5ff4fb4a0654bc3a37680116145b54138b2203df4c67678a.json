@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933815,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "e59c9bfb5ff4fb4a0654bc3a37680116145b54138b2203df4c67678a"
+    },
+    "assets_cache": [
+        {
+            "asset": "e59c9bfb5ff4fb4a0654bc3a37680116145b54138b2203df4c67678a52616e646f6d20546f6b656e",
+            "quantity": null,
+            "policy_id": "e59c9bfb5ff4fb4a0654bc3a37680116145b54138b2203df4c67678a",
+            "asset_name": "52616e646f6d20546f6b656e",
+            "onchain_metadata": {
+                "url": "https:\/\/abstractpotato.com",
+                "name": "Random Token",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmXFuWvP6DHTnPo9qEcgdsG9kQFKyF3NuM75ooAZMVMzPR",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmXFuWvP6DHTnPo9qEcgdsG9kQFKyF3NuM75ooAZMVMzPR",
+                "twitter": "https:\/\/twitter.com\/abstractpotato",
+                "mediaType": "image\/png",
+                "Description": "Disturbing Faces"
+            }
+        }
+    ]
+}

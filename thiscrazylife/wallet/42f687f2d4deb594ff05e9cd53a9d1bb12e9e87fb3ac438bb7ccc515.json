@@ -1,0 +1,89 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933660,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "42f687f2d4deb594ff05e9cd53a9d1bb12e9e87fb3ac438bb7ccc515"
+    },
+    "assets_cache": [
+        {
+            "asset": "42f687f2d4deb594ff05e9cd53a9d1bb12e9e87fb3ac438bb7ccc5155465617365546f6b656e3134",
+            "quantity": null,
+            "policy_id": "42f687f2d4deb594ff05e9cd53a9d1bb12e9e87fb3ac438bb7ccc515",
+            "asset_name": "5465617365546f6b656e3134",
+            "onchain_metadata": {
+                "name": "TeaseToken Epoch #482 - Laura Desiree",
+                "Links": {
+                    "website": "https:\/\/beacons.ai\/lauraxdesiree",
+                    "instagram": "https:\/\/www.instagram.com\/lauraxdesiree\/"
+                },
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmenVVFFvH8eRde9FZ3xz782foa2WhvGqdo5gSQpFDDejz",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXoRMabKVawu9pMVcNCX9zac5BHZgNfH8gggktnPp7Y3q",
+                        "mediaType": "image\/png",
+                        "Claim your free OnlyFans Subscription here:": [
+                            "https:\/\/onlyfans.com\/action\/trial\/",
+                            "0ur1vmjvbnijnwjz39irqgnzzalt4a6g"
+                        ]
+                    }
+                ],
+                "image": "ipfs:\/\/QmenVVFFvH8eRde9FZ3xz782foa2WhvGqdo5gSQpFDDejz",
+                "model": {
+                    "tags": [
+                        "influencer",
+                        "model"
+                    ],
+                    "country": "US",
+                    "model_name": "Laura Desiree",
+                    "primary_platform": "OnlyFans"
+                },
+                "collection": "Tease Tokens"
+            }
+        },
+        {
+            "asset": "42f687f2d4deb594ff05e9cd53a9d1bb12e9e87fb3ac438bb7ccc5155465617365546f6b656e37",
+            "quantity": null,
+            "policy_id": "42f687f2d4deb594ff05e9cd53a9d1bb12e9e87fb3ac438bb7ccc515",
+            "asset_name": "5465617365546f6b656e37",
+            "onchain_metadata": {
+                "name": "TeaseToken Epoch #468 - Mimi Alexandra",
+                "Links": {
+                    "instagram": "https:\/\/www.instagram.com\/mimi.alexandraa\/"
+                },
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmVVZAofn4zRs6m8viqtXua9FpvfNkRvhTH4tCeuhWVeS2",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXoRMabKVawu9pMVcNCX9zac5BHZgNfH8gggktnPp7Y3q",
+                        "mediaType": "image\/png",
+                        "Claim your free OnlyFans Subscription here:": [
+                            "https:\/\/onlyfans.com\/action\/trial\/",
+                            "waahipffxkjaf68cq5bk7r1wmlngtgcb"
+                        ]
+                    }
+                ],
+                "image": "ipfs:\/\/QmVVZAofn4zRs6m8viqtXua9FpvfNkRvhTH4tCeuhWVeS2",
+                "model": {
+                    "tags": [
+                        "trans",
+                        "model",
+                        "blonde",
+                        "british"
+                    ],
+                    "country": "UK",
+                    "model_name": "Mimi Alexandra",
+                    "primary_platform": "OnlyFans"
+                },
+                "collection": "Tease Tokens"
+            }
+        }
+    ]
+}

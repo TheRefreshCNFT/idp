@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933802,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "9504fc2845579975c8fbd776d7112b1525c3c30d1012db91f226dcb4"
+    },
+    "assets_cache": [
+        {
+            "asset": "9504fc2845579975c8fbd776d7112b1525c3c30d1012db91f226dcb457656e505342446973636f72645f4f47",
+            "quantity": null,
+            "policy_id": "9504fc2845579975c8fbd776d7112b1525c3c30d1012db91f226dcb4",
+            "asset_name": "57656e505342446973636f72645f4f47",
+            "onchain_metadata": {
+                "name": "Wen PSB Discord OG",
+                "image": "ipfs:\/\/QmcrPWzUBrQaHF633PqAj76urShoigALRQtUpx3Y7He3ys",
+                "Project": "Psilobyte SPO",
+                "discord": "WEN",
+                "twitter": "https:\/\/twitter.com\/877PSBYTE6",
+                "website": "https:\/\/psilobyte.io\/",
+                "mediaType": "image\/png",
+                "Description": [
+                    "\"Wen PSB Discord\" are loyalty tokens to reward",
+                    "supporters who started from the bottom.",
+                    "Back when PSB was just a p and hadn't earned the right",
+                    "to capitalize yet. For those who watched him contribute",
+                    "and grow while providing nothing in return for their stake,",
+                    "most of the time. Boris did feed them though,",
+                    "starving for some type of return, he gave them pizza.",
+                    "There was always a need for something more though.",
+                    "A place where they could bombard Boris,",
+                    "with questions about Cardano, stakepools, and more pizza.",
+                    "WEN Discord they started chanting.",
+                    "PSB succumbed to the pressure and committed to",
+                    "spinning up a server on the weekend of 2\/24\/2023.",
+                    "We have yet to see how this plays out but",
+                    "hodlers of this token will rule the server",
+                    "and get special drops on Tosi!"
+                ]
+            }
+        }
+    ]
+}

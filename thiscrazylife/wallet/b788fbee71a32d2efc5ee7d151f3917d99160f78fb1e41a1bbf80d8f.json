@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933611,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "b788fbee71a32d2efc5ee7d151f3917d99160f78fb1e41a1bbf80d8f"
+    },
+    "assets_cache": [
+        {
+            "asset": "b788fbee71a32d2efc5ee7d151f3917d99160f78fb1e41a1bbf80d8f4c454146544f4b454e",
+            "quantity": null,
+            "policy_id": "b788fbee71a32d2efc5ee7d151f3917d99160f78fb1e41a1bbf80d8f",
+            "asset_name": "4c454146544f4b454e",
+            "onchain_metadata": {
+                "name": "LEAF TOKEN",
+                "image": "ipfs:\/\/QmNyFRJaDzf56uSr1dUhgpGg2GERozs7CpK8TkD8eNtFvi",
+                "author": "@JOSH420ADA"
+            }
+        }
+    ]
+}

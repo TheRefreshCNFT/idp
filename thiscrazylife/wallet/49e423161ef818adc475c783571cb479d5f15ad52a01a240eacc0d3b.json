@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933685,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "49e423161ef818adc475c783571cb479d5f15ad52a01a240eacc0d3b"
+    },
+    "assets_cache": [
+        {
+            "asset": "49e423161ef818adc475c783571cb479d5f15ad52a01a240eacc0d3b434f434b",
+            "quantity": null,
+            "policy_id": "49e423161ef818adc475c783571cb479d5f15ad52a01a240eacc0d3b",
+            "asset_name": "434f434b",
+            "onchain_metadata": {
+                "X": "https:\/\/x.com\/cockcoin_ADA",
+                "name": "COCK",
+                "image": "ipfs:\/\/QmPE37m6YhfB7sBoxDuHF51n3PrqxVRgj5WvQFKc5Nyn13",
+                "ticker": "COCK",
+                "Website": "https:\/\/cockcardano.io",
+                "description": "The COCK coin on Cardano"
+            }
+        }
+    ]
+}

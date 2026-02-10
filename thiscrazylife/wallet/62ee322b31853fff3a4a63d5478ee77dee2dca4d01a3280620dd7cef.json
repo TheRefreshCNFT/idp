@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933765,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "62ee322b31853fff3a4a63d5478ee77dee2dca4d01a3280620dd7cef"
+    },
+    "assets_cache": [
+        {
+            "asset": "62ee322b31853fff3a4a63d5478ee77dee2dca4d01a3280620dd7cef73696e6765",
+            "quantity": null,
+            "policy_id": "62ee322b31853fff3a4a63d5478ee77dee2dca4d01a3280620dd7cef",
+            "asset_name": "73696e6765",
+            "onchain_metadata": {
+                "name": "Singe",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmS9Exq5VFPgsBArhWNbLYChzVzh2hRfiNrBYeJkHEobgG",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmS9Exq5VFPgsBArhWNbLYChzVzh2hRfiNrBYeJkHEobgG",
+                "Ticker": "SINGE",
+                "Adahandle": "$singe",
+                "Description": "Nous Sommes Singe"
+            }
+        }
+    ]
+}

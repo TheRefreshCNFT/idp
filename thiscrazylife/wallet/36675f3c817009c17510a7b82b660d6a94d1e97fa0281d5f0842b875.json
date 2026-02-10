@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933660,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "36675f3c817009c17510a7b82b660d6a94d1e97fa0281d5f0842b875"
+    },
+    "assets_cache": [
+        {
+            "asset": "36675f3c817009c17510a7b82b660d6a94d1e97fa0281d5f0842b87541646157686174",
+            "quantity": null,
+            "policy_id": "36675f3c817009c17510a7b82b660d6a94d1e97fa0281d5f0842b875",
+            "asset_name": "41646157686174",
+            "onchain_metadata": {
+                "name": "AdaWhat",
+                "Title": "Ada What? Ada Who?",
+                "Vocal": "Josh J",
+                "files": [
+                    {
+                        "src": "ar:\/\/j6l7ScDoPESeNL2Uf-l0bElqkVyD165K8QWowMs5B7A",
+                        "name": "Ada What?",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ar:\/\/cLJ0UG3M4hhgdRA3fSHvTStXis9bUk9_s9TiyIUiy_g",
+                "Lyrics": "Josh J",
+                "Copyright": "Joshua Jameson 2022",
+                "StakePool": "ATM Stake Pool",
+                "mediaType": "image\/jpg",
+                "description": "Parody of 'Jigga What? by Jay-Z\/Timbaland\/Amil"
+            }
+        }
+    ]
+}

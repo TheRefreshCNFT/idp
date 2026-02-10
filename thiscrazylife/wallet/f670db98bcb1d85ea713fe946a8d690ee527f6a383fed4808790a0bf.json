@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933752,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "f670db98bcb1d85ea713fe946a8d690ee527f6a383fed4808790a0bf"
+    },
+    "assets_cache": [
+        {
+            "asset": "f670db98bcb1d85ea713fe946a8d690ee527f6a383fed4808790a0bf46726f674f6e436861696e373238",
+            "quantity": null,
+            "policy_id": "f670db98bcb1d85ea713fe946a8d690ee527f6a383fed4808790a0bf",
+            "asset_name": "46726f674f6e436861696e373238",
+            "onchain_metadata": {
+                "Eyes": "Cool Glasses 01",
+                "Feet": "Red 01",
+                "Name": "Jeremiah",
+                "name": "Frogs On Chain #728",
+                "Mouth": "Type 09",
+                "files": [
+                    {
+                        "src": [
+                            "data:image\/png;base64,",
+                            "iVBORw0KGgoAAAANSUhEUgAAACUAAAAlCAMAAADyQNAxAAAAJFBMVEX0msL\/9",
+                            "o4AAADXSZw98ggElwAG\/wCyYiz\/p5UPAALe\/wD+AABY7NllAAAAtklEQVR42u2",
+                            "Q2wrDMAxDG7mx0+T\/\/3dyLrASMwp73E5TRYWDHnr8CUkLr5+lxSOJPJK+2wJSZ",
+                            "1zxlJAkSJBOPAU5ieSUR4nHRM5+ZJVIwtyCroJAUpWOzmKqCKxcipm\/PF5yaGn",
+                            "BOyXaosadhW+5FI2pEYb641Ohlk0XliMJRHVY8wbZh25WprXPUXGL4WDEbmFYT",
+                            "H+t5\/73cel1mdYKoFZ2fgd\/tbUGa54e5hlYjuHOEWDk+FlelEMG\/8OkfxgAAAA",
+                            "ASUVORK5CYII="
+                        ],
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/Qmf6m63WtavcsQUCxbkHh4ijXMpdG6xGdrBZ36xnJsd2Rv",
+                "Headwear": "Hair 02",
+                "Necklace": "None",
+                "Background": "10"
+            }
+        }
+    ]
+}

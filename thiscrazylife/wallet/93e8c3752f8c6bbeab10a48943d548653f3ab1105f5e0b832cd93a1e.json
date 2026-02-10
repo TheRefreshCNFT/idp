@@ -1,0 +1,47 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933691,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "93e8c3752f8c6bbeab10a48943d548653f3ab1105f5e0b832cd93a1e"
+    },
+    "assets_cache": [
+        {
+            "asset": "93e8c3752f8c6bbeab10a48943d548653f3ab1105f5e0b832cd93a1e4e69676874206f6620746865204c6976696e6720446561642023353330",
+            "quantity": null,
+            "policy_id": "93e8c3752f8c6bbeab10a48943d548653f3ab1105f5e0b832cd93a1e",
+            "asset_name": "4e69676874206f6620746865204c6976696e6720446561642023353330",
+            "onchain_metadata": {
+                "Hash": "727e371787217a12df26c13ab850db8441b77df46e418f3166c258fc11796d1b",
+                "data": "ipfs:\/\/QmNndDitDZ9yuPifMVJG6WpXawv4XjcEj5vjGMgn5FPAyS",
+                "name": "Night of the Living Dead #530",
+                "Cover": "cemetry",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/Qmb34XNbvSiKTpXZEDUM5h4vUHcnVk7koJqpXyzvPkRXjT",
+                        "name": "Front Cover",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/Qmer37cGFPEwgZWy9QcZY5nkKoEBoK1RYziwAPBiTqGT4q",
+                        "name": "Back Cover",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/Qmb34XNbvSiKTpXZEDUM5h4vUHcnVk7koJqpXyzvPkRXjT",
+                "website": "https:\/\/www.nucast.io\/",
+                "mediaType": "image\/png",
+                "Collection": "Prestige Collection",
+                "Cover Rank": "2",
+                "Description": [
+                    "Trapped in a farmhouse, a group of strangers",
+                    "must fend off relentless, flesh-eating zombies.",
+                    "Survival is everything in this 1968 horror classic."
+                ],
+                "Category Rank": "3"
+            }
+        }
+    ]
+}

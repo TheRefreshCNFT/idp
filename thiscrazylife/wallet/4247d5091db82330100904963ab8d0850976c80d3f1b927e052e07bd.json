@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933660,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "4247d5091db82330100904963ab8d0850976c80d3f1b927e052e07bd"
+    },
+    "assets_cache": [
+        {
+            "asset": "4247d5091db82330100904963ab8d0850976c80d3f1b927e052e07bd546f6b68756e",
+            "quantity": null,
+            "policy_id": "4247d5091db82330100904963ab8d0850976c80d3f1b927e052e07bd",
+            "asset_name": "546f6b68756e",
+            "onchain_metadata": {
+                "name": "Tokhun",
+                "image": "ipfs:\/\/QmUEbpZ8WKRxZTxG1z3iRBmXdBxFbXzwz3YgRtPBmiAEja",
+                "artist": "Latheesan Kanesamoorthy",
+                "assetType": "FT",
+                "mediaType": "image\/png",
+                "publisher": [
+                    "https:\/\/tokhun.io"
+                ]
+            }
+        }
+    ]
+}

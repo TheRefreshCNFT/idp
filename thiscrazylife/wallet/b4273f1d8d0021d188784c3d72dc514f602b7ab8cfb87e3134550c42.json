@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933654,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "b4273f1d8d0021d188784c3d72dc514f602b7ab8cfb87e3134550c42"
+    },
+    "assets_cache": [
+        {
+            "asset": "b4273f1d8d0021d188784c3d72dc514f602b7ab8cfb87e3134550c42446f6765414441",
+            "quantity": null,
+            "policy_id": "b4273f1d8d0021d188784c3d72dc514f602b7ab8cfb87e3134550c42",
+            "asset_name": "446f6765414441",
+            "onchain_metadata": {
+                "name": "DogeADA",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmXwM5puGHcueJVC1Tmuym1R4yQ5kUJ9crfsjvnPDnKTFV",
+                        "name": "DogeADA",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmXwM5puGHcueJVC1Tmuym1R4yQ5kUJ9crfsjvnPDnKTFV",
+                "symbol": "DogeADA",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 50014986
+                },
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "description": "$DogeADA - dogeada.org",
+                "totalSupply": 1000000000000
+            }
+        }
+    ]
+}

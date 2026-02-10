@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933679,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "12f9d9446c422caa870948bae1b8844c26c64958943a3954103b034f"
+    },
+    "assets_cache": [
+        {
+            "asset": "12f9d9446c422caa870948bae1b8844c26c64958943a3954103b034f75676c7962726f323437",
+            "quantity": null,
+            "policy_id": "12f9d9446c422caa870948bae1b8844c26c64958943a3954103b034f",
+            "asset_name": "75676c7962726f323437",
+            "onchain_metadata": {
+                "ID": "247",
+                "Type": "Variant",
+                "name": "Ugly Bro #247",
+                "image": "ipfs:\/\/QmVq8APr5mmi1TjV9MHtMz2t7iTHTcMB28zgD8xMqpYhYD",
+                "Artist": "Ugly Bros",
+                "Character": "Fable",
+                "Variation": "Beard",
+                "publisher": [
+                    "Ugly Bros",
+                    "https:\/\/twitter.com\/UglyBrosNFT",
+                    "https:\/\/uglybrosnft.com"
+                ],
+                "Collection": "Ugly Bros: The Intro"
+            }
+        }
+    ]
+}

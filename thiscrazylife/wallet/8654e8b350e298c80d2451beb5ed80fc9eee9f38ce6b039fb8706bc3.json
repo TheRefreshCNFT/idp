@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933777,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "8654e8b350e298c80d2451beb5ed80fc9eee9f38ce6b039fb8706bc3"
+    },
+    "assets_cache": [
+        {
+            "asset": "8654e8b350e298c80d2451beb5ed80fc9eee9f38ce6b039fb8706bc34c4f4253544552",
+            "quantity": null,
+            "policy_id": "8654e8b350e298c80d2451beb5ed80fc9eee9f38ce6b039fb8706bc3",
+            "asset_name": "4c4f4253544552",
+            "onchain_metadata": {
+                "name": "LOBSTER",
+                "image": "ipfs:\/\/QmeY7meYhr3HUBu2CboRRZv2YXWWoh6AfPRHHgS7cspzho",
+                "Website": "https:\/\/wenlobster.io\/"
+            }
+        }
+    ]
+}

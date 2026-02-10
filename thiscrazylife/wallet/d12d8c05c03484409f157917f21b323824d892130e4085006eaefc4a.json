@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933617,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "d12d8c05c03484409f157917f21b323824d892130e4085006eaefc4a"
+    },
+    "assets_cache": [
+        {
+            "asset": "d12d8c05c03484409f157917f21b323824d892130e4085006eaefc4a5041524130343739",
+            "quantity": null,
+            "policy_id": "d12d8c05c03484409f157917f21b323824d892130e4085006eaefc4a",
+            "asset_name": "5041524130343739",
+            "onchain_metadata": {
+                "body": "Yellow normal",
+                "eyes": "Not ok",
+                "hair": "Turquoise beard",
+                "name": "ParaPains #0479",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmQEcUHFU9diyqaXRKqJLy84qDbHL1JiNSPoZQvY8VFBzy",
+                        "name": "ParaPains #0479",
+                        "mediaType": "image\/jpg"
+                    }
+                ],
+                "image": "ipfs:\/\/QmQEcUHFU9diyqaXRKqJLy84qDbHL1JiNSPoZQvY8VFBzy",
+                "mouth": "Aggro",
+                "clothes": "Check shirt",
+                "website": "https:\/\/www.painsnft.com",
+                "eyebrows": "High blue",
+                "mediaType": "image\/jpg",
+                "background": "Deep green",
+                "accessories": "None"
+            }
+        }
+    ]
+}

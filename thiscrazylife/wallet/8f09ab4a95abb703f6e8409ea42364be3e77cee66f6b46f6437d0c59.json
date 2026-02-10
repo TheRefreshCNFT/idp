@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933691,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "8f09ab4a95abb703f6e8409ea42364be3e77cee66f6b46f6437d0c59"
+    },
+    "assets_cache": [
+        {
+            "asset": "8f09ab4a95abb703f6e8409ea42364be3e77cee66f6b46f6437d0c594e65636b736d696c6554726176657273653030303533",
+            "quantity": null,
+            "policy_id": "8f09ab4a95abb703f6e8409ea42364be3e77cee66f6b46f6437d0c59",
+            "asset_name": "4e65636b736d696c6554726176657273653030303533",
+            "onchain_metadata": {
+                "name": "Traverse by Necksmile [00053]",
+                "Album": "Traverse",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmTQsoB9VqGnwjm35VMS2m6ycKVREwa6E2S84gEh8h81Ef",
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/QmScNBjnJ7SF7zBf95DXC1RpETBmB9i71tSgAwzkM3jrjD",
+                "Artist": "Necksmile",
+                "Website": "https:\/\/ChrisHockaday.com",
+                "Copyright": "2021 Necksmile. All rights reserved.",
+                "mediaType": "image\/png"
+            }
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933649,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "a7904896a247d3aa09478e856769b82d1f2e060028b6bda5543b699f"
+    },
+    "assets_cache": [
+        {
+            "asset": "a7904896a247d3aa09478e856769b82d1f2e060028b6bda5543b699f4343434f4c4c41423030393935",
+            "quantity": null,
+            "policy_id": "a7904896a247d3aa09478e856769b82d1f2e060028b6bda5543b699f",
+            "asset_name": "4343434f4c4c41423030393935",
+            "onchain_metadata": {
+                "name": "WEREWOLF BODY BLUE by Cute Creatures #02",
+                "image": "ipfs:\/\/QmP6zCdpJgjedYbgJm5woYDWqiAkbMyPoCErRU3XuxPptW",
+                "Layer Type": "Body Accessory",
+                "Description": [
+                    "The Cute Creatures is a project by Chadi Nassar bringing a",
+                    "different approach to pfps where you, the collector, gets",
+                    "to build your own creature with the accessories. Or not.",
+                    "We leave it to you. Check our website for more info."
+                ],
+                "Project Name": "Cute Creatures by Chadi Nassar",
+                "Artist\/Copyright": "Made by Jovan Padobran, transferred to Chadi Nassar",
+                "Layer Type Index": "187",
+                "Collab Twitter Handle": "https:\/\/www.twitter.com\/JovanPadobran",
+                "Cute Creatures Website": "https:\/\/cutecreaturesnft.com",
+                "Cute Creatures Creator Twitter": "https:\/\/www.twitter.com\/ChadiNassar",
+                "Collab Artist\/Project Attribution Name": "jovanpadobran (Cute Creatures Lead Artist)"
+            }
+        },
+        {
+            "asset": "a7904896a247d3aa09478e856769b82d1f2e060028b6bda5543b699f4343434f4c4c41423030393936",
+            "quantity": null,
+            "policy_id": "a7904896a247d3aa09478e856769b82d1f2e060028b6bda5543b699f",
+            "asset_name": "4343434f4c4c41423030393936",
+            "onchain_metadata": {
+                "name": "FAIRY FRAME GREEN by Cute Creatures #04",
+                "image": "ipfs:\/\/QmV37e8xW2t5u9i6GT1gRYtUfum42ksZUdpPSsWZvzqZ2b",
+                "Layer Type": "Frame",
+                "Description": [
+                    "The Cute Creatures is a project by Chadi Nassar bringing a",
+                    "different approach to pfps where you, the collector, gets",
+                    "to build your own creature with the accessories. Or not.",
+                    "We leave it to you. Check our website for more info."
+                ],
+                "Project Name": "Cute Creatures by Chadi Nassar",
+                "Artist\/Copyright": "Made by Jovan Padobran, transferred to Chadi Nassar",
+                "Layer Type Index": "39",
+                "Collab Twitter Handle": "https:\/\/www.twitter.com\/JovanPadobran",
+                "Cute Creatures Website": "https:\/\/cutecreaturesnft.com",
+                "Cute Creatures Creator Twitter": "https:\/\/www.twitter.com\/ChadiNassar",
+                "Collab Artist\/Project Attribution Name": "jovanpadobran (Cute Creatures Lead Artist)"
+            }
+        },
+        {
+            "asset": "a7904896a247d3aa09478e856769b82d1f2e060028b6bda5543b699f4343434f4c4c41423039383833",
+            "quantity": null,
+            "policy_id": "a7904896a247d3aa09478e856769b82d1f2e060028b6bda5543b699f",
+            "asset_name": "4343434f4c4c41423039383833",
+            "onchain_metadata": {
+                "name": "DRAGON DIAMOND BABY BLUE by Cute Creatures #31",
+                "image": "ipfs:\/\/QmU4CXihqdAgWm1iNttXrNPHMe471ZFn9Lkxv4WmNrTw1M",
+                "Layer Type": "Eyes Accessory",
+                "Description": [
+                    "The Cute Creatures is a project by Chadi Nassar bringing a",
+                    "different approach to pfps where you, the collector, gets",
+                    "to build your own creature with the accessories. Or not.",
+                    "We leave it to you. Check our website for more info."
+                ],
+                "Project Name": "Cute Creatures by Chadi Nassar",
+                "Artist\/Copyright": "Made by Jovan Padobran, transferred to Chadi Nassar",
+                "Layer Type Index": "102",
+                "Collab Twitter Handle": "https:\/\/www.twitter.com\/JovanPadobran",
+                "Cute Creatures Website": "https:\/\/cutecreaturesnft.com",
+                "Cute Creatures Creator Twitter": "https:\/\/www.twitter.com\/ChadiNassar",
+                "Collab Artist\/Project Attribution Name": "jovanpadobran (Cute Creatures Lead Artist)"
+            }
+        },
+        {
+            "asset": "a7904896a247d3aa09478e856769b82d1f2e060028b6bda5543b699f4343434f4c4c41423039383834",
+            "quantity": null,
+            "policy_id": "a7904896a247d3aa09478e856769b82d1f2e060028b6bda5543b699f",
+            "asset_name": "4343434f4c4c41423039383834",
+            "onchain_metadata": {
+                "name": "Mad UFO by Rabbitlung #09",
+                "image": "ipfs:\/\/QmYvaSSYYhEpnJNeYtjkSpZSxKmD6gNceTfb6pzuxwc3UR",
+                "Layer Type": "Background",
+                "Description": [
+                    "The Cute Creatures is a project by Chadi Nassar bringing a",
+                    "different approach to pfps where you, the collector, gets",
+                    "to build your own creature with the accessories. Or not.",
+                    "We leave it to you. Check our website for more info."
+                ],
+                "Project Name": "Cute Creatures Collab Accessories",
+                "Artist\/Copyright": "Accessory Copyright Attributed to the artist\/project.",
+                "Layer Type Index": "3",
+                "Collab Twitter Handle": "https:\/\/www.twitter.com\/honallan",
+                "Cute Creatures Website": "https:\/\/cutecreaturesnft.com",
+                "Cute Creatures Creator Twitter": "https:\/\/www.twitter.com\/ChadiNassar",
+                "Collab Artist\/Project Attribution Name": "Rabbitlung"
+            }
+        },
+        {
+            "asset": "a7904896a247d3aa09478e856769b82d1f2e060028b6bda5543b699f4375746543726561747572657343686164694e617373617230393935",
+            "quantity": null,
+            "policy_id": "a7904896a247d3aa09478e856769b82d1f2e060028b6bda5543b699f",
+            "asset_name": "4375746543726561747572657343686164694e617373617230393935",
+            "onchain_metadata": {
+                "name": "Cute Creatures by Chadi Nassar #0995",
+                "image": "ipfs:\/\/QmSqnXH1KPvX4k6cSU7MABfaCyByMq3t6k5QtCABQjeKPA",
+                "Creator": "Chadi Nassar",
+                "Discord": "https:\/\/discord.gg\/eKRxTwnJgb",
+                "Twitter": "https:\/\/www.twitter.com\/ChadiNassar",
+                "Copyright": "Chadi Nassar, 2022",
+                "Attributes": {
+                    "Body": "Yellow",
+                    "Eyes": "Purple",
+                    "Creature": "Goblin",
+                    "Background": "Green",
+                    "Creature Color": "Black"
+                },
+                "Layer Type": "Creature",
+                "Artist Website": "https:\/\/www.cmbyn.io\/",
+                "Project Website": "https:\/\/cutecreaturesnft.com\/",
+                "Layer Type Index": "995",
+                "Creature Type Index": "2"
+            }
+        },
+        {
+            "asset": "a7904896a247d3aa09478e856769b82d1f2e060028b6bda5543b699f4375746543726561747572657343686164694e617373617230393936",
+            "quantity": null,
+            "policy_id": "a7904896a247d3aa09478e856769b82d1f2e060028b6bda5543b699f",
+            "asset_name": "4375746543726561747572657343686164694e617373617230393936",
+            "onchain_metadata": {
+                "name": "Cute Creatures by Chadi Nassar #0996",
+                "image": "ipfs:\/\/QmSCu5XPGF9x5ntf1uxmDUuYiCM8vAbVpeHVaeaa8zdwqV",
+                "Creator": "Chadi Nassar",
+                "Discord": "https:\/\/discord.gg\/eKRxTwnJgb",
+                "Twitter": "https:\/\/www.twitter.com\/ChadiNassar",
+                "Copyright": "Chadi Nassar, 2022",
+                "Attributes": {
+                    "Body": "Pink",
+                    "Eyes": "Black",
+                    "Creature": "Magician",
+                    "Background": "Purple",
+                    "Creature Color": "Baby Blue"
+                },
+                "Layer Type": "Creature",
+                "Artist Website": "https:\/\/www.cmbyn.io\/",
+                "Project Website": "https:\/\/cutecreaturesnft.com\/",
+                "Layer Type Index": "996",
+                "Creature Type Index": "4"
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933829,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "fe75665337e29388545cd723057d6fd10837deb106d29e52f705c478"
+    },
+    "assets_cache": [
+        {
+            "asset": "fe75665337e29388545cd723057d6fd10837deb106d29e52f705c4784352415a594b49544348454e31",
+            "quantity": null,
+            "policy_id": "fe75665337e29388545cd723057d6fd10837deb106d29e52f705c478",
+            "asset_name": "4352415a594b49544348454e31",
+            "onchain_metadata": {
+                "name": "THIS CRAZY KITCHEN: Workshop 1 - Cardano NFT Basics",
+                "Epoch": [
+                    "311"
+                ],
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmeXQU12DiYPuNfQmSoD42wv4egjAMnH6t2GPg13V46gop",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmTBrsqBoCfyKJyQahTBEK2B6RGjJkimWPAvff5k57FBPf",
+                        "name": "View of the Workshop with 40+ Participants",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmSh4QeLEGeTDmMszr1SsmXjx88hSDUb9fnV2UPvkbdCkz",
+                        "name": "View of Workshop NFT being Minted on Cardano",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmPK1Eh8BuTeeAmKn4v23A1rMk6Va26XdTbCVZpcj4Q26h",
+                        "name": "View of Workshop FT being Minted on Cardano",
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmUWSdB9eAsC8vBrAKznrneT79DqSXTUaFwm3zwDDXR2x9",
+                        "name": "Audio from Workshop Participant (ChristopherSeuc)",
+                        "mediaType": "audio\/mpeg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmSBpadyrdPePXGLmiK6tWa48vsBwHHxARpEaFcK27HWry",
+                        "name": "PDF from Workshop - CIP 25 (Cardano NFT Standard)",
+                        "mediaType": "application\/pdf"
+                    }
+                ],
+                "image": "ipfs:\/\/QmNyQRkfVf6oErgBANVxeNw7WaXV4E2PpDhNtJj7yFoRTh",
+                "Summary": [
+                    "The inaugural THIS CRAZY KITCHEN Cardano Workshop!",
+                    "In this workshop, we cover the basics of minting",
+                    "NFTz and FTz on Cardano. Using Cardano-Tools.io,",
+                    "we minted assets with 5 different media types.",
+                    "Included are Photo, Video, Audio, GIF and PDF.",
+                    "Thank you for cooking in the Cardano creative kitchen!"
+                ],
+                "mediaType": "image\/jpeg",
+                "Published on": [
+                    "Cardano"
+                ],
+                "Kitchen Chefs": [
+                    "ThisCrazyLife, CardanoNoodz"
+                ],
+                "Visit CardanoNoodz": {
+                    "Twitter": "https:\/\/twitter.com\/CardanoNoodz",
+                    "GET NOOD": "https:\/\/www.cardanonoodz.online\/"
+                },
+                "Visit thiscrazylife": {
+                    "Discord": "https:\/\/discord.gg\/Ya4XvQ2ey6",
+                    "Twitter": "https:\/\/twitter.com\/_ThisCr8zyLife_",
+                    "thiscrazylife.io": "https:\/\/www.thiscrazylife.io\/"
+                },
+                "Estimated Attendance": [
+                    "40+"
+                ],
+                "Tokens from Workshop": {
+                    "Workshop FT": "https:\/\/bit.ly\/potatofacez",
+                    "Workshop NFT": "https:\/\/bit.ly\/workshop1NFT"
+                },
+                "Tools on Cardano for Minting": {
+                    "Cardano-tools.io": "https:\/\/cardano-tools.io\/mint"
+                }
+            }
+        }
+    ]
+}

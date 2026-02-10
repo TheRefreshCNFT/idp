@@ -1,0 +1,52 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933740,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "8bcca6265cda88a7666e56ce577c27c028a529aeee20582935fc1fe5"
+    },
+    "assets_cache": [
+        {
+            "asset": "8bcca6265cda88a7666e56ce577c27c028a529aeee20582935fc1fe53257686974654c6f747573566964656f",
+            "quantity": null,
+            "policy_id": "8bcca6265cda88a7666e56ce577c27c028a529aeee20582935fc1fe5",
+            "asset_name": "3257686974654c6f747573566964656f",
+            "onchain_metadata": {
+                "name": "2 White Lotus Video",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmTCEnaVtS2raiYG5A1J4JdzMKurpuhepgsVwB4TPQDx9R",
+                        "name": "2WhiteLotusVideo",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmQXQqNYxqyCQEznSqbtQAbi4TTEcG7LSAr5uw4Y5hNPbT",
+                "Website ": "https:\/\/www.wholehuman.emanatepresence.com\/whet.html",
+                "mediaType": "image\/webp",
+                "description": "A deep dive into oneness and duality."
+            }
+        },
+        {
+            "asset": "8bcca6265cda88a7666e56ce577c27c028a529aeee20582935fc1fe54c6f7475735468726565566964656f5633",
+            "quantity": null,
+            "policy_id": "8bcca6265cda88a7666e56ce577c27c028a529aeee20582935fc1fe5",
+            "asset_name": "4c6f7475735468726565566964656f5633",
+            "onchain_metadata": {
+                "name": "Lotus Three Video, V3",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmVzMj2CCXff7ZMZFqYV4pq4Tz4vP83BMMhzDJ59YMpFJS",
+                        "name": "LotusThreeVideoV3",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmYgUYKtJ3CaqxfSWmaMt9zDjofMmyHeUC8FPSRgYwzkqT",
+                "Website ": "https:\/\/www.wholehuman.emanatepresence.com\/whet.html",
+                "mediaType": "image\/webp",
+                "description": "An inspiring journey from self to soul."
+            }
+        }
+    ]
+}

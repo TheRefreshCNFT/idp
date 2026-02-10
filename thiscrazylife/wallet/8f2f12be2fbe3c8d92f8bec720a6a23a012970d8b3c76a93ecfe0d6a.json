@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933777,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "8f2f12be2fbe3c8d92f8bec720a6a23a012970d8b3c76a93ecfe0d6a"
+    },
+    "assets_cache": [
+        {
+            "asset": "8f2f12be2fbe3c8d92f8bec720a6a23a012970d8b3c76a93ecfe0d6a4d414b454e4654734e6f74576172",
+            "quantity": null,
+            "policy_id": "8f2f12be2fbe3c8d92f8bec720a6a23a012970d8b3c76a93ecfe0d6a",
+            "asset_name": "4d414b454e4654734e6f74576172",
+            "onchain_metadata": {
+                "name": "MAKE NFTs NOT W\u0336A\u0336R\u0336",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmV7LkK6TT3oDL4zzn9Mcyp85vAymXrXUdqXvYpCEoHkeX",
+                        "mediaType": "image\/"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmbCfHHdHkfwBWzKV96qupYJJPqdPvMBTE8LVdYZcp5ib9",
+                        "mediaType": "image\/"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmfMugoqNLDSNm2MnLJNXmbgSDqsuyKpKD9adtPwDPdPT8",
+                        "mediaType": "image\/"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmV3SPRkPYyKYm2t75n6ppBcVgq74xmtUMbHZHpJYyH6uT",
+                        "mediaType": "image\/"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmVmbKLawUrtZcN4YqyUMSgN7Kr72oqdg4af9BbD5NSDe6",
+                        "mediaType": "image\/"
+                    }
+                ],
+                "image": "ipfs:\/\/QmV7LkK6TT3oDL4zzn9Mcyp85vAymXrXUdqXvYpCEoHkeX",
+                "MAKE NFTs": "NOT W\u0336A\u0336R\u0336",
+                "mediaType": "image\/jpeg"
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933835,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "38f25e7bfba4b4c65de7b55d68475dcc6f02a376ec53c796ab5723b8"
+    },
+    "assets_cache": [
+        {
+            "asset": "38f25e7bfba4b4c65de7b55d68475dcc6f02a376ec53c796ab5723b85069786c47656e657369733031303637",
+            "quantity": null,
+            "policy_id": "38f25e7bfba4b4c65de7b55d68475dcc6f02a376ec53c796ab5723b8",
+            "asset_name": "5069786c47656e657369733031303637",
+            "onchain_metadata": {
+                "name": "pixl.page - Curator #01067",
+                "tier": "Genesis",
+                "color": "Emerald",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/Qmb92mLXUBuKMmQHGuSsVeEfybmZiqVLPvKF9PujPcRco6",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmYt2KRjj9RuEXHNDKgSkQq9zBTbLKNwfsJgthYERrjTco",
+                "rarity": "Uncommon",
+                "project": "pixl.page - Your NFT profile page",
+                "twitter": "https:\/\/twitter.com\/pixl_page",
+                "website": "https:\/\/pixl.page\/",
+                "designBy": "BlockOwls | Ctoy",
+                "profile1": "claimed",
+                "profile2": "claimed",
+                "mediaType": "image\/gif",
+                "mintWindow": 2,
+                "description": [
+                    "The pixl.page Curator NFT gives free access ",
+                    "to the premium features of pixl.page"
+                ]
+            }
+        },
+        {
+            "asset": "38f25e7bfba4b4c65de7b55d68475dcc6f02a376ec53c796ab5723b85069786c47656e657369733031363831",
+            "quantity": null,
+            "policy_id": "38f25e7bfba4b4c65de7b55d68475dcc6f02a376ec53c796ab5723b8",
+            "asset_name": "5069786c47656e657369733031363831",
+            "onchain_metadata": {
+                "name": "pixl.page - Curator #01681",
+                "tier": "Genesis",
+                "color": "Opal",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmRYBDXdykJrBYhBD1pPDt36PRqsTNCKhmL1Gv3RY8RuBS",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmX862v53voV2csNtXeJPY6aG6m64NTwF7sVbG3utYzges",
+                "rarity": "Epic",
+                "project": "pixl.page - Your NFT profile page",
+                "twitter": "https:\/\/twitter.com\/pixl_page",
+                "website": "https:\/\/pixl.page\/",
+                "designBy": "BlockOwls | Ctoy",
+                "profile1": "claimed",
+                "profile2": "claimed",
+                "mediaType": "image\/gif",
+                "mintWindow": 2,
+                "description": [
+                    "The pixl.page Curator NFT gives free access ",
+                    "to the premium features of pixl.page"
+                ]
+            }
+        },
+        {
+            "asset": "38f25e7bfba4b4c65de7b55d68475dcc6f02a376ec53c796ab5723b85069786c47656e657369733031373630",
+            "quantity": null,
+            "policy_id": "38f25e7bfba4b4c65de7b55d68475dcc6f02a376ec53c796ab5723b8",
+            "asset_name": "5069786c47656e657369733031373630",
+            "onchain_metadata": {
+                "name": "pixl.page - Curator #01760",
+                "tier": "Genesis",
+                "color": "Emerald",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/Qmb92mLXUBuKMmQHGuSsVeEfybmZiqVLPvKF9PujPcRco6",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmYt2KRjj9RuEXHNDKgSkQq9zBTbLKNwfsJgthYERrjTco",
+                "rarity": "Uncommon",
+                "project": "pixl.page - Your NFT profile page",
+                "twitter": "https:\/\/twitter.com\/pixl_page",
+                "website": "https:\/\/pixl.page\/",
+                "designBy": "BlockOwls | Ctoy",
+                "profile1": "claimed",
+                "profile2": "claimed",
+                "mediaType": "image\/gif",
+                "mintWindow": 2,
+                "description": [
+                    "The pixl.page Curator NFT gives free access ",
+                    "to the premium features of pixl.page"
+                ]
+            }
+        }
+    ]
+}

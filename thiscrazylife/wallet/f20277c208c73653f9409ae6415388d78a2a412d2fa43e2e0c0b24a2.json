@@ -1,0 +1,98 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933796,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "f20277c208c73653f9409ae6415388d78a2a412d2fa43e2e0c0b24a2"
+    },
+    "assets_cache": [
+        {
+            "asset": "f20277c208c73653f9409ae6415388d78a2a412d2fa43e2e0c0b24a24352415a594b49544348454e37",
+            "quantity": null,
+            "policy_id": "f20277c208c73653f9409ae6415388d78a2a412d2fa43e2e0c0b24a2",
+            "asset_name": "4352415a594b49544348454e37",
+            "onchain_metadata": {
+                "name": "THIS CRAZY KITCHEN: Workshop 7 - Collection Minting",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeihi2rxc2wadbvqkfa2bhujjelanhf2r",
+                            "ocfev6bn4mzdqrr6wh72dq\/CrazyKitchen7.mp4"
+                        ],
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/bafkreidzuqjrhmf4npr7w4kbq4nxiova",
+                            "grrhftka646livlu6g3as6monm"
+                        ],
+                        "name": "View of Workshop NFTs being Minted on Cardano",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeifiw7qp37r4wiqpoptgb2wbym",
+                            "l3cckznulppd37754wlb65kf67ae"
+                        ],
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "image": [
+                    "ipfs:\/\/bafybeifiw7qp37r4wiqpoptgb2wbyml3cckzn",
+                    "ulppd37754wlb65kf67ae"
+                ],
+                "mediaType": "image\/jpeg",
+                "Description": [
+                    "The seventh THIS CRAZY KITCHEN Cardano Workshop!",
+                    "In this workshop, we cover the basics of minting",
+                    "a batch collection of NFTs on Cardano.",
+                    "Using Cardano-Tools.io, we created a collection drop",
+                    "with 10 distinct NFTs, and then",
+                    "set it up to be minted manually in a single transaction,",
+                    "and set up to be a randomized drop."
+                ],
+                "Published on": [
+                    "Cardano"
+                ],
+                "Kitchen Chefs": [
+                    "ThisCrazyLife, CardanoNoodz"
+                ],
+                "With Support From": "Project Catalyst, Fund 9",
+                "Visit CardanoNoodz": {
+                    "Twitter": "https:\/\/twitter.com\/CardanoNoodz",
+                    "OmegaFun.Fun": "https:\/\/www.omegafun.fun"
+                },
+                "Learning Objectives": [
+                    "By the end of this workshop, you should be able to",
+                    "set up a basic collection mint with multiple NFTs;",
+                    "customize all of the assets in your collection;",
+                    "launch your collection for supporters to mint an",
+                    "NFT at-random by sending ADA to an address (vending machine);",
+                    "set up and manage your project policy ID;",
+                    "and set up royalties for your collection using the",
+                    "CIP-27 NFT Royalty Standard on Cardano."
+                ],
+                "Visit thiscrazylife": {
+                    "Discord": "https:\/\/discord.gg\/Ya4XvQ2ey6",
+                    "Twitter": "https:\/\/twitter.com\/_ThisCr8zyLife_",
+                    "The Refresh": "https:\/\/therefreshcnft.com\/"
+                },
+                "Tokens from Workshop": {
+                    "Workshop NFTs": [
+                        "https:\/\/cexplorer.io\/policy\/f36c76e67a07a5cf",
+                        "86123f8094e094b512a20f885e9aeaaf3ea8c714"
+                    ]
+                },
+                "Tools on Cardano for Minting": {
+                    "Cardano-tools.io": "https:\/\/cardano-tools.io\/mint"
+                },
+                "Visit The Alexandria Project": {
+                    "Twitter": "https:\/\/twitter.com\/AlexandriaTAP",
+                    "TheLibrary.Fun": "https:\/\/www.thelibrary.fun\/"
+                }
+            }
+        }
+    ]
+}

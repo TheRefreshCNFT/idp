@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933796,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "fb307b56b2fafe17780af9c7ec9869625998945a3d35c7db2fe2156d"
+    },
+    "assets_cache": [
+        {
+            "asset": "fb307b56b2fafe17780af9c7ec9869625998945a3d35c7db2fe2156d4646343230323533",
+            "quantity": null,
+            "policy_id": "fb307b56b2fafe17780af9c7ec9869625998945a3d35c7db2fe2156d",
+            "asset_name": "4646343230323533",
+            "onchain_metadata": {
+                "name": "Fractal 420 #253",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/Qmbb5BGpWvxEQb5ZKxgt6JCrvS4W3MN2APpdbUerpL3NTn\/Index.HTML",
+                        "name": "Click Image to Fractalize!",
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/Qmf83zHTedHrUfJdwSzfK2tSpxQ1rfmMjRAbm3dPo3RtVb",
+                "Artist": "Fractal Fuzion",
+                "Edition": "1 out of 420",
+                "copyright": [
+                    "The rightful owner of a specific Fractal Fuzion NFT",
+                    "is whosoever possess the respective token in",
+                    "a Cardano wallet they control.",
+                    "The owner is granted an unlimited, worldwide, exclusive,",
+                    "license to use, copy, and display the purchased art",
+                    "for commercial uses or gainz.",
+                    "Examples of such commercial use would be,",
+                    "e.g., the use of the Art to produce and sell",
+                    "merchandise products. (Thanks Alex)"
+                ],
+                "mediaType": "image\/jpeg",
+                "Description": [
+                    "This Fractal 420 NFT contains",
+                    "420 Fractal Fuzion art pieces.",
+                    "The art is controlled by a randomizer developed by",
+                    "@_ThisCr8zyLife_, which can be activated by",
+                    "clicking on the picture",
+                    "or refreshing the page."
+                ],
+                "Fractal Fuzion": {
+                    "Tokhun": "https:\/\/Tokhun.io\/fractalfuzion",
+                    "Twitter": "https:\/\/twitter.com\/fractalfuzion",
+                    "Instagram": "https:\/\/www.instagram.com\/fractalfuzion\/",
+                    "fractalfuzion.com": "https:\/\/fractalfuzion.com",
+                    "Infinite Stake Pool": "https:\/\/twitter.com\/Infinite_SPO"
+                },
+                "creative developers": {
+                    "ThisCrazyLife": "https:\/\/twitter.com\/_ThisCr8zyLife_",
+                    "The Alexandria Project": "https:\/\/twitter.com\/AlexandriaTAP"
+                }
+            }
+        }
+    ]
+}

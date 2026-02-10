@@ -1,0 +1,338 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933691,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "2c1f512e2a3dd5f8c5b749a58e180aa8c552fcb02464f3356b823618"
+    },
+    "assets_cache": [
+        {
+            "asset": "2c1f512e2a3dd5f8c5b749a58e180aa8c552fcb02464f3356b823618444547454e3734663830303539",
+            "quantity": null,
+            "policy_id": "2c1f512e2a3dd5f8c5b749a58e180aa8c552fcb02464f3356b823618",
+            "asset_name": "444547454e3734663830303539",
+            "onchain_metadata": {
+                "ID": "74f80059",
+                "name": "DEGEN: 74f80059",
+                "Level": 2,
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "QmWoudcautUtSfvy6STJVbiKpEhhiVr2MkSg35eWkrEmFa"
+                        ],
+                        "mediaType": "video\/mp4",
+                        "4k Version": [
+                            "ipfs:\/\/",
+                            "QmemEJmRf6L1G9cnRf9pXz2s2rZF3cfVQN7mL242wwhFw7"
+                        ]
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "QmbgUDfPj2AcAf2eXXFgX6NyveUPQgifnbsjAkJ1Zwajs3"
+                        ],
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "QmVCaRGFg9sVtbt3owHoKPDTNpfx2cwfnR4P5DM6F3Uwgw"
+                        ],
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": [
+                    "ipfs:\/\/",
+                    "QmQoJiX5LpQW86oVsfvGYmWTUhnL84acpnJsFK5RnAMaGh"
+                ],
+                "Faction": "DEGENS",
+                "mediaType": "image\/jpeg",
+                "description": [
+                    "If there is a limit, the Degens can't identify it. Driven to",
+                    "insanity, they have the ability to fully adopt any new tech as",
+                    "soon as it's launched. To them flipping is as easy as breathing,",
+                    "and they can be the lifeblood of any success, or the cause of",
+                    "any failure."
+                ],
+                "enlistToday": {
+                    "Unlock": "MHtE2zxpMN",
+                    "Twitter": "https:\/\/twitter.com\/TokenRiot",
+                    "Website": "https:\/\/tokenriot.io"
+                }
+            }
+        },
+        {
+            "asset": "2c1f512e2a3dd5f8c5b749a58e180aa8c552fcb02464f3356b823618444547454e6262363663346162",
+            "quantity": null,
+            "policy_id": "2c1f512e2a3dd5f8c5b749a58e180aa8c552fcb02464f3356b823618",
+            "asset_name": "444547454e6262363663346162",
+            "onchain_metadata": {
+                "ID": "bb66c4ab",
+                "name": "DEGEN: bb66c4ab",
+                "Level": 4,
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "QmWNHEkiifUKTVJAPk9aed615mQueztpZN48bo2LQ117nN"
+                        ],
+                        "mediaType": "video\/mp4",
+                        "4k Version": [
+                            "ipfs:\/\/",
+                            "QmccPUBY3w4Mpfrjnkd22KnL6FzqsExwcBDwZVARoHZ4cg"
+                        ]
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "QmWhcYK6Yo49TEDaA5TYknhbGvTUwqb6srH2kAf5tKtFSj"
+                        ],
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "QmVCaRGFg9sVtbt3owHoKPDTNpfx2cwfnR4P5DM6F3Uwgw"
+                        ],
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": [
+                    "ipfs:\/\/",
+                    "Qmbw2LsZbsU8bBsziVZSpTE3yavQCavKDtwMBMH9TYjuff"
+                ],
+                "Faction": "DEGENS",
+                "mediaType": "image\/jpeg",
+                "description": [
+                    "If there is a limit, the Degens can't identify it. Driven to",
+                    "insanity, they have the ability to fully adopt any new tech as",
+                    "soon as it's launched. To them flipping is as easy as breathing,",
+                    "and they can be the lifeblood of any success, or the cause of",
+                    "any failure."
+                ],
+                "enlistToday": {
+                    "Unlock": "MHtE2zxpMN",
+                    "Twitter": "https:\/\/twitter.com\/TokenRiot",
+                    "Website": "https:\/\/tokenriot.io"
+                }
+            }
+        },
+        {
+            "asset": "2c1f512e2a3dd5f8c5b749a58e180aa8c552fcb02464f3356b823618444547454e6638336337643865",
+            "quantity": null,
+            "policy_id": "2c1f512e2a3dd5f8c5b749a58e180aa8c552fcb02464f3356b823618",
+            "asset_name": "444547454e6638336337643865",
+            "onchain_metadata": {
+                "ID": "f83c7d8e",
+                "name": "DEGEN: f83c7d8e",
+                "Level": 3,
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "QmTjTdM58iiZfNt1dRF7cV2NTsFVonzRdYHGgbaTSHd4Ae"
+                        ],
+                        "mediaType": "video\/mp4",
+                        "4k Version": [
+                            "ipfs:\/\/",
+                            "QmeqTrSJBmx3RefA1VgCSac1vam5332HX7EpxB3C3v1VCZ"
+                        ]
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "QmSR234CvWdjM8nrPbeU5wi1kHtyqRY3UzvkDteoUWYdKP"
+                        ],
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "QmVCaRGFg9sVtbt3owHoKPDTNpfx2cwfnR4P5DM6F3Uwgw"
+                        ],
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": [
+                    "ipfs:\/\/",
+                    "QmUcRAwyLwH9AbAC65FTXoN1rWeHirR72LzyPGcr47uNRM"
+                ],
+                "Faction": "DEGENS",
+                "mediaType": "image\/jpeg",
+                "description": [
+                    "If there is a limit, the Degens can't identify it. Driven to",
+                    "insanity, they have the ability to fully adopt any new tech as",
+                    "soon as it's launched. To them flipping is as easy as breathing,",
+                    "and they can be the lifeblood of any success, or the cause of",
+                    "any failure."
+                ],
+                "enlistToday": {
+                    "Unlock": "MHtE2zxpMN",
+                    "Twitter": "https:\/\/twitter.com\/TokenRiot",
+                    "Website": "https:\/\/tokenriot.io"
+                }
+            }
+        },
+        {
+            "asset": "2c1f512e2a3dd5f8c5b749a58e180aa8c552fcb02464f3356b823618424f543364666231316564",
+            "quantity": null,
+            "policy_id": "2c1f512e2a3dd5f8c5b749a58e180aa8c552fcb02464f3356b823618",
+            "asset_name": "424f543364666231316564",
+            "onchain_metadata": {
+                "ID": "3dfb11ed",
+                "name": "BOT: 3dfb11ed",
+                "Level": 2,
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "QmbpHNBM3Q6qtGtzoWQzwZyVVQCMjooC85n94u2PMrPByh"
+                        ],
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "QmXDeAXtkrx1xY3WuXjYJ6W5JdhKZeDGKBSphniNSDjMNS"
+                        ],
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "QmePen5Bs4S2b8LMyHokRPqk8KHD5pEXxea4AQwngocWNq"
+                        ],
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": [
+                    "ipfs:\/\/",
+                    "QmamSzfZqGD7oZakFaJzFKrorbJQBYF3zTNQs5eHD4Wse7"
+                ],
+                "Faction": "BOTS",
+                "mediaType": "image\/jpeg",
+                "description": [
+                    "With targeted precision and abnormal efficiency Bots are highly",
+                    "sought after for their ability to handle large workloads almost",
+                    "effortlessly. While they claim to be human, the name has stuck.",
+                    "Should you need a large problem handled quickly, you need a Bot."
+                ],
+                "enlistToday": {
+                    "Discord": "https:\/\/discord.gg\/MHtE2zxpMN",
+                    "Twitter": "https:\/\/twitter.com\/TokenRiot",
+                    "Website": "https:\/\/tokenriot.io"
+                }
+            }
+        },
+        {
+            "asset": "2c1f512e2a3dd5f8c5b749a58e180aa8c552fcb02464f3356b823618444547454e3632623564346465",
+            "quantity": null,
+            "policy_id": "2c1f512e2a3dd5f8c5b749a58e180aa8c552fcb02464f3356b823618",
+            "asset_name": "444547454e3632623564346465",
+            "onchain_metadata": {
+                "ID": "62b5d4de",
+                "name": "DEGEN: 62b5d4de",
+                "Level": 2,
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "QmWoudcautUtSfvy6STJVbiKpEhhiVr2MkSg35eWkrEmFa"
+                        ],
+                        "mediaType": "video\/mp4",
+                        "4k Version": [
+                            "ipfs:\/\/",
+                            "QmemEJmRf6L1G9cnRf9pXz2s2rZF3cfVQN7mL242wwhFw7"
+                        ]
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "QmbgUDfPj2AcAf2eXXFgX6NyveUPQgifnbsjAkJ1Zwajs3"
+                        ],
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "QmVCaRGFg9sVtbt3owHoKPDTNpfx2cwfnR4P5DM6F3Uwgw"
+                        ],
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": [
+                    "ipfs:\/\/",
+                    "QmQoJiX5LpQW86oVsfvGYmWTUhnL84acpnJsFK5RnAMaGh"
+                ],
+                "Faction": "DEGENS",
+                "mediaType": "image\/jpeg",
+                "description": [
+                    "If there is a limit, the Degens can't identify it. Driven to",
+                    "insanity, they have the ability to fully adopt any new tech as",
+                    "soon as it's launched. To them flipping is as easy as breathing,",
+                    "and they can be the lifeblood of any success, or the cause of",
+                    "any failure."
+                ],
+                "enlistToday": {
+                    "Unlock": "MHtE2zxpMN",
+                    "Twitter": "https:\/\/twitter.com\/TokenRiot",
+                    "Website": "https:\/\/tokenriot.io"
+                }
+            }
+        },
+        {
+            "asset": "2c1f512e2a3dd5f8c5b749a58e180aa8c552fcb02464f3356b8236184445563635343166396536",
+            "quantity": null,
+            "policy_id": "2c1f512e2a3dd5f8c5b749a58e180aa8c552fcb02464f3356b823618",
+            "asset_name": "4445563635343166396536",
+            "onchain_metadata": {
+                "ID": "6541f9e6",
+                "name": "DEV: 6541f9e6",
+                "Level": 1,
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "QmRebP9QXHWCKXHQye3mHS4B5Dq1i89zCLpwDELMXGke6w"
+                        ],
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "QmUSbdNV8e3EaVPrh3zD2z93QtKbenibyxXAJESgP7hkbL"
+                        ],
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/",
+                            "QmNZ3Y9WuS7Atize7TdL6XscZyhnmLVvmstUKUJ2t7G9KG"
+                        ],
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": [
+                    "ipfs:\/\/",
+                    "QmYUbicaVqfuXJbk2fvxbZCEWKVR9Pqn2wvzWobBxvwFMg"
+                ],
+                "Faction": "DEVS",
+                "mediaType": "image\/jpeg",
+                "description": [
+                    "Devs - Competent, focused, and extremely dedicated. Devs are the",
+                    "builders of the Digiverse, and they help monitor and keep",
+                    "all activities preserved. Dedicated to solving issues, give them",
+                    "a problem and rest easy knowing a solution has been found."
+                ],
+                "enlistToday": {
+                    "Discord": "https:\/\/discord.gg\/MHtE2zxpMN",
+                    "Twitter": "https:\/\/twitter.com\/TokenRiot",
+                    "Website": "https:\/\/tokenriot.io"
+                }
+            }
+        }
+    ]
+}

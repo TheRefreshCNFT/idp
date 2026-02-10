@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933666,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "6bd5b204848885399689a1f7398c1edb3c93170e6ae4c241ad2f84e9"
+    },
+    "assets_cache": [
+        {
+            "asset": "6bd5b204848885399689a1f7398c1edb3c93170e6ae4c241ad2f84e94672616e6b656e737465696e",
+            "quantity": null,
+            "policy_id": "6bd5b204848885399689a1f7398c1edb3c93170e6ae4c241ad2f84e9",
+            "asset_name": "4672616e6b656e737465696e",
+            "onchain_metadata": {
+                "name": "Frankenstein (Mary Shelley)",
+                "type": "html",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmNYaFQJvK4GxXWGuLnmVkQBXjkc9y7K3ToKarYauZVrL6\/home.html",
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/QmakoYza5ZcSnY6wt5g6zu1XW25o6QiaXeVu9Xr64SuSDf",
+                "artist": "chiarascuro",
+                "twitter": "https:\/\/twitter.com\/chiarascuroNFTs",
+                "website": "https:\/\/chiarascuro.studio\/dark-mode-press\/",
+                "homepage": "https:\/\/chiarascuro.studio\/",
+                "mediaType": "image\/jpeg",
+                "publisher": "dark mode press",
+                "Description": [
+                    "IPFS-hosted web book in dark mode.",
+                    "The Alexandria Project library edition"
+                ],
+                "Open to read": "ipfs:\/\/QmNYaFQJvK4GxXWGuLnmVkQBXjkc9y7K3ToKarYauZVrL6\/home.html"
+            }
+        }
+    ]
+}

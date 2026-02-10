@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933821,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "ed4691fcaab73b9b6b3a1247eba05266fe8f7ffcfb0d10ee2a929848"
+    },
+    "assets_cache": [
+        {
+            "asset": "ed4691fcaab73b9b6b3a1247eba05266fe8f7ffcfb0d10ee2a9298486f6e65",
+            "quantity": null,
+            "policy_id": "ed4691fcaab73b9b6b3a1247eba05266fe8f7ffcfb0d10ee2a929848",
+            "asset_name": "6f6e65",
+            "onchain_metadata": {
+                "name": "one token",
+                "image": "ipfs:\/\/QmRvqJvixreprmgeKwsRogQgAoXcvb8RkmE5ENSxg5JH9i",
+                "Ticker": "one",
+                "symbol": "one",
+                "Discord": "https:\/\/discord.gg\/trhq94BMcE",
+                "Twitter": "https:\/\/twitter.com\/EnigmA_SPO",
+                "Website": "https:\/\/red-sky.one\/",
+                "Telegram": "https:\/\/t.me\/EnigmApool",
+                "Pool name": "Enigma",
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "totalSupply": 43000000000
+            }
+        }
+    ]
+}

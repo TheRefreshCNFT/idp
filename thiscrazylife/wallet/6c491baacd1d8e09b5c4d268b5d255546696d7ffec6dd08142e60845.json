@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933666,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "6c491baacd1d8e09b5c4d268b5d255546696d7ffec6dd08142e60845"
+    },
+    "assets_cache": [
+        {
+            "asset": "6c491baacd1d8e09b5c4d268b5d255546696d7ffec6dd08142e608454e6f7465626f6f6b3138",
+            "quantity": null,
+            "policy_id": "6c491baacd1d8e09b5c4d268b5d255546696d7ffec6dd08142e60845",
+            "asset_name": "4e6f7465626f6f6b3138",
+            "onchain_metadata": {
+                "Hue": "Green Noodi",
+                "Size": "145 x 210 mms (5.70 x 8.26 inches)",
+                "Type": "Journal-Sized Notebook",
+                "name": "Notebook 18",
+                "Pages": "187",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmTUB2g9yi4iQqqo4BT9XQ2bVmjxgzwPPjZXyyGXfLyufa",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmTUB2g9yi4iQqqo4BT9XQ2bVmjxgzwPPjZXyyGXfLyufa",
+                "Binding": "Noodlebound",
+                "utility": "Up to you.",
+                "mediaType": "image\/png",
+                "collection": "The Notebooks",
+                "creative Developer": "NOODZ"
+            }
+        }
+    ]
+}

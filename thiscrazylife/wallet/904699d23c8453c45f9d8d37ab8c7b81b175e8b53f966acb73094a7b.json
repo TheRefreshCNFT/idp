@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933777,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "904699d23c8453c45f9d8d37ab8c7b81b175e8b53f966acb73094a7b"
+    },
+    "assets_cache": [
+        {
+            "asset": "904699d23c8453c45f9d8d37ab8c7b81b175e8b53f966acb73094a7b414149323033",
+            "quantity": null,
+            "policy_id": "904699d23c8453c45f9d8d37ab8c7b81b175e8b53f966acb73094a7b",
+            "asset_name": "414149323033",
+            "onchain_metadata": {
+                "name": "AFR\u20b3ID AI",
+                "image": "ipfs:\/\/ipfs\/Qmc7wn2Cw1fpqborr7r7h8cA7wkPMcJGoskfAyZLr5H7iQ",
+                "Artist": [
+                    "Mr.Cooper"
+                ],
+                "Twitter": [
+                    "https:\/\/twitter.com\/MrCooperCNFT"
+                ],
+                "Website": [
+                    "https:\/\/mrcoopernft.wixsite.com\/mrcoopernft"
+                ]
+            }
+        },
+        {
+            "asset": "904699d23c8453c45f9d8d37ab8c7b81b175e8b53f966acb73094a7b414149343831",
+            "quantity": null,
+            "policy_id": "904699d23c8453c45f9d8d37ab8c7b81b175e8b53f966acb73094a7b",
+            "asset_name": "414149343831",
+            "onchain_metadata": {
+                "name": "AFR\u20b3ID AI",
+                "image": "ipfs:\/\/ipfs\/QmcsMUiqWrXSTDmvkvqCuQ4756z83c5NeRD46wusQH6nwY",
+                "Artist": [
+                    "Mr.Cooper"
+                ],
+                "Twitter": [
+                    "https:\/\/twitter.com\/MrCooperCNFT"
+                ],
+                "Website": [
+                    "https:\/\/mrcoopernft.wixsite.com\/mrcoopernft"
+                ]
+            }
+        }
+    ]
+}

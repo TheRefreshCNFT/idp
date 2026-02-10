@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933765,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "606662bc7bfc0611f234afcf0f2c85070ae9d40e4ac4f29692ce5067"
+    },
+    "assets_cache": [
+        {
+            "asset": "606662bc7bfc0611f234afcf0f2c85070ae9d40e4ac4f29692ce5067546869734372617a794c696665446f6f646c653033",
+            "quantity": null,
+            "policy_id": "606662bc7bfc0611f234afcf0f2c85070ae9d40e4ac4f29692ce5067",
+            "asset_name": "546869734372617a794c696665446f6f646c653033",
+            "onchain_metadata": {
+                "url": {
+                    "Twitter": "https:\/\/twitter.com\/KaleidoKlara"
+                },
+                "name": "ThisCrazyLife Doodle #03",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmQkerphR7VSXtWDrgDzJpMwj2jbYD2aQC9iJ11Yn25SMz",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "image": "ipfs:\/\/QmQkerphR7VSXtWDrgDzJpMwj2jbYD2aQC9iJ11Yn25SMz",
+                "artist": "KaleidoKlara",
+                "mediaType": "image\/jpeg",
+                "description": "Commemorative doodle of ThisCrazy himself - Jingle Jangle 2021"
+            }
+        }
+    ]
+}

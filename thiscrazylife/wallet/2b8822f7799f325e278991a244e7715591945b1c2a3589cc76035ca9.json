@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933860,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "2b8822f7799f325e278991a244e7715591945b1c2a3589cc76035ca9"
+    },
+    "assets_cache": [
+        {
+            "asset": "2b8822f7799f325e278991a244e7715591945b1c2a3589cc76035ca973637261746368",
+            "quantity": null,
+            "policy_id": "2b8822f7799f325e278991a244e7715591945b1c2a3589cc76035ca9",
+            "asset_name": "73637261746368",
+            "onchain_metadata": {
+                "name": "scratch",
+                "image": "ipfs:\/\/QmcH1Yari82nXfwmbikeTu9PzddegkHTEoXCN1i4ifbe5j",
+                "mediaType": "image\/png",
+                "Learn More": "https:\/\/jetchicken.io"
+            }
+        }
+    ]
+}

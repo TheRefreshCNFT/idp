@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933802,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "9eaed3f99f5c9da1695acaf2542cd6b9f3ef18bbf94dd3f77d17f9cb"
+    },
+    "assets_cache": [
+        {
+            "asset": "9eaed3f99f5c9da1695acaf2542cd6b9f3ef18bbf94dd3f77d17f9cb54414441",
+            "quantity": null,
+            "policy_id": "9eaed3f99f5c9da1695acaf2542cd6b9f3ef18bbf94dd3f77d17f9cb",
+            "asset_name": "54414441",
+            "onchain_metadata": {
+                "name": "TheADA",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmNX15LTqWJXcfBVKiHNb3Bw1YjA7uty3LjNPwsXRs5Vz3",
+                        "name": "TADA",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmNX15LTqWJXcfBVKiHNb3Bw1YjA7uty3LjNPwsXRs5Vz3",
+                "symbol": "TADA",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 82859313
+                },
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "description": "The ADA is a Decentralized and Scalable NFT Staking Protocol",
+                "totalSupply": 100000000
+            }
+        }
+    ]
+}

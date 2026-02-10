@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933757,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "1a71dc14baa0b4fcfb34464adc6656d0e562571e2ac1bc990c9ce5f6"
+    },
+    "assets_cache": [
+        {
+            "asset": "1a71dc14baa0b4fcfb34464adc6656d0e562571e2ac1bc990c9ce5f6574f4c46",
+            "quantity": null,
+            "policy_id": "1a71dc14baa0b4fcfb34464adc6656d0e562571e2ac1bc990c9ce5f6",
+            "asset_name": "574f4c46",
+            "onchain_metadata": {
+                "name": "$WOLF",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmZ89agib39odneyezeyxp2ekXPLqm86NHCgEXZy9PJ1Gs",
+                        "name": "WOLF",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmZ89agib39odneyezeyxp2ekXPLqm86NHCgEXZy9PJ1Gs",
+                "symbol": "WOLF",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 47577938
+                },
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "description": "$WOLF is the $Hosky killer",
+                "totalSupply": 1000000000000000000
+            }
+        }
+    ]
+}

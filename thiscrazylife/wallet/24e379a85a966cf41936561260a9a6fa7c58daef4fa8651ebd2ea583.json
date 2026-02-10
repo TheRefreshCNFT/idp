@@ -1,0 +1,54 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933852,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "24e379a85a966cf41936561260a9a6fa7c58daef4fa8651ebd2ea583"
+    },
+    "assets_cache": [
+        {
+            "asset": "24e379a85a966cf41936561260a9a6fa7c58daef4fa8651ebd2ea5834e656f4e6967687473303637",
+            "quantity": null,
+            "policy_id": "24e379a85a966cf41936561260a9a6fa7c58daef4fa8651ebd2ea583",
+            "asset_name": "4e656f4e6967687473303637",
+            "onchain_metadata": {
+                "name": "Neo Nights #067",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeids7tjzrphticeegxzh2shktcujacmcfbah4e4bsokhxbytrfpg",
+                            "by\/index.html"
+                        ],
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": [
+                    "ipfs:\/\/bafybeids7tjzrphticeegxzh2shktcujacmcfbah4e4bsokhxbytrfpg",
+                    "by\/cover.jpg"
+                ],
+                "Artist": "NIDO",
+                "co-published": "Fre5h Music\/5777Records",
+                "Artist contact": {
+                    "Discord": "https:\/\/discord.gg\/qGpCKa9q24",
+                    "Twitter": "https:\/\/twitter.com\/OfficialNID0",
+                    "Website": "https:\/\/www.officialnido.com\/"
+                },
+                "contact 5777Records": {
+                    "Twitter": "https:\/\/twitter.com\/5777Records"
+                },
+                "contact Fre5h Music": {
+                    "Twitter": "https:\/\/twitter.com\/Fre5hMusic"
+                },
+                "art (album) by: DiscoVandal": {
+                    "Twitter": "https:\/\/twitter.com\/DiscoVandal"
+                },
+                "art (backgrounds) by: Nricop7\/discosolaris": {
+                    "NRicop7": "https:\/\/twitter.com\/Nricop7",
+                    "discosolaris": "https:\/\/twitter.com\/discosolaris"
+                }
+            }
+        }
+    ]
+}

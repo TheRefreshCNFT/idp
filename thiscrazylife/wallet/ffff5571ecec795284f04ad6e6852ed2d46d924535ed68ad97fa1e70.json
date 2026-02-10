@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933829,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "ffff5571ecec795284f04ad6e6852ed2d46d924535ed68ad97fa1e70"
+    },
+    "assets_cache": [
+        {
+            "asset": "ffff5571ecec795284f04ad6e6852ed2d46d924535ed68ad97fa1e704861707079486f70706572436c7562506f737465723034393533",
+            "quantity": null,
+            "policy_id": "ffff5571ecec795284f04ad6e6852ed2d46d924535ed68ad97fa1e70",
+            "asset_name": "4861707079486f70706572436c7562506f737465723034393533",
+            "onchain_metadata": {
+                "name": "Happy Hoppers Club Poster #04953",
+                "image": "QmayWLKS9zL8L9dnFqAr52Ym9xwK4LQg4jjg9zMQyvdApK",
+                "Version": "silver",
+                "official": [
+                    "Copyright 2021 Happy Hoppers Club",
+                    "https:\/\/HappyHoppers.club",
+                    "https:\/\/twitter.com\/HappyHoppersNFT"
+                ],
+                "description": "This is the 2nd test of Ribbot!"
+            }
+        }
+    ]
+}

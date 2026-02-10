@@ -1,0 +1,51 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933710,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "04679a628461ba50e8509d02e328554b24d256d1331b84c304bb10dd"
+    },
+    "assets_cache": [
+        {
+            "asset": "04679a628461ba50e8509d02e328554b24d256d1331b84c304bb10dd506c656961646573303036",
+            "quantity": null,
+            "policy_id": "04679a628461ba50e8509d02e328554b24d256d1331b84c304bb10dd",
+            "asset_name": "506c656961646573303036",
+            "onchain_metadata": {
+                "Body": "smith white (CO)",
+                "Code": "Code4_C0unc1L",
+                "Name": "Pleiades006",
+                "Rank": "Protector",
+                "Year": "2009",
+                "name": "Pleiades006",
+                "Class": "Tertius",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmTSvswihnKPpQzcezH8CTpFBAdfD9aurEjnAz4jYE9igm",
+                        "name": "Pleiades006",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXUuw4WrRb7FmnPSHo6H8shU25ragHNEBFFjckX37LqH9",
+                        "name": "Pleiades006",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmSdA3zhw3qpoxZREkKsW62xWokCgkzhTpzDwvp96harfC",
+                        "name": "Pleiades006",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmTSvswihnKPpQzcezH8CTpFBAdfD9aurEjnAz4jYE9igm",
+                "Energy": "Cyan (CO)",
+                "Faction": "CAPERS",
+                "Project": "Lovelace Club",
+                "mediaType": "image\/png",
+                "Background": "tile",
+                "Description": "A special Airdrop collection from Lovelace club"
+            }
+        }
+    ]
+}

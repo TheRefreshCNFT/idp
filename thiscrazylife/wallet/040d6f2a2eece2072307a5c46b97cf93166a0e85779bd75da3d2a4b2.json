@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933710,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "040d6f2a2eece2072307a5c46b97cf93166a0e85779bd75da3d2a4b2"
+    },
+    "assets_cache": [
+        {
+            "asset": "040d6f2a2eece2072307a5c46b97cf93166a0e85779bd75da3d2a4b243617264616e6f526f62696e4244313335",
+            "quantity": null,
+            "policy_id": "040d6f2a2eece2072307a5c46b97cf93166a0e85779bd75da3d2a4b2",
+            "asset_name": "43617264616e6f526f62696e4244313335",
+            "onchain_metadata": {
+                "name": "1 Year Anniversary Gift - Green 135",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmesoApoZkHrhUPzhzKbEkQxGdz8N4CR9zBx6VMuzdPZWC",
+                        "name": "1 Year Anniversary Gift - Green 135",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmbcLY4bb234qRHQVHGmbyH5pm9xHduh7zEPFqxrFUtPaM",
+                "Rarity": "1 of 50",
+                "Artists": {
+                    "3D Box": "Kent",
+                    "3D Bird": "Frederico4d"
+                },
+                "Creator": "Cardano Robin",
+                "Discord": "https:\/\/discord.gg\/CUA8xaMuKu",
+                "Twitter": "https:\/\/twitter.com\/Cardano_robin",
+                "Website": "https:\/\/cardanorobin.io\/",
+                "copyright": "Copyright 2022 Cardano Robin",
+                "mediaType": "image\/gif",
+                "royalties": "10%",
+                "description": "This is the key to the Robin 200 Club"
+            }
+        }
+    ]
+}

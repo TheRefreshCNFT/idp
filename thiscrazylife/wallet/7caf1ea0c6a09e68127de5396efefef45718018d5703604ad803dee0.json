@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933771,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "7caf1ea0c6a09e68127de5396efefef45718018d5703604ad803dee0"
+    },
+    "assets_cache": [
+        {
+            "asset": "7caf1ea0c6a09e68127de5396efefef45718018d5703604ad803dee05741544552",
+            "quantity": null,
+            "policy_id": "7caf1ea0c6a09e68127de5396efefef45718018d5703604ad803dee0",
+            "asset_name": "5741544552",
+            "onchain_metadata": {
+                "name": "WATER",
+                "image": "ipfs:\/\/QmbqTLHqmQWHeBU1fvf7KPF4XEoTcfcvWPuD7FFBd89nx5",
+                "mediaType": "image\/png"
+            }
+        }
+    ]
+}

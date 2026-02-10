@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933829,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "fdade2eb00d9f78995235b09282acf08d36a07909d7964864cb9f92d"
+    },
+    "assets_cache": [
+        {
+            "asset": "fdade2eb00d9f78995235b09282acf08d36a07909d7964864cb9f92d546963546163546f6520",
+            "quantity": null,
+            "policy_id": "fdade2eb00d9f78995235b09282acf08d36a07909d7964864cb9f92d",
+            "asset_name": "546963546163546f6520",
+            "onchain_metadata": {
+                "name": "Tic Tac Toe",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmQn47pwZQz9vgTkZmHqpicj4M12jQRqmGuiJiFneXkCij",
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/QmRtzXTn28EVjzQw5EWL6xGANCRxumPv96hHTV1bh3ZDd8",
+                "mediaType": "image\/png"
+            }
+        }
+    ]
+}

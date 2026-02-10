@@ -1,0 +1,81 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933716,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "5284b035c42d3e561e72c6535a2d79e68fc221bc27cdb547e1a14bac"
+    },
+    "assets_cache": [
+        {
+            "asset": "5284b035c42d3e561e72c6535a2d79e68fc221bc27cdb547e1a14bac736d3761",
+            "quantity": null,
+            "policy_id": "5284b035c42d3e561e72c6535a2d79e68fc221bc27cdb547e1a14bac",
+            "asset_name": "736d3761",
+            "onchain_metadata": {
+                "name": "Shill-A-Mania 7 \u2014 NOODZ",
+                "Event": "Shill-A-Mania 7 \u2014 20 JUL 2022",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmevNHgUmrAGLBpk7L9Kgp6SraaSWvdm3Qz13hb6rdTM4y",
+                        "mediaType": "audio\/mpeg"
+                    }
+                ],
+                "image": "ipfs:\/\/QmQ9LY5bB9cUR6eMHHE3ZFdrVYLFgTwPFqjZo8f7u3hRvx",
+                "shill": [
+                    "Celebrate and innovate",
+                    "while markets just capitulate",
+                    "I rattle with the legislate",
+                    "unravel mints to contemplate",
+                    "Education station straight",
+                    "learned it on a kitchen plate",
+                    "crazy workshop inundate",
+                    "open-source of course is great",
+                    "Spark for the bear market",
+                    "Light it up and start some shit",
+                    "censorship resistant kid",
+                    "decentralize the artist bit",
+                    "Vietnam development",
+                    "farmers are benevolent",
+                    "artisan creative tint",
+                    "local products proving it",
+                    "Battle this with Catalyst",
+                    "Unravel bits in travel tips",
+                    "Straddle gifs in data clips",
+                    "Lotus Link will rattle this",
+                    "Database local is lit",
+                    "Ancient wisdom proud of it",
+                    "Minted legends now is it",
+                    "preserved by archaeologist",
+                    "Product productivity",
+                    "Local authenticity",
+                    "Peep it on the chain and see",
+                    "Enduring vocal history",
+                    "Catalyst democracy",
+                    "Transforming up economy",
+                    "Erase the marginality",
+                    "power to the margins please",
+                    "Changing up how people think",
+                    "Web3 economic brink",
+                    "Product trace Cardano think",
+                    "people vote for LOTUS LINK",
+                    "Fund 9 is time",
+                    "Alexandria Project",
+                    "has arrived",
+                    "so vote",
+                    "and let\u2019s ride",
+                    "Shillamania Style"
+                ],
+                "Artist": "NOODZ",
+                "mediaType": "image\/jpeg",
+                "Lotus Link": {
+                    "Ideascale": "https:\/\/cardano.ideascale.com\/c\/idea\/422090"
+                },
+                "The Alexandria Project": {
+                    "thelibrary.fun": "https:\/\/thelibrary.fun"
+                }
+            }
+        }
+    ]
+}

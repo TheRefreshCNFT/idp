@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933757,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "16a2a21a7ed8a67c5254eda1f8d6041021b53f49ef53e18e3e572546"
+    },
+    "assets_cache": [
+        {
+            "asset": "16a2a21a7ed8a67c5254eda1f8d6041021b53f49ef53e18e3e572546456e7468656f73323332383039",
+            "quantity": null,
+            "policy_id": "16a2a21a7ed8a67c5254eda1f8d6041021b53f49ef53e18e3e572546",
+            "asset_name": "456e7468656f73323332383039",
+            "onchain_metadata": {
+                "url": "https:\/\/www.entheosart.com\/",
+                "name": "Entheos 232809",
+                "image": "ipfs:\/\/QmRF1wt9AT9j4jGP6GaDTi3wZ7yxjHmhfYbsJZ9vc5AMWZ",
+                "copyright": "Copyright @2021 EntheosAI",
+                "attributes": [
+                    "Obscure",
+                    "Black Background"
+                ],
+                "collection": "Generative Series - Epoch 1",
+                "description": "AI Generated Art - A New Era in Creative Expression"
+            }
+        },
+        {
+            "asset": "16a2a21a7ed8a67c5254eda1f8d6041021b53f49ef53e18e3e572546456e7468656f73323332393233",
+            "quantity": null,
+            "policy_id": "16a2a21a7ed8a67c5254eda1f8d6041021b53f49ef53e18e3e572546",
+            "asset_name": "456e7468656f73323332393233",
+            "onchain_metadata": {
+                "url": "https:\/\/www.entheosart.com\/",
+                "name": "Entheos 232923",
+                "image": "ipfs:\/\/QmTJckd1DxWYMo62it6LWfpuMeBM78R3W8u2q21sfCscM8",
+                "copyright": "Copyright @2021 EntheosAI",
+                "attributes": [
+                    "Surreal",
+                    "Black Background"
+                ],
+                "collection": "Generative Series - Epoch 1",
+                "description": "AI Generated Art - A New Era in Creative Expression"
+            }
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933721,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "7517766aa62673609386453cf197e7e8d33eeb5cd02406ee892d34eb"
+    },
+    "assets_cache": [
+        {
+            "asset": "7517766aa62673609386453cf197e7e8d33eeb5cd02406ee892d34eb486174",
+            "quantity": null,
+            "policy_id": "7517766aa62673609386453cf197e7e8d33eeb5cd02406ee892d34eb",
+            "asset_name": "486174",
+            "onchain_metadata": {
+                "name": "Hat",
+                "image": "ipfs:\/\/QmUsnYsuQUNmmDVA88TMioHSVXr6pNG6hYYC7tPS3h2xnd",
+                "ticker": "HAT",
+                "description": "Hat wif hat wif hat wif hat wif hat"
+            }
+        }
+    ]
+}

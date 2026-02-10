@@ -1,0 +1,417 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933674,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a5"
+    },
+    "assets_cache": [
+        {
+            "asset": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a55369636b43697479343033",
+            "quantity": null,
+            "policy_id": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a5",
+            "asset_name": "5369636b43697479343033",
+            "onchain_metadata": {
+                "name": "SickCity403-KeenKeenx88",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmfLa1aqatfVafe5WdJJdF6ArYNP5QgWGvnFfDrcbWAbRg",
+                        "mediaType": "audio\/mp3"
+                    }
+                ],
+                "image": "ipfs:\/\/QmaGGM1DU23ixEwwVjo8VECBt9mYhkXhmtPeWSoeZTNoHv",
+                "links": {
+                    "twitch": "https:\/\/twitch.tv\/keenkeenx88",
+                    "twitter": "https:\/\/twitter.com\/keenkeenx88",
+                    "instagram": "https:\/\/www.instagram.com\/keenkeenx88\/"
+                },
+                "genres": [
+                    "rap",
+                    "hip hop"
+                ],
+                "artists": "KeenKeenx88",
+                "copyright": "KeenKeenx88 \u2117 2023",
+                "collection": "Epoch Genesis v2",
+                "song_title": "To The Future",
+                "album_title": "To The Future",
+                "distributor": "https:\/\/sickcity.xyz",
+                "release_type": "Single",
+                "track_number": 1,
+                "song_duration": "PT1M40S",
+                "music_metadata_version": "v1"
+            }
+        },
+        {
+            "asset": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a55369636b43697479343037",
+            "quantity": null,
+            "policy_id": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a5",
+            "asset_name": "5369636b43697479343037",
+            "onchain_metadata": {
+                "name": "SickCity407-StripperCoin x Chillz Muzik",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmcByfXGg2mHCynfMeU32XmKkn33xX4MiPLn3BjWoyqJk1",
+                        "name": "Chillz Muzik: Slim Flexxxington",
+                        "mediaType": "audio\/mp3"
+                    }
+                ],
+                "image": "ipfs:\/\/QmVWsS6sGn836JDywhAiQ4y8JEuXJuVZE7i44xbDiovc1S",
+                "release": {
+                    "links": {
+                        "Chillz Muzik": {
+                            "twitter": "https:\/\/twitter.com\/ChillzMuzik",
+                            "website": "https:\/\/solo.to\/chillzmuzik"
+                        },
+                        "StripperCoin": {
+                            "Website": "https:\/\/StripperCoin.io\/music",
+                            "twitter": "https:\/\/twitter.com\/StripperCoin"
+                        }
+                    },
+                    "genres": [
+                        "rap",
+                        "hip hop"
+                    ],
+                    "artists": "Chillz Muzik",
+                    "copyright": "Chillz Muzik \u2117 2023",
+                    "collection": "Epoch Genesis v2",
+                    "song_title": "Slim Flexxxington",
+                    "distributor": "https:\/\/sickcity.xyz",
+                    "release_type": "Single",
+                    "track_number": 1,
+                    "release_title": "Slim Flexxxington",
+                    "song_duration": "PT3M20S"
+                },
+                "music_metadata_version": "v2"
+            }
+        },
+        {
+            "asset": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a55369636b43697479343039",
+            "quantity": null,
+            "policy_id": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a5",
+            "asset_name": "5369636b43697479343039",
+            "onchain_metadata": {
+                "name": "SickCity409- Big Gold Midas",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmbBWxjvoqdiGNpiWeX79LXiZYm5M86o6EcZoveXCZN7nb",
+                        "name": "Big Gold Midas - Life",
+                        "mediaType": "audio\/mp3"
+                    }
+                ],
+                "image": "ipfs:\/\/QmZtX3R1wwHxPJuVXCXQuEbBc6oG8Ff9atyuiFpASWyLKq",
+                "release": {
+                    "links": {
+                        "twitter": "https:\/\/twitter.com\/bg_midas",
+                        "facebook": "https:\/\/www.facebook.com\/ybc.moolio.3",
+                        "instagram": "https:\/\/www.instagram.com\/bg_midas\/"
+                    },
+                    "genres": [
+                        "rap",
+                        "hip hop"
+                    ],
+                    "artists": [
+                        "Big Gold Midas"
+                    ],
+                    "copyright": "Big Gold Midas \u2117 2023",
+                    "collection": "Epoch Genesis v2",
+                    "song_title": "Life",
+                    "distributor": "https:\/\/sickcity.xyz",
+                    "release_type": "Single",
+                    "track_number": 1,
+                    "release_title": "Life",
+                    "song_duration": "PT3M7S"
+                },
+                "music_metadata_version": "v2"
+            }
+        },
+        {
+            "asset": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a55369636b43697479343131",
+            "quantity": null,
+            "policy_id": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a5",
+            "asset_name": "5369636b43697479343131",
+            "onchain_metadata": {
+                "name": "SickCity411- Butta Raspy",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmbjLxsEcGRd46Q5dj4piTTVB6u2YB5XfUKR4C7HaSun2L",
+                        "name": "Butta Raspy - You Already",
+                        "mediaType": "audio\/mp3"
+                    }
+                ],
+                "image": "ipfs:\/\/QmVaWyxAVduf7Wq1Wf7iWmaiPDbomWEnqPJ8D1bPQnPytT",
+                "release": {
+                    "links": {
+                        "linktree": "https:\/\/linktr.ee\/ButtaRaspy"
+                    },
+                    "genres": [
+                        "rap",
+                        "hip hop"
+                    ],
+                    "artists": [
+                        "Butta Raspy"
+                    ],
+                    "copyright": "Butta Raspy \u2117 2023",
+                    "publisher": "Banks Brand Music Unlimited",
+                    "collection": "Epoch Genesis v2",
+                    "song_title": "You Already",
+                    "distributor": "https:\/\/sickcity.xyz",
+                    "release_type": "Single",
+                    "track_number": 1,
+                    "release_title": "You Already",
+                    "song_duration": "PT2M28S"
+                },
+                "music_metadata_version": "v2"
+            }
+        },
+        {
+            "asset": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a55369636b43697479343532",
+            "quantity": null,
+            "policy_id": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a5",
+            "asset_name": "5369636b43697479343532",
+            "onchain_metadata": {
+                "name": "SickCity452 - Justin Sexton",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmPdugZnxQaR7uk4mk5vWeEB27YVzNaPS3Pwfykrc5te3q",
+                        "name": "Justin Sexton - Heaven Forbid",
+                        "mediaType": "audio\/mp3"
+                    }
+                ],
+                "image": "ipfs:\/\/Qmeg9sYZdP2FV66PKNbHfqaEwDKb4HHi9d6n8C45oeATV5",
+                "release": {
+                    "links": {
+                        "spotify": [
+                            "https:\/\/open.spotify.com\/artist\/5wSKiMmPBytWyZJnGeKHv",
+                            "V?si=_UTAWlD8S7GHeF7E3RZYXQ"
+                        ],
+                        "twitter": "https:\/\/twitter.com\/sextonflooring",
+                        "youtube": "https:\/\/www.youtube.com\/@justinsexton7740",
+                        "facebook": "https:\/\/www.facebook.com\/sixstringranch\/",
+                        "apple_music": "https:\/\/music.apple.com\/us\/artist\/justin-sexton\/1691138817",
+                        "reverb_nation": "https:\/\/www.reverbnation.com\/justinsexton"
+                    },
+                    "genres": [
+                        "Country"
+                    ],
+                    "artists": [
+                        "Justin Sexton"
+                    ],
+                    "copyright": "Justin Sexton \u2117 2023",
+                    "collection": "Epoch Genesis v2",
+                    "song_title": "Heaven Forbid",
+                    "release_type": "Single",
+                    "track_number": 1,
+                    "release_title": "Heaven Forbid",
+                    "song_duration": "PT3M46S"
+                },
+                "music_metadata_version": "v2"
+            }
+        },
+        {
+            "asset": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a55369636b43697479343630",
+            "quantity": null,
+            "policy_id": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a5",
+            "asset_name": "5369636b43697479343630",
+            "onchain_metadata": {
+                "name": "SickCity460 - Krime Fyter",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmeBWoWhpp4adjA1xNtsL9Cx1r6ahXjnhNiL3WxKf7L1Vt",
+                        "name": "Krime Fyter - Incinerate",
+                        "song": {
+                            "song_title": "Incinerate",
+                            "track_number": 1,
+                            "song_duration": "PT4M12S"
+                        },
+                        "mediaType": "audio\/mp3"
+                    }
+                ],
+                "image": "ipfs:\/\/QmeQv1nkhUT5ZhBbFJsNM1BPqvsCwaPwHGYeUifMs3fLnF",
+                "release": {
+                    "links": {
+                        "website": "https:\/\/linktr.ee\/kflabz"
+                    },
+                    "genres": [
+                        "hip hop",
+                        "rap",
+                        "breakbeat",
+                        "electronic"
+                    ],
+                    "artists": [
+                        "Krime Fyter"
+                    ],
+                    "copyright": "Krime Fyter \u2117 2024",
+                    "collection": "Epoch Genesis v2",
+                    "release_type": "Single",
+                    "release_title": "Incinerate"
+                },
+                "music_metadata_version": "v2"
+            }
+        },
+        {
+            "asset": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a55369636b43697479343631",
+            "quantity": null,
+            "policy_id": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a5",
+            "asset_name": "5369636b43697479343631",
+            "onchain_metadata": {
+                "name": "SickCity461 - Mort Espiral",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmbDXpMf26iXjzmUZ2HFzLNu5wyGTHwHCQ3eBGGN2rtWwu",
+                        "name": "Mort Espiral - In a Sick City You Can Only Survive",
+                        "song": {
+                            "song_title": "In a Sick City You Can Only Survive",
+                            "track_number": 1,
+                            "song_duration": "PT2M41S"
+                        },
+                        "mediaType": "audio\/mp3"
+                    }
+                ],
+                "image": "ipfs:\/\/QmZQzRv8aq2wVbfZbvbFpWnYynCqzJyGNCyFF3Leeku2Ui",
+                "release": {
+                    "links": {
+                        "website": "https:\/\/mortespiral.eth.co\/"
+                    },
+                    "genres": [
+                        "hip hop",
+                        "electronic"
+                    ],
+                    "artists": [
+                        "Mort Espiral"
+                    ],
+                    "copyright": "Mort Espiral \u2117 2024",
+                    "collection": "Epoch Genesis v2",
+                    "release_type": "Single",
+                    "release_title": "In a Sick City You Can Only Survive"
+                },
+                "music_metadata_version": "v2"
+            }
+        },
+        {
+            "asset": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a55369636b43697479343634",
+            "quantity": null,
+            "policy_id": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a5",
+            "asset_name": "5369636b43697479343634",
+            "onchain_metadata": {
+                "name": "SickCity464 - HOLYVZN",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmYxjhPxunMpM6efi76YAxVfi6DUWy77J27qhSBWkFEpqr",
+                        "name": "HOLYVZN - Run Church Boy Run",
+                        "song": {
+                            "song_title": "Run Church Boy Run",
+                            "track_number": 1,
+                            "song_duration": "PT2M50S"
+                        },
+                        "mediaType": "audio\/mp3"
+                    }
+                ],
+                "image": "ipfs:\/\/QmSqCQsEohtELV52kcHtqusJ8trVERDSDfkCPB5UunsKoE",
+                "release": {
+                    "links": {
+                        "linktree": "https:\/\/linktr.ee\/holyvzn"
+                    },
+                    "genres": [
+                        "r&b",
+                        "soul",
+                        "hip hop"
+                    ],
+                    "artists": [
+                        "HOLYVZN"
+                    ],
+                    "copyright": "HOLYVZN \u2117 2024",
+                    "collection": "Epoch Genesis v2",
+                    "release_type": "Single",
+                    "release_title": "Run Church Boy Run"
+                },
+                "music_metadata_version": "v2"
+            }
+        },
+        {
+            "asset": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a55369636b43697479343637",
+            "quantity": null,
+            "policy_id": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a5",
+            "asset_name": "5369636b43697479343637",
+            "onchain_metadata": {
+                "name": "SickCity467 - Jayy Gawd",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmV9gxsxsvNVHg1cNpEzeM5xsU2qodyxG2vLsXP6Yz5upx",
+                        "name": "Jayy Gawd - Perfect Love Song",
+                        "song": {
+                            "song_title": "Perfect Love Song",
+                            "track_number": 1,
+                            "song_duration": "PT3M50S"
+                        },
+                        "mediaType": "audio\/mp3"
+                    }
+                ],
+                "image": "ipfs:\/\/QmRd49QCxBSBA11ZQn9mgm8pf5V7YqmMpxgTvKewvYb4W1",
+                "release": {
+                    "links": {
+                        "website": "https:\/\/linktr.ee\/bbmunlimited"
+                    },
+                    "genres": [
+                        "rap",
+                        "hip hop"
+                    ],
+                    "artists": [
+                        "Jayy Gawd"
+                    ],
+                    "copyright": "Jayy Gawd \u2117 2024",
+                    "collection": "Epoch Genesis v2",
+                    "distributor": "Banks Brand Music Unlimited",
+                    "release_type": "Single",
+                    "release_title": "Perfect Love Song"
+                },
+                "music_metadata_version": "v2"
+            }
+        },
+        {
+            "asset": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a55369636b43697479343638",
+            "quantity": null,
+            "policy_id": "123da5e4ef337161779c6729d2acd765f7a33a833b2a21a063ef65a5",
+            "asset_name": "5369636b43697479343638",
+            "onchain_metadata": {
+                "name": "SickCity468 - The Black Royal",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmNbD4Z4ktawBpt1b3nEVr2WXmW5pjQzmxdK66fHhZsM9n",
+                        "name": "The Black Royal - A Moment of Clarity",
+                        "song": {
+                            "song_title": "A Moment of Clarity",
+                            "track_number": 1,
+                            "song_duration": "PT3M37S"
+                        },
+                        "mediaType": "audio\/mp3"
+                    }
+                ],
+                "image": "ipfs:\/\/QmdsNuVwhgDoQnrrawG2XuYfnXKSbte3bXNKvpt3vFfLX1",
+                "release": {
+                    "links": {
+                        "website": [
+                            "https:\/\/linktr.ee\/bbmunlimited",
+                            "https:\/\/linktr.ee\/theatmradio",
+                            "https:\/\/linktr.ee\/TheBlackRoyal"
+                        ]
+                    },
+                    "genres": [
+                        "rap",
+                        "hip hop"
+                    ],
+                    "artists": [
+                        "The Black Royal"
+                    ],
+                    "copyright": "The Black Royal \u2117 2024",
+                    "collection": "Epoch Genesis v2",
+                    "distributor": "Banks Brand Music Unlimited",
+                    "release_type": "Single",
+                    "release_title": "A Moment of Clarity"
+                },
+                "music_metadata_version": "v2"
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933765,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "6194158d24d71eca5cc5601c45de123bf78d02c297e851be2608810a"
+    },
+    "assets_cache": [
+        {
+            "asset": "6194158d24d71eca5cc5601c45de123bf78d02c297e851be2608810a44454144",
+            "quantity": null,
+            "policy_id": "6194158d24d71eca5cc5601c45de123bf78d02c297e851be2608810a",
+            "asset_name": "44454144",
+            "onchain_metadata": {
+                "url": "https:\/\/deadrabbits.io",
+                "name": "DEAD",
+                "image": "ipfs:\/\/QmPD7ixmMfcYz7dNbS7GatN4q52r1nLUytGx35ts9N2dXq",
+                "ticker": "DEAD",
+                "mediaType": "image\/gif",
+                "description": "$DEAD powers the Dead Rabbit universe"
+            }
+        }
+    ]
+}

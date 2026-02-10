@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933840,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "992bf902a98461c93d22b1d32fe0f86081e483e2225098edb56892df"
+    },
+    "assets_cache": [
+        {
+            "asset": "992bf902a98461c93d22b1d32fe0f86081e483e2225098edb56892df4c554e4348",
+            "quantity": null,
+            "policy_id": "992bf902a98461c93d22b1d32fe0f86081e483e2225098edb56892df",
+            "asset_name": "4c554e4348",
+            "onchain_metadata": {
+                "Menu": [
+                    "How does Ramen flirt?",
+                    "They Send",
+                    "NOODZ!!!"
+                ],
+                "chef": "Cardano Noodz",
+                "name": "LUNCH SPECIAL",
+                "Asset": "LUNCH SPECIAL",
+                "Hours": "11am\u20142pm",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmR2DZn6Ziz4dyVT93HNigsmCxgbwhXe6BVh4LQ6wgy2wy",
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmUDZWmNkfaFLft6BarG8FM9AAev7L9dWQAZxHeiZy7CuK",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "image": "ipfs:\/\/QmdfNuGZo3uWBkYPtYBZeZw6A6g1R6udg95tC1grKvV37U",
+                "Served": "Fresh Daily",
+                "warning": [
+                    "Cardano Noodz are 100% NSFW",
+                    "Not Safe For Wallet: Too Delicious, Might Explode"
+                ],
+                "mediaType": "image\/jpeg",
+                "collection": "House Specials 2023",
+                "Description": "NOODZ OPEN FOR LUNCH"
+            }
+        }
+    ]
+}

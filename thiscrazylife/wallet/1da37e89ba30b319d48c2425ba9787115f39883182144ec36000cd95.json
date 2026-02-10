@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933660,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "1da37e89ba30b319d48c2425ba9787115f39883182144ec36000cd95"
+    },
+    "assets_cache": [
+        {
+            "asset": "1da37e89ba30b319d48c2425ba9787115f39883182144ec36000cd954e465423343231",
+            "quantity": null,
+            "policy_id": "1da37e89ba30b319d48c2425ba9787115f39883182144ec36000cd95",
+            "asset_name": "4e465423343231",
+            "onchain_metadata": {
+                "name": "Bull Pass #421",
+                "image": "ipfs:\/\/QmVuzcm6yUgjYw17Aw1WrLEePqkR42dshT8uHLFYRqmPfc",
+                "Bull Eyes": "Blue",
+                "mediaType": "image\/png",
+                "collection": "Bull Pass",
+                "description": "Bear Market Bulls PASS",
+                "Pass Background": "Blue"
+            }
+        }
+    ]
+}

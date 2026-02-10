@@ -1,0 +1,56 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933660,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "1fb67c67a0315214b5d4c94ec5d09d0366c17a9ba11fce30d555b348"
+    },
+    "assets_cache": [
+        {
+            "asset": "1fb67c67a0315214b5d4c94ec5d09d0366c17a9ba11fce30d555b348",
+            "quantity": null,
+            "policy_id": "1fb67c67a0315214b5d4c94ec5d09d0366c17a9ba11fce30d555b348",
+            "asset_name": "",
+            "onchain_metadata": []
+        },
+        {
+            "asset": "1fb67c67a0315214b5d4c94ec5d09d0366c17a9ba11fce30d555b3484e696365666b6e706f6c6c",
+            "quantity": null,
+            "policy_id": "1fb67c67a0315214b5d4c94ec5d09d0366c17a9ba11fce30d555b348",
+            "asset_name": "4e696365666b6e706f6c6c",
+            "onchain_metadata": {
+                "name": "Nice fkn poll",
+                "image": "ipfs:\/\/QmZb5yDg2LQBUT1aZ8yrXLSqdcy5qeZuYDncACmfvq1V6r",
+                "artist": {
+                    "FIFTYONE": "https:\/\/twitter.com\/FIFTY_1"
+                },
+                "minter": {
+                    "Thiscrazylife": "https:\/\/twitter.com\/_ThisCr8zyLife_"
+                },
+                "marketing": {
+                    "cr\u20b3bd\u20b3no": "https:\/\/twitter.com\/2279ds"
+                },
+                "mediaType": "image\/jpeg",
+                "Description": [
+                    "Mark Cuban touted Doge as a product with more use case",
+                    "than Cardano. On August 9th 2022 Cointelegraph put out a poll",
+                    "to see what Crypto Twitter thought about this. A landslide",
+                    "of votes came in for Cardano as was expected by anyone who's",
+                    "really paying attention to the Blockchain space.",
+                    "Being rich and having 8.8 million followers doesn't make",
+                    "anyone an expert in anything. Always DYOR! Influencencers are",
+                    "exactly what they are, influencers. They try to pursuade",
+                    "people's point of view in their favor."
+                ],
+                "comedic Value": {
+                    "Mark Cuban": "https:\/\/twitter.com\/mcuban"
+                },
+                "project Inspiration": {
+                    "ADA whale": "https:\/\/twitter.com\/cardano_whale"
+                }
+            }
+        }
+    ]
+}

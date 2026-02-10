@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933721,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "79550912411e6f14dc649873055b02a007b5b1b905872c24b2a7166f"
+    },
+    "assets_cache": [
+        {
+            "asset": "79550912411e6f14dc649873055b02a007b5b1b905872c24b2a7166f4465617468526566726573686564303031",
+            "quantity": null,
+            "policy_id": "79550912411e6f14dc649873055b02a007b5b1b905872c24b2a7166f",
+            "asset_name": "4465617468526566726573686564303031",
+            "onchain_metadata": {
+                "name": "Death Refreshed #001",
+                "nsfw": "False",
+                "files": {
+                    "ipfs": "QmedeLUiXXPhYU151wHzrs4qQ9EEFFZ6ewNgtN9DMzs9wp"
+                },
+                "image": "ipfs:\/\/QmedeLUiXXPhYU151wHzrs4qQ9EEFFZ6ewNgtN9DMzs9wp",
+                "author": "SkullTakes",
+                "sha256": "7f968911406245ab5bba4a70e42d5b3cc5c0354fc7338a07122d6c5a0eecb797",
+                "mediatype": "image\/gif",
+                "description": "Animated Skull over TheRefresh: Death in the Afternoon"
+            }
+        }
+    ]
+}

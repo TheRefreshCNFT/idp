@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933629,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "c0195614a2d08fa529cd4c704a832218a0a26e44ebceb80f42bb0831"
+    },
+    "assets_cache": [
+        {
+            "asset": "c0195614a2d08fa529cd4c704a832218a0a26e44ebceb80f42bb083152617265426c6f6f6d4741313937",
+            "quantity": null,
+            "policy_id": "c0195614a2d08fa529cd4c704a832218a0a26e44ebceb80f42bb0831",
+            "asset_name": "52617265426c6f6f6d4741313937",
+            "onchain_metadata": {
+                "name": "Rare Bloom GA 197",
+                "type": "Video",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/Qmeu5xQHkWDgZJAnZsXvHGWuXShJCeapTUqT7v7sbFiHTV",
+                        "name": "Rare Bloom GA 197",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmQURy3JRCAsUm6Q8xrv7ch71tq1bmqGrYGhPpcC2dmKQy",
+                "artist": "Projekt",
+                "ticket": "GA",
+                "project": "Rare Bloom",
+                "twitter": "https:\/\/twitter.com\/RareBloomEvent",
+                "website": "https:\/\/rarebloom.io",
+                "mediaType": "image\/gif",
+                "collection": "Rare Bloom",
+                "description": "Rare Bloom GA Ticket NFT!"
+            }
+        }
+    ]
+}

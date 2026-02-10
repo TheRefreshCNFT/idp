@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933666,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc92843489"
+    },
+    "assets_cache": [
+        {
+            "asset": "5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc928434894e4d4b52",
+            "quantity": null,
+            "policy_id": "5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc92843489",
+            "asset_name": "4e4d4b52",
+            "onchain_metadata": {
+                "name": "NMKR",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/Qmbpn7KrX7weMvZgH976bxLKq4LVndLg9JzLz3tE6BDS1F",
+                        "name": "NMKR",
+                        "mediaType": "image\/svg+xml"
+                    }
+                ],
+                "image": "ipfs:\/\/QmNcc89EbtKi93FZBzNcGMcePWYeApHvBAAEsnYdAmiGr9",
+                "ticker": "NMKR",
+                "website": "https:\/\/nmkr.io",
+                "mediaType": "image\/png",
+                "token site": "https:\/\/nmkr.io",
+                "whitepaper": "https:\/\/nmkr.io\/whitepaper",
+                "description": "The official NMKR Token."
+            }
+        }
+    ]
+}

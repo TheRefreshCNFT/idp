@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933611,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "a4da8764a57e66a0085b5bfcde96c89b798d92ee83a75f59237e375b"
+    },
+    "assets_cache": [
+        {
+            "asset": "a4da8764a57e66a0085b5bfcde96c89b798d92ee83a75f59237e375b46495245",
+            "quantity": null,
+            "policy_id": "a4da8764a57e66a0085b5bfcde96c89b798d92ee83a75f59237e375b",
+            "asset_name": "46495245",
+            "onchain_metadata": {
+                "": "$FIRE Token",
+                "name": "FIRE",
+                "image": "ipfs:\/\/QmbqfNMYW2QFiqNWnXo17B6XvZg4CN3MxoSAzQkZk2jpe3",
+                "ticker": "FIRE",
+                "Twitter": "https:\/\/twitter.com\/FireTokenADA",
+                "Website": "https:\/\/FireTokenADA.com"
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933847,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "a5c279c97c6378c80e7e48a313a8241f466e389f0b60f5720ec2ed73"
+    },
+    "assets_cache": [
+        {
+            "asset": "a5c279c97c6378c80e7e48a313a8241f466e389f0b60f5720ec2ed734d6f6e726f654e616e6f4672616d65734879647261323437",
+            "quantity": null,
+            "policy_id": "a5c279c97c6378c80e7e48a313a8241f466e389f0b60f5720ec2ed73",
+            "asset_name": "4d6f6e726f654e616e6f4672616d65734879647261323437",
+            "onchain_metadata": {
+                "META": [
+                    "Hydra",
+                    "Cardano",
+                    "Nano frames",
+                    "Monroe"
+                ],
+                "name": "MONROE x NANO FRAMES | HYDRA [247]",
+                "image": "ipfs:\/\/QmQRRKHt2Am3fjFweBJR7692Co6kitFYkAenmT2nrHY2L1",
+                "Twitter": "https:\/\/twitter.com\/NANO_Frames",
+                "twitter": "https:\/\/twitter.com\/MONROE_NFTs",
+                "Description": "MONROE x NANO | HYDRA AIRDROP"
+            }
+        }
+    ]
+}

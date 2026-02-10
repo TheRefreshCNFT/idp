@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933611,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "ad1c1ed3a0bb6f83630ef052a31b71ba3287bf4bafa8370758f14d31"
+    },
+    "assets_cache": [
+        {
+            "asset": "ad1c1ed3a0bb6f83630ef052a31b71ba3287bf4bafa8370758f14d315349434b",
+            "quantity": null,
+            "policy_id": "ad1c1ed3a0bb6f83630ef052a31b71ba3287bf4bafa8370758f14d31",
+            "asset_name": "5349434b",
+            "onchain_metadata": {
+                "url": [
+                    "https:\/\/SickCity.xyz",
+                    "https:\/\/SickCityNFT.com",
+                    "https:\/\/twitter.com\/sickcity7",
+                    "https:\/\/discord.gg\/znECQQCRkR"
+                ],
+                "name": "SickCity",
+                "image": "ipfs:\/\/Qmbm9oJRtv1FWHgFLRM3xDhYMXrAXbPweq7mE6gnsZJuKB",
+                "description": "Sick City: Bringing Music to the people of Cardano"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933809,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "d3bbe5b2a27a392fbac2471e0c42f54ddd55da1005f86e9c18c3e082"
+    },
+    "assets_cache": [
+        {
+            "asset": "d3bbe5b2a27a392fbac2471e0c42f54ddd55da1005f86e9c18c3e082526f79616c4d6348756d70696e4b697474696573477265656e3133",
+            "quantity": null,
+            "policy_id": "d3bbe5b2a27a392fbac2471e0c42f54ddd55da1005f86e9c18c3e082",
+            "asset_name": "526f79616c4d6348756d70696e4b697474696573477265656e3133",
+            "onchain_metadata": {
+                "id": "13 of 24",
+                "name": "Kitties - Green [13]",
+                "nsfw": "r",
+                "image": "ipfs:\/\/QmYdRhJymL7x8mmVcdGa3tWA6W4ksDBPD6zHkyNUGbdJjt",
+                "Artist": "Royal McHumpin",
+                "rarity": "uncommon (24 of 69)",
+                "Twitter": "https:\/\/twitter.com\/RoyalMcHumpin",
+                "species": "Cat",
+                "position": "praying mantis",
+                "character": [
+                    "Keith",
+                    "Kitty"
+                ],
+                "copyright": "Copyright 2021 Royal McHumpin",
+                "mediaType": "image\/gif",
+                "Collection": "KamaZOOtra"
+            }
+        },
+        {
+            "asset": "d3bbe5b2a27a392fbac2471e0c42f54ddd55da1005f86e9c18c3e082526f79616c4d6348756d70696e4b69747469657359656c6c6f773233",
+            "quantity": null,
+            "policy_id": "d3bbe5b2a27a392fbac2471e0c42f54ddd55da1005f86e9c18c3e082",
+            "asset_name": "526f79616c4d6348756d70696e4b69747469657359656c6c6f773233",
+            "onchain_metadata": {
+                "id": "23 of 33",
+                "name": "Kitties - Yellow [23]",
+                "nsfw": "T",
+                "image": "ipfs:\/\/QmYFmHf3qoP6p1gHox6Zt2EudCLiF5j1UTf3ps5pFV3Do2",
+                "Artist": "Royal McHumpin",
+                "rarity": "common (33 of 69)",
+                "Twitter": "https:\/\/twitter.com\/RoyalMcHumpin",
+                "species": "Cat",
+                "position": "praying mantis",
+                "character": [
+                    "Keith",
+                    "Kitty"
+                ],
+                "copyright": "Copyright 2021 Royal McHumpin",
+                "mediaType": "image\/gif",
+                "Collection": "KamaZOOtra"
+            }
+        }
+    ]
+}

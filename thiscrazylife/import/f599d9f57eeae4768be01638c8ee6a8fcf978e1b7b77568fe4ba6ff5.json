@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "name": "Merry Glitchmas",
+        "addedAt": 1767898849,
+        "type": "owned"
+    },
+    "policy": {
+        "policyId": "f599d9f57eeae4768be01638c8ee6a8fcf978e1b7b77568fe4ba6ff5",
+        "policyScript": {
+            "type": "all",
+            "scripts": [
+                {
+                    "type": "sig",
+                    "keyHash": "63120d8216034e4a0cf300af46cd33b0ca11bd332f193b61c4fcc5a0"
+                },
+                {
+                    "type": "before",
+                    "slot": 175590908
+                }
+            ]
+        },
+        "signingKey": {
+            "type": "PaymentSigningKeyShelley_ed25519",
+            "description": "Payment Signing Key",
+            "cborHex": "5820e463230b097efefbc2b55b68b695f543a3149b5a59e43b31e2d537a99dc909a6"
+        },
+        "verificationKey": {
+            "type": "PaymentVerificationKeyShelley_ed25519",
+            "description": "Payment Verification Key",
+            "cborHex": "5820f0455f306a6592b63a0a0fb6988e88390dc3e7d891082a0358694529386c5f2a"
+        }
+    },
+    "assets_cache": []
+}

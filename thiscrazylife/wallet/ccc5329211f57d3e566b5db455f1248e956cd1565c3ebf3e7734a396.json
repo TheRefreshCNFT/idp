@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933611,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "ccc5329211f57d3e566b5db455f1248e956cd1565c3ebf3e7734a396"
+    },
+    "assets_cache": [
+        {
+            "asset": "ccc5329211f57d3e566b5db455f1248e956cd1565c3ebf3e7734a3964d61644465697479426c7565303035",
+            "quantity": null,
+            "policy_id": "ccc5329211f57d3e566b5db455f1248e956cd1565c3ebf3e7734a396",
+            "asset_name": "4d61644465697479426c7565303035",
+            "onchain_metadata": {
+                "name": "Mad Deity Blue #005",
+                "files": {
+                    "src": "ipfs:\/\/QmZ6eVf1gTus9F6wZGvt1sXzpZaf5Ujr6aX5qNoF3fm2Nn",
+                    "mediaType": "image\/gif"
+                },
+                "image": "ipfs:\/\/QmZ6eVf1gTus9F6wZGvt1sXzpZaf5Ujr6aX5qNoF3fm2Nn",
+                "artist": "Fractal Fuzion",
+                "summary": "Mad Deity",
+                "assetType": "NFT",
+                "mediaType": "image\/gif",
+                "publisher": [
+                    "https:\/\/tokhun.io\/fractalfuzion",
+                    "https:\/\/tokhun.io"
+                ],
+                "attributes": {
+                    "Mad": "Deity"
+                },
+                "collection": "Fuzion",
+                "description": [
+                    "Mad Deity  - Fractal Blue background - 1\/5"
+                ]
+            }
+        }
+    ]
+}

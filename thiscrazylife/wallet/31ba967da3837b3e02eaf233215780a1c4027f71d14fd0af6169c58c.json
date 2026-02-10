@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933829,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "31ba967da3837b3e02eaf233215780a1c4027f71d14fd0af6169c58c"
+    },
+    "assets_cache": [
+        {
+            "asset": "31ba967da3837b3e02eaf233215780a1c4027f71d14fd0af6169c58c4b59444a5553454e46545469636b65744c54447a3038",
+            "quantity": null,
+            "policy_id": "31ba967da3837b3e02eaf233215780a1c4027f71d14fd0af6169c58c",
+            "asset_name": "4b59444a5553454e46545469636b65744c54447a3038",
+            "onchain_metadata": {
+                "name": "KYD JU$E NFT Ticket - Limited Edition - Variant z8",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmdC3qbyCBEBsWuMQdhcArjDR2z8HkpbLeA1dNuT5YGgDy",
+                        "name": "KYD JU$E NFT Ticket - Limited Edition - Variant z8",
+                        "mediaType": "model\/gltf-binary"
+                    }
+                ],
+                "image": "ipfs:\/\/QmbahwQJSa5egMh6uVX34gKwvDMcqcndurB8C4QrPac3HZ",
+                "mediaType": "image\/png",
+                "description": "The JUSE Ticket by KYD JUSE is an Exclusive 3D, AR Music NFT."
+            }
+        },
+        {
+            "asset": "31ba967da3837b3e02eaf233215780a1c4027f71d14fd0af6169c58c4b59444a5553454e46545469636b65744c54447a3134",
+            "quantity": null,
+            "policy_id": "31ba967da3837b3e02eaf233215780a1c4027f71d14fd0af6169c58c",
+            "asset_name": "4b59444a5553454e46545469636b65744c54447a3134",
+            "onchain_metadata": {
+                "name": "KYD JU$E NFT Ticket - Limited Edition - Variant z14",
+                "Media": "3D & VR Designs by NuAGE Media",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmTh7E4dWHo4EhCE8P13AkVQ8ErtnCLLnCvsYrgUMQ764r",
+                        "name": "KYD JU$E NFT Ticket - Limited Edition - Variant z14",
+                        "mediaType": "model\/gltf-binary"
+                    }
+                ],
+                "image": "ipfs:\/\/QmZa9ZNb3F2MVbVu3Q5rmGVGgQDUs8mFCjZg7v2FqvMYBC",
+                "Artist": "KYD JU$E",
+                "Edition": "Limited Edition",
+                "Twitter": "https:\/\/twitter.com\/kydjuse",
+                "Variant": "1\/4 of Variant z14, 1 of 21 uncommon variants = 1 of 84 Uncommon",
+                "Quantity": "100 Limited Edition = 25 Variants x 4 each variant",
+                "Copyright": "JU$E Music \u00a9",
+                "Publisher": "JU$E Music",
+                "Royalties": "5%",
+                "mediaType": "image\/png",
+                "Description": "Exclusive Access Ticket with built in utility to scale.",
+                "description": "The JUSE Ticket by KYD JUSE is an Exclusive 3D, AR Music NFT.",
+                "Unlock Feature": "tinyurl.com\/jusedrops",
+                "Publishers Website": "http:\/\/jusemusic.com\/"
+            }
+        }
+    ]
+}

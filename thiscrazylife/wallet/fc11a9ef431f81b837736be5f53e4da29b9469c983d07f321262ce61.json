@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933643,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "fc11a9ef431f81b837736be5f53e4da29b9469c983d07f321262ce61"
+    },
+    "assets_cache": [
+        {
+            "asset": "fc11a9ef431f81b837736be5f53e4da29b9469c983d07f321262ce614652454e",
+            "quantity": null,
+            "policy_id": "fc11a9ef431f81b837736be5f53e4da29b9469c983d07f321262ce61",
+            "asset_name": "4652454e",
+            "onchain_metadata": {
+                "name": "FREN",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmdS8nftQwHvF8RmYjA24mVcm9cxuVB4TGdbqwECGQ8Vzr",
+                        "name": "FREN",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmdS8nftQwHvF8RmYjA24mVcm9cxuVB4TGdbqwECGQ8Vzr",
+                "symbol": "FREN",
+                "ticker": "FREN",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 1702822012994
+                },
+                "website": "https:\/\/twitter.com\/ADA_PEEPOS",
+                "decimals": 0,
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "description": "A $FREN in need, is a $FREN indeed",
+                "totalSupply": "420069000000"
+            }
+        }
+    ]
+}

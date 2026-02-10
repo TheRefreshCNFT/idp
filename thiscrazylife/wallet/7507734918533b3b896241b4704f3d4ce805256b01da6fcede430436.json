@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933771,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "7507734918533b3b896241b4704f3d4ce805256b01da6fcede430436"
+    },
+    "assets_cache": [
+        {
+            "asset": "7507734918533b3b896241b4704f3d4ce805256b01da6fcede43043642616279534e454b",
+            "quantity": null,
+            "policy_id": "7507734918533b3b896241b4704f3d4ce805256b01da6fcede430436",
+            "asset_name": "42616279534e454b",
+            "onchain_metadata": {
+                "name": "BabySNEK",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmPRzPm5pvKZLDWaJ396s8jwzAcUMzJ4rpqZo7WHo57JSD",
+                        "name": "BabySNEK",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmPRzPm5pvKZLDWaJ396s8jwzAcUMzJ4rpqZo7WHo57JSD",
+                "symbol": "BabySNEK",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 114352635
+                },
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "description": "",
+                "totalSupply": 76715880000
+            }
+        }
+    ]
+}

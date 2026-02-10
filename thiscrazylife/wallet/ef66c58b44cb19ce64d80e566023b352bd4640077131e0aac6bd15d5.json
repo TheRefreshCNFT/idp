@@ -1,0 +1,124 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933746,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "ef66c58b44cb19ce64d80e566023b352bd4640077131e0aac6bd15d5"
+    },
+    "assets_cache": [
+        {
+            "asset": "ef66c58b44cb19ce64d80e566023b352bd4640077131e0aac6bd15d55472756d7073343033",
+            "quantity": null,
+            "policy_id": "ef66c58b44cb19ce64d80e566023b352bd4640077131e0aac6bd15d5",
+            "asset_name": "5472756d7073343033",
+            "onchain_metadata": {
+                "name": "Trumps #403",
+                "image": "ipfs:\/\/QmVeD1VX7chjtjk6wUrYD8sNHWgXHJWtfUz4ZBJBUHRXbX",
+                "401-500": "409",
+                "mediaType": "image\/png",
+                "Trump Level": "Over 1000L",
+                "description": "Our First release to Generate funds for LP charity and donations"
+            }
+        },
+        {
+            "asset": "ef66c58b44cb19ce64d80e566023b352bd4640077131e0aac6bd15d55472756d7073343438",
+            "quantity": null,
+            "policy_id": "ef66c58b44cb19ce64d80e566023b352bd4640077131e0aac6bd15d5",
+            "asset_name": "5472756d7073343438",
+            "onchain_metadata": {
+                "name": "Trumps #448",
+                "image": "ipfs:\/\/QmeeEfiVcNc1A3Gg7WTYzSKYXKaVFhqcsM3xMQXZwYuL52",
+                "401-500": "432",
+                "mediaType": "image\/png",
+                "Trump Level": "Over 1000L",
+                "description": "Our First release to Generate funds for LP charity and donations"
+            }
+        },
+        {
+            "asset": "ef66c58b44cb19ce64d80e566023b352bd4640077131e0aac6bd15d55472756d7073343439",
+            "quantity": null,
+            "policy_id": "ef66c58b44cb19ce64d80e566023b352bd4640077131e0aac6bd15d5",
+            "asset_name": "5472756d7073343439",
+            "onchain_metadata": {
+                "name": "Trumps #449",
+                "image": "ipfs:\/\/QmdDeqAxKqXcEHmJtq2MAtWUEqwVsqPSac2uBXGwFKJALo",
+                "401-500": "489",
+                "mediaType": "image\/png",
+                "Trump Level": "Over 1000L",
+                "description": "Our First release to Generate funds for LP charity and donations"
+            }
+        },
+        {
+            "asset": "ef66c58b44cb19ce64d80e566023b352bd4640077131e0aac6bd15d55472756d7073353336",
+            "quantity": null,
+            "policy_id": "ef66c58b44cb19ce64d80e566023b352bd4640077131e0aac6bd15d5",
+            "asset_name": "5472756d7073353336",
+            "onchain_metadata": {
+                "name": "Trumps #536",
+                "image": "ipfs:\/\/QmQuXkdYNtBwE69jwK1rSY1ax2uLhEUipPmYRT8r7ysMAM",
+                "401-500": "478",
+                "mediaType": "image\/png",
+                "Trump Level": "Over 1000L",
+                "description": "Our First release to Generate funds for LP charity and donations"
+            }
+        },
+        {
+            "asset": "ef66c58b44cb19ce64d80e566023b352bd4640077131e0aac6bd15d55472756d7073363435",
+            "quantity": null,
+            "policy_id": "ef66c58b44cb19ce64d80e566023b352bd4640077131e0aac6bd15d5",
+            "asset_name": "5472756d7073363435",
+            "onchain_metadata": {
+                "name": "Trumps #645",
+                "image": "ipfs:\/\/QmQiAmZeQvUP11NjyoSJDACS9FGbZetxjY96LZwJzTLorY",
+                "401-500": "471",
+                "mediaType": "image\/png",
+                "Trump Level": "Over 1000L",
+                "description": "Our First release to Generate funds for LP charity and donations"
+            }
+        },
+        {
+            "asset": "ef66c58b44cb19ce64d80e566023b352bd4640077131e0aac6bd15d55472756d7073363833",
+            "quantity": null,
+            "policy_id": "ef66c58b44cb19ce64d80e566023b352bd4640077131e0aac6bd15d5",
+            "asset_name": "5472756d7073363833",
+            "onchain_metadata": {
+                "name": "Trumps #683",
+                "image": "ipfs:\/\/QmagyumwJ6E5jVrWxotVcoU44AZh9VkLkvSedCsKitkYLp",
+                "401-500": "462",
+                "mediaType": "image\/png",
+                "Trump Level": "Over 1000L",
+                "description": "Our First release to Generate funds for LP charity and donations"
+            }
+        },
+        {
+            "asset": "ef66c58b44cb19ce64d80e566023b352bd4640077131e0aac6bd15d55472756d7073383231",
+            "quantity": null,
+            "policy_id": "ef66c58b44cb19ce64d80e566023b352bd4640077131e0aac6bd15d5",
+            "asset_name": "5472756d7073383231",
+            "onchain_metadata": {
+                "name": "Trumps #821",
+                "image": "ipfs:\/\/QmZ9A9PHTyq5RNaJVffbetSRN1PhkBEq9cD7qTk84bv9GM",
+                "401-500": "453",
+                "mediaType": "image\/png",
+                "Trump Level": "Over 1000L",
+                "description": "Our First release to Generate funds for LP charity and donations"
+            }
+        },
+        {
+            "asset": "ef66c58b44cb19ce64d80e566023b352bd4640077131e0aac6bd15d55472756d7073383838",
+            "quantity": null,
+            "policy_id": "ef66c58b44cb19ce64d80e566023b352bd4640077131e0aac6bd15d5",
+            "asset_name": "5472756d7073383838",
+            "onchain_metadata": {
+                "name": "Trumps #888",
+                "image": "ipfs:\/\/QmUo2gzdjjeTeYcMLjbWGk5XdKiA56Suqze1ZSMXcicwKC",
+                "401-500": "469",
+                "mediaType": "image\/png",
+                "Trump Level": "Over 1000L",
+                "description": "Our First release to Generate funds for LP charity and donations"
+            }
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933629,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "bd3bfe93205b56c98559af381234f4df3e38c4ceb113256042ae5a4e"
+    },
+    "assets_cache": [
+        {
+            "asset": "bd3bfe93205b56c98559af381234f4df3e38c4ceb113256042ae5a4e50756467794361745f5757574330383530",
+            "quantity": null,
+            "policy_id": "bd3bfe93205b56c98559af381234f4df3e38c4ceb113256042ae5a4e",
+            "asset_name": "50756467794361745f5757574330383530",
+            "onchain_metadata": {
+                "name": "Pudgy C(at)NFT - What Warhol Wanted Collection - #850",
+                "image": [
+                    "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAA4QAAAOECAYAAAD5Tv",
+                    "87AAAABmJLR0QA\/wD\/AP+gvaeTAAAW5UlEQVR4nO3ZvY1c5xWA4XuFUQOuYMTJnJ",
+                    "KA3IIyxlJkCFg2oDLUABcQnDGmI9cggEqdDTWpEzXg4HMDhmFRO3O48z5PA+fM\/d",
+                    "t98e3n7bg2AAAAcr6YXgAAAIAZghAAACBKEAIAAEQJQgAAgChBCAAAECUIAQAAog",
+                    "QhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgChBCAAAECUIAQAAogQhAA",
+                    "BAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgChBCAAAECUIAQAAogQhAABAlC",
+                    "AEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgChBCAAAECUIAQAAogQhAABAlCAEAA",
+                    "CIEoQAAABRghAAACBKEAIAAEQJQgAAgChBCAAAECUIAQAAogQhAABAlCAEAACIEo",
+                    "QAAABRghAAACBKEAIAAEQJQgAAgChBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAA",
+                    "BRghAAACBKEAIAAEQJQgAAgChBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRgh",
+                    "AAACBKEAIAAEQJQgAAgChBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRghAAAC",
+                    "BKEAIAAEQJQgAAgChBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRghAAACBKEA",
+                    "IAAEQJQgAAgChBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAE",
+                    "QJQgAAgChBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQg",
+                    "AAgChBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgC",
+                    "hBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgChBCA",
+                    "AAECUIAQAAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgChBCAAAEC",
+                    "UIAQAAogQhAABA1GF6AYDP3Wm7TK9wU+ftOL0Cd8h7BPB5ckIIAAAQJQgBAACiBC",
+                    "EAAECUIAQAAIgShAAAAFGCEAAAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAE",
+                    "CUIAQAAIgShAAAAFGCEAAAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIA",
+                    "QAAIgShAAAAFGCEAAAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAI",
+                    "gShAAAAFGH6QUA\/l+n7TIyd601MnfKvu8jc8\/bcWRuzdR79PDwMDJ3yunxcWSu9w",
+                    "j4vZwQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIE",
+                    "oQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIEoQAg",
+                    "AARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIEoQAgAARA",
+                    "lCAACAKEEIAAAQJQgBAACiBCEAAEDUYXoB4Pk5bZeRuWutkbnb67\/NzB0ydZ33fR",
+                    "+ZW\/Pw8DAy9+2\/\/jIyd8zMZd5Oj48jc8\/bcWQu8Mc5IQQAAIgShAAAAFGCEAAAIE",
+                    "oQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIEoQAg",
+                    "AARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIEoQAgAARA",
+                    "lCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIEoQAgAARAlCAA",
+                    "CAqMP0AgCfvfd\/nd4gYa01vQJX9ObNm+kVAPgvnBACAABECUIAAIAoQQgAABAlCA",
+                    "EAAKIEIQAAQJQgBAAAiBKEAAAAUYIQAAAgShACAABECUIAAIAoQQgAABAlCAEAAK",
+                    "IEIQAAQJQgBAAAiBKEAAAAUYIQAAAgShACAABECUIAAIAoQQgAABAlCAEAAKIEIQ",
+                    "AAQJQgBAAAiBKEAAAAUYIQAAAgShACAABECUIAAIAoQQgAABAlCAEAAKIEIQAAQN",
+                    "RhegF4SqftMr1CwlpregXgmXn79u30ClzR6fFxZO55O47MhXvihBAAACBKEAIAAE",
+                    "QJQgAAgChBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQg",
+                    "AAgChBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgC",
+                    "hBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgChBCA",
+                    "AAECUIAQAAovbzdlzTS3B\/TttlZO5aHudb2Pd9ZO7U\/Z36vVO8R1yD9+i+Td3f83",
+                    "YcmQv3xAkhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgChBCAAAECUIAQ",
+                    "AAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgChBCAAAECUIAQAAog",
+                    "QhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgChBCAAAECUIAQAAogQhAA",
+                    "BAlCAEAACIEoQAAABRghAAACBKEAIAAEQdpheAe7DevZ5egStaa02vcFP7vo\/MrV",
+                    "3nKe4v1zB1f6ee5\/N2HJkL1+CEEAAAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiBC",
+                    "EAAECUIAQAAIgShAAAAFGCEAAAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAE",
+                    "CUIAQAAIgShAAAAFGCEAAAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIA",
+                    "QAAIgShAAAAFGCEAAAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiDtMLwD344ru\/T6",
+                    "9wU2utmcE\/\/Twz9\/uvZ+YOGbu\/3IT7eyO+V8Az4YQQAAAgShACAABECUIAAIAoQQ",
+                    "gAABAlCAEAAKIEIQAAQJQgBAAAiBKEAAAAUYIQAAAgShACAABECUIAAIAoQQgAAB",
+                    "AlCAEAAKIEIQAAQJQgBAAAiBKEAAAAUYIQAAAgShACAABECUIAAIAoQQgAABAlCA",
+                    "EAAKIEIQAAQJQgBAAAiBKEAAAAUYIQAAAgShACAABECUIAAIAoQQgAABAlCAEAAK",
+                    "IO0wvAPVhrTa9wWz\/9PDP3+69n5g7Z931kbu15dp1vI3edp75Xvs\/A7+SEEAAAIE",
+                    "oQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIEoQAg",
+                    "AARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIEoQAgAARA",
+                    "lCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIEoQAgAARAlCAA",
+                    "CAKEEIAAAQJQgBAACi9vN2XNNLwFM5bZeRuWt5jbgf+75Pr3BTU++v6wx\/3NR7dN",
+                    "6OI3PhGpwQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEA",
+                    "AAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIE",
+                    "oQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIEoQAg",
+                    "AARAlCAACAKEEIAAAQJQgBAACiBCEAAEDUYXoBeErn7Tgyd9\/3kblT1lrTK3BF7u",
+                    "9tuM7ck6m\/g1N\/9+GeOCEEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgChBCAAAEC",
+                    "UIAQAAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgChBCAAAECUIAQ",
+                    "AAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgChBCAAAECUIAQAAog",
+                    "QhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgKjD9ALAp1trjcz9uH81Mh",
+                    "eA\/+20XaZXuKmp33vejiNz4RqcEAIAAEQJQgAAgChBCAAAECUIAQAAogQhAABAlC",
+                    "AEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgChBCAAAECUIAQAAogQhAABAlCAEAA",
+                    "CIEoQAAABRghAAACBKEAIAAEQJQgAAgChBCAAAECUIAQAAogQhAABAlCAEAACIEo",
+                    "QAAABRghAAACBKEAIAAEQJQgAAgChBCAAAECUIAQAAogQhAABA1GF6AeD5ebF+HZ",
+                    "n7cf9qZC737cVvX47M\/finf4\/M5TZO22Vk7lprZG7Nvu8jc8\/bcWQu980JIQAAQJ",
+                    "QgBAAAiBKEAAAAUYIQAAAgShACAABECUIAAIAoQQgAABAlCAEAAKIEIQAAQJQgBA",
+                    "AAiBKEAAAAUYIQAAAgShACAABECUIAAIAoQQgAABAlCAEAAKIEIQAAQJQgBAAAiB",
+                    "KEAAAAUYIQAAAgShACAABECUIAAIAoQQgAABAlCAEAAKIEIQAAQJQgBAAAiBKEAA",
+                    "AAUYIQAAAgShACAABEHaYXgKd02i4jc9daI3NrXqxfp1e4qVe\/PE6vcFMfXvw4vc",
+                    "JNvfjty5G5rz7+MDJ3yoeXDzOD931k7Hr3emTulP3b99MrwLPnhBAAACBKEAIAAE",
+                    "QJQgAAgChBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQg",
+                    "AAgChBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgC",
+                    "hBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgChBCA",
+                    "AAECUIAQAAog7TCwDApPWPP4\/M3b\/558hcbmOtNTJ33\/eRuWO+i\/1euAInhAAAAF",
+                    "GCEAAAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEA",
+                    "AAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIE",
+                    "oQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIEoQAg",
+                    "AARAlCAACAKEEIAAAQdZheAAC2bdteffxhZO6Hb34cmTv1e7lva63pFRL2fZ9eAZ",
+                    "6ME0IAAIAoQQgAABAlCAEAAKIEIQAAQJQgBAAAiBKEAAAAUYIQAAAgShACAABECU",
+                    "IAAIAoQQgAABAlCAEAAKIEIQAAQJQgBAAAiBKEAAAAUYIQAAAgShACAABECUIAAI",
+                    "AoQQgAABAlCAEAAKIEIQAAQJQgBAAAiBKEAAAAUYIQAAAgShACAABECUIAAIAoQQ",
+                    "gAABAlCAEAAKIEIQAAQJQgBAAAiNrP23FNLwFP5bRdRuau5TXifrz65XF6Be7Qh5",
+                    "cP0yvAk9n3fWTueTuOzOW+OSEEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgChBCA",
+                    "AAECUIAQAAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgChBCAAAEC",
+                    "UIAQAAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgChBCAAAECUIAQ",
+                    "AAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgKjD9ALAp9v3fXoFrm",
+                    "itNTL3w8uHkblwDb6T923qOwn3xAkhAABAlCAEAACIEoQAAABRghAAACBKEAIAAE",
+                    "QJQgAAgChBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQg",
+                    "AAgChBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQJQgAAgC",
+                    "hBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRghAAACBKEAIAAEQdpheAp3Teji",
+                    "Nz930fmbvWGpnLbXiuuCeeZ65h6rma+n8DrsEJIQAAQJQgBAAAiBKEAAAAUYIQAA",
+                    "AgShACAABECUIAAIAoQQgAABAlCAEAAKIEIQAAQJQgBAAAiBKEAAAAUYIQAAAgSh",
+                    "ACAABECUIAAIAoQQgAABAlCAEAAKIEIQAAQJQgBAAAiBKEAAAAUYIQAAAgShACAA",
+                    "BECUIAAIAoQQgAABAlCAEAAKIEIQAAQJQgBAAAiBKEAAAAUYIQAAAgShACAABEHa",
+                    "YXAJ6f9e719Ao3tX\/7fnoF4JnxnQSeCyeEAAAAUYIQAAAgShACAABECUIAAIAoQQ",
+                    "gAABAlCAEAAKIEIQAAQJQgBAAAiBKEAAAAUYIQAAAgShACAABECUIAAIAoQQgAAB",
+                    "AlCAEAAKIEIQAAQJQgBAAAiBKEAAAAUYIQAAAgShACAABECUIAAIAoQQgAABAlCA",
+                    "EAAKIEIQAAQJQgBAAAiBKEAAAAUYIQAAAgShACAABECUIAAIAoQQgAABC1n7fjml",
+                    "4C+DSn7TK9AgCMOW\/H6RXg2XNCCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRgh",
+                    "AAACBKEAIAAEQJQgAAgChBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRghAAAC",
+                    "BKEAIAAEQJQgAAgChBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRghAAACBKEA",
+                    "IAAEQJQgAAgChBCAAAECUIAQAAogQhAABAlCAEAACIEoQAAABRh+kFgE933o7TKw",
+                    "AA8Iw5IQQAAIgShAAAAFGCEAAAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAE",
+                    "CUIAQAAIgShAAAAFGCEAAAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIA",
+                    "QAAIgShAAAAFGCEAAAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAI",
+                    "gShAAAAFGCEAAAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShA",
+                    "AAAFGCEAAAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAF",
+                    "GCEAAAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEA",
+                    "AAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIE",
+                    "oQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIEoQAg",
+                    "AARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIEoQAgAARA",
+                    "lCAACAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIEoQAgAARAlCAA",
+                    "CAKEEIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIEoQAgAARAlCAACAKE",
+                    "EIAAAQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIEoQAgAARAlCAACAKEEIAA",
+                    "AQJQgBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIEoQAgAARAlCAACAKEEIAAAQJQ",
+                    "gBAACiBCEAAECUIAQAAIgShAAAAFGCEAAAIEoQAgAARAlCAACAKEEIAAAQJQgBAA",
+                    "CiBCEAAECUIAQAAIgShAAAAFGCEAAAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiBC",
+                    "EAAECUIAQAAIgShAAAAFGCEAAAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAE",
+                    "CUIAQAAIgShAAAAFGCEAAAIEoQAgAARAlCAACAKEEIAAAQJQgBAACiBCEAAECUIA",
+                    "QAAIgShAAAAFGCEAAAIEoQAgAARAlCAACAqP8AlV\/elXvNdU0AAAAASUVORK5CYI",
+                    "I="
+                ],
+                "Traits": [
+                    {
+                        "Background": "Ruby"
+                    },
+                    {
+                        "Fur": "Snow"
+                    },
+                    {
+                        "Tummy": "Jade"
+                    },
+                    {
+                        "Paws": "Toasted"
+                    },
+                    {
+                        "Collar": "Ruby"
+                    },
+                    {
+                        "Pendant": "Gold"
+                    },
+                    {
+                        "Face": "Smile"
+                    },
+                    {
+                        "Cheeks": "Bubblegum"
+                    },
+                    {
+                        "Spot": "Smoke"
+                    },
+                    {
+                        "Ears": "Candy"
+                    }
+                ],
+                "fortune": [
+                    "The change you started already has far-reaching effects. Be",
+                    "ready."
+                ],
+                "numbers": "3, 35, 43, 51, 84, 86",
+                "website": "https:\/\/pudgycat.io",
+                "mediaType": "image\/png",
+                "publisher": "PudgyCat.io - All Rights Reserved",
+                "description": [
+                    "In the future everyone will be world-famous for 15 minutes,",
+                    "enjoying the lucky company of a Pudgy Cat"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933617,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "de0eedee0ae142f7343994778877561608f9ee6fbf4b7a1d61f3357f"
+    },
+    "assets_cache": [
+        {
+            "asset": "de0eedee0ae142f7343994778877561608f9ee6fbf4b7a1d61f3357f4d4952",
+            "quantity": null,
+            "policy_id": "de0eedee0ae142f7343994778877561608f9ee6fbf4b7a1d61f3357f",
+            "asset_name": "4d4952",
+            "onchain_metadata": {
+                "url": "https:\/\/edenseven.io",
+                "name": "MIR",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmXqdtZXLcssRYHdEb9FY8y12XdVUhAURuMmaYDJjyPeBd",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmRtbbECUPLK9iK86vcxwMWRXj3KsBJKYf65XHDiKUT39S",
+                "ticker": "MIR",
+                "Description": "$MIR is the central currency of the Eden's Seven World"
+            }
+        }
+    ]
+}

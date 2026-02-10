@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933611,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "b3bd74dd43f83815519e387bdffd1cb9be411df8f2774f48e0fd3669"
+    },
+    "assets_cache": [
+        {
+            "asset": "b3bd74dd43f83815519e387bdffd1cb9be411df8f2774f48e0fd3669534e455045",
+            "quantity": null,
+            "policy_id": "b3bd74dd43f83815519e387bdffd1cb9be411df8f2774f48e0fd3669",
+            "asset_name": "534e455045",
+            "onchain_metadata": {
+                "name": "SNEPE",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmbEUoZwG6uxbzcmFadYwvjMunb2Hvon7Qzz7vG8EhaZhr",
+                        "name": "SNEPE",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmbEUoZwG6uxbzcmFadYwvjMunb2Hvon7Qzz7vG8EhaZhr",
+                "symbol": "SNEPE",
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "description": "Two unstoppable meme forces collide",
+                "totalSupply": 420000000069
+            }
+        }
+    ]
+}

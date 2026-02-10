@@ -1,0 +1,65 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933809,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "b7e343c27e8c575ad4692716b3e15fb21302082d6c189511d26c9869"
+    },
+    "assets_cache": [
+        {
+            "asset": "b7e343c27e8c575ad4692716b3e15fb21302082d6c189511d26c98694a7061636b436f6e6365707453746f6e657273",
+            "quantity": null,
+            "policy_id": "b7e343c27e8c575ad4692716b3e15fb21302082d6c189511d26c9869",
+            "asset_name": "4a7061636b436f6e6365707453746f6e657273",
+            "onchain_metadata": {
+                "name": "Jpack Concept Stoner's",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/Qmb8sGWdBd6eZExKar2iFaieoALL4DSFkvHK8Pcv1bvAHr"
+                        ],
+                        "mediaType": "model\/gltf-binary"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/QmPSehcNSTg3JkhXGWRCa2b3iitz3uFBfWerDeceX9dDz6"
+                        ],
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/QmXGiSJ1rU9eb5fWFg5PFeHgAP17HCstLVZvV43RtLnTPU"
+                        ],
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmNmYuvFZi5Lu26igCzD2tWs81kQbyAGzy7kmSMctXTxPF",
+                "artist": "Randy Mitts",
+                "summary": "Jpack Concept Stoner's Club Edition",
+                "assetType": "NFT",
+                "mediaType": "image\/png",
+                "publisher": [
+                    "https:\/\/twitter.com\/frawgdog",
+                    "https:\/\/tokhun.io"
+                ],
+                "attributes": {
+                    "Base colors": [
+                        "Green",
+                        "Lt Green"
+                    ],
+                    "Booster Design": "Rocket"
+                },
+                "collection": "Jpack Concept",
+                "description": [
+                    "Introducing the first proof of concept asset from Frawgdog and \r",
+                    "\nJcrypto.  Pavia compatible jetpacks concept, or \"JPacks\" \r\nThis",
+                    " one was made specifically for the shillimania1 event!\r\nWere not",
+                    " promising these will be redeemable for Pavia\r\ncompatible \"JPack",
+                    "s\" but were going to try to make that \r\nhappen!"
+                ]
+            }
+        }
+    ]
+}

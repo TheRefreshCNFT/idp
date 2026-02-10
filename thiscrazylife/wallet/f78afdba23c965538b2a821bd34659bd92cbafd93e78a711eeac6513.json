@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933796,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "f78afdba23c965538b2a821bd34659bd92cbafd93e78a711eeac6513"
+    },
+    "assets_cache": [
+        {
+            "asset": "f78afdba23c965538b2a821bd34659bd92cbafd93e78a711eeac651352454b5476657262",
+            "quantity": null,
+            "policy_id": "f78afdba23c965538b2a821bd34659bd92cbafd93e78a711eeac6513",
+            "asset_name": "52454b5476657262",
+            "onchain_metadata": {
+                "name": "rekt (verb): CNFT History",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmNQZmuNcAqjH55vJU1BCDZecXgqcaLpME7ygF5Xrr2CkV",
+                        "name": "~ COCO LOCO ~",
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmeUV3TvSWn3nLtHgLLBfdzRA2TF66yWcdvaySQtRBzScp",
+                        "name": "~ SHAN SHUI ~ ",
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmcKWTqJNREgsDgE2iPTYvaamQVAZR7RbeWwq3CjZ9w7F4",
+                        "name": "~ Cardano Gods ~",
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmcKQWn6PHv3xMCsMjVArqc88xTE49D5h62vVkf8smhLMS",
+                        "name": "rekt",
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmdEfciQK5oNHN58H557tS7ThoNtPuBX2SFnB7C819Pi8M",
+                        "mediaType": "image\/gif"
+                    }
+                ],
+                "image": "ipfs:\/\/QmdEfciQK5oNHN58H557tS7ThoNtPuBX2SFnB7C819Pi8M",
+                "mediaType": "image\/gif"
+            }
+        }
+    ]
+}

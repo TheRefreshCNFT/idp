@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933788,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "db07d02a57e4e023a8873df96ef6f6b94eaaa8ad239d2f8319080241"
+    },
+    "assets_cache": [
+        {
+            "asset": "db07d02a57e4e023a8873df96ef6f6b94eaaa8ad239d2f8319080241525744",
+            "quantity": null,
+            "policy_id": "db07d02a57e4e023a8873df96ef6f6b94eaaa8ad239d2f8319080241",
+            "asset_name": "525744",
+            "onchain_metadata": {
+                "name": "RWD",
+                "image": "ipfs:\/\/QmQkLDVEu3BomPtt7wHThxMPjmLDEAdiTGwwzrWqzMVED4",
+                "website": "https:\/\/tekmirio.xyz",
+                "mediaType": "image\/png",
+                "description": "Tekmirio Reward Token"
+            }
+        }
+    ]
+}

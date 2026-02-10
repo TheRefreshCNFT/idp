@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933802,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "9fbf5e9e745a512a184c70b1a6b2d641b2f1098ff87a4a9e2a595679"
+    },
+    "assets_cache": [
+        {
+            "asset": "9fbf5e9e745a512a184c70b1a6b2d641b2f1098ff87a4a9e2a595679566f634652455348677265656e3031",
+            "quantity": null,
+            "policy_id": "9fbf5e9e745a512a184c70b1a6b2d641b2f1098ff87a4a9e2a595679",
+            "asset_name": "566f634652455348677265656e3031",
+            "onchain_metadata": {
+                "cham": "Hajaw",
+                "name": "\ud83d\udcd7",
+                "thai": "\u0e40\u0e02\u0e35\u0e22\u0e27 (K\u0304he\u012byw)",
+                "\ud83d\udcd7": {
+                    "Contact": "https:\/\/twitter.com\/alexandriatap"
+                },
+                "Theme": "GREEN (01\/05)",
+                "czech": "Zelen\u00fd",
+                "dutch": "groente",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmNLhWzCh6BfxT149Ty6JckAvMWuYJ1BWQZUPuJn7LXD5g",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "greek": "\u03c0\u03c1\u03ac\u03c3\u03b9\u03bd\u03bf\u03c2 (pr\u00e1sinos)",
+                "hmong": "Ntsuab",
+                "image": "ipfs:\/\/QmNLhWzCh6BfxT149Ty6JckAvMWuYJ1BWQZUPuJn7LXD5g",
+                "Series": "Vocabulary Refresher",
+                "arabic": "\u0644\u0648\u0646 \u0623\u062e\u0636\u0631 (Lawn 'Akhdar)",
+                "french": "Vert",
+                "german": "Gr\u00fcn",
+                "korean": "\ucd08\ub85d (cholog)",
+                "Project": "The Language Refresher",
+                "amharic": "\u12a0\u1228\u1295\u1313\u12f4 (\u0101renigwad\u0113)",
+                "chinese": "\u7eff\u8272 (L\u01dcs\u00e8)",
+                "italian": "Verde",
+                "russian": "\u0437\u0435\u043b\u0435\u043d\u044b\u0439 (Zelenyy)",
+                "spanish": "Verde",
+                "turkish": "Ye\u015fil",
+                "albanian": "Jeshile",
+                "hawaiian": "\u014cma\u02bboma\u02bbo",
+                "japanese": "\u7dd1 (Midori)",
+                "ukranian": "\u0437\u0435\u043b\u0435\u043d\u0438\u0439 (Zelenyy)",
+                "bulgarian": "\u0437\u0435\u043b\u0435\u043d\u043e (zeleno)",
+                "hungarian": "Z\u00f6ld",
+                "mediaType": "image\/png",
+                "Vocabulary": "25 Languages",
+                "indonesian": "Hijau",
+                "portuguese": "Verde",
+                "vietnamese": "M\u00e0u Xanh (xanh l\u00e1 c\u00e2y)",
+                "Creative Developers": "The Alexandria Project"
+            }
+        }
+    ]
+}

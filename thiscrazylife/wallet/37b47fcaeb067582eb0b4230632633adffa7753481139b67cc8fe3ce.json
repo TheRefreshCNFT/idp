@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933835,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "37b47fcaeb067582eb0b4230632633adffa7753481139b67cc8fe3ce"
+    },
+    "assets_cache": [
+        {
+            "asset": "37b47fcaeb067582eb0b4230632633adffa7753481139b67cc8fe3ce5045524e4953",
+            "quantity": null,
+            "policy_id": "37b47fcaeb067582eb0b4230632633adffa7753481139b67cc8fe3ce",
+            "asset_name": "5045524e4953",
+            "onchain_metadata": {
+                "url": "https:\/\/pernis.io\/",
+                "name": "PERNIS",
+                "image": "ipfs:\/\/QmNv2C8g9EAUq6o82X9NESsk7h21d6zaHXeHSLWxZgVJhs",
+                "mediaType": "image\/png"
+            }
+        }
+    ]
+}

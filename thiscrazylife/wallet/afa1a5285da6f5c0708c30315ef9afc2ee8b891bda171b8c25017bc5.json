@@ -1,0 +1,43 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933809,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "afa1a5285da6f5c0708c30315ef9afc2ee8b891bda171b8c25017bc5"
+    },
+    "assets_cache": [
+        {
+            "asset": "afa1a5285da6f5c0708c30315ef9afc2ee8b891bda171b8c25017bc553717565616b6572202333323332",
+            "quantity": null,
+            "policy_id": "afa1a5285da6f5c0708c30315ef9afc2ee8b891bda171b8c25017bc5",
+            "asset_name": "53717565616b6572202333323332",
+            "onchain_metadata": {
+                "Fur": "Jupiter",
+                "Hat": "Pinwheel",
+                "Back": "Keyboard",
+                "Eyes": "Glasses",
+                "name": "Squeaker #3232",
+                "Mouth": "Open",
+                "Shirt": "Asian Robe",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmUwQNBfDSgraG8c9RLLkPSRGVCKJ3qLMjLYmuwB4fSWtx",
+                        "name": "Squeaker #3232",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmUwQNBfDSgraG8c9RLLkPSRGVCKJ3qLMjLYmuwB4fSWtx",
+                "Tattoo": "Tyson",
+                "Discord": "https:\/\/discord.gg\/squeak",
+                "Twitter": "https:\/\/x.com\/Squeakers_NFTs",
+                "Website": "https:\/\/squeak.world",
+                "Telegram": "https:\/\/t.me\/squeakkoin",
+                "mediaType": "image\/png",
+                "Background": "Peach Blue",
+                "description": "Warning: May Cause Excessive Cuteness!"
+            }
+        }
+    ]
+}

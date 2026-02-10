@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933860,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "2c0b804cb6eb2d63311857b034bba2a7e7919b193e1620048adc0ba6"
+    },
+    "assets_cache": [
+        {
+            "asset": "2c0b804cb6eb2d63311857b034bba2a7e7919b193e1620048adc0ba6476f6c6452757368303832",
+            "quantity": null,
+            "policy_id": "2c0b804cb6eb2d63311857b034bba2a7e7919b193e1620048adc0ba6",
+            "asset_name": "476f6c6452757368303832",
+            "onchain_metadata": {
+                "Film": "The Gold Rush",
+                "Hash": "bb8f90921a13f1a16d5a17aebda02f052d31e3e03eb980d405c3ff5ebaeee965",
+                "data": "ipfs:\/\/QmZC7Ds7HJy8z8febWBfeZzkf56j4ryPnpPdWV8PQ9Tk4d",
+                "name": "GoldRush082",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmS8LYTFZ2xgseZZ9dgCprAfUrCz8RqPTfnMdscJnsHdmm",
+                        "name": "Front Cover",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmRWKcPM83w4m3XYveyhzCAEx4e4UdoU44MTTiE1qjRV3g",
+                        "name": "Back Cover",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmS8LYTFZ2xgseZZ9dgCprAfUrCz8RqPTfnMdscJnsHdmm",
+                "Twitter": "https:\/\/twitter.com\/NucastIO",
+                "website": "https:\/\/nucast.io",
+                "CD Cover": "The Cabin",
+                "Platform": "Nucast",
+                "mediaType": "image\/png",
+                "Collection": "Prestige Collection",
+                "Cover Rank": 3,
+                "Description": [
+                    "Chaplin in \"The Gold Rush\": Comedic Triumphs Amid Struggles"
+                ],
+                "Category Rank": 6
+            }
+        }
+    ]
+}

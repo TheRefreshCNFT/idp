@@ -1,0 +1,51 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933771,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "7cbc7c81920551949e67d2b1a146ae22afd45f359d2e68d0f71d14cc"
+    },
+    "assets_cache": [
+        {
+            "asset": "7cbc7c81920551949e67d2b1a146ae22afd45f359d2e68d0f71d14cc",
+            "quantity": null,
+            "policy_id": "7cbc7c81920551949e67d2b1a146ae22afd45f359d2e68d0f71d14cc",
+            "asset_name": "",
+            "onchain_metadata": []
+        },
+        {
+            "asset": "7cbc7c81920551949e67d2b1a146ae22afd45f359d2e68d0f71d14cc526546726535686564466f724348",
+            "quantity": null,
+            "policy_id": "7cbc7c81920551949e67d2b1a146ae22afd45f359d2e68d0f71d14cc",
+            "asset_name": "526546726535686564466f724348",
+            "onchain_metadata": {
+                "name": "19th Century Bear Hunting Armor ReFre5hed",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmbWQpsPQ5kfqBk26KqACkdC6BZvjxNSbsd6GjPJPKvYXT",
+                        "name": "Click To Refresh!",
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/QmQ7uq1sc2FbD4vUBG5Riwi5YgqLx5DSdy3W1hasA9NX2K",
+                "artist": "ThisCrazyLife",
+                "project": "The Refresh CNFT",
+                "Reference": {
+                    "tweet": "https:\/\/twitter.com\/IOHK_Charles\/status\/15909134"
+                },
+                "mediaType": "image\/png",
+                "Description": [
+                    "Charles Hoskinson thought 19th century bear hunting armor",
+                    "needed to be refresh. So I refreshed it."
+                ],
+                "visit The Refresh": {
+                    "discord": "https:\/\/discord.gg\/E9YeBfDrWp",
+                    "twitter": "https:\/\/twitter.com\/TheRefreshCNFT",
+                    "website": "https:\/\/therefreshcnft.com\/"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933777,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "89267e9a35153a419e1b8ffa23e511ac39ea4e3b00452e9d500f2982"
+    },
+    "assets_cache": [
+        {
+            "asset": "89267e9a35153a419e1b8ffa23e511ac39ea4e3b00452e9d500f2982436176616c6965724b696e67436861726c6573",
+            "quantity": null,
+            "policy_id": "89267e9a35153a419e1b8ffa23e511ac39ea4e3b00452e9d500f2982",
+            "asset_name": "436176616c6965724b696e67436861726c6573",
+            "onchain_metadata": {
+                "": "$Charly token",
+                "url": "https:\/\/www.charly-token.io\/",
+                "name": "Cavalier King Charles token",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmRXAXfTPNFhRk8gEhonoAfjeCVppY4awhoiqWAe8W7mbH",
+                        "name": "Charly",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmRXAXfTPNFhRk8gEhonoAfjeCVppY4awhoiqWAe8W7mbH",
+                "social": {
+                    "discord": "https:\/\/discord.gg\/ArH9udyKTN",
+                    "twitter": "https:\/\/twitter.com\/Charlytoken7",
+                    "webpage": "https:\/\/www.charly-token.io\/"
+                },
+                "symbol": "Charly",
+                "ticker": "Charly",
+                "decimals": 0,
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "description": "Meme coin on Cardano blockchain to honor Charles Hoskinson",
+                "totalSupply": 777777777777
+            }
+        }
+    ]
+}

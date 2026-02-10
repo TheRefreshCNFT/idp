@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933649,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "a644e280199cdc4cc9a6ae5266b988dd8178b8f5318ce296cebe2b81"
+    },
+    "assets_cache": [
+        {
+            "asset": "a644e280199cdc4cc9a6ae5266b988dd8178b8f5318ce296cebe2b81525547",
+            "quantity": null,
+            "policy_id": "a644e280199cdc4cc9a6ae5266b988dd8178b8f5318ce296cebe2b81",
+            "asset_name": "525547",
+            "onchain_metadata": {
+                "name": "RUG THE WORLD!",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmWFQ2Je7PtDCLyn4ywSRQia5YmEe8j97y5GktNgZWi7GB",
+                        "name": "church. (Documentary)",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmScasGGYCrgFBZREetejUEK5GVXv3hRsNAV6uqiZjpaep",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmSTQfbhMY7kZqwKA6sQFQ27biNXv3HoBn1bSGk1yQUaUC",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmeZwMt4gjCe5Tiz3BBjs7s2Nqura8M22NrcSLKoyyX24p",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/Qmf6tRickfFeDc3ZZkzgcJQd9bXtGjYZ63zYeQ9bhCb4x8",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmZTua3bAo9KAHgEKjGzYozviE2YaheTLihyXz7Nitordy",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "image": "ipfs:\/\/QmScasGGYCrgFBZREetejUEK5GVXv3hRsNAV6uqiZjpaep",
+                "Wallet": "Rug Me Daddy",
+                "ticker": "$RUG",
+                "Euology": [
+                    "Rug, you were a dog of few words",
+                    "Rug, always quick to bark but slow to bite",
+                    "Rug, your loyalty to your owner was boundless",
+                    "Rug, you would wag your tail at the slightest hint of affection",
+                    "Rug, your energy and enthusiasm were contagious",
+                    "Rug, even in your old age, you remained playful",
+                    "Rug, your presence in our lives will be greatly missed",
+                    "Rug, rest in peace knowing you were loved."
+                ],
+                "Eulogy v2": [
+                    "Rug, noble canine of gentle heart,",
+                    "With furrowed brow and wisdom's art,",
+                    "Your loyalty, a boundless sea,",
+                    "A constant presence, true and free.",
+                    "",
+                    "Rug, in silence you did speak,",
+                    "Barks of love, not anger's streak,",
+                    "A tender soul, so slow to bite,",
+                    "Defender of your home, in day and night.",
+                    "",
+                    "Rug, your tail, a joyful quiver,",
+                    "A beacon of warmth, a love-deliver,",
+                    "With every wag, our spirits soared,",
+                    "Your boundless love, our hearts restored.",
+                    "",
+                    "Rug, vibrant spirit, ceaseless grace,",
+                    "An energy that time can't erase,",
+                    "In age, you danced with youthful glee,",
+                    "A playful soul, forever free.",
+                    "",
+                    "Rug, a cherished friend we've lost,",
+                    "But love remains, beyond all cost,",
+                    "In memories, your spirit thrives,",
+                    "A treasured companion, through our lives.",
+                    "",
+                    "Rug, rest in peace, your journey done,",
+                    "In fields of light, you'll surely run,",
+                    "With love eternal, hearts aglow,",
+                    "Rug, our dearest, we'll miss you so."
+                ],
+                "mediaType": "image\/png",
+                "policy ID": [
+                    "a644e280199cdc4cc9a6ae5266b988dd8178b8f5318ce296cebe2b81"
+                ],
+                "Seed Phrase": [
+                    "Rug",
+                    "Rug",
+                    "Rug",
+                    "Rug",
+                    "Rug",
+                    "Rug",
+                    "Rug",
+                    "Rug",
+                    "Rug",
+                    "Rug",
+                    "Rug",
+                    "Rug",
+                    "Rug",
+                    "Rug",
+                    "Dad"
+                ],
+                "policy name": "Rug Me Daddy",
+                "Follow NOODZ": {
+                    "Twitter": "https:\/\/twitter.com\/CardanoNoodz"
+                },
+                "policy script": [
+                    "{",
+                    "\"type\": \"all\",",
+                    "\"scripts\": [",
+                    "{",
+                    "\"slot\": 956017197,",
+                    "\"type\": \"before\"",
+                    "},",
+                    "{",
+                    "\"keyHash\":",
+                    "\"4a498e793a3f71a4b46741aec19c397f5cd09d6dce4546249cf7db80\",",
+                    "\"type\": \"sig\"",
+                    "}",
+                    "]",
+                    "}"
+                ],
+                "Follow FOMO\ud83d\udc40": {
+                    "Twitter": "https:\/\/twitter.com\/FOMO_FRESHBOT"
+                },
+                "Euology Written By": {
+                    "Hosky GPT": [
+                        "https:\/\/discord.com\/channels\/903302807346630656\/",
+                        "903302810802720770\/1105613817435660358"
+                    ]
+                },
+                "policy Signing Key": [
+                    "{",
+                    "\"type\": \"PaymentSigningKeyShelley_ed25519\",",
+                    "\"description\": \"Payment Signing Key\",",
+                    "\"cborHex\":",
+                    "\"58202b16b24158c75efdf7c917b3301e5888272c569a",
+                    "fad3e3f2d4589c163a2f99a1\"",
+                    "}"
+                ],
+                "Euology v2 Written By": "GPT-4"
+            }
+        }
+    ]
+}

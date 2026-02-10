@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933617,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "3d77d63dfa6033be98021417e08e3368cc80e67f8d7afa196aaa0b39"
+    },
+    "assets_cache": [
+        {
+            "asset": "3d77d63dfa6033be98021417e08e3368cc80e67f8d7afa196aaa0b3953746172636820546f6b656e",
+            "quantity": null,
+            "policy_id": "3d77d63dfa6033be98021417e08e3368cc80e67f8d7afa196aaa0b39",
+            "asset_name": "53746172636820546f6b656e",
+            "onchain_metadata": {
+                "url": "http:\/\/starch.one",
+                "name": "Starch Token",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmcUEWjhmdRVgW7dctG7vHnAfU9ZghVhaHtouub3aFyDEt",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmcUEWjhmdRVgW7dctG7vHnAfU9ZghVhaHtouub3aFyDEt",
+                "ticker": "STARCH",
+                "twitter": "https:\/\/twitter.com\/abstractpotato",
+                "decimals": "6",
+                "mediaType": "image\/png"
+            }
+        }
+    ]
+}

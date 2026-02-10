@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933635,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "dd589bbcfa48c9a133a22e205da33a5d07ef79dac1f8d5d8067b1004"
+    },
+    "assets_cache": [
+        {
+            "asset": "dd589bbcfa48c9a133a22e205da33a5d07ef79dac1f8d5d8067b100477686572657343617264616e6f4e6f6f647a57616c646f3230",
+            "quantity": null,
+            "policy_id": "dd589bbcfa48c9a133a22e205da33a5d07ef79dac1f8d5d8067b1004",
+            "asset_name": "77686572657343617264616e6f4e6f6f647a57616c646f3230",
+            "onchain_metadata": {
+                "url": "https:\/\/cardanospace.com",
+                "name": "Where's CardanoNoodz the Waldo?",
+                "image": "QmR3U7Meps1SHYDxDBZkSMSs3cVYaPQxYSdndYXcgt9LJB",
+                "number": "20\/n",
+                "rarity": "Common",
+                "mediaType": "image\/jpeg",
+                "collection": "CardanoSpace's Where's Waldo Prizes",
+                "description": [
+                    "The 89th Where's Waldo Prize designed by CardanoNoodz!"
+                ]
+            }
+        }
+    ]
+}

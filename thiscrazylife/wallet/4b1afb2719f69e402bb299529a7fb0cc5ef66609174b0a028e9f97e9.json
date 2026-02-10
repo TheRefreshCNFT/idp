@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933685,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "4b1afb2719f69e402bb299529a7fb0cc5ef66609174b0a028e9f97e9"
+    },
+    "assets_cache": [
+        {
+            "asset": "4b1afb2719f69e402bb299529a7fb0cc5ef66609174b0a028e9f97e94a696d6d79536f6e673334",
+            "quantity": null,
+            "policy_id": "4b1afb2719f69e402bb299529a7fb0cc5ef66609174b0a028e9f97e9",
+            "asset_name": "4a696d6d79536f6e673334",
+            "onchain_metadata": {
+                "url": "https:\/\/cryptoheroez.io\/jimmy_song",
+                "name": "Jimmy Song #34\/128",
+                "image": "ipfs:\/\/QmdDTjQrunJeHBfPiZ3T83CkmbV9gMJRx3qHApQUc81FKT",
+                "rarity": "rare",
+                "creator": [
+                    "CryptoHeroez.io",
+                    "Jiri Hysek"
+                ]
+            }
+        }
+    ]
+}

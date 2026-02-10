@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933660,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "47692dd3066112ee56eeaf9de00fa993a947213f6996067b35974e47"
+    },
+    "assets_cache": [
+        {
+            "asset": "47692dd3066112ee56eeaf9de00fa993a947213f6996067b35974e4743617264616e6f4c6f676f31",
+            "quantity": null,
+            "policy_id": "47692dd3066112ee56eeaf9de00fa993a947213f6996067b35974e47",
+            "asset_name": "43617264616e6f4c6f676f31",
+            "onchain_metadata": {
+                "name": "CardanoLogo1",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmZGfz6WZtUqBVa79rAJq5Vv1SvRCEKrRf5WUH8cyGPTwD",
+                        "name": "CardanoLogo1.gif",
+                        "mediaType": "image\/gif"
+                    }
+                ],
+                "image": "ipfs:\/\/QmZGfz6WZtUqBVa79rAJq5Vv1SvRCEKrRf5WUH8cyGPTwD",
+                "artist": "thiscrazylife",
+                "policy": {
+                    "type": "all",
+                    "scripts": [
+                        {
+                            "slot": 37304042,
+                            "type": "before"
+                        },
+                        {
+                            "type": "sig",
+                            "keyHash": "c5d5f0f49da66929b5d7b40ae251e8e331c35896cd7ebc5592ed4b24"
+                        }
+                    ]
+                },
+                "homepage": "https:\/\/twitter.com\/OriginalNFTs",
+                "copyright": "\u00a92021"
+            }
+        }
+    ]
+}

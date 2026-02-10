@@ -1,0 +1,76 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933635,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "dbf71e623e56485bdeac2d1240e6b16180c8e98369fb17553b9f6371"
+    },
+    "assets_cache": [
+        {
+            "asset": "dbf71e623e56485bdeac2d1240e6b16180c8e98369fb17553b9f637145786f746963526f636b",
+            "quantity": null,
+            "policy_id": "dbf71e623e56485bdeac2d1240e6b16180c8e98369fb17553b9f6371",
+            "asset_name": "45786f746963526f636b",
+            "onchain_metadata": {
+                "name": "Exotic Rock",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/QmYhczcdYFkaSSFx5dU1ejaoTq9BH7k2unuPECxd1QTtQi"
+                        ],
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/QmTCHSd8wwSjLXCSJ82gf2D2pLDMChuiiSHaRJjeHoZ98L"
+                        ],
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/QmbnoEgGcKJ5ZM5U8Pq4a2xY4sHthoTXQxEpSqcUdNpaEs"
+                        ],
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/QmdkHvZc8dWBR8fkAWQN3SSxAQj9chVHYoX5fejjJpyC9D"
+                        ],
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/QmSw78p95a8K7qs2Chcehn6equ5eWekVmaw6w7bbBhrvnY"
+                        ],
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "image": "ipfs:\/\/QmTrEcok2b6aiwYrKuXKAtf6fJogsPj7FQ8Xg12mA5oPnK",
+                "artist": "Ju5ts0cRypt0",
+                "summary": "1 of 1 A\/V CNFT for ThisCrazyLife",
+                "assetType": "NFT",
+                "mediaType": "image\/jpeg",
+                "publisher": [
+                    "https:\/\/www.twitter.com\/JRypt0",
+                    "https:\/\/tokhun.io"
+                ],
+                "attributes": {
+                    "Music": "Some Dude lolz",
+                    "Frames": "MAXED OUT",
+                    "Visuals": "Ju5ts0cRypt0 \"DAVE\"",
+                    "Ingredients": [
+                        "TheRefresh",
+                        "ClipStudio",
+                        "Glitchlab and Procreate"
+                    ]
+                },
+                "collection": "TheRemix",
+                "description": [
+                    "Audio Visual exploration of ThRefresh \"Exotic\""
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,570 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933783,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5"
+    },
+    "assets_cache": [
+        {
+            "asset": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b543727970746f50657431343935",
+            "quantity": null,
+            "policy_id": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5",
+            "asset_name": "43727970746f50657431343935",
+            "onchain_metadata": {
+                "name": "CryptoPet #1495",
+                "epoch": 1,
+                "image": "ipfs:\/\/QmR9k3owfUcDe5cfbmAWRrqQhAPUXxxKj3JK9WMeZyUvzF",
+                "types": [
+                    "Ice",
+                    "Flying"
+                ],
+                "traits": {
+                    "egg_shell": "Spotted",
+                    "background": "Rocky Forest",
+                    "crypto_logos": "USDT"
+                },
+                "attributes": {
+                    "HP": 110,
+                    "ATT": 35,
+                    "DEF": 140,
+                    "DEX": 95,
+                    "SPD": 100,
+                    "STA": 110
+                },
+                "generation": 1,
+                "ability_slots": 2,
+                "species_rarity": "Epic",
+                "attribute_slots": 6,
+                "special_attack_slots": 2
+            }
+        },
+        {
+            "asset": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b543727970746f50657432303730",
+            "quantity": null,
+            "policy_id": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5",
+            "asset_name": "43727970746f50657432303730",
+            "onchain_metadata": {
+                "name": "CryptoPet #2070",
+                "epoch": 1,
+                "image": "ipfs:\/\/QmZZctpEZFurgouinhXTkXHESP5aarV8qCMcp6poYzU9gY",
+                "types": [
+                    "Fire",
+                    "Grass"
+                ],
+                "traits": {
+                    "egg_shell": "Purple",
+                    "background": "Wrecked Forest",
+                    "crypto_logos": "TRX"
+                },
+                "attributes": {
+                    "HP": 90,
+                    "ATT": 30,
+                    "DEF": 100,
+                    "DEX": 80,
+                    "SPD": 100,
+                    "STA": 90
+                },
+                "generation": 1,
+                "ability_slots": 2,
+                "species_rarity": "Rare",
+                "attribute_slots": 6,
+                "special_attack_slots": 2
+            }
+        },
+        {
+            "asset": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b543727970746f506574323132",
+            "quantity": null,
+            "policy_id": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5",
+            "asset_name": "43727970746f506574323132",
+            "onchain_metadata": {
+                "name": "CryptoPet #212",
+                "epoch": 1,
+                "image": "ipfs:\/\/QmRDXshNY6pTya3E24VUY9JV9QeZ14oxVQfkDacghrA3bf",
+                "types": [
+                    "Ice",
+                    "Flying"
+                ],
+                "traits": {
+                    "egg_shell": "Orange",
+                    "background": "Desert Land",
+                    "crypto_logos": "EOS"
+                },
+                "attributes": {
+                    "HP": 140,
+                    "ATT": 40,
+                    "DEF": 120,
+                    "DEX": 95,
+                    "SPD": 70,
+                    "STA": 130
+                },
+                "generation": 1,
+                "ability_slots": 3,
+                "species_rarity": "Ultra Rare",
+                "attribute_slots": 8,
+                "special_attack_slots": 2
+            }
+        },
+        {
+            "asset": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b543727970746f50657432393630",
+            "quantity": null,
+            "policy_id": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5",
+            "asset_name": "43727970746f50657432393630",
+            "onchain_metadata": {
+                "name": "CryptoPet #2960",
+                "epoch": 1,
+                "image": "ipfs:\/\/QmQNWZa4EbepoyMNZmvZ8UcotRKaALD6nVGMwHHR9EVTXy",
+                "types": "Metal",
+                "traits": {
+                    "egg_shell": "Purple",
+                    "background": "Smooth Lake",
+                    "crypto_logos": "ADA"
+                },
+                "attributes": {
+                    "HP": 80,
+                    "ATT": 30,
+                    "DEF": 120,
+                    "DEX": 95,
+                    "SPD": 100,
+                    "STA": 100
+                },
+                "generation": 1,
+                "ability_slots": 2,
+                "species_rarity": "Rare",
+                "attribute_slots": 5,
+                "special_attack_slots": 2
+            }
+        },
+        {
+            "asset": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b543727970746f50657433313036",
+            "quantity": null,
+            "policy_id": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5",
+            "asset_name": "43727970746f50657433313036",
+            "onchain_metadata": {
+                "name": "CryptoPet #3106",
+                "epoch": 1,
+                "image": "ipfs:\/\/QmZ8uqnrFSTLNBENCnkPnvsVZxzc9cabn1m2KWn9m5N6yh",
+                "types": "Insect",
+                "traits": {
+                    "egg_shell": "Brown",
+                    "background": "Foggy Swamps",
+                    "crypto_logos": "XTZ"
+                },
+                "attributes": {
+                    "HP": 70,
+                    "ATT": 30,
+                    "DEF": 120,
+                    "DEX": 85,
+                    "SPD": 90,
+                    "STA": 100
+                },
+                "generation": 1,
+                "ability_slots": 2,
+                "species_rarity": "Scarce",
+                "attribute_slots": 5,
+                "special_attack_slots": 1
+            }
+        },
+        {
+            "asset": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b543727970746f50657433323930",
+            "quantity": null,
+            "policy_id": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5",
+            "asset_name": "43727970746f50657433323930",
+            "onchain_metadata": {
+                "name": "CryptoPet #3290",
+                "epoch": 1,
+                "image": "ipfs:\/\/QmWHGKiNEnnk2d5APJH7i4xncFiUthApSjMo4oi4EBapqg",
+                "types": [
+                    "Electric",
+                    "Poison"
+                ],
+                "traits": {
+                    "egg_shell": "Purple",
+                    "background": "Night Forest",
+                    "crypto_logos": "VET"
+                },
+                "attributes": {
+                    "HP": 90,
+                    "ATT": 30,
+                    "DEF": 100,
+                    "DEX": 90,
+                    "SPD": 60,
+                    "STA": 90
+                },
+                "generation": 1,
+                "ability_slots": 2,
+                "species_rarity": "Scarce",
+                "attribute_slots": 4,
+                "special_attack_slots": 1
+            }
+        },
+        {
+            "asset": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b543727970746f50657434353232",
+            "quantity": null,
+            "policy_id": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5",
+            "asset_name": "43727970746f50657434353232",
+            "onchain_metadata": {
+                "name": "CryptoPet #4522",
+                "epoch": 1,
+                "image": "ipfs:\/\/QmWseKB6qGPXDhpPcEvTQgnT8EPSydDjxegvk2a2StB5mw",
+                "types": [
+                    "Fae",
+                    "Flying"
+                ],
+                "traits": {
+                    "egg_shell": "Light Purple",
+                    "background": "Volcano",
+                    "crypto_logos": "EOS"
+                },
+                "attributes": {
+                    "HP": 60,
+                    "ATT": 25,
+                    "DEF": 80,
+                    "DEX": 80,
+                    "SPD": 60,
+                    "STA": 90
+                },
+                "generation": 1,
+                "ability_slots": 2,
+                "species_rarity": "Uncommon",
+                "attribute_slots": 4,
+                "special_attack_slots": 1
+            }
+        },
+        {
+            "asset": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b543727970746f50657434373331",
+            "quantity": null,
+            "policy_id": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5",
+            "asset_name": "43727970746f50657434373331",
+            "onchain_metadata": {
+                "name": "CryptoPet #4731",
+                "epoch": 1,
+                "image": "ipfs:\/\/QmaUdtkkYs2HRQo1tRkbZYufAkviWxRXTr7uyVwAYt7iYQ",
+                "types": "Combat",
+                "traits": {
+                    "egg_shell": "Yellow",
+                    "background": "Special Psychic",
+                    "crypto_logos": "EOS"
+                },
+                "attributes": {
+                    "HP": 60,
+                    "ATT": 25,
+                    "DEF": 80,
+                    "DEX": 95,
+                    "SPD": 80,
+                    "STA": 80
+                },
+                "generation": 1,
+                "ability_slots": 2,
+                "species_rarity": "Uncommon",
+                "attribute_slots": 4,
+                "special_attack_slots": 1
+            }
+        },
+        {
+            "asset": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b543727970746f50657435373634",
+            "quantity": null,
+            "policy_id": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5",
+            "asset_name": "43727970746f50657435373634",
+            "onchain_metadata": {
+                "name": "CryptoPet #5764",
+                "epoch": 1,
+                "image": "ipfs:\/\/QmaUsszPK7xAsbnozpK8yXc7nfURzGXTwJKkf2pVUFk8d3",
+                "types": "Earth",
+                "traits": {
+                    "egg_shell": "Scales",
+                    "background": "Special Stars",
+                    "crypto_logos": "THETA"
+                },
+                "attributes": {
+                    "HP": 90,
+                    "ATT": 25,
+                    "DEF": 80,
+                    "DEX": 100,
+                    "SPD": 80,
+                    "STA": 80
+                },
+                "generation": 1,
+                "ability_slots": 2,
+                "species_rarity": "Uncommon",
+                "attribute_slots": 5,
+                "special_attack_slots": 1
+            }
+        },
+        {
+            "asset": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b543727970746f50657436343037",
+            "quantity": null,
+            "policy_id": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5",
+            "asset_name": "43727970746f50657436343037",
+            "onchain_metadata": {
+                "name": "CryptoPet #6407",
+                "epoch": 1,
+                "image": "ipfs:\/\/QmQJm8GfAVhaqELNu4Lo5VKocLQ9y1XMHKZtqvA7ieZFfd",
+                "types": "Combat",
+                "traits": {
+                    "egg_shell": "Light Purple",
+                    "background": "Great Forest",
+                    "crypto_logos": "THETA"
+                },
+                "attributes": {
+                    "HP": 90,
+                    "ATT": 25,
+                    "DEF": 80,
+                    "DEX": 90,
+                    "SPD": 70,
+                    "STA": 80
+                },
+                "generation": 1,
+                "ability_slots": 1,
+                "species_rarity": "Common",
+                "attribute_slots": 3,
+                "special_attack_slots": 1
+            }
+        },
+        {
+            "asset": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b543727970746f50657436393430",
+            "quantity": null,
+            "policy_id": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5",
+            "asset_name": "43727970746f50657436393430",
+            "onchain_metadata": {
+                "name": "CryptoPet #6940",
+                "epoch": 1,
+                "image": "ipfs:\/\/QmXR4jX6e8FJa2and2hx1RNFje23Z6qG9AXfeHL2pLPJEh",
+                "types": "Ice",
+                "traits": {
+                    "egg_shell": "Green",
+                    "background": "Beach",
+                    "crypto_logos": "VET"
+                },
+                "attributes": {
+                    "HP": 70,
+                    "ATT": 30,
+                    "DEF": 100,
+                    "DEX": 80,
+                    "SPD": 70,
+                    "STA": 80
+                },
+                "generation": 1,
+                "ability_slots": 1,
+                "species_rarity": "Common",
+                "attribute_slots": 5,
+                "special_attack_slots": 1
+            }
+        },
+        {
+            "asset": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b543727970746f50657437373139",
+            "quantity": null,
+            "policy_id": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5",
+            "asset_name": "43727970746f50657437373139",
+            "onchain_metadata": {
+                "name": "CryptoPet #7719",
+                "epoch": 1,
+                "image": "ipfs:\/\/QmW2nMBL8AXU55VyqgXGu98Ydncoue1hdYMgWpDLc79LH8",
+                "types": [
+                    "Water",
+                    "Flying"
+                ],
+                "traits": {
+                    "egg_shell": "Purple",
+                    "background": "Moonlit Night",
+                    "crypto_logos": "VET"
+                },
+                "attributes": {
+                    "HP": 70,
+                    "ATT": 25,
+                    "DEF": 120,
+                    "DEX": 90,
+                    "SPD": 80,
+                    "STA": 90
+                },
+                "generation": 1,
+                "ability_slots": 1,
+                "species_rarity": "Common",
+                "attribute_slots": 5,
+                "special_attack_slots": 1
+            }
+        },
+        {
+            "asset": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b543727970746f50657437393638",
+            "quantity": null,
+            "policy_id": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5",
+            "asset_name": "43727970746f50657437393638",
+            "onchain_metadata": {
+                "name": "CryptoPet #7968",
+                "epoch": 1,
+                "image": "ipfs:\/\/QmTk5rRsvgo7jZTsRGMUy8JXajn3tgC2ziAVVocZDuuQtt",
+                "types": "Water",
+                "traits": {
+                    "egg_shell": "Brown",
+                    "background": "Tropical Forest",
+                    "crypto_logos": "BAT"
+                },
+                "attributes": {
+                    "HP": 60,
+                    "ATT": 25,
+                    "DEF": 60,
+                    "DEX": 80,
+                    "SPD": 80,
+                    "STA": 80
+                },
+                "generation": 1,
+                "ability_slots": 1,
+                "species_rarity": "Very Common",
+                "attribute_slots": 4,
+                "special_attack_slots": 1
+            }
+        },
+        {
+            "asset": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b543727970746f50657437393732",
+            "quantity": null,
+            "policy_id": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5",
+            "asset_name": "43727970746f50657437393732",
+            "onchain_metadata": {
+                "name": "CryptoPet #7972",
+                "epoch": 1,
+                "image": "ipfs:\/\/QmQNLSqr6xNFp6JNmiVZ5nEGwS6Mv6z95kSS2VEuqYjrN6",
+                "types": "Water",
+                "traits": {
+                    "egg_shell": "Purple",
+                    "background": "Sunset",
+                    "crypto_logos": "MIOTA"
+                },
+                "attributes": {
+                    "HP": 60,
+                    "ATT": 20,
+                    "DEF": 60,
+                    "DEX": 85,
+                    "SPD": 90,
+                    "STA": 80
+                },
+                "generation": 1,
+                "ability_slots": 1,
+                "species_rarity": "Very Common",
+                "attribute_slots": 3,
+                "special_attack_slots": 1
+            }
+        },
+        {
+            "asset": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b543727970746f50657438353430",
+            "quantity": null,
+            "policy_id": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5",
+            "asset_name": "43727970746f50657438353430",
+            "onchain_metadata": {
+                "name": "CryptoPet #8540",
+                "epoch": 1,
+                "image": "ipfs:\/\/QmT9H23BwCLcyiGbL2oNTv5RwHXVZMad2WL9XAScfwBZcT",
+                "types": "Fae",
+                "traits": {
+                    "egg_shell": "Brown",
+                    "background": "Night Forest",
+                    "crypto_logos": "UNI"
+                },
+                "attributes": {
+                    "HP": 60,
+                    "ATT": 20,
+                    "DEF": 60,
+                    "DEX": 80,
+                    "SPD": 100,
+                    "STA": 90
+                },
+                "generation": 1,
+                "ability_slots": 1,
+                "species_rarity": "Very Common",
+                "attribute_slots": 3,
+                "special_attack_slots": 1
+            }
+        },
+        {
+            "asset": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b543727970746f506574393131",
+            "quantity": null,
+            "policy_id": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5",
+            "asset_name": "43727970746f506574393131",
+            "onchain_metadata": {
+                "name": "CryptoPet #911",
+                "epoch": 1,
+                "image": "ipfs:\/\/QmepBi3gkGbQdj8xpxy9j4ngx3Mknn1xqajUoFkdUbWKMM",
+                "types": "Water",
+                "traits": {
+                    "egg_shell": "Red",
+                    "background": "Beach",
+                    "crypto_logos": "EOS"
+                },
+                "attributes": {
+                    "HP": 120,
+                    "ATT": 35,
+                    "DEF": 140,
+                    "DEX": 90,
+                    "SPD": 100,
+                    "STA": 100
+                },
+                "generation": 1,
+                "ability_slots": 3,
+                "species_rarity": "Extremely Rare",
+                "attribute_slots": 7,
+                "special_attack_slots": 2
+            }
+        },
+        {
+            "asset": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b543727970746f50657439343435",
+            "quantity": null,
+            "policy_id": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5",
+            "asset_name": "43727970746f50657439343435",
+            "onchain_metadata": {
+                "name": "CryptoPet #9445",
+                "epoch": 1,
+                "image": "ipfs:\/\/Qmcs4afvWKrKLKwLYdn8hMVswsZqpAxP7Lejqov1FGbfEF",
+                "types": "Spirit",
+                "traits": {
+                    "egg_shell": "Red",
+                    "background": "Rocky Forest",
+                    "crypto_logos": "XLM"
+                },
+                "attributes": {
+                    "HP": 70,
+                    "ATT": 25,
+                    "DEF": 60,
+                    "DEX": 95,
+                    "SPD": 70,
+                    "STA": 70
+                },
+                "generation": 1,
+                "ability_slots": 1,
+                "species_rarity": "Very Common",
+                "attribute_slots": 3,
+                "special_attack_slots": 1
+            }
+        },
+        {
+            "asset": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b543727970746f50657439373431",
+            "quantity": null,
+            "policy_id": "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5",
+            "asset_name": "43727970746f50657439373431",
+            "onchain_metadata": {
+                "name": "CryptoPet #9741",
+                "epoch": 1,
+                "image": "ipfs:\/\/QmeLTWTVBbU1hjoXxqfBBe8PBmdFASUaq3aQNnzbvMg8sG",
+                "types": "Psychic",
+                "traits": {
+                    "egg_shell": "Green",
+                    "background": "Foggy Grass",
+                    "crypto_logos": "ETH"
+                },
+                "attributes": {
+                    "HP": 70,
+                    "ATT": 20,
+                    "DEF": 80,
+                    "DEX": 90,
+                    "SPD": 70,
+                    "STA": 90
+                },
+                "generation": 1,
+                "ability_slots": 1,
+                "species_rarity": "Very Common",
+                "attribute_slots": 4,
+                "special_attack_slots": 1
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933829,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "2e46bfba93ffd8f96568803ea5fa21821dc8c78dc84e9655fc6b9f5f"
+    },
+    "assets_cache": [
+        {
+            "asset": "2e46bfba93ffd8f96568803ea5fa21821dc8c78dc84e9655fc6b9f5f464d54",
+            "quantity": null,
+            "policy_id": "2e46bfba93ffd8f96568803ea5fa21821dc8c78dc84e9655fc6b9f5f",
+            "asset_name": "464d54",
+            "onchain_metadata": {
+                "name": "Food Mobile Token",
+                "image": [
+                    "https:\/\/pool.pm\/registry\/2e46bfba93ffd8f96568803ea5fa21",
+                    "821dc8c78dc84e9655fc6b9f5f\/FMT\/logo.png"
+                ],
+                "minted": "Psychedelic Sundays \u2014 July 10, 2022",
+                "supply": "Sixty-Nine Million",
+                "ticker": "FMT",
+                "decimals": 0,
+                "mediaType": "image\/png",
+                "description": [
+                    "A utility token for bringing different kinds of food",
+                    "to different kinds of people all around the world"
+                ],
+                "for Example": "There aren't corndogs in Wales."
+            }
+        }
+    ]
+}

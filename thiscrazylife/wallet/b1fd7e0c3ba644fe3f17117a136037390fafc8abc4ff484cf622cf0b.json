@@ -1,0 +1,84 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933654,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "b1fd7e0c3ba644fe3f17117a136037390fafc8abc4ff484cf622cf0b"
+    },
+    "assets_cache": [
+        {
+            "asset": "b1fd7e0c3ba644fe3f17117a136037390fafc8abc4ff484cf622cf0b50455045436c7562323238",
+            "quantity": null,
+            "policy_id": "b1fd7e0c3ba644fe3f17117a136037390fafc8abc4ff484cf622cf0b",
+            "asset_name": "50455045436c7562323238",
+            "onchain_metadata": {
+                "name": "PEPEClub#228",
+                "image": [
+                    "https:\/\/green-occupat",
+                    "ional-albatross",
+                    "-838.mypinata.clo",
+                    "ud\/ipfs\/QmWnCXR",
+                    "AnBjwizsdZjf6",
+                    "5PV5rCo8uTrtX",
+                    "ftLMTRBgmwX4",
+                    "Q\/Pepe228.png"
+                ],
+                "project": "PEPEClub",
+                "mediaType": "image\/png",
+                "description": [
+                    "PEPEclub NFT"
+                ]
+            }
+        },
+        {
+            "asset": "b1fd7e0c3ba644fe3f17117a136037390fafc8abc4ff484cf622cf0b50455045436c7562333134",
+            "quantity": null,
+            "policy_id": "b1fd7e0c3ba644fe3f17117a136037390fafc8abc4ff484cf622cf0b",
+            "asset_name": "50455045436c7562333134",
+            "onchain_metadata": {
+                "name": "PEPEClub#314",
+                "image": [
+                    "https:\/\/green-occupat",
+                    "ional-albatross",
+                    "-838.mypinata.clo",
+                    "ud\/ipfs\/QmWnCXR",
+                    "AnBjwizsdZjf6",
+                    "5PV5rCo8uTrtX",
+                    "ftLMTRBgmwX4",
+                    "Q\/Pepe314.png"
+                ],
+                "project": "PEPEClub",
+                "mediaType": "image\/png",
+                "description": [
+                    "PEPEclub NFT"
+                ]
+            }
+        },
+        {
+            "asset": "b1fd7e0c3ba644fe3f17117a136037390fafc8abc4ff484cf622cf0b50455045436c7562333331",
+            "quantity": null,
+            "policy_id": "b1fd7e0c3ba644fe3f17117a136037390fafc8abc4ff484cf622cf0b",
+            "asset_name": "50455045436c7562333331",
+            "onchain_metadata": {
+                "name": "PEPEClub#331",
+                "image": [
+                    "https:\/\/green-occupat",
+                    "ional-albatross",
+                    "-838.mypinata.clo",
+                    "ud\/ipfs\/QmWnCXR",
+                    "AnBjwizsdZjf6",
+                    "5PV5rCo8uTrtX",
+                    "ftLMTRBgmwX4",
+                    "Q\/Pepe331.png"
+                ],
+                "project": "PEPEClub",
+                "mediaType": "image\/png",
+                "description": [
+                    "PEPEclub NFT"
+                ]
+            }
+        }
+    ]
+}

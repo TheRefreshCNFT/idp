@@ -1,0 +1,86 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933666,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "0cd64e7d1457ae7211e5a55fd967b0f4125bd8ab6fd63897c895cef0"
+    },
+    "assets_cache": [
+        {
+            "asset": "0cd64e7d1457ae7211e5a55fd967b0f4125bd8ab6fd63897c895cef0000de140486f70734272657765725f30353035",
+            "quantity": null,
+            "policy_id": "0cd64e7d1457ae7211e5a55fd967b0f4125bd8ab6fd63897c895cef0",
+            "asset_name": "000de140486f70734272657765725f30353035",
+            "onchain_metadata": {
+                "Hat": "444e6f6e65",
+                "Ears": "444e6f6e65",
+                "Eyes": "4d48657465726f6368726f6d6961",
+                "Hair": "55566572792053686f72742042726f776e2048616972",
+                "Mask": "444e6f6e65",
+                "Skin": "455768697465",
+                "name": "Riley Crux",
+                "Class": "4f5175616c69747920436f6e74726f6c",
+                "Mouth": "4c4e6f726d616c204d6f757468",
+                "Title": "4e4c6162205370656369616c697374",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmYg6hJviP8jMsFC6Uig67aB18JLmhBW6ZKm88dhhs4APZ",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmbRKJK8iiYquFKHP7noyJQzVcpTFCZQ3Jtt5unZdvhSzK",
+                "Outfit": "5052697070656420477261792054616e6b",
+                "Tattoo": "444e6f6e65",
+                "Glasses": "4c4d696368616c616e67656c6f",
+                "twitter": "582168747470733a2f2f747769747465722e636f6d2f484f50536f6e43617264616e6f",
+                "website": "581868747470733a2f2f686f70736f6e63617264616e6f2e696f",
+                "Left Hand": "465772656e6368",
+                "instagram": "582768747470733a2f2f7777772e696e7374616772616d2e636f6d2f686f70736f6e63617264616e6f",
+                "Background": "4542726f776e",
+                "Right Hand": "4c436c6f73656420537465696e",
+                "collection": "4c484f50532042726577657273",
+                "Accessories": "444e6f6e65",
+                "description": "A community of craft beer enthusiasts, where web2 meets web3."
+            }
+        },
+        {
+            "asset": "0cd64e7d1457ae7211e5a55fd967b0f4125bd8ab6fd63897c895cef0000de140486f70734272657765725f32323837",
+            "quantity": null,
+            "policy_id": "0cd64e7d1457ae7211e5a55fd967b0f4125bd8ab6fd63897c895cef0",
+            "asset_name": "000de140486f70734272657765725f32323837",
+            "onchain_metadata": {
+                "Hat": "4d59656c6c6f77204265616e6965",
+                "Ears": "49484f50532053747564",
+                "Eyes": "49426c75652045796573",
+                "Hair": "4442616c64",
+                "Mask": "444e6f6e65",
+                "Skin": "455768697465",
+                "name": "Hendrik Carter",
+                "Class": "4f5175616c69747920436f6e74726f6c",
+                "Mouth": "581a4c6f6e672042726f776e20426561726420576974682050697065",
+                "Title": "574665726d656e746174696f6e205370656369616c697374",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmZY1wwkGQnXNhWGnLRvqt4fDWWsepcsbpYiQZ8kBuMcMk",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmPg7U3wfnoMoGnJnjCx1acFhTA1L9fcUa3NaSAnHr81BT",
+                "Outfit": "53426c61636b20262052656420466c616e6e656c",
+                "Tattoo": "444e6f6e65",
+                "Glasses": "4c4d696368616c616e67656c6f",
+                "twitter": "582168747470733a2f2f747769747465722e636f6d2f484f50536f6e43617264616e6f",
+                "website": "581868747470733a2f2f686f70736f6e63617264616e6f2e696f",
+                "Left Hand": "4b4d6173682053686f76656c",
+                "instagram": "582768747470733a2f2f7777772e696e7374616772616d2e636f6d2f686f70736f6e63617264616e6f",
+                "Background": "4659656c6c6f77",
+                "Right Hand": "4a4f70656e20537465696e",
+                "collection": "4c484f50532042726577657273",
+                "Accessories": "444e6f6e65",
+                "description": "A community of craft beer enthusiasts, where web2 meets web3."
+            }
+        }
+    ]
+}

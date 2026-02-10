@@ -1,0 +1,78 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933788,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "d64ec7ad0a8532592d846a0adb18ac7d61998c1fae2e0d2c3939e8ed"
+    },
+    "assets_cache": [
+        {
+            "asset": "d64ec7ad0a8532592d846a0adb18ac7d61998c1fae2e0d2c3939e8ed4e46544c4553323032335669727475616c41646d69743036333539",
+            "quantity": null,
+            "policy_id": "d64ec7ad0a8532592d846a0adb18ac7d61998c1fae2e0d2c3939e8ed",
+            "asset_name": "4e46544c4553323032335669727475616c41646d69743036333539",
+            "onchain_metadata": {
+                "name": "NFT LES 2023 Virtual Admission #06359",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmT1MZda1CABKeYWjREFtWUTKNqsjPZgEMX8WCL2ejkpZh",
+                        "name": "NFT LES 2023 Virtual Admission #06359",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmTxtsrx7TQ4iBGjsLMXVA3ZkgY6wFxdDE8nUQ8KBrCb19",
+                        "name": "NFT LES 2023 Virtual Admission #06359",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "image": "ipfs:\/\/QmTxtsrx7TQ4iBGjsLMXVA3ZkgY6wFxdDE8nUQ8KBrCb19",
+                "Redeem": [
+                    "At the time of the event (April 12-14) visit NuCast.io,",
+                    "click \u2018Enter App\u2019 then \u2018Connect Wallet\u2019 and",
+                    "enjoy the virtual experience!"
+                ],
+                "artist": "Dakar Ogeee Son",
+                "Website": "https:\/\/nftles.xyz",
+                "mediaType": "image\/jpeg",
+                "Event date": "4\/12\/2023 - 4\/14\/2023",
+                "Event name": "NFT LES 2023",
+                "Description": [
+                    "Welcome to NFT LES, the premier Crypto event",
+                    "in the Lower East Side of Manhattan.",
+                    "Engage with us for the most groundbreaking themes of our time:",
+                    "Blockchain Diversity, WEB3 Music, and Social Impact.",
+                    "Get ready to join the thrilling CROSS CHAIN event of the year",
+                    "where we unite to tackle some of the most pressing challenges",
+                    "facing our community!"
+                ],
+                "Event times": "4PM EST - 2AM EST Each Day",
+                "theme music": "Yeeeah",
+                "Distribution": "https:\/\/Rapmints.xyz",
+                "Twitter NMKR": "https:\/\/twitter.com\/nmkr_io",
+                "Special thanks": [
+                    "Shout out to everyone who helped make this possible:",
+                    "Rapmints, Rapmints, Rapmints, Networking For Tomorrow,",
+                    "Hip Hop Crypto Club, Culture Keepers, The Listening Room,",
+                    "NMKR, The Cardano Foundation, Fowl Crowd, Angel Baby Hit Squad,",
+                    "ClayMates and everyone else who held us down!"
+                ],
+                "Twitter NuCast": "https:\/\/twitter.com\/NuCastIO",
+                "Twitter dsqise": "https:\/\/twitter.com\/dsqise",
+                "Twitter KydJuse": "https:\/\/twitter.com\/KydJuse",
+                "Twitter LTYDEFI": "https:\/\/twitter.com\/LTYDEFI",
+                "Twitter NFT LES": "https:\/\/twitter.com\/nftles_",
+                "Twitter rc_1137": "https:\/\/twitter.com\/rc_1137",
+                "Event production": "https:\/\/rapmints.xyz",
+                "Twitter RapMints": "https:\/\/twitter.com\/RapMints",
+                "Event location - #2": "Sour Mouse, 110 Delancey St, New York, NY 10002",
+                "Twitter Fuquan Jones": "https:\/\/twitter.com\/fuquan_jones",
+                "Twitter HHCryptoClub": "https:\/\/twitter.com\/HHCryptoClub",
+                "Twitter CultureKeepers": "https:\/\/twitter.com\/CultureKeepers",
+                "Twitter The Listening Room": "https:\/\/twitter.com\/TheListenRoom",
+                "Event location - registration": "1 and 1 Bar and Lounge, 76 E 1st St, New York, NY 10009"
+            }
+        }
+    ]
+}

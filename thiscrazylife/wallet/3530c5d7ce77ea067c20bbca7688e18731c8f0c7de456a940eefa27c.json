@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933829,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "3530c5d7ce77ea067c20bbca7688e18731c8f0c7de456a940eefa27c"
+    },
+    "assets_cache": [
+        {
+            "asset": "3530c5d7ce77ea067c20bbca7688e18731c8f0c7de456a940eefa27c436974697a656e38353134",
+            "quantity": null,
+            "policy_id": "3530c5d7ce77ea067c20bbca7688e18731c8f0c7de456a940eefa27c",
+            "asset_name": "436974697a656e38353134",
+            "onchain_metadata": {
+                "Belt": "Belt Base",
+                "name": "Citizen #8514",
+                "Drone": "Delta Drone Base",
+                "Torch": "Torch White",
+                "image": "ipfs:\/\/QmQwUJXijVTaoa1V1stS3K2ECDCaExiBCrHSU7s38PTDEL",
+                "Helmet": "Helmet Base",
+                "Talent": "Inspiring",
+                "Suit Body": "Textured Dark",
+                "mediaType": "image\/png",
+                "Communicator": "Communicator Black",
+                "Helmet Torch": "HTorch Base",
+                "Specialization": "Medic",
+                "Faction Affinity": "Technomage",
+                "Gloves and Boots": "GB Prismatic Blue"
+            }
+        }
+    ]
+}

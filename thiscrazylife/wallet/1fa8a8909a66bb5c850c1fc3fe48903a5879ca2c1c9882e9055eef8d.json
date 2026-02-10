@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933660,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "1fa8a8909a66bb5c850c1fc3fe48903a5879ca2c1c9882e9055eef8d"
+    },
+    "assets_cache": [
+        {
+            "asset": "1fa8a8909a66bb5c850c1fc3fe48903a5879ca2c1c9882e9055eef8d0014df10424f5320546f6b656e",
+            "quantity": null,
+            "policy_id": "1fa8a8909a66bb5c850c1fc3fe48903a5879ca2c1c9882e9055eef8d",
+            "asset_name": "0014df10424f5320546f6b656e",
+            "onchain_metadata": {
+                "description": "BitcoinOS brings institutions to Bitcoin DeFi via programmable BTC using ZK proofs. $BOS features buy&burn at maturity.",
+                "name": "BitcoinOS",
+                "decimals": 8,
+                "logo": "QmRpAPtsrFT94aJWJwJwiNq4HnwtK6bCR9R5rCnFKDuuEF",
+                "url": "https:\/\/www.bitcoinos.build",
+                "ticker": "BOS"
+            }
+        }
+    ]
+}

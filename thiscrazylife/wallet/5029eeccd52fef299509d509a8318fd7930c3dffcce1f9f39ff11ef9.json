@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933716,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "5029eeccd52fef299509d509a8318fd7930c3dffcce1f9f39ff11ef9"
+    },
+    "assets_cache": [
+        {
+            "asset": "5029eeccd52fef299509d509a8318fd7930c3dffcce1f9f39ff11ef9464743",
+            "quantity": null,
+            "policy_id": "5029eeccd52fef299509d509a8318fd7930c3dffcce1f9f39ff11ef9",
+            "asset_name": "464743",
+            "onchain_metadata": {
+                "name": "FabianGamerCoin",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/Qmdq5X48Bf4sRZW83DvT4yfjJfSMSYwzyh7ak8A1BbcSHw",
+                        "name": "FGC",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/Qmdq5X48Bf4sRZW83DvT4yfjJfSMSYwzyh7ak8A1BbcSHw",
+                "symbol": "FGC",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 48562752
+                },
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "description": "",
+                "totalSupply": 100000000,
+                "FabianGamerCoin": "0,000000001"
+            }
+        }
+    ]
+}

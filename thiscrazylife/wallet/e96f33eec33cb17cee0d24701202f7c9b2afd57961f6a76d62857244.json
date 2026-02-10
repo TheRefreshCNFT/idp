@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933815,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "e96f33eec33cb17cee0d24701202f7c9b2afd57961f6a76d62857244"
+    },
+    "assets_cache": [
+        {
+            "asset": "e96f33eec33cb17cee0d24701202f7c9b2afd57961f6a76d6285724457414c444f70726f6f6632",
+            "quantity": null,
+            "policy_id": "e96f33eec33cb17cee0d24701202f7c9b2afd57961f6a76d62857244",
+            "asset_name": "57414c444f70726f6f6632",
+            "onchain_metadata": {
+                "name": "Where's Waldo? The NFT",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmVDFN93R2Q3sb27WmQFemERAg5vRxT6GwZG4FXiAPKGQG",
+                        "mediaType": "text\/html"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmNkNSrZQupugFr6dSdbHwcMN8HTRY1afZw1rf2NXJkwPh",
+                        "mediaType": "text\/html"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmUM67TYq423swqCA19BmCPGx4sMae2LY19zqG9Hm1NBJw",
+                        "mediaType": "text\/html"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmfQ74L2tXy96qXE3mU5NpVB47rd7QTvhLrqDzwSQJ5vgr",
+                        "mediaType": "text\/html"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmbqQkhbHfQLwtdmP8CxVr8gB7ie7kZBgyEfxb9yg3pjQ4",
+                        "mediaType": "text\/html"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmcSWkGoQXcobZ2371faMUbtfHJ5EwcB8uRLKZ1wBwaMBQ",
+                        "mediaType": "text\/html"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmfT2gmCFXPzFXtMoVkZMokYNAbeKD3CWTQSR22tfzafgc",
+                        "mediaType": "text\/html"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmfWS9vamoDPMPnEDxcfRDmw9ByZ7op4ozp8t7SmKUJKj2",
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/QmfGuW1HWWYqkVckQ768VYBtUGFNn158SHabT51XvBGM4K",
+                "Panels": "8 Unique Adventures!",
+                "Series": "Where's Waldo",
+                "Version": "1.0",
+                "mediaType": "image\/jpeg",
+                "Developd for": "Concept Proof for Children's Book NFT",
+                "creative Developers": "The Alexandria Project"
+            }
+        }
+    ]
+}

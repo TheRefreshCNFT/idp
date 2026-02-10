@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933829,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "9915f1c20cf263a4e9e279e26b3e1b8193d3fcab6390b6c807bd82ce"
+    },
+    "assets_cache": [
+        {
+            "asset": "9915f1c20cf263a4e9e279e26b3e1b8193d3fcab6390b6c807bd82ce43617264616e6f204368726973746d6173",
+            "quantity": null,
+            "policy_id": "9915f1c20cf263a4e9e279e26b3e1b8193d3fcab6390b6c807bd82ce",
+            "asset_name": "43617264616e6f204368726973746d6173",
+            "onchain_metadata": {
+                "Year": "2025",
+                "name": "Cardano Christmas",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmfLi1aqD2FgfuKaqbqSbdRK7qpTzVcnkxHqcUXJTyDVHV",
+                        "name": "Cardano Christmas",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmfLi1aqD2FgfuKaqbqSbdRK7qpTzVcnkxHqcUXJTyDVHV",
+                "Artist": "Nas",
+                "Medium": "Digital Art",
+                "Quantity": "101",
+                "mediaType": "image\/png",
+                "description": "There is something bad about to happen!"
+            }
+        }
+    ]
+}

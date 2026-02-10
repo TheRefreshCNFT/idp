@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933721,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "78f14b5c48f9b9081ed03c87410c5a048851ad30a21b15abd3b2be41"
+    },
+    "assets_cache": [
+        {
+            "asset": "78f14b5c48f9b9081ed03c87410c5a048851ad30a21b15abd3b2be4152617265426c6f6f6d5065726b7350617373313939",
+            "quantity": null,
+            "policy_id": "78f14b5c48f9b9081ed03c87410c5a048851ad30a21b15abd3b2be41",
+            "asset_name": "52617265426c6f6f6d5065726b7350617373313939",
+            "onchain_metadata": {
+                "name": "Rare Bloom Perks Pass 199",
+                "type": "Video",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmNWU81V96BLyp5i8zGeXbNYbq8iYTKaDezAm9vPsAzXsD",
+                        "name": "Rare Bloom Perks Pass 199",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmWi6FbnsRUThKRTn4LMaGEWtsbjbAxs224H7hDpPeFwQc",
+                "artist": "Projekt",
+                "ticket": "Perks Pass",
+                "project": "Rare Bloom",
+                "twitter": "https:\/\/twitter.com\/RareBloomEvent",
+                "website": "https:\/\/rarebloom.io",
+                "mediaType": "image\/gif",
+                "collection": "Rare Bloom",
+                "description": "Rare Bloom Perks Pass NFT!"
+            }
+        }
+    ]
+}

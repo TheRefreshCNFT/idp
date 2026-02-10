@@ -1,0 +1,93 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933847,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "a5425bd7bc4182325188af2340415827a73f845846c165d9e14c5aed"
+    },
+    "assets_cache": [
+        {
+            "asset": "a5425bd7bc4182325188af2340415827a73f845846c165d9e14c5aed556e69743334373733",
+            "quantity": null,
+            "policy_id": "a5425bd7bc4182325188af2340415827a73f845846c165d9e14c5aed",
+            "asset_name": "556e69743334373733",
+            "onchain_metadata": {
+                "base": "IOHK",
+                "name": "CardanoCityUnit34773",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmTkCF8oKzPCz8TMppqJR4UtUYCpbyJdj2yjdi1bw75ZhJ",
+                        "name": "Unit34773",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmTkCF8oKzPCz8TMppqJR4UtUYCpbyJdj2yjdi1bw75ZhJ",
+                "value": "318532",
+                "poster": "Voltaire poster",
+                "contents": [
+                    {
+                        "name": "Charles's tractor",
+                        "instances": "13322"
+                    },
+                    {
+                        "name": "Cigarettes",
+                        "instances": "9981"
+                    },
+                    {
+                        "name": "Basic right chair",
+                        "instances": "13406"
+                    },
+                    {
+                        "name": "Silver Dan Schaub's mask",
+                        "instances": "13185"
+                    },
+                    {
+                        "name": "Charles's starter pack",
+                        "instances": "21716"
+                    },
+                    {
+                        "name": "Boxes coffee table",
+                        "instances": "16651"
+                    },
+                    {
+                        "name": "Charles's PC",
+                        "instances": "8446"
+                    },
+                    {
+                        "name": "White table",
+                        "instances": "19348"
+                    },
+                    {
+                        "name": "Premium left armchair",
+                        "instances": "10193"
+                    },
+                    {
+                        "name": "Trash can",
+                        "instances": "7679"
+                    },
+                    {
+                        "name": "Japanese whiskey",
+                        "instances": "6326"
+                    },
+                    {
+                        "name": "White bed",
+                        "instances": "39878"
+                    },
+                    {
+                        "name": "White shelves",
+                        "instances": "39915"
+                    },
+                    {
+                        "name": "White desk",
+                        "instances": "20246"
+                    }
+                ],
+                "mediaType": "image\/png",
+                "description": "CardanoCity",
+                "numberOfItems": "16"
+            }
+        }
+    ]
+}

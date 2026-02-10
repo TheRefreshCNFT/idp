@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933660,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "40111c1f0b10cfb950f6f432601fdc4e3a09e2661a9d6ce0e0d18864"
+    },
+    "assets_cache": [
+        {
+            "asset": "40111c1f0b10cfb950f6f432601fdc4e3a09e2661a9d6ce0e0d188645363726f6f6765",
+            "quantity": null,
+            "policy_id": "40111c1f0b10cfb950f6f432601fdc4e3a09e2661a9d6ce0e0d18864",
+            "asset_name": "5363726f6f6765",
+            "onchain_metadata": {
+                "name": "Uncle Scrooge",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmW9cczWiMeB6nCujGdP4vkvwExULYAN9ShSVxsT8i92vQ",
+                        "name": "Scrooge",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmW9cczWiMeB6nCujGdP4vkvwExULYAN9ShSVxsT8i92vQ",
+                "symbol": "Scrooge",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 116979170
+                },
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "description": "Born to be rich!",
+                "totalSupply": 1000000000
+            }
+        }
+    ]
+}

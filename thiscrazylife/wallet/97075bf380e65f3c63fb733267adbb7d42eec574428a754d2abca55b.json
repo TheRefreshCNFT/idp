@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933802,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b"
+    },
+    "assets_cache": [
+        {
+            "asset": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b436861726c6573207468652043686164",
+            "quantity": null,
+            "policy_id": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b",
+            "asset_name": "436861726c6573207468652043686164",
+            "onchain_metadata": {
+                "name": "Charles the Chad",
+                "image": "ipfs:\/\/QmUDZyqW8zb28VHkc1KGdo6hEF1hgmwNRUibPboa57QFc7",
+                "ticker": "CHAD",
+                "description": [
+                    "Born from the relentless mockery of Charles Hoskinson, Charles t",
+                    "he Chad rose as the ultimate avenger."
+                ]
+            }
+        }
+    ]
+}

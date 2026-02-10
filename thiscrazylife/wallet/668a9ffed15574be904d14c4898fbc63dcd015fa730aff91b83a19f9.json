@@ -1,0 +1,94 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933721,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "668a9ffed15574be904d14c4898fbc63dcd015fa730aff91b83a19f9"
+    },
+    "assets_cache": [
+        {
+            "asset": "668a9ffed15574be904d14c4898fbc63dcd015fa730aff91b83a19f94865796d616e54484544414e434531393937",
+            "quantity": null,
+            "policy_id": "668a9ffed15574be904d14c4898fbc63dcd015fa730aff91b83a19f9",
+            "asset_name": "4865796d616e54484544414e434531393937",
+            "onchain_metadata": {
+                "Date": [
+                    "April 13, 1997"
+                ],
+                "name": "Paul Heyman \"WELCOME TO THE DANCE\" (1997)",
+                "Event": [
+                    "ECW Barely Legal"
+                ],
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmX8m1ApQXFB9QEkDeqVt7Z9vQHEhU1TsGwKF6wGWoEv97",
+                        "name": "The Dance!",
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmSYV2oP1bLMm4maPfe8iys7p9FfSh9fz8gV638yZ5Eygy",
+                        "name": "The Event: Barely Legal 1997",
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmVRTmFcHwQ3XQDiwFb9ukzTgiDarpBnKUz2mm78icCgPy",
+                        "name": "The Individual: Paul Heyman",
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmYSZ5p2p4ZFswmTmENwSa1cjJ6vH7sCp2wxetJtB9cNG2",
+                        "name": "The Production: Behind the Scenes ",
+                        "mediaType": "image\/gif"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmYve7LQa9eMjMFkF3kjicGmnwZ7FCX4QPdy9EJK6qDgJq",
+                        "name": "The Location: ECW Arena (Philadelphia, PA)",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "image": "ipfs:\/\/QmYodj6yRKdh2x4a42MYwP9HRdoKgRLo5Zymb3ygYMELUw",
+                "Websites": {
+                    "Twitter": "https:\/\/twitter.com\/HeymanHustle",
+                    "Heyman Hustle": "https:\/\/www.heymanhustle.com\/"
+                },
+                "mediaType": "image\/jpeg",
+                "Transcript": [
+                    "17 million homes that have availability,",
+                    "tonight, will pay $20 \u2014 hopefully \u2014",
+                    "for the privilege to see you guys do what you",
+                    "have done for three-and-a-half years.",
+                    "Thank Terry Funk for all he's done",
+                    "for this company: For help putting us",
+                    "on the map. For being unselfish in selfish times",
+                    "For taking the young guys and showing them",
+                    "a better way",
+                    "Tonight, we have a chance to say,",
+                    "\"Yeah, you're right, we're too extreme;",
+                    "we're too wild; we're too out of control;",
+                    "we're too full of our own shit!\"",
+                    "Or we have a chance to say:",
+                    "\"Hey, Fuck you, you're wrong!",
+                    "Fuck you, we're right!\"",
+                    "Because you have all made it to the dance!",
+                    "Because, believe me,",
+                    "THIS IS THE DANCE!",
+                    "NOW, START THE SHOW!"
+                ],
+                "Event Location": [
+                    "ECW Arena (Philadelphia, PA)"
+                ],
+                "Featured Talent": [
+                    "Paul Heyman & ECW Lockeroom"
+                ],
+                "Event Attendance": [
+                    "1,170"
+                ],
+                "Zzz Creative Developer": {
+                    "NOODZ": "https:\/\/twitter.com\/CardanoNoodz"
+                }
+            }
+        }
+    ]
+}

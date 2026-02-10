@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933802,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "fed1c459a47cbff56bd7d29c2dde0de3e9bd15cee02b98622fce82f7"
+    },
+    "assets_cache": [
+        {
+            "asset": "fed1c459a47cbff56bd7d29c2dde0de3e9bd15cee02b98622fce82f743617264616e6f436f70706572",
+            "quantity": null,
+            "policy_id": "fed1c459a47cbff56bd7d29c2dde0de3e9bd15cee02b98622fce82f7",
+            "asset_name": "43617264616e6f436f70706572",
+            "onchain_metadata": {
+                "name": "Cardano Copper",
+                "type": "Doctrinal Copper",
+                "image": "ipfs:\/\/Qmen8jAejijdgDtQkbRXiUUr1bb23K9XshRi8bVB5GeVL4",
+                "project": "Cardano Gold",
+                "copyright": "CG",
+                "mediaType": "image\/png",
+                "description": "Doctrinal Copper"
+            }
+        },
+        {
+            "asset": "fed1c459a47cbff56bd7d29c2dde0de3e9bd15cee02b98622fce82f743617264616e6f53696c766572",
+            "quantity": null,
+            "policy_id": "fed1c459a47cbff56bd7d29c2dde0de3e9bd15cee02b98622fce82f7",
+            "asset_name": "43617264616e6f53696c766572",
+            "onchain_metadata": {
+                "name": "Cardano Silver",
+                "type": "Doctrinal Silver",
+                "image": "ipfs:\/\/QmXaRArTAJZwsonDoyUquhPiSC81nyexQYdg3gBXXyKTYu",
+                "project": "Cardano Gold",
+                "copyright": "CG",
+                "mediaType": "image\/png",
+                "description": "Doctrinal Silver"
+            }
+        }
+    ]
+}

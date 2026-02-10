@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933611,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "aac5340bace386a6dac15bd260bc085f50ae9624d403099ca391f28a"
+    },
+    "assets_cache": [
+        {
+            "asset": "aac5340bace386a6dac15bd260bc085f50ae9624d403099ca391f28a5368696c6c2d412d4d616e696123314b657a7a6556534672616374616c",
+            "quantity": null,
+            "policy_id": "aac5340bace386a6dac15bd260bc085f50ae9624d403099ca391f28a",
+            "asset_name": "5368696c6c2d412d4d616e696123314b657a7a6556534672616374616c",
+            "onchain_metadata": {
+                "name": "Shill-A-Mania#1 Kezze VS. Fractal Fuzion",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmREmRqHjsnJMhFYWXMya9Kah9AxyeEdxh15Kh2axqDXqo",
+                        "name": "",
+                        "mediaType": "video\/3gpp"
+                    }
+                ],
+                "image": "ipfs:\/\/QmR3PradNwGRMxZrnP5FrgoauXkbZhBkVKikPMYrFRdaeh",
+                "homepage": "https:\/\/fractalfuzion.com",
+                "description": "Fractal annihilates Kezze and wins the Shill-A-Mania Title"
+            }
+        }
+    ]
+}

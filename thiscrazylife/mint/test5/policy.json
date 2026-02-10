@@ -1,0 +1,22 @@
+{
+    "policyId": "d9e5500c1b710db9d7ef812571a061ed981f10321588a8b7c3d998c4",
+    "type": "open",
+    "lockUntil": null,
+    "lockUntilSlot": null,
+    "ownerKeyHash": "a8ad56a576bb5d1d7f59819b12b9dab8aae7233b8bbbc12ee57737a8",
+    "nativeScript": {
+        "type": "all",
+        "scripts": [
+            {
+                "type": "sig",
+                "keyHash": "a8ad56a576bb5d1d7f59819b12b9dab8aae7233b8bbbc12ee57737a8"
+            },
+            {
+                "type": "after",
+                "slot": "1770661256"
+            }
+        ]
+    },
+    "maxSupply": 3,
+    "createdAt": "2026-02-09T18:30:56+00:00"
+}

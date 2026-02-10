@@ -1,0 +1,61 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933796,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "f33bdf3d8243dcc3536e6ac38e066bc9f4ae444897a5f2c0821acc9b"
+    },
+    "assets_cache": [
+        {
+            "asset": "f33bdf3d8243dcc3536e6ac38e066bc9f4ae444897a5f2c0821acc9b617574756d6e207265666c656374696f6e73",
+            "quantity": null,
+            "policy_id": "f33bdf3d8243dcc3536e6ac38e066bc9f4ae444897a5f2c0821acc9b",
+            "asset_name": "617574756d6e207265666c656374696f6e73",
+            "onchain_metadata": {
+                "name": "series 1",
+                "type": "",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmVUCt7kwfnVN3gyUmAyhPedFy31iHRPrc1dQc9Tk8FdBq",
+                        "name": "",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "image": "ipfs:\/\/QmVUCt7kwfnVN3gyUmAyhPedFy31iHRPrc1dQc9Tk8FdBq",
+                "artist": "smokeridge",
+                "traits": [
+                    "autumn ",
+                    "trees",
+                    "lake"
+                ],
+                "copyright": "contact artist for copyright info. all rights reserved. ",
+                "mediaType": "image\/jpeg",
+                "publisher": "shepherdspie",
+                "description": "series 1 artwork "
+            }
+        },
+        {
+            "asset": "f33bdf3d8243dcc3536e6ac38e066bc9f4ae444897a5f2c0821acc9b736572696573206f6e65",
+            "quantity": null,
+            "policy_id": "f33bdf3d8243dcc3536e6ac38e066bc9f4ae444897a5f2c0821acc9b",
+            "asset_name": "736572696573206f6e65",
+            "onchain_metadata": {
+                "name": "",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmWZ93YN3RjYC14UiWCYiQe6RtCZ3ar6SF9gtGErNHwkUS",
+                        "name": "staff lounge retro.JPG",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "image": "ipfs:\/\/QmWZ93YN3RjYC14UiWCYiQe6RtCZ3ar6SF9gtGErNHwkUS",
+                "artist": "smokeridge",
+                "copyright": "contact artist for copyright info. all rights reserved ",
+                "mediaType": "image\/jpeg",
+                "publisher": "shepherdspie"
+            }
+        }
+    ]
+}

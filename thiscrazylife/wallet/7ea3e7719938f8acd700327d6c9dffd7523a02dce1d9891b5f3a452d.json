@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933727,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "7ea3e7719938f8acd700327d6c9dffd7523a02dce1d9891b5f3a452d"
+    },
+    "assets_cache": [
+        {
+            "asset": "7ea3e7719938f8acd700327d6c9dffd7523a02dce1d9891b5f3a452d426c6f636b4f776c73536b65746368303235",
+            "quantity": null,
+            "policy_id": "7ea3e7719938f8acd700327d6c9dffd7523a02dce1d9891b5f3a452d",
+            "asset_name": "426c6f636b4f776c73536b65746368303235",
+            "onchain_metadata": {
+                "name": "BlockOwls Sketch",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmdR7hPHUmyFkkh6nTNJf3tguWmarmWdCunAJ5WJCZ9bry",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmcLteXv9aMPCCnYPCTEXqXnAuNejUFCD5zLFNCNAww6pK",
+                "number": 25,
+                "rarity": "Rare",
+                "Chapter": "Chapter 1. GBOiC Part 2 Plutus",
+                "Project": "BlockOwls",
+                "Website": "https:\/\/blockowls.io",
+                "Software": "AI+PS+C4D+RS+AE",
+                "Minted by": "https:\/\/tygar-pool.com",
+                "attributes": [
+                    "State: Ricocheted",
+                    "Body Shape: Block",
+                    "Main Material: Digital",
+                    "Display Box Base: Digital+Digital",
+                    "Display Box Glass: Digital",
+                    "Gender : Male"
+                ],
+                "Block Owls ID": "#080",
+                "Author\/Designer": "Ctoy"
+            }
+        }
+    ]
+}

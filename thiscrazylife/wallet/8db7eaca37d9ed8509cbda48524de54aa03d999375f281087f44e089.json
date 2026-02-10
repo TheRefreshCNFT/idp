@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933740,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "8db7eaca37d9ed8509cbda48524de54aa03d999375f281087f44e089"
+    },
+    "assets_cache": [
+        {
+            "asset": "8db7eaca37d9ed8509cbda48524de54aa03d999375f281087f44e0895368657269666654455354303138",
+            "quantity": null,
+            "policy_id": "8db7eaca37d9ed8509cbda48524de54aa03d999375f281087f44e089",
+            "asset_name": "5368657269666654455354303138",
+            "onchain_metadata": {
+                "name": "SheriffTEST018",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmZDNooQjAFmH1ybtjXhrZWAK4beFyFGQmy6jtUffQZiGV",
+                        "name": "SheriffTEST018",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmZDNooQjAFmH1ybtjXhrZWAK4beFyFGQmy6jtUffQZiGV",
+                "mediaType": "image\/png",
+                "description": "I HELPED TEST THE SHERIFF SHOP"
+            }
+        }
+    ]
+}

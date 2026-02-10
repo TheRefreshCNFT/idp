@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933815,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "e52e88efcf0c21dbefe27407fc0a68137b01033d4503e2da063c7add"
+    },
+    "assets_cache": [
+        {
+            "asset": "e52e88efcf0c21dbefe27407fc0a68137b01033d4503e2da063c7add526f62696e44726163616e6f5477696e73696e546f70617a3035",
+            "quantity": null,
+            "policy_id": "e52e88efcf0c21dbefe27407fc0a68137b01033d4503e2da063c7add",
+            "asset_name": "526f62696e44726163616e6f5477696e73696e546f70617a3035",
+            "onchain_metadata": {
+                "Id": "5 of 10",
+                "name": "Twins in Topaz [05]",
+                "image": "ipfs:\/\/QmYxmZCdeVFgmuA3SMSn7YNqcbSGcwQSq38o1PDuDLYk9V",
+                "Artist": "Dracano",
+                "Creator": "Cardano Robin",
+                "Royalties": "10%",
+                "copyright": "Copyright 2021 Dracano",
+                "mediaType": "image\/jpeg",
+                "Collection": "Twins",
+                "description": [
+                    [
+                        "Airdropped to the Robin 100 Club as an appreciation from",
+                        "Dracano, who spent 100 hours composing this piece"
+                    ]
+                ],
+                "Artist Discord": "https:\/\/discord.gg\/dracano",
+                "Artist Twitter": "https:\/\/twitter.com\/dracanoart",
+                "Artist Website": "https:\/\/dracano.com\/",
+                "Creator Twitter": "https:\/\/twitter.com\/Cardano_Robin"
+            }
+        }
+    ]
+}

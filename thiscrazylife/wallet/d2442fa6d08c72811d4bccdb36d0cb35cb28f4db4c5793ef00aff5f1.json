@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933617,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "d2442fa6d08c72811d4bccdb36d0cb35cb28f4db4c5793ef00aff5f1"
+    },
+    "assets_cache": [
+        {
+            "asset": "d2442fa6d08c72811d4bccdb36d0cb35cb28f4db4c5793ef00aff5f1244652414354414c53",
+            "quantity": null,
+            "policy_id": "d2442fa6d08c72811d4bccdb36d0cb35cb28f4db4c5793ef00aff5f1",
+            "asset_name": "244652414354414c53",
+            "onchain_metadata": {
+                "name": "$FRACTALS",
+                "image": "ipfs:\/\/QmVSYd8HBAGMkDBPHsLYedAAguKcnaK649ds2rDET1Xu8N",
+                "mediaType": "image\/gif",
+                "description": "$FRACTALS are a fractal reserve \u20b3d\u20b3 \u00a2urren\u00a2y token",
+                "$FRACTALS whitepaper": "https:\/\/fractalfuzion.com\/?p=27"
+            }
+        }
+    ]
+}

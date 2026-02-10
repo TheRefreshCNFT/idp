@@ -1,0 +1,147 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933829,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "2e9b243db48643acff0ff2d4170f734641ad3dfd9af492f854c1420c"
+    },
+    "assets_cache": [
+        {
+            "asset": "2e9b243db48643acff0ff2d4170f734641ad3dfd9af492f854c1420c64656e64726f5f30353133",
+            "quantity": null,
+            "policy_id": "2e9b243db48643acff0ff2d4170f734641ad3dfd9af492f854c1420c",
+            "asset_name": "64656e64726f5f30353133",
+            "onchain_metadata": {
+                "name": "Dendro 0513",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmWWMygfqtqJCBuk8vsDwV3g21XEurrYpBayLcfP3CXt7m",
+                        "name": "dendro-0513-4096.png",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmXzDSmoSU438VDSsVio56eN8tHeezvUsSKqmM8NvX2H9K",
+                "title": "Dendro 0513",
+                "dendro": {
+                    "number": 513,
+                    "add_core": "no",
+                    "color_id": 0,
+                    "added_core": "no",
+                    "color_name": "verdigris",
+                    "current_cores": [
+                        {
+                            "cp": [
+                                16,
+                                49
+                            ],
+                            "age": 23,
+                            "life": 23,
+                            "max_r": 5
+                        },
+                        {
+                            "cp": [
+                                48,
+                                42
+                            ],
+                            "age": 17,
+                            "life": 23,
+                            "max_r": 5
+                        },
+                        {
+                            "cp": [
+                                72,
+                                56
+                            ],
+                            "age": 14,
+                            "life": 19,
+                            "max_r": 5
+                        },
+                        {
+                            "cp": [
+                                45,
+                                82
+                            ],
+                            "age": 3,
+                            "life": 17,
+                            "max_r": 7
+                        },
+                        {
+                            "cp": [
+                                44,
+                                17
+                            ],
+                            "age": 2,
+                            "life": 16,
+                            "max_r": 5
+                        }
+                    ],
+                    "previous_cores": [
+                        {
+                            "cp": [
+                                16,
+                                49
+                            ],
+                            "age": 22,
+                            "life": 23,
+                            "max_r": 5
+                        },
+                        {
+                            "cp": [
+                                48,
+                                42
+                            ],
+                            "age": 16,
+                            "life": 23,
+                            "max_r": 5
+                        },
+                        {
+                            "cp": [
+                                72,
+                                56
+                            ],
+                            "age": 13,
+                            "life": 19,
+                            "max_r": 5
+                        },
+                        {
+                            "cp": [
+                                45,
+                                82
+                            ],
+                            "age": 2,
+                            "life": 17,
+                            "max_r": 7
+                        },
+                        {
+                            "cp": [
+                                44,
+                                17
+                            ],
+                            "age": 1,
+                            "life": 16,
+                            "max_r": 5
+                        }
+                    ],
+                    "number_in_color": 110,
+                    "number_of_cores": 5,
+                    "physical_eligible": "yes",
+                    "physical_selected": "no"
+                },
+                "series": "DendroRithms",
+                "mediaType": "image\/png",
+                "description": "[color: verdigris - cores: 5]",
+                "genesis_tx_id": "4b784e7339c29f4ef1212bcc5ca56078a1e46f672587a99bcca2628df1e14d47",
+                "genesis_code_key": [
+                    "721",
+                    "2e9b243db48643acff0ff2d4170f734641ad3dfd9af492f854c1420c",
+                    "dendro_0000",
+                    "files",
+                    "0",
+                    "src"
+                ]
+            }
+        }
+    ]
+}

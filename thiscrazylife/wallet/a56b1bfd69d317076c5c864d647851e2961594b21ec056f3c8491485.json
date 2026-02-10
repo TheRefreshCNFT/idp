@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933847,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "a56b1bfd69d317076c5c864d647851e2961594b21ec056f3c8491485"
+    },
+    "assets_cache": [
+        {
+            "asset": "a56b1bfd69d317076c5c864d647851e2961594b21ec056f3c84914856473636e",
+            "quantity": null,
+            "policy_id": "a56b1bfd69d317076c5c864d647851e2961594b21ec056f3c8491485",
+            "asset_name": "6473636e",
+            "onchain_metadata": {
+                "name": "Comic Coin",
+                "image": "ipfs:\/\/QmP7mdkGzDNFhrWV3614uU2jRqtPWmcdHeBwU9XdLAji5t",
+                "ticker": "CMC",
+                "website": "https:\/\/cryptoversecomics.com\/",
+                "decimals": 0,
+                "fungible": "true",
+                "description": "Comic Coin is Cryptoverse Comics\u2019 utility token"
+            }
+        }
+    ]
+}

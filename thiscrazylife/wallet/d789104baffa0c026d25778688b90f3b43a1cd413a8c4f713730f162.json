@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933788,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "d789104baffa0c026d25778688b90f3b43a1cd413a8c4f713730f162"
+    },
+    "assets_cache": [
+        {
+            "asset": "d789104baffa0c026d25778688b90f3b43a1cd413a8c4f713730f16246355061696e",
+            "quantity": null,
+            "policy_id": "d789104baffa0c026d25778688b90f3b43a1cd413a8c4f713730f162",
+            "asset_name": "46355061696e",
+            "onchain_metadata": {
+                "name": "Pimped My Pain",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmTB4QMc3FFoaunSeBFrFMMcC4tsQwNSm81qLdXAgT12A6",
+                        "name": "Click me!",
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/QmRFHFLsvgpC9pMZp4HfLnkU6VPppXSnyj3mTCi4acnwcv",
+                "Projects": "The Refresh & PainNFT (ParaPain)",
+                "pain NFT": {
+                    "Visit": "https:\/\/twitter.com\/PainsNFT"
+                },
+                "mediaType": "image\/png",
+                "the Refresh": {
+                    "Visit": "https:\/\/twitter.com\/TheRefreshCNFT"
+                }
+            }
+        }
+    ]
+}

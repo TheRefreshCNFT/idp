@@ -1,0 +1,64 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933809,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "e03275253da130cd322ee33e80e9dc3e382ebdfa3c72ff196af33871"
+    },
+    "assets_cache": [
+        {
+            "asset": "e03275253da130cd322ee33e80e9dc3e382ebdfa3c72ff196af33871363439306263643735373930636466613837306663333265",
+            "quantity": null,
+            "policy_id": "e03275253da130cd322ee33e80e9dc3e382ebdfa3c72ff196af33871",
+            "asset_name": "363439306263643735373930636466613837306663333265",
+            "onchain_metadata": {
+                "name": "Windows of My Soul",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmTYW3BSJVK7qwdWutZ1EB2EAWH8uVNsSepryb7mvxfAPf",
+                        "name": "Windows of My Soul",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmTYW3BSJVK7qwdWutZ1EB2EAWH8uVNsSepryb7mvxfAPf",
+                "Artist": "Jolin Art",
+                "mediaType": "image\/png",
+                "Twitter QRT": "https:\/\/twitter.com\/LesJolin\/status\/1670888481696935942?s=20 ",
+                "description": " abstract digital oil painting",
+                "Base Painting 1": [
+                    "https:\/\/www.dropbox.com\/s\/58jsz65eo4kj966\/blue%20and%20pink%20ab",
+                    "stract.png?dl=0 "
+                ],
+                "Base Painting 2": [
+                    "https:\/\/www.dropbox.com\/s\/vz064bnazynf7xr\/red%20and%20green%20ab",
+                    "stract.png?dl=0"
+                ],
+                "Base Painting 3": [
+                    "https:\/\/www.dropbox.com\/s\/9qfo2f8e6vzjbye\/trees%20and%20%20mount",
+                    "ains%202.png?dl=0"
+                ],
+                "Base Painting 4": [
+                    "https:\/\/www.dropbox.com\/s\/ouykr74odp9f92o\/trees%20and%20%20mount",
+                    "ains%205.png?dl=0"
+                ],
+                "Base Painting 5": [
+                    "https:\/\/www.dropbox.com\/s\/zs6wu9jt41r79te\/windows%20shapes.png?d",
+                    "l=0"
+                ],
+                "Kreator Profile": "https:\/\/kreate.community\/@JolinArt",
+                "Sharing my creative process": [
+                    "Using the Rebelle 5 painting app, I layer several of my base abs",
+                    "tract paintings that I created and with the erasor tool, remove ",
+                    "parts I do not want, creating the overall effects I want. In thi",
+                    "s piece I also added a female figure trapped in the corner 'wind",
+                    "ow' to represent a sense of feeling trapped even in the midst of",
+                    " what appears to be the  joy, light and colors of the soul.   be",
+                    "low  are the links to the base paintings. "
+                ],
+                "hand-drawn digital oil painting": "3800 x 3700 pixels\/ 600 dpi"
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933727,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "81a79b19f1418c7f5264da479603133d94ebf49b63d28567c9999990"
+    },
+    "assets_cache": [
+        {
+            "asset": "81a79b19f1418c7f5264da479603133d94ebf49b63d28567c9999990535854313436",
+            "quantity": null,
+            "policy_id": "81a79b19f1418c7f5264da479603133d94ebf49b63d28567c9999990",
+            "asset_name": "535854313436",
+            "onchain_metadata": {
+                "Help": "100% of the profits go to help the social project 'Sexta e Nois'",
+                "name": "Sexta e Nois 146",
+                "image": "ipfs:\/\/QmVmKbjWQs2TC77wDvtMA8y83MkMrmUNWCM4DUMaQXJJ6S",
+                "Message": "Thanks for believe in our dreams. God bless u ",
+                "Production": [
+                    "StreetArtsCNFT\/STONKS_BR",
+                    "https:\/\/www.streetarts.com.br\/",
+                    "Minted by Fred",
+                    "Stake Pool [TAILS]",
+                    "https:\/\/www.metromermaids.com\/"
+                ],
+                "Social Media": [
+                    "https:\/\/www.instagram.com\/sexta.e.nois\/",
+                    "https:\/\/www.facebook.com\/sexta.e.nois"
+                ]
+            }
+        }
+    ]
+}

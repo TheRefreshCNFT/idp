@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933710,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "0630f3c969f03eec53c36805ce52d766dc5077ea412e708292750fbd"
+    },
+    "assets_cache": [
+        {
+            "asset": "0630f3c969f03eec53c36805ce52d766dc5077ea412e708292750fbd4269674a6f6533",
+            "quantity": null,
+            "policy_id": "0630f3c969f03eec53c36805ce52d766dc5077ea412e708292750fbd",
+            "asset_name": "4269674a6f6533",
+            "onchain_metadata": {
+                "name": "Uncle Sam - Big Joe",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmeBqjWTb8v9q1aCG1XGaN2FWFRwZzyYS9Haec3EMBUkSc",
+                        "name": "'Uncle Sam' by Big Joe the Don ft. The Holy Binns",
+                        "mediaType": "audio\/wav"
+                    }
+                ],
+                "image": "ipfs:\/\/QmeABKrXdhRvTJ5EqmobeMP3b1GrzY2LuXNFojyosnaH1h",
+                "mediaType": "image\/jpeg",
+                "Produced by": "WillyBoy",
+                "Contributors": [
+                    "Big Joe the Don, Dayna, HyperToddArt, Krypto Threadz",
+                    "Musikavi, OddShapeShadow, SchhhArt, The Holy Binns"
+                ],
+                "presented by": "WEED Stakepool"
+            }
+        }
+    ]
+}

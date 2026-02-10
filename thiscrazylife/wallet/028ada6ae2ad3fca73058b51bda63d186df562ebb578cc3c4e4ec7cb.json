@@ -1,0 +1,192 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933710,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "028ada6ae2ad3fca73058b51bda63d186df562ebb578cc3c4e4ec7cb"
+    },
+    "assets_cache": [
+        {
+            "asset": "028ada6ae2ad3fca73058b51bda63d186df562ebb578cc3c4e4ec7cb42697446696e734b6f7269546f6b656e33313138",
+            "quantity": null,
+            "policy_id": "028ada6ae2ad3fca73058b51bda63d186df562ebb578cc3c4e4ec7cb",
+            "asset_name": "42697446696e734b6f7269546f6b656e33313138",
+            "onchain_metadata": {
+                "GIF": "ipfs:\/\/QmSgPTiqsxTxT48MNbEA2QjSRuGywTyA5kcM4KDeouRf6X",
+                "Lore": [
+                    "Kori are an ancient technology with ethereal origins.",
+                    "Legend has it that these tokens have the power to",
+                    "summon secret relics, create entirely new creatures,",
+                    "and even revive those thought to be lost to this realm."
+                ],
+                "name": "Kori #3118",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmZTbEyeKDS7yMgcify5YJ8zyyFrRfWJRoysVteHoHyzyi",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmSgPTiqsxTxT48MNbEA2QjSRuGywTyA5kcM4KDeouRf6X",
+                "Artist": [
+                    "Dreamcoin",
+                    "Shamnium"
+                ],
+                "Series": "KoriToken",
+                "source": "ipfs:\/\/QmZTbEyeKDS7yMgcify5YJ8zyyFrRfWJRoysVteHoHyzyi",
+                "copyright": "BitFins \u00a9 2021",
+                "mediatype": "Video",
+                "publisher": [
+                    "BitFins",
+                    "https:\/\/bitfins.io",
+                    "https:\/\/twitter.com\/BitFins"
+                ]
+            }
+        },
+        {
+            "asset": "028ada6ae2ad3fca73058b51bda63d186df562ebb578cc3c4e4ec7cb42697446696e734b6f7269546f6b656e33323830",
+            "quantity": null,
+            "policy_id": "028ada6ae2ad3fca73058b51bda63d186df562ebb578cc3c4e4ec7cb",
+            "asset_name": "42697446696e734b6f7269546f6b656e33323830",
+            "onchain_metadata": {
+                "GIF": "ipfs:\/\/QmSgPTiqsxTxT48MNbEA2QjSRuGywTyA5kcM4KDeouRf6X",
+                "Lore": [
+                    "Kori are an ancient technology with ethereal origins.",
+                    "Legend has it that these tokens have the power to",
+                    "summon secret relics, create entirely new creatures,",
+                    "and even revive those thought to be lost to this realm."
+                ],
+                "name": "Kori #3280",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmZTbEyeKDS7yMgcify5YJ8zyyFrRfWJRoysVteHoHyzyi",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmSgPTiqsxTxT48MNbEA2QjSRuGywTyA5kcM4KDeouRf6X",
+                "Artist": [
+                    "Dreamcoin",
+                    "Shamnium"
+                ],
+                "Series": "KoriToken",
+                "source": "ipfs:\/\/QmZTbEyeKDS7yMgcify5YJ8zyyFrRfWJRoysVteHoHyzyi",
+                "copyright": "BitFins \u00a9 2021",
+                "mediatype": "Video",
+                "publisher": [
+                    "BitFins",
+                    "https:\/\/bitfins.io",
+                    "https:\/\/twitter.com\/BitFins"
+                ]
+            }
+        },
+        {
+            "asset": "028ada6ae2ad3fca73058b51bda63d186df562ebb578cc3c4e4ec7cb42697446696e734b6f7269546f6b656e33323937",
+            "quantity": null,
+            "policy_id": "028ada6ae2ad3fca73058b51bda63d186df562ebb578cc3c4e4ec7cb",
+            "asset_name": "42697446696e734b6f7269546f6b656e33323937",
+            "onchain_metadata": {
+                "GIF": "ipfs:\/\/QmSgPTiqsxTxT48MNbEA2QjSRuGywTyA5kcM4KDeouRf6X",
+                "Lore": [
+                    "Kori are an ancient technology with ethereal origins.",
+                    "Legend has it that these tokens have the power to",
+                    "summon secret relics, create entirely new creatures,",
+                    "and even revive those thought to be lost to this realm."
+                ],
+                "name": "Kori #3297",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmZTbEyeKDS7yMgcify5YJ8zyyFrRfWJRoysVteHoHyzyi",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmSgPTiqsxTxT48MNbEA2QjSRuGywTyA5kcM4KDeouRf6X",
+                "Artist": [
+                    "Dreamcoin",
+                    "Shamnium"
+                ],
+                "Series": "KoriToken",
+                "source": "ipfs:\/\/QmZTbEyeKDS7yMgcify5YJ8zyyFrRfWJRoysVteHoHyzyi",
+                "copyright": "BitFins \u00a9 2021",
+                "mediatype": "Video",
+                "publisher": [
+                    "BitFins",
+                    "https:\/\/bitfins.io",
+                    "https:\/\/twitter.com\/BitFins"
+                ]
+            }
+        },
+        {
+            "asset": "028ada6ae2ad3fca73058b51bda63d186df562ebb578cc3c4e4ec7cb42697446696e734b6f7269546f6b656e33333736",
+            "quantity": null,
+            "policy_id": "028ada6ae2ad3fca73058b51bda63d186df562ebb578cc3c4e4ec7cb",
+            "asset_name": "42697446696e734b6f7269546f6b656e33333736",
+            "onchain_metadata": {
+                "GIF": "ipfs:\/\/QmSgPTiqsxTxT48MNbEA2QjSRuGywTyA5kcM4KDeouRf6X",
+                "Lore": [
+                    "Kori are an ancient technology with ethereal origins.",
+                    "Legend has it that these tokens have the power to",
+                    "summon secret relics, create entirely new creatures,",
+                    "and even revive those thought to be lost to this realm."
+                ],
+                "name": "Kori #3376",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmZTbEyeKDS7yMgcify5YJ8zyyFrRfWJRoysVteHoHyzyi",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmSgPTiqsxTxT48MNbEA2QjSRuGywTyA5kcM4KDeouRf6X",
+                "Artist": [
+                    "Dreamcoin",
+                    "Shamnium"
+                ],
+                "Series": "KoriToken",
+                "source": "ipfs:\/\/QmZTbEyeKDS7yMgcify5YJ8zyyFrRfWJRoysVteHoHyzyi",
+                "copyright": "BitFins \u00a9 2021",
+                "mediatype": "Video",
+                "publisher": [
+                    "BitFins",
+                    "https:\/\/bitfins.io",
+                    "https:\/\/twitter.com\/BitFins"
+                ]
+            }
+        },
+        {
+            "asset": "028ada6ae2ad3fca73058b51bda63d186df562ebb578cc3c4e4ec7cb42697446696e734b6f7269546f6b656e393237",
+            "quantity": null,
+            "policy_id": "028ada6ae2ad3fca73058b51bda63d186df562ebb578cc3c4e4ec7cb",
+            "asset_name": "42697446696e734b6f7269546f6b656e393237",
+            "onchain_metadata": {
+                "GIF": "ipfs:\/\/QmSgPTiqsxTxT48MNbEA2QjSRuGywTyA5kcM4KDeouRf6X",
+                "Lore": [
+                    "Kori are an ancient technology with ethereal origins.",
+                    "Legend has it that these tokens have the power to",
+                    "summon secret relics, create entirely new creatures,",
+                    "and even revive those thought to be lost to this realm."
+                ],
+                "name": "Kori #927",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmZTbEyeKDS7yMgcify5YJ8zyyFrRfWJRoysVteHoHyzyi",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmSgPTiqsxTxT48MNbEA2QjSRuGywTyA5kcM4KDeouRf6X",
+                "Artist": [
+                    "Dreamcoin",
+                    "Shamnium"
+                ],
+                "Series": "KoriToken",
+                "source": "ipfs:\/\/QmZTbEyeKDS7yMgcify5YJ8zyyFrRfWJRoysVteHoHyzyi",
+                "copyright": "BitFins \u00a9 2021",
+                "mediatype": "Video",
+                "publisher": [
+                    "BitFins",
+                    "https:\/\/bitfins.io",
+                    "https:\/\/twitter.com\/BitFins"
+                ]
+            }
+        }
+    ]
+}

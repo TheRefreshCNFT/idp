@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933752,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "160a880d9fc45380737cb7e57ff859763230aab28b3ef6a84007bfcc"
+    },
+    "assets_cache": [
+        {
+            "asset": "160a880d9fc45380737cb7e57ff859763230aab28b3ef6a84007bfcc4d495241",
+            "quantity": null,
+            "policy_id": "160a880d9fc45380737cb7e57ff859763230aab28b3ef6a84007bfcc",
+            "asset_name": "4d495241",
+            "onchain_metadata": {
+                "url": "https:\/\/chainsofwar.io\/",
+                "name": "MIRA - Chains of War",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmXKCxrBEqXn9qiSeAutZM8BLTjJADcU3wpWSkY98xcSpE",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmXKCxrBEqXn9qiSeAutZM8BLTjJADcU3wpWSkY98xcSpE",
+                "ticker": "MIRA",
+                "description": "The Official Chains of War Token"
+            }
+        }
+    ]
+}

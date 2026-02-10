@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933710,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "048044033c2d77bee83d18b5ac4a156c36516b507e8974522a02caa3"
+    },
+    "assets_cache": [
+        {
+            "asset": "048044033c2d77bee83d18b5ac4a156c36516b507e8974522a02caa3446f6e204475636b79",
+            "quantity": null,
+            "policy_id": "048044033c2d77bee83d18b5ac4a156c36516b507e8974522a02caa3",
+            "asset_name": "446f6e204475636b79",
+            "onchain_metadata": {
+                "name": "Don Ducky",
+                "image": "ipfs:\/\/QmWduDxT97a683b1nNKAhDUAYDzzLwgiLKWdSGQwB7kBBZ",
+                "ticker": "DD",
+                "description": [
+                    "In a world where bread crumbs rule the pond, one duckling rises ",
+                    "above the rest. Hes small, fluffy, and waddles with authority, b",
+                    "ut dont be fooledthis baby duck holds all the power. With a quac",
+                    "k, he can make the pond go silent. Cross him? You sleep with the",
+                    " fishes. Literally. He may be tiny, but in this pond, nothings p",
+                    "ersonal, when it gets down to business, nobody says no to Don Du",
+                    "cky. "
+                ]
+            }
+        }
+    ]
+}

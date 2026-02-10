@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933623,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "ea153b5d4864af15a1079a94a0e2486d6376fa28aafad272d15b243a"
+    },
+    "assets_cache": [
+        {
+            "asset": "ea153b5d4864af15a1079a94a0e2486d6376fa28aafad272d15b243a0014df10536861726473",
+            "quantity": null,
+            "policy_id": "ea153b5d4864af15a1079a94a0e2486d6376fa28aafad272d15b243a",
+            "asset_name": "0014df10536861726473",
+            "onchain_metadata": {
+                "Era": "45416c706861",
+                "url": "ipfs:\/\/QmUyYj4AbynZitQg32MdFpGtzYn4v2LSGfN4rj9YV6rJs2",
+                "logo": "ipfs:\/\/QmUyYj4AbynZitQg32MdFpGtzYn4v2LSGfN4rj9YV6rJs2",
+                "name": "Shards",
+                "ticker": "$SHARDS",
+                "decimals": 6,
+                "mediaType": "49696d6167652f706e67",
+                "description": "$SHARDS are the utility token powering the Flux Point Studios ecosystem! Read more about $SHARDS at www.fluxpointstudios.com\/shards \n\nFinal Max Supply: 5,000,000 $SHARDS\n\n"
+            }
+        }
+    ]
+}

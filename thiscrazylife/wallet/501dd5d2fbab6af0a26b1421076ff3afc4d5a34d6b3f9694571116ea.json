@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933716,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "501dd5d2fbab6af0a26b1421076ff3afc4d5a34d6b3f9694571116ea"
+    },
+    "assets_cache": [
+        {
+            "asset": "501dd5d2fbab6af0a26b1421076ff3afc4d5a34d6b3f9694571116ea4b4f4e4441",
+            "quantity": null,
+            "policy_id": "501dd5d2fbab6af0a26b1421076ff3afc4d5a34d6b3f9694571116ea",
+            "asset_name": "4b4f4e4441",
+            "onchain_metadata": {
+                "name": "AdaKONDA",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmPEXenyo6ueLQwbLZvEMvFvfQD99pFxFDfgvmtUQWaF2G",
+                        "name": "KONDA",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmPEXenyo6ueLQwbLZvEMvFvfQD99pFxFDfgvmtUQWaF2G",
+                "symbol": "KONDA",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 92405079
+                },
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "description": "$KONDA, to infinity and beyonda!",
+                "totalSupply": 84322711100
+            }
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933802,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "9293316c91ff5143e3bc60d78d44dfb87edff59d61b99cf4c938d908"
+    },
+    "assets_cache": [
+        {
+            "asset": "9293316c91ff5143e3bc60d78d44dfb87edff59d61b99cf4c938d9084142544e",
+            "quantity": null,
+            "policy_id": "9293316c91ff5143e3bc60d78d44dfb87edff59d61b99cf4c938d908",
+            "asset_name": "4142544e",
+            "onchain_metadata": {
+                "URL": "https:\/\/butane-portal.com",
+                "name": "Butane Reward Ticket",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmWfVJ6r8HMM4sksxaq4NXcLJNM4NmLNXVqqpY1MJgewFh",
+                        "name": "ABTN",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmWfVJ6r8HMM4sksxaq4NXcLJNM4NmLNXVqqpY1MJgewFh",
+                "symbol": "ABTN",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 117624166
+                },
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "description": "Butane Reward Ticket. URL: https:\/\/butane-portal.com",
+                "totalSupply": 1000000
+            }
+        }
+    ]
+}

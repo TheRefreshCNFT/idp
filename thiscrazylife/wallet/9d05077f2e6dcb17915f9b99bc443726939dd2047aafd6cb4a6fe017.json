@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933623,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "9d05077f2e6dcb17915f9b99bc443726939dd2047aafd6cb4a6fe017"
+    },
+    "assets_cache": [
+        {
+            "asset": "9d05077f2e6dcb17915f9b99bc443726939dd2047aafd6cb4a6fe017524f4c4c",
+            "quantity": null,
+            "policy_id": "9d05077f2e6dcb17915f9b99bc443726939dd2047aafd6cb4a6fe017",
+            "asset_name": "524f4c4c",
+            "onchain_metadata": {
+                "icon": [
+                    "ipfs:\/\/bafkreiedbr25lvytprx234buuy2hyelcplqlsvii4ody5ux6c6eamgnw",
+                    "ny"
+                ],
+                "name": "Roll",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/bafkreiedbr25lvytprx234buuy2hyelcplqlsvii4ody5ux6c6eamgnw",
+                            "ny"
+                        ],
+                        "name": "Roll",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": [
+                    "ipfs:\/\/bafkreiedbr25lvytprx234buuy2hyelcplqlsvii4ody5ux6c6eamgnw",
+                    "ny"
+                ],
+                "ticker": "ROLL",
+                "website": "https:\/\/farmroll.io",
+                "decimals": 6,
+                "mediaType": "image\/png",
+                "description": "$ROLL is Farmroll's utility token."
+            }
+        }
+    ]
+}

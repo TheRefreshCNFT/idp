@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933735,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "885742cd7e0dad321622b5d3ad186797bd50c44cbde8b48be1583fbd"
+    },
+    "assets_cache": [
+        {
+            "asset": "885742cd7e0dad321622b5d3ad186797bd50c44cbde8b48be1583fbd534b554c4c",
+            "quantity": null,
+            "policy_id": "885742cd7e0dad321622b5d3ad186797bd50c44cbde8b48be1583fbd",
+            "asset_name": "534b554c4c",
+            "onchain_metadata": {
+                "url": "https:\/\/nemo.global",
+                "name": "SKULL",
+                "image": "ipfs:\/\/QmeXW717GomvzBzdAVBf6uPzNzodBWdiC6xWDthtUxcfdj",
+                "mediaType": "image\/png",
+                "description": "WGMI"
+            }
+        }
+    ]
+}

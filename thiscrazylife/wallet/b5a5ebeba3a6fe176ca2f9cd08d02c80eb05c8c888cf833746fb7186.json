@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933852,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "b5a5ebeba3a6fe176ca2f9cd08d02c80eb05c8c888cf833746fb7186"
+    },
+    "assets_cache": [
+        {
+            "asset": "b5a5ebeba3a6fe176ca2f9cd08d02c80eb05c8c888cf833746fb7186426172546f6b656e203631",
+            "quantity": null,
+            "policy_id": "b5a5ebeba3a6fe176ca2f9cd08d02c80eb05c8c888cf833746fb7186",
+            "asset_name": "426172546f6b656e203631",
+            "onchain_metadata": {
+                "name": "Bar Token 61",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/Qmf6mS55rjRuahnJGjMS4xunAgNsorV7tCEgFewJDbQg3n",
+                        "name": "Bar Token 61",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmcvBnKSWsEvgxZPCCvtGM4mAY3L625MWF7h6AMt8NmkyA",
+                        "name": "Stank Ape #97",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/Qmf6mS55rjRuahnJGjMS4xunAgNsorV7tCEgFewJDbQg3n",
+                "mediaType": "image\/png",
+                "attributes": {
+                    "stankId": "97"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933643,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "6dafadfc87c0a5091bd0ff952948760f84042e4b53beeb89ee839b54"
+    },
+    "assets_cache": [
+        {
+            "asset": "6dafadfc87c0a5091bd0ff952948760f84042e4b53beeb89ee839b544c6973466f72",
+            "quantity": null,
+            "policy_id": "6dafadfc87c0a5091bd0ff952948760f84042e4b53beeb89ee839b54",
+            "asset_name": "4c6973466f72",
+            "onchain_metadata": {
+                "name": "\"L is For\"",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/QmRoqcymj3EANxhgRQ41n36B3xYoe3xXhbQPh3u3fjTy3K"
+                        ],
+                        "mediaType": "image\/gif"
+                    }
+                ],
+                "image": "ipfs:\/\/QmRPVLnhJQmV99Wfo7f7oDcZzcMEuWyUiRmH6prNw6eNcr",
+                "artist": "SamRed and Ju5ts0cRypt0",
+                "summary": "Mixed media on canvas, animated.  #SamRed @JRypt0",
+                "assetType": "NFT",
+                "mediaType": "image\/jpeg",
+                "publisher": [
+                    "https:\/\/www.twitter.com\/JRypt0",
+                    "https:\/\/tokhun.io"
+                ],
+                "attributes": {
+                    "Animal": "LION",
+                    "Letter": "L",
+                    "Animations": "Ju5ts0cRypt0",
+                    "Background": [
+                        "Library Cards",
+                        "Paint Swatches",
+                        "Inks",
+                        "Paint Marker and LOVE!!!"
+                    ],
+                    "Flashy Bits": [
+                        "\"King\" Crown",
+                        "Beating Heart",
+                        "Glitter and Flash"
+                    ],
+                    "Photography": "Eric DeHaven  https:\/\/www.ericdphoto.com\/",
+                    "On Canvas Art": "SamRed"
+                },
+                "collection": "SamRed",
+                "description": [
+                    "\"L is For\" is part of the second series of CNFTs from project Sa",
+                    "mRed"
+                ]
+            }
+        },
+        {
+            "asset": "6dafadfc87c0a5091bd0ff952948760f84042e4b53beeb89ee839b544d494e445357494d4d494e47303036",
+            "quantity": null,
+            "policy_id": "6dafadfc87c0a5091bd0ff952948760f84042e4b53beeb89ee839b54",
+            "asset_name": "4d494e445357494d4d494e47303036",
+            "onchain_metadata": {
+                "name": "MINDSWIMMING #006",
+                "files": {
+                    "src": "ipfs:\/\/QmcpKQhFraEfLU3wo8wE5KEPYoM1vbar8fw4GqjfYtALLx",
+                    "mediaType": "image\/gif"
+                },
+                "image": "ipfs:\/\/QmcpKQhFraEfLU3wo8wE5KEPYoM1vbar8fw4GqjfYtALLx",
+                "artist": "Ju5ts0cRypt0",
+                "summary": "Mixed media on canvas, animated.  #SamRed @JRypt0",
+                "assetType": "NFT",
+                "mediaType": "image\/gif",
+                "publisher": [
+                    "https:\/\/www.twitter.com\/JRypt0",
+                    "https:\/\/tokhun.io"
+                ],
+                "attributes": {
+                    "": "addr1v8wsawzx8x84k4x7des59fffp6rdg2e3xxh7ddznewm9tvgdwh4rz"
+                },
+                "collection": "SamRed"
+            }
+        }
+    ]
+}

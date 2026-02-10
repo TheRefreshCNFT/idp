@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933617,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "d0af056c509b6b1133cd83a750b7245e561169281fde3df1cb6e2d96"
+    },
+    "assets_cache": [
+        {
+            "asset": "d0af056c509b6b1133cd83a750b7245e561169281fde3df1cb6e2d96506f6f6c5065656b436f696e",
+            "quantity": null,
+            "policy_id": "d0af056c509b6b1133cd83a750b7245e561169281fde3df1cb6e2d96",
+            "asset_name": "506f6f6c5065656b436f696e",
+            "onchain_metadata": {
+                "name": "PoolPeekCoin",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmQDPkdzUQtQD8o1NsPnBDZPgfZGyBKKNd2RCpZSGCgbpr",
+                        "name": "PoolPeekCoin",
+                        "mediaType": "image\/gif"
+                    }
+                ],
+                "image": "ipfs:\/\/QmQDPkdzUQtQD8o1NsPnBDZPgfZGyBKKNd2RCpZSGCgbpr",
+                "mediaType": "image\/gif",
+                "Created By": "@PoolShamrock, @BraveHeartStak3, @M1Crypto1",
+                "description": "PoolPeek Rewards Coin",
+                "Twitter Account": "@CardanoPoolPeek",
+                "Date Of Creation": "29\/12\/2021",
+                "PoolPeek Website": "https:\/\/poolpeek.com\/#\/",
+                "Telegram Account": "https:\/\/t.me\/poolpeek",
+                "Total Coins in Circulation": "21,000,000"
+            }
+        }
+    ]
+}

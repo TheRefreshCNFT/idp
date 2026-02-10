@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933704,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "ea2d23f1fa631b414252824c153f2d6ba833506477a929770a4dd9c2"
+    },
+    "assets_cache": [
+        {
+            "asset": "ea2d23f1fa631b414252824c153f2d6ba833506477a929770a4dd9c24d414442554c",
+            "quantity": null,
+            "policy_id": "ea2d23f1fa631b414252824c153f2d6ba833506477a929770a4dd9c2",
+            "asset_name": "4d414442554c",
+            "onchain_metadata": {
+                "name": "MAdbuLL token",
+                "image": "ipfs:\/\/QmTCkkedkTqPoXbenDx57mR2TVrDVNmvi8n36T1qyDADhm",
+                "website": "https:\/\/madbull.io"
+            }
+        }
+    ]
+}

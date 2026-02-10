@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933649,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "70dd7ddb331dd9dcf23c417f33ae0a1673bb95d613d83e0e5983abd8"
+    },
+    "assets_cache": [
+        {
+            "asset": "70dd7ddb331dd9dcf23c417f33ae0a1673bb95d613d83e0e5983abd84361707461696e4f6644616564616c757330333035",
+            "quantity": null,
+            "policy_id": "70dd7ddb331dd9dcf23c417f33ae0a1673bb95d613d83e0e5983abd8",
+            "asset_name": "4361707461696e4f6644616564616c757330333035",
+            "onchain_metadata": {
+                "name": "I am your Captain #0305",
+                "site": "bondly.finance",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmdCWYpj9QXuA46uhYXjBvYY6TUvfsoVwDuNxNkuBQge25",
+                        "name": "I am your Captain #0305",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmZbSc93fwgLNwwCJtARcegSwHAZg4WaLmKVFtbpgJH9iQ",
+                "twitter": "@BondlyFinance",
+                "utility": "Priority access to upcoming NFT sale with Bondly & IOG",
+                "mediaType": "image\/png",
+                "description": "Welcome aboard the Daedalus. Please present your ticket to board"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933796,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "fde909e751c20f82314deb637a36061d86e68d84210d6235cb05c7a1"
+    },
+    "assets_cache": [
+        {
+            "asset": "fde909e751c20f82314deb637a36061d86e68d84210d6235cb05c7a1507572706c655261696e303031",
+            "quantity": null,
+            "policy_id": "fde909e751c20f82314deb637a36061d86e68d84210d6235cb05c7a1",
+            "asset_name": "507572706c655261696e303031",
+            "onchain_metadata": {
+                "name": "Purple Rain #001",
+                "files": {
+                    "src": "ipfs:\/\/QmNVC55YcRqqMLQo4JUY7CJ7HNnBeyW4AvfNqNbj4bJv1s",
+                    "mediaType": "image\/gif"
+                },
+                "image": "ipfs:\/\/QmNVC55YcRqqMLQo4JUY7CJ7HNnBeyW4AvfNqNbj4bJv1s",
+                "artist": "Inoneselement",
+                "summary": "Required Elements",
+                "assetType": "NFT",
+                "mediaType": "image\/gif",
+                "publisher": [
+                    "https:\/\/discord.gg\/8HkDkrr5Af",
+                    "https:\/\/tokhun.io"
+                ],
+                "collection": "New World Architecture",
+                "description": [
+                    "Elemental influence, in this case water on the window and the",
+                    "perception of a Rain Mandala."
+                ]
+            }
+        }
+    ]
+}

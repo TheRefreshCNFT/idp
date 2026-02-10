@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933617,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "e142db70d9fb58ef32e3ce2acd81b2dfeb89604036587657dee4c015"
+    },
+    "assets_cache": [
+        {
+            "asset": "e142db70d9fb58ef32e3ce2acd81b2dfeb89604036587657dee4c0154f46464552494e47303231",
+            "quantity": null,
+            "policy_id": "e142db70d9fb58ef32e3ce2acd81b2dfeb89604036587657dee4c015",
+            "asset_name": "4f46464552494e47303231",
+            "onchain_metadata": {
+                "name": "OFFERING - 021",
+                "House": "Gratitude",
+                "Order": "Offering",
+                "image": "ipfs:\/\/QmTUvWV82chP8WEoTiKbXa4wUZiHWdXMMsRK9TtDTRVnxX",
+                "Artist": "SkullTakes x Ai",
+                "Twitter": "https:\/\/Twitter.com\/SkullTakes",
+                "Website": "skulltakes.io",
+                "mediaType": "image\/png",
+                "Attributes": "Regard - Appreciation - Respect",
+                "Tempering Forces": "Obligation - Pride",
+                "Path Of Discovery": "Acknowledgement"
+            }
+        }
+    ]
+}

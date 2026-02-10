@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933771,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "6ddd6503e0ab63538c77bd51f679b9ed84998af89901b01ce3dace88"
+    },
+    "assets_cache": [
+        {
+            "asset": "6ddd6503e0ab63538c77bd51f679b9ed84998af89901b01ce3dace885369636b43697479333337",
+            "quantity": null,
+            "policy_id": "6ddd6503e0ab63538c77bd51f679b9ed84998af89901b01ce3dace88",
+            "asset_name": "5369636b43697479333337",
+            "onchain_metadata": {
+                "name": "SickCity337 - Oracle",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmNcxZeWAtHvrAUkKQuYirRgsnQDEQtHevQC4MpZmJqYHf",
+                        "name": "Oracle - You Can't Stop Me",
+                        "mediaType": "audio\/mp3"
+                    }
+                ],
+                "image": "ipfs:\/\/QmXV9XFpojRVLN4GLZxcVNrapu9F4pK7CXCZbAzYMmqgRp",
+                "release": {
+                    "links": {
+                        "twitter": "https:\/\/twitter.com\/thelistenroom",
+                        "linktree": "https:\/\/linktr.ee\/thelistenroom",
+                        "discord_invite": "https:\/\/discord.gg\/ruenexDAUP"
+                    },
+                    "genres": [
+                        "house",
+                        "deep house"
+                    ],
+                    "artists": [
+                        "Oracle",
+                        "DSQISE",
+                        "JUSE",
+                        "Andrew Donovan",
+                        "Irie Reyna"
+                    ],
+                    "copyright": "Oracle \u2117 2022",
+                    "collection": "Epoch Genesis v1",
+                    "song_title": "You Can't Stop Me",
+                    "release_type": "Single",
+                    "track_number": 1,
+                    "release_title": "You Can't Stop Me",
+                    "song_duration": "PT3M50S"
+                },
+                "music_metadata_version": "v2"
+            }
+        },
+        {
+            "asset": "6ddd6503e0ab63538c77bd51f679b9ed84998af89901b01ce3dace885369636b43697479333338",
+            "quantity": null,
+            "policy_id": "6ddd6503e0ab63538c77bd51f679b9ed84998af89901b01ce3dace88",
+            "asset_name": "5369636b43697479333338",
+            "onchain_metadata": {
+                "name": "SickCity338 - HOTFROOT",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmZuUHf93ntRHJ2Tf2WhJjMN3uq26yehK7g8kGzfUnT6dE",
+                        "name": "HOTFROOT - Pink Lemonade",
+                        "mediaType": "audio\/mp3"
+                    }
+                ],
+                "image": "ipfs:\/\/QmWJhbPr5yTZdX7cQo4XPf6FtpEXV8HJua1sYWe1jBM6RZ",
+                "release": {
+                    "links": {
+                        "twitter": "https:\/\/twitter.com\/HOTFROOTS",
+                        "website": "https:\/\/www.hotfroot.com\/"
+                    },
+                    "genres": [
+                        "electronic",
+                        "house"
+                    ],
+                    "artists": [
+                        "HOTFROOT"
+                    ],
+                    "copyright": "CC BY-SA 4.0",
+                    "collection": "Epoch Genesis v1",
+                    "song_title": "Pink Lemonade",
+                    "release_type": "Single",
+                    "track_number": 1,
+                    "release_title": "Pink Lemonade",
+                    "song_duration": "PT3M39S"
+                },
+                "music_metadata_version": "v2"
+            }
+        },
+        {
+            "asset": "6ddd6503e0ab63538c77bd51f679b9ed84998af89901b01ce3dace885369636b43697479333339",
+            "quantity": null,
+            "policy_id": "6ddd6503e0ab63538c77bd51f679b9ed84998af89901b01ce3dace88",
+            "asset_name": "5369636b43697479333339",
+            "onchain_metadata": {
+                "name": "SickCity339 - Krime Fyter",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmabX2848tVk8DJrwQVrtkYGZFiFPHtZVbbHK4ZUV9UwWv",
+                        "name": "Krime Fyter - DripDropz",
+                        "mediaType": "audio\/mp3"
+                    }
+                ],
+                "image": "ipfs:\/\/QmYqjyr4vddAsqyZBEAxtx5JhEobW6xS6vX32VVcYurGhw",
+                "release": {
+                    "links": {
+                        "tiktok": "https:\/\/www.tiktok.com\/@krimefyter",
+                        "spotify": "https:\/\/open.spotify.com\/artist\/0NbRmAxBDrOXfXL522eLK0",
+                        "twitter": [
+                            "https:\/\/twitter.com\/KrimeFyter",
+                            "https:\/\/twitter.com\/cryptodamus17",
+                            "https:\/\/twitter.com\/stocks525i",
+                            "https:\/\/twitter.com\/Defs_hed",
+                            "https:\/\/twitter.com\/mainthevillian",
+                            "https:\/\/twitter.com\/strazrepublic",
+                            "https:\/\/twitter.com\/eternaldamien",
+                            "https:\/\/twitter.com\/mankanicalbeats"
+                        ],
+                        "website": "https:\/\/linktr.ee\/kflabz",
+                        "bandcamp": "https:\/\/krimefyter.bandcamp.com\/",
+                        "facebook": "https:\/\/www.facebook.com\/KrimeFyter",
+                        "instagram": "https:\/\/www.instagram.com\/krimefyter\/",
+                        "soundcloud": "https:\/\/soundcloud.com\/krime-fyter",
+                        "apple_music": "https:\/\/music.apple.com\/us\/artist\/krime-fyter\/905108201",
+                        "discord_invite": "https:\/\/discord.com\/invite\/FmPkjrGftJ",
+                        "discord_username": "KrimeFyter#2511"
+                    },
+                    "genres": [
+                        "hip hop",
+                        "edm"
+                    ],
+                    "artists": [
+                        "Krime Fyter"
+                    ],
+                    "producer": "Damien",
+                    "copyright": "KFLabz \u2117 2022",
+                    "collection": "Epoch Genesis v1",
+                    "song_title": "DripDropz",
+                    "mix_engineer": "Damien",
+                    "release_type": "Single",
+                    "track_number": 1,
+                    "release_title": "DripDropz",
+                    "song_duration": "PT3M32S",
+                    "mastering_engineer": "Damien"
+                },
+                "music_metadata_version": "v2"
+            }
+        }
+    ]
+}

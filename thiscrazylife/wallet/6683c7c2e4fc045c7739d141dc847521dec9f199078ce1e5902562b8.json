@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933721,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "6683c7c2e4fc045c7739d141dc847521dec9f199078ce1e5902562b8"
+    },
+    "assets_cache": [
+        {
+            "asset": "6683c7c2e4fc045c7739d141dc847521dec9f199078ce1e5902562b84a696e676c654672657368486f6c696461795061727479",
+            "quantity": null,
+            "policy_id": "6683c7c2e4fc045c7739d141dc847521dec9f199078ce1e5902562b8",
+            "asset_name": "4a696e676c654672657368486f6c696461795061727479",
+            "onchain_metadata": {
+                "Date": "December 18",
+                "Time": "12pm\u20148pm EST",
+                "name": "Jingle Fresh Holiday Party",
+                "Where": "Twitter Spaces & Discord",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmRmfnaJibupKdzu6Du1yoiy3HQN7MaPtbV75DLGPVN3fW",
+                        "mediaType": "image\/gif"
+                    }
+                ],
+                "image": "ipfs:\/\/QmRmfnaJibupKdzu6Du1yoiy3HQN7MaPtbV75DLGPVN3fW",
+                "mediaType": "image\/gif",
+                "A Celebration": "Jingle Fresh Holiday Party"
+            }
+        }
+    ]
+}

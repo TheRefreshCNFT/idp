@@ -1,0 +1,148 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933674,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "10a5ed146024f83df637de4b9e8daf495af9db89597097aad3715190"
+    },
+    "assets_cache": [
+        {
+            "asset": "10a5ed146024f83df637de4b9e8daf495af9db89597097aad371519044616e6b4e6f6f647a34303033",
+            "quantity": null,
+            "policy_id": "10a5ed146024f83df637de4b9e8daf495af9db89597097aad3715190",
+            "asset_name": "44616e6b4e6f6f647a34303033",
+            "onchain_metadata": {
+                "name": "Dank Noodz 4 #003",
+                "files": {
+                    "src": "ipfs:\/\/QmNU1sHccgmDYxW8UtCnDgjA5XJkmS9ZDS3sJkmzWy6mp8",
+                    "mediaType": "image\/jpeg"
+                },
+                "image": "ipfs:\/\/QmNU1sHccgmDYxW8UtCnDgjA5XJkmS9ZDS3sJkmzWy6mp8",
+                "artist": "diarpi",
+                "summary": "The Dankest Noodz in Existence",
+                "assetType": "NFT",
+                "mediaType": "image\/jpeg",
+                "publisher": [
+                    "https:\/\/twitter.com\/cardanonoodz",
+                    "https:\/\/tokhun.io"
+                ],
+                "attributes": {
+                    "THC": "420%",
+                    "Grow Farm": "Tokhun",
+                    "Field of Origin": "Cardano Blockchain"
+                },
+                "collection": "The University of Noodz",
+                "description": [
+                    "# CANNABIS-INFUSED RAMEN NOODLE SOUP",
+                    "",
+                    "**Ingredients**",
+                    "",
+                    "* 3 Tbsp Cannabis oil",
+                    "* 1 Tbsp Minced garlic",
+                    "* 1\/2 Tbsp Grated ginger",
+                    "* 4 Scallions Sliced",
+                    "* 1\/2 Tbsp Sriracha",
+                    "* 3 Cups Chicken stock",
+                    "* 3 Cups Beef broth",
+                    "* 1 Tbsp Fish sauce",
+                    "* 1 Tbsp Soya sauce",
+                    "* 1 Cup Water",
+                    "* 12 Ounce Pack ramen noodles",
+                    "",
+                    "",
+                    "**Instructions**",
+                    "",
+                    "* Place the oil, garlic, ginger, scallions, and chili sauce in a",
+                    "dutch oven or large pot and cook over low heat for 2-3 minutes,",
+                    "until fragrant and the scallions start to soften.",
+                    "* Add both chicken and beef stock, fish sauce, and soy sauce and",
+                    "bring to a boil over high heat. Taste and adjust as necessary",
+                    "* Add the noodles to the boiling soup, and cook for about 3",
+                    "minutes or untill cooked according to package.",
+                    "",
+                    "*Source: Cannadish*"
+                ]
+            }
+        },
+        {
+            "asset": "10a5ed146024f83df637de4b9e8daf495af9db89597097aad371519053706963794879647261303031",
+            "quantity": null,
+            "policy_id": "10a5ed146024f83df637de4b9e8daf495af9db89597097aad3715190",
+            "asset_name": "53706963794879647261303031",
+            "onchain_metadata": {
+                "name": "Spicy Hydra #001",
+                "files": {
+                    "src": "ipfs:\/\/QmYF9JFRuzoDam81z8E6PETmy6s7kbmza825HDwdrYJFAJ",
+                    "mediaType": "image\/jpeg"
+                },
+                "image": "ipfs:\/\/QmYF9JFRuzoDam81z8E6PETmy6s7kbmza825HDwdrYJFAJ",
+                "artist": "diarpi",
+                "summary": "Spicy Hydra in the nood.",
+                "assetType": "NFT",
+                "mediaType": "image\/jpeg",
+                "publisher": [
+                    "twitter.com\/cardanonoodz",
+                    "https:\/\/tokhun.io"
+                ],
+                "attributes": {
+                    "Nood": "Spicy AF",
+                    "Active Ingredient": "Layer-2 Scaling Solution"
+                },
+                "collection": "Spicy Noodz",
+                "description": [
+                    "Hydra, also called the Lernean Hydra, in Greek legend, the",
+                    "offspring of Typhon and Echidna. It is a gigantic",
+                    "water-snake-like monster with multiple heads, one of which was",
+                    "immortal. Anyone who attempted to behead the Hydra found that as",
+                    "soon as one head was cut off, two more heads would emerge from",
+                    "the fresh wound.",
+                    "",
+                    "Hydra is a key layer 2 solution to further improve Cardano's",
+                    "scalability layering a new protocol on top of the existing layer",
+                    "1 blockchain. Hydra seeks to maximize throughput, minimize",
+                    "latency, incur low-to-no costs, and greatly reduce storage",
+                    "requirements.",
+                    "",
+                    "For each node of Cardano, a \u201cHydra Head\u201d can be opened,",
+                    "adding nodes to the network in a process called Horizontal",
+                    "Scaling."
+                ]
+            }
+        },
+        {
+            "asset": "10a5ed146024f83df637de4b9e8daf495af9db89597097aad3715190546869734372617a795370696365",
+            "quantity": null,
+            "policy_id": "10a5ed146024f83df637de4b9e8daf495af9db89597097aad3715190",
+            "asset_name": "546869734372617a795370696365",
+            "onchain_metadata": {
+                "name": "This Crazy Spice",
+                "files": {
+                    "src": "ipfs:\/\/QmXLyTdz9vB9GY5cRyyRrwnv3qjhadr62Rb7ndEgmqp5pe",
+                    "mediaType": "image\/jpeg"
+                },
+                "image": "ipfs:\/\/QmXLyTdz9vB9GY5cRyyRrwnv3qjhadr62Rb7ndEgmqp5pe",
+                "artist": "diarpi",
+                "summary": "This Crazy Life but Spicy AF",
+                "assetType": "NFT",
+                "mediaType": "image\/jpeg",
+                "publisher": [
+                    "twitter.com\/cardanonoodz",
+                    "https:\/\/tokhun.io"
+                ],
+                "attributes": {
+                    "CNFT": "(Re)Fresh AF",
+                    "Smashing": "F5"
+                },
+                "collection": "Spicy Noodz",
+                "description": [
+                    "single-asset ultra rare one-of-less-than-one-in-a-million",
+                    "Cardano NFT minted on Tokhun.io in recognition of This Crazy",
+                    "Life and their contribution to the Cardano ecosystem with \"The",
+                    "Refresh.\""
+                ]
+            }
+        }
+    ]
+}

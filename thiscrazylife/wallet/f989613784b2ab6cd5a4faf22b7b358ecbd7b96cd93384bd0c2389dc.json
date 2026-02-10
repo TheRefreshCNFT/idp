@@ -1,0 +1,104 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933796,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "f989613784b2ab6cd5a4faf22b7b358ecbd7b96cd93384bd0c2389dc"
+    },
+    "assets_cache": [
+        {
+            "asset": "f989613784b2ab6cd5a4faf22b7b358ecbd7b96cd93384bd0c2389dc46354672656e2d32",
+            "quantity": null,
+            "policy_id": "f989613784b2ab6cd5a4faf22b7b358ecbd7b96cd93384bd0c2389dc",
+            "asset_name": "46354672656e2d32",
+            "onchain_metadata": {
+                "name": "Do you even refresh fren?",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeifrhhh5zeshq6bk3eq3icssprwpdhf72mvmumoykpt3ihwior",
+                            "shzy\/index5.html"
+                        ],
+                        "name": "Click to refresh!",
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": [
+                    "ipfs:\/\/bafybeifrhhh5zeshq6bk3eq3icssprwpdhf72mvmumoykpt3ihwior",
+                    "shzy\/cover5.png"
+                ],
+                "artist": "ThisCrazyLife",
+                "Do What": "#F5TW \ud83d\udd04",
+                "Version": "2",
+                "Click To": [
+                    "Single click to F5",
+                    "double click to generate",
+                    "savable image on mobile"
+                ],
+                "mediaType": "image\/png",
+                "Description": "The Refresh gettin Frenly!",
+                "visit ADA Peepos": {
+                    "discord": "https:\/\/discord.com\/invite\/fren",
+                    "twitter": "https:\/\/twitter.com\/FREN_ADA",
+                    "website": "https:\/\/www.adapeepos.com\/"
+                },
+                "visit The Refresh": {
+                    "discord": "https:\/\/discord.gg\/RNp4aFuQbw",
+                    "twitter": "https:\/\/twitter.com\/TheRefreshCNFT",
+                    "website": "https:\/\/therefreshcnft.com"
+                },
+                "visit ThisCrazyLife": {
+                    "twitter": "https:\/\/twitter.com\/_ThisCr8zyLife_"
+                }
+            }
+        },
+        {
+            "asset": "f989613784b2ab6cd5a4faf22b7b358ecbd7b96cd93384bd0c2389dc46354672656e5f31",
+            "quantity": null,
+            "policy_id": "f989613784b2ab6cd5a4faf22b7b358ecbd7b96cd93384bd0c2389dc",
+            "asset_name": "46354672656e5f31",
+            "onchain_metadata": {
+                "name": "Do you even refresh fren?",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeifvstcq2yevgtfyixvbqb5ptsemuzhnj6x6idw7ktxecpvdqe",
+                            "kdc4\/index4.html"
+                        ],
+                        "name": "Click to refresh!",
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": [
+                    "ipfs:\/\/bafybeifvstcq2yevgtfyixvbqb5ptsemuzhnj6x6idw7ktxecpvdqe",
+                    "kdc4\/cover4.png"
+                ],
+                "artist": "ThisCrazyLife",
+                "Do What": "#F5TW \ud83d\udd04",
+                "Version": "1",
+                "Click To": [
+                    "Single click to F5",
+                    "double click to generate",
+                    "savable image on mobile"
+                ],
+                "mediaType": "image\/png",
+                "Description": "The Refresh gettin frenly!",
+                "visit ADA Peepos": {
+                    "discord": "https:\/\/discord.com\/invite\/fren",
+                    "twitter": "https:\/\/twitter.com\/FREN_ADA",
+                    "website": "https:\/\/www.adapeepos.com\/"
+                },
+                "visit The Refresh": {
+                    "discord": "https:\/\/discord.gg\/RNp4aFuQbw",
+                    "twitter": "https:\/\/twitter.com\/TheRefreshCNFT",
+                    "website": "https:\/\/therefreshcnft.com"
+                },
+                "visit ThisCrazyLife": {
+                    "twitter": "https:\/\/twitter.com\/_ThisCr8zyLife_"
+                }
+            }
+        }
+    ]
+}

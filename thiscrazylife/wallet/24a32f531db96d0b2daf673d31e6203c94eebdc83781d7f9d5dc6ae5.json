@@ -1,0 +1,173 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933852,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "24a32f531db96d0b2daf673d31e6203c94eebdc83781d7f9d5dc6ae5"
+    },
+    "assets_cache": [
+        {
+            "asset": "24a32f531db96d0b2daf673d31e6203c94eebdc83781d7f9d5dc6ae5666577",
+            "quantity": null,
+            "policy_id": "24a32f531db96d0b2daf673d31e6203c94eebdc83781d7f9d5dc6ae5",
+            "asset_name": "666577",
+            "onchain_metadata": {
+                "name": "few",
+                "image": "ipfs:\/\/QmNb8NX2jtv7VYp3qVJ5tnkq5pMKqZknSL6dNRXmnhTewy",
+                "discord": "https:\/\/discord.gg\/VvawrtgwWp",
+                "project": "pixl.page - Your NFT profile page",
+                "twitter": "https:\/\/twitter.com\/pixl_page",
+                "variant": 7,
+                "website": "https:\/\/pixl.page",
+                "designBy": "False Idols",
+                "pixlLink": "https:\/\/pixl.page\/few",
+                "mintWindow": 1,
+                "description": [
+                    "pixl.links are your personal URLs on https:\/\/pixl.page",
+                    "Connect them with any of your pixl.pages and showcase your NFTs!"
+                ],
+                "artistTwitter": "https:\/\/twitter.com\/FalseIdolsNFT"
+            }
+        },
+        {
+            "asset": "24a32f531db96d0b2daf673d31e6203c94eebdc83781d7f9d5dc6ae56d79636e66747a",
+            "quantity": null,
+            "policy_id": "24a32f531db96d0b2daf673d31e6203c94eebdc83781d7f9d5dc6ae5",
+            "asset_name": "6d79636e66747a",
+            "onchain_metadata": {
+                "name": "mycnftz",
+                "image": "ipfs:\/\/QmRLnWhU85vcAWbYMbZjTAc1n4aqHq7pgY1Fjz3LxfQzPq",
+                "discord": "https:\/\/discord.gg\/VvawrtgwWp",
+                "project": "pixl.page - Your NFT profile page",
+                "twitter": "https:\/\/twitter.com\/pixl_page",
+                "variant": 10,
+                "website": "https:\/\/pixl.page",
+                "designBy": "Goat Tribe",
+                "pixlLink": "https:\/\/pixl.page\/mycnftz",
+                "mintWindow": 1,
+                "description": [
+                    "pixl.links are your personal URLs on https:\/\/pixl.page",
+                    "Connect them with any of your pixl.pages and showcase your NFTs!"
+                ],
+                "artistTwitter": "https:\/\/twitter.com\/adaGOATS"
+            }
+        },
+        {
+            "asset": "24a32f531db96d0b2daf673d31e6203c94eebdc83781d7f9d5dc6ae56d796e66747a",
+            "quantity": null,
+            "policy_id": "24a32f531db96d0b2daf673d31e6203c94eebdc83781d7f9d5dc6ae5",
+            "asset_name": "6d796e66747a",
+            "onchain_metadata": {
+                "name": "mynftz",
+                "image": "ipfs:\/\/QmYq8ZgiuUwSHCovm5xP86VfAgM2m41eXinRDX1tzYGy9C",
+                "discord": "https:\/\/discord.gg\/VvawrtgwWp",
+                "project": "pixl.page - Your NFT profile page",
+                "twitter": "https:\/\/twitter.com\/pixl_page",
+                "variant": 10,
+                "website": "https:\/\/pixl.page",
+                "designBy": "Goat Tribe",
+                "pixlLink": "https:\/\/pixl.page\/mynftz",
+                "mintWindow": 1,
+                "description": [
+                    "pixl.links are your personal URLs on https:\/\/pixl.page",
+                    "Connect them with any of your pixl.pages and showcase your NFTs!"
+                ],
+                "artistTwitter": "https:\/\/twitter.com\/adaGOATS"
+            }
+        },
+        {
+            "asset": "24a32f531db96d0b2daf673d31e6203c94eebdc83781d7f9d5dc6ae56e66747a",
+            "quantity": null,
+            "policy_id": "24a32f531db96d0b2daf673d31e6203c94eebdc83781d7f9d5dc6ae5",
+            "asset_name": "6e66747a",
+            "onchain_metadata": {
+                "name": "nftz",
+                "image": "ipfs:\/\/QmRDZUZRTYv6vKBoK7qd2VJpb7TbDiUq18DPN1ZSMEq6Ju",
+                "discord": "https:\/\/discord.gg\/VvawrtgwWp",
+                "project": "pixl.page - Your NFT profile page",
+                "twitter": "https:\/\/twitter.com\/pixl_page",
+                "variant": 5,
+                "website": "https:\/\/pixl.page",
+                "designBy": "Raison d'Etre",
+                "pixlLink": "https:\/\/pixl.page\/nftz",
+                "mintWindow": 1,
+                "description": [
+                    "pixl.links are your personal URLs on https:\/\/pixl.page",
+                    "Connect them with any of your pixl.pages and showcase your NFTs!"
+                ],
+                "artistTwitter": "https:\/\/twitter.com\/raisondetre_rtb"
+            }
+        },
+        {
+            "asset": "24a32f531db96d0b2daf673d31e6203c94eebdc83781d7f9d5dc6ae57066707a",
+            "quantity": null,
+            "policy_id": "24a32f531db96d0b2daf673d31e6203c94eebdc83781d7f9d5dc6ae5",
+            "asset_name": "7066707a",
+            "onchain_metadata": {
+                "name": "pfpz",
+                "image": "ipfs:\/\/QmPw2PHKhY5T5VYr4JDK2dV2Y4L7uYFR8gmDTjwW6tccWd",
+                "discord": "https:\/\/discord.gg\/VvawrtgwWp",
+                "project": "pixl.page - Your NFT profile page",
+                "twitter": "https:\/\/twitter.com\/pixl_page",
+                "variant": 6,
+                "website": "https:\/\/pixl.page",
+                "designBy": "El Matador",
+                "pixlLink": "https:\/\/pixl.page\/pfpz",
+                "mintWindow": 1,
+                "description": [
+                    "pixl.links are your personal URLs on https:\/\/pixl.page",
+                    "Connect them with any of your pixl.pages and showcase your NFTs!"
+                ],
+                "artistTwitter": "https:\/\/twitter.com\/EL_MatadorNFT"
+            }
+        },
+        {
+            "asset": "24a32f531db96d0b2daf673d31e6203c94eebdc83781d7f9d5dc6ae5726172656e66747a",
+            "quantity": null,
+            "policy_id": "24a32f531db96d0b2daf673d31e6203c94eebdc83781d7f9d5dc6ae5",
+            "asset_name": "726172656e66747a",
+            "onchain_metadata": {
+                "name": "rarenftz",
+                "image": "ipfs:\/\/QmVKgSdiZe6XbPdpDVRdiyRkCagiSkEhgS2FBxTAhSapAt",
+                "discord": "https:\/\/discord.gg\/VvawrtgwWp",
+                "project": "pixl.page - Your NFT profile page",
+                "twitter": "https:\/\/twitter.com\/pixl_page",
+                "variant": 2,
+                "website": "https:\/\/pixl.page",
+                "designBy": "Over Exposed",
+                "pixlLink": "https:\/\/pixl.page\/rarenftz",
+                "mintWindow": 1,
+                "description": [
+                    "pixl.links are your personal URLs on https:\/\/pixl.page",
+                    "Connect them with any of your pixl.pages and showcase your NFTs!"
+                ],
+                "artistTwitter": "https:\/\/twitter.com\/Over___Exposed"
+            }
+        },
+        {
+            "asset": "24a32f531db96d0b2daf673d31e6203c94eebdc83781d7f9d5dc6ae5796173",
+            "quantity": null,
+            "policy_id": "24a32f531db96d0b2daf673d31e6203c94eebdc83781d7f9d5dc6ae5",
+            "asset_name": "796173",
+            "onchain_metadata": {
+                "name": "yas",
+                "image": "ipfs:\/\/QmbLvi2k3BNYp4WW899ebn644FD9qQs3ekj4rKiux3T4dQ",
+                "discord": "https:\/\/discord.gg\/VvawrtgwWp",
+                "project": "pixl.page - Your NFT profile page",
+                "twitter": "https:\/\/twitter.com\/pixl_page",
+                "variant": 2,
+                "website": "https:\/\/pixl.page",
+                "designBy": "Over Exposed",
+                "pixlLink": "https:\/\/pixl.page\/yas",
+                "mintWindow": 1,
+                "description": [
+                    "pixl.links are your personal URLs on https:\/\/pixl.page",
+                    "Connect them with any of your pixl.pages and showcase your NFTs!"
+                ],
+                "artistTwitter": "https:\/\/twitter.com\/Over___Exposed"
+            }
+        }
+    ]
+}

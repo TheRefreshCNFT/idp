@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933752,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "f29365279bd08f5190a7dccbd4abdba60791c8de2661c1f9b878f579"
+    },
+    "assets_cache": [
+        {
+            "asset": "f29365279bd08f5190a7dccbd4abdba60791c8de2661c1f9b878f57954686552656d6978",
+            "quantity": null,
+            "policy_id": "f29365279bd08f5190a7dccbd4abdba60791c8de2661c1f9b878f579",
+            "asset_name": "54686552656d6978",
+            "onchain_metadata": {
+                "name": "The Remix",
+                "nsfw": "False",
+                "files": {
+                    "ipfs": "QmbxhQYaNu4624EgJHet8TChxTF4QLqXGJrA3Jo92UHAw4"
+                },
+                "image": "ipfs:\/\/QmbxhQYaNu4624EgJHet8TChxTF4QLqXGJrA3Jo92UHAw4",
+                "author": "Ju5ts0cRypt0",
+                "sha256": "12826c1c898da573b30b4cbba49f8a11c73c09bfa1a6a4be89f1c29ba23192b9",
+                "mediatype": "image\/png",
+                "description": "All the love to @TheRefreshCNFT "
+            }
+        }
+    ]
+}

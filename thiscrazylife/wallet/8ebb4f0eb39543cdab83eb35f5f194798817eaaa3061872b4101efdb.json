@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933777,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "8ebb4f0eb39543cdab83eb35f5f194798817eaaa3061872b4101efdb"
+    },
+    "assets_cache": [
+        {
+            "asset": "8ebb4f0eb39543cdab83eb35f5f194798817eaaa3061872b4101efdb0014df104d4554455241",
+            "quantity": null,
+            "policy_id": "8ebb4f0eb39543cdab83eb35f5f194798817eaaa3061872b4101efdb",
+            "asset_name": "0014df104d4554455241",
+            "onchain_metadata": {
+                "name": "METERA",
+                "description": "METERA is your key to auto-rebalanced tokenized indexes on the Cardano blockchain.",
+                "ticker": "METERA",
+                "url": "https:\/\/www.meteraprotocol.io\/",
+                "logo": "ipfs:\/\/bafkreiboawq6zh4n2q5mksb7t6mpcqjsvxbiipqytxkktyduabnxb32apy",
+                "decimals": 6
+            }
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933611,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "f42d942e6d7f9f3adeacd3468df58079867da7c12cfeff784dd68a2b"
+    },
+    "assets_cache": [
+        {
+            "asset": "f42d942e6d7f9f3adeacd3468df58079867da7c12cfeff784dd68a2b5468652043686f73656e20447578",
+            "quantity": null,
+            "policy_id": "f42d942e6d7f9f3adeacd3468df58079867da7c12cfeff784dd68a2b",
+            "asset_name": "5468652043686f73656e20447578",
+            "onchain_metadata": {
+                "name": "The Chosen Dux",
+                "image": "ipfs:\/\/QmeeSaXDdmdnaethbsUyRnr9h828TABy5a7afAZhvuXutv",
+                "ticker": "$DUX",
+                "description": "You get what you pay for. Quak."
+            }
+        }
+    ]
+}

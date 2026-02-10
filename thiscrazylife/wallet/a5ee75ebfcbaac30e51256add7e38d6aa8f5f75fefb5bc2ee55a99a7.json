@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933649,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "a5ee75ebfcbaac30e51256add7e38d6aa8f5f75fefb5bc2ee55a99a7"
+    },
+    "assets_cache": [
+        {
+            "asset": "a5ee75ebfcbaac30e51256add7e38d6aa8f5f75fefb5bc2ee55a99a7497473415363616d3235",
+            "quantity": null,
+            "policy_id": "a5ee75ebfcbaac30e51256add7e38d6aa8f5f75fefb5bc2ee55a99a7",
+            "asset_name": "497473415363616d3235",
+            "onchain_metadata": {
+                "By": "Charles Hoskinson",
+                "Date": "2022 July 15",
+                "Type": "Scam",
+                "name": "It's a Scam",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmbcthRkBVo2TS2dL18QPUZeGxwktod8s5acbKyCzCfyAQ",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmQqW9nbBdVPeE9XG4anA18ox9T5Db26PcEqY5w6Shon9S",
+                "mediaType": "image\/gif",
+                "transcript": [
+                    "\"It's a scam! It's a scam! Oh, it's a scam!",
+                    "Oh my God, it's a scam!",
+                    "Everybodys' scamming!\""
+                ],
+                "description": "Everyone is Scamming"
+            }
+        }
+    ]
+}

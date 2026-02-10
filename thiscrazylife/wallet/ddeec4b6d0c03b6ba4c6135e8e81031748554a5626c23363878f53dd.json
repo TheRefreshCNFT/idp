@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933617,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "ddeec4b6d0c03b6ba4c6135e8e81031748554a5626c23363878f53dd"
+    },
+    "assets_cache": [
+        {
+            "asset": "ddeec4b6d0c03b6ba4c6135e8e81031748554a5626c23363878f53dd44554d50",
+            "quantity": null,
+            "policy_id": "ddeec4b6d0c03b6ba4c6135e8e81031748554a5626c23363878f53dd",
+            "asset_name": "44554d50",
+            "onchain_metadata": {
+                "name": "$DUMP",
+                "files": {
+                    "src": "ipfs:\/\/QmWSX4eCZBUu6SdgAjSKcqxseFYmmM2U2wEN888Z5mkVrQ",
+                    "mediaType": "image\/png"
+                },
+                "image": "ipfs:\/\/QmWSX4eCZBUu6SdgAjSKcqxseFYmmM2U2wEN888Z5mkVrQ",
+                "artist": "DumpMeister3",
+                "summary": "Dumpy Coin",
+                "assetType": "FT",
+                "mediaType": "image\/png",
+                "publisher": [
+                    "https:\/\/tokhun.io"
+                ],
+                "description": [
+                    "Shitcoin for the MegaVerse : DUMPY COIN",
+                    "",
+                    "$DUMP is a fast & feeless Cardano Native Token, created",
+                    "specifically for the DUMPYverse. Every trx is paid for in",
+                    "DUMPYbux (sort of), which can be earned by collecting",
+                    "TURDlesTurtlePile of poo from your flaming dumper Super NES",
+                    "mining machine."
+                ]
+            }
+        }
+    ]
+}

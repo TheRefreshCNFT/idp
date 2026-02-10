@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933635,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "cbd68d0588116980b4d8c1929fb40b045f197b07a817b585af2fdf5a"
+    },
+    "assets_cache": [
+        {
+            "asset": "cbd68d0588116980b4d8c1929fb40b045f197b07a817b585af2fdf5a536e656b2e66756e204444202d204e4654",
+            "quantity": null,
+            "policy_id": "cbd68d0588116980b4d8c1929fb40b045f197b07a817b585af2fdf5a",
+            "asset_name": "536e656b2e66756e204444202d204e4654",
+            "onchain_metadata": []
+        }
+    ]
+}

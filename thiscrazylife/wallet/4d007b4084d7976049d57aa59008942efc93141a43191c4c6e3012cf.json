@@ -1,0 +1,54 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933710,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "4d007b4084d7976049d57aa59008942efc93141a43191c4c6e3012cf"
+    },
+    "assets_cache": [
+        {
+            "asset": "4d007b4084d7976049d57aa59008942efc93141a43191c4c6e3012cf4465617468536861706573303339",
+            "quantity": null,
+            "policy_id": "4d007b4084d7976049d57aa59008942efc93141a43191c4c6e3012cf",
+            "asset_name": "4465617468536861706573303339",
+            "onchain_metadata": {
+                "name": "Death Shapes #039",
+                "Verse": "To perish and fade, and whisper from other realms.",
+                "image": "ipfs:\/\/QmTGgSGh9MLeHGdUNgR7sK5unJDWzqchQN2a1TegGLFFVR",
+                "Artist": "SkullTakes",
+                "Website": "https:\/\/skulltakes.io",
+                "mediaType": "image\/png",
+                "Attributes": [
+                    "type\/fade",
+                    "skull\/white",
+                    "shadows\/radioactive",
+                    "hollows\/black",
+                    "background\/radioactive"
+                ]
+            }
+        },
+        {
+            "asset": "4d007b4084d7976049d57aa59008942efc93141a43191c4c6e3012cf4465617468536861706573313231",
+            "quantity": null,
+            "policy_id": "4d007b4084d7976049d57aa59008942efc93141a43191c4c6e3012cf",
+            "asset_name": "4465617468536861706573313231",
+            "onchain_metadata": {
+                "name": "Death Shapes #121",
+                "Verse": "Saturated, stained... the final chroma. ",
+                "image": "ipfs:\/\/QmNdPCan8KQLhZehCVJJ41Y1U5fZCAncQqpykSyrUzCy1Z",
+                "Artist": "SkullTakes",
+                "Website": "https:\/\/skulltakes.io",
+                "mediaType": "image\/png",
+                "Attributes": [
+                    "type\/green",
+                    "skull\/red",
+                    "shadows\/green",
+                    "hollows\/black",
+                    "background\/green"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933660,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "449bd296744ae0082b0f356c23bad24f96f295fc352a836d8cb948f2"
+    },
+    "assets_cache": [
+        {
+            "asset": "449bd296744ae0082b0f356c23bad24f96f295fc352a836d8cb948f2696e566f69636530303030322d31",
+            "quantity": null,
+            "policy_id": "449bd296744ae0082b0f356c23bad24f96f295fc352a836d8cb948f2",
+            "asset_name": "696e566f69636530303030322d31",
+            "onchain_metadata": {
+                "Date": "03 MAR 2022",
+                "name": "TAP \"inVoice #00002\" (2022)",
+                "files": [
+                    {
+                        "src": [
+                            "data:text\/html;base64,PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KPG",
+                            "1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bW",
+                            "w7IGNoYXJzZXQ9VVRGLTgiIC8+Cjx0aXRsZT5UQU8gVEUgQ0hJTkc8L3RpdGxlPg",
+                            "o8c3R5bGU+CmJvZHkgewogIGNvbG9yOiB3aGl0ZTsKfQpib2R5IHsKICB0ZXh0LW",
+                            "FsaWduOiBsZWZ0Owp9CmgzIHsKICBjb2xvcjogYmxhY2s7Cn0KdGFibGUsIHRoLC",
+                            "B0ZCB7CiAgYm9yZGVyOjFweCBzb2xpZCB3aGl0ZTsKfQo8L3N0eWxlPgo8L2hlYW",
+                            "Q+Cjxib2R5IHN0eWxlPSJiYWNrZ3JvdW5kLWNvbG9yOmJsYWNrOyI+Cgo8aDEgc3",
+                            "R5bGU9InRleHQtYWxpZ246IGNlbnRlcjtmb250LXNpemU6NDVweDsiPlRBUCBpbl",
+                            "ZvaWNlPC9oMT4KPHAgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjtmb250LXdlaW",
+                            "dodDpib2xkO2ZvbnQtc2l6ZToyMHB4OyI+CiMwMDAwMjwvcD4KPHRhYmxlIHN0eW",
+                            "xlPSJ3aWR0aDoxMDAlIj4KICA8dHI+CiAgICA8dGg+RGF0ZTwvdGg+CiAgICA8dG",
+                            "Q+MDMgTWFyY2ggMjAyMjwvdGQ+CiAgPC90cj4KICA8dHI+CiAgICA8dGg+U2Vydm",
+                            "ljZXM8L3RoPgogICAgPHRkPgogICAgPHA+TWF0ZXJpYWxzIENvbGxlY3Rpb24gKE",
+                            "ltYWdlcywgTmFtZXMsIEh5cGVybGlua3MpOiAgICAgICAgICAgICAgICAgICAgIC",
+                            "AgICAgICAgICAgICAgICAgICAgICAgMSBIb3VyPC9wPgo8cD5NYXRlcmlhbHMgRG",
+                            "VzaWduIChQaG90b3Nob3AsIFZpc3VhbCBFZGl0aW5nKTogICAgICAgICAgICAgIC",
+                            "AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDEgSG91cjwvcD",
+                            "4KPHA+TkZUIFRlbXBsYXRlIERlc2lnbiAoU3RydWN0dXJlZCBMYXlvdXQgb2YgTW",
+                            "VkaWEgKyBNZXRhZGF0YSk6ICAgICAgICAgICAgICAgMyBIb3VyczwvcD4KPHA+SF",
+                            "RNTCBUZW1wbGF0ZSBEZXZlbG9wbWVudCAoSW1hZ2UgQ2Fyb3VzZWxzKTogICAgIC",
+                            "AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyIEhvdXJzPC9wPg",
+                            "o8cD5NaW50aW5nIEd1aWRlIFBERiAoQXNzZXQgU3RydWN0dXJlcyAmIE1pbnRpbm",
+                            "cgVGlwcyk6ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxIEhvdX",
+                            "I8L3A+CjwvdGQ+CiAgPC90cj4KICA8dHI+CiAgICA8dGg+UHJvdmlkZWQgVG88L3",
+                            "RoPgogICAgPHRkPkJEMDAwMDE8L3RkPgogIDwvdHI+CiAgICA8dHI+CiAgICA8dG",
+                            "g+UHJvdmlkZWQgQnk8L3RoPgogICAgPHRkPk5PT0RaLCBUaGlzQ3JhenlMaWZlPC",
+                            "90ZD4KICA8L3RyPgogICAgPHRyPgogICAgPHRoPlNlcnZpY2UgUmF0ZTwvdGg+Ci",
+                            "AgICA8dGQ+MjUg4oKzIC8gSG91cjwvdGQ+CiAgPC90cj4KICAgIDx0cj4KICAgID",
+                            "x0aD5Ib3VyczwvdGg+CiAgICA8dGQ+OCBIb3VyczwvdGQ+CiAgPC90cj4KCiAgIC",
+                            "A8dGg+Tm90ZXM8L3RoPgogICAgPHRkPgogICAgPHA+U2VudCBUZW1wbGF0ZSArIE",
+                            "NSQVpZIEtJVENIRU4gV29ya3Nob3BzIDHigJQ1LjwvcD4gCiAgICA8cD5UQVAgdG",
+                            "VhbSBhdmFpbGFibGUgZm9yIGFkZGl0aW9uYWwgaG91cnMgb2YgaW5kaXZpZHVhbG",
+                            "l6ZWQgaW5zdHJ1Y3Rpb24gb3IgYXNzaXN0YW5jZSB3aXRoIG1pbnRpbmcuPC9wPj",
+                            "wvdGQ+CiAgICA8dHI+CiAgICA8dGg+VG90YWwgU2VydmljZSBGZWU8L3RoPgogIC",
+                            "AgPHRkPjxiPjIwMCDigrM8L2I+PC90ZD4KICA8L3RyPgo8L3RhYmxlPgo8cCBzdH",
+                            "lsZT0idGV4dC1hbGlnbjogY2VudGVyOyI+PGI+VGhhbmsgeW91IGZvciBzdXBwb3",
+                            "J0aW5nIFRoZSBBbGV4YW5kcmlhIFByb2plY3QhCiBUQVAgc2VydmljZXMgdG8gdG",
+                            "hlIENhcmRhbm8gQ29tbXVuaXR5IGFyZSBpbnRlbmRlZCB0byBoZWxwIGluc3Bpcm",
+                            "UgdGhlIGdyb3d0aCBvZiBvdXIgZWNvc3lzdGVtIGluIGJvdGggY3JlYXRpdmUgYW",
+                            "5kIG1lYW5pbmdmdWwgd2F5cy4KPC9iPjwvcD4KPHAgc3R5bGU9InRleHQtYWxpZ2",
+                            "46IGNlbnRlcjtmb250LXNpemU6MTJweDsiPklmIHlvdSBrbm93IG90aGVyIGluZG",
+                            "l2aWR1YWxzIGludGVyZXN0ZWQgaW4gcmVjZWl2aW5nIGluZGl2aWR1YWwgY29uc3",
+                            "VsdGF0aW9uLCBzdXBwb3J0LCBndWlkYW5jZSwgYXNzZXNzbWVudCwgb3IgY29udG",
+                            "ludWluZyBlZHVjYXRpb24gYWJvdXQgYnVpbGRpbmcgb24gQ2FyZGFubywgdGhlbi",
+                            "BwbGVhc2UgbGV0IHRoZW0ga25vdyBhYm91dCB5b3VyIGV4cGVyaWVuY2UhIFdlIG",
+                            "xvb2sgZm9yd2FyZCB0byBzZWVpbmcgZXZlcnl0aGluZyB0aGF0IHlvdSB3aWxsIG",
+                            "JlIGNvb2tpbmcgVVAgaW4geW91ciBvd24gcGVyc29uYWwgY3JlYXRpdmUga2l0Y2",
+                            "hlbiE8L3A+CjxwIHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7Ij5mcm9tIHRoZS",
+                            "BDcmVhdGl2ZSBEZXZlbG9wZXJzOjwvcD4KPGgxIHN0eWxlPSJ0ZXh0LWFsaWduOi",
+                            "BjZW50ZXI7Ij5UaGUgQWxleGFuZHJpYSBQcm9qZWN0PC9oMT4KPC9ib2R5Pgo8L2",
+                            "h0bWw+CgoK"
+                        ],
+                        "mediaType": "text\/html"
+                    },
+                    {
+                        "src": "ipfs:\/\/Qmc3mKgmh41EjK8TgXYANQ6dzriQkvFVAPeZNgEmgy6gLT",
+                        "mediaType": "image\/"
+                    }
+                ],
+                "image": "ipfs:\/\/Qmc3mKgmh41EjK8TgXYANQ6dzriQkvFVAPeZNgEmgy6gLT",
+                "Services": [
+                    "Materials Collection (Images, Names, Hyperlinks)",
+                    "[1 Hour]",
+                    "Materials Design (Photoshop, Visual Editing)",
+                    "[1 Hour]",
+                    "NFT Template Design (Structured Layout of Media + Metadata)",
+                    "[3 Hours]",
+                    "HTML Template Development (Image Carousels)",
+                    "[2 Hours]",
+                    "Minting Guide PDF (Asset Structures & Minting Tips)",
+                    "[1 Hour]"
+                ],
+                "mediaType": "image\/jpeg",
+                "Services Rate": "25 \u20b3 \/ Hour",
+                "Services Notes": [
+                    "Sent Template + CRAZY KITCHEN Workshops 1\u20145.",
+                    "TAP team available for additional hours",
+                    "of individualized instruction or",
+                    "assistance with minting."
+                ],
+                "Total Services Fee": "200 \u20b3",
+                "Total Service Hours": "8 Hours",
+                "creative Developers": "The Alexandria Project",
+                "Services Provided By": "NOODZ, ThisCrazyLife",
+                "Services Provided To": "BD00001"
+            }
+        }
+    ]
+}

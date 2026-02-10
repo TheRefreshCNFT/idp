@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933721,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "5672fd39fdf4fbffb6ef0f28ca97e1bec2e32d3927b4ac13ae9bceb4"
+    },
+    "assets_cache": [
+        {
+            "asset": "5672fd39fdf4fbffb6ef0f28ca97e1bec2e32d3927b4ac13ae9bceb452654e4f564154494f4e32",
+            "quantity": null,
+            "policy_id": "5672fd39fdf4fbffb6ef0f28ca97e1bec2e32d3927b4ac13ae9bceb4",
+            "asset_name": "52654e4f564154494f4e32",
+            "onchain_metadata": {
+                "name": "ReNOVATION 2",
+                "Asset": [
+                    "Periodic Table of Noodz v.1"
+                ],
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmZUZx7Bazq6GjfJynxbjPFEcb6CTQ9wR5F6EqWKckpZyB",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "image": "ipfs:\/\/QmXL2QjXF59ZvhgCRGheoSaLT9Z9b3pPRLsdJQ6xH8iKkf",
+                "Flavor": [
+                    "LONGEVITY"
+                ],
+                "Publisher": [
+                    "Cardano Noodz"
+                ],
+                "mediaType": "image\/jpeg",
+                "Tweet Machine": [
+                    "@CardanoNOODZ"
+                ],
+                "ReNOVATIVE Chef": [
+                    "diarpi"
+                ],
+                "NOODtrition Facts": [
+                    "Unique scientific blend with microscopic ingredients",
+                    "cooked to celebrate the the long-term development",
+                    "and future of Cardano Noodz based on",
+                    "our Signature Collections. Cooking in the interest of",
+                    "harnessing blockchain technology, and the power of",
+                    "Cardano, to promote learning, education, and",
+                    "mutual human understanding.",
+                    "At present, only 19 Cardano Noodz are known to science.",
+                    "However, researchers have indicated that there are",
+                    "at least 120 Noodz in the observable universe.",
+                    "All these have different properties.",
+                    "Out of these 120, only 90 are naturally occurring.",
+                    "The remainder are legendary Leaked Noodz that are",
+                    "forking hidden. As different elements of the Nood",
+                    "are discovered, scientists at the House of Noodz",
+                    "have gathered more and more information about",
+                    "the properties of these distinct blockchain masterpieces."
+                ],
+                "House Special Menu": [
+                    "The ReNOVATION"
+                ]
+            }
+        }
+    ]
+}

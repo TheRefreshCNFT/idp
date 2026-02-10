@@ -1,0 +1,61 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933835,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "3c2cfd4f1ad33678039cfd0347cca8df363c710067d739624218abc0"
+    },
+    "assets_cache": [
+        {
+            "asset": "3c2cfd4f1ad33678039cfd0347cca8df363c710067d739624218abc0576f726c647357697468696e3030333939",
+            "quantity": null,
+            "policy_id": "3c2cfd4f1ad33678039cfd0347cca8df363c710067d739624218abc0",
+            "asset_name": "576f726c647357697468696e3030333939",
+            "onchain_metadata": {
+                "Fog": "1",
+                "src": "ipfs:\/\/QmeW19St53RnbLcnvcUP1ZFBV82UEKFLJpW2n2CsvLG1mv",
+                "name": "Worlds Within 00399",
+                "type": "text\/html",
+                "image": "ipfs:\/\/QmWnhfVmU8pbRBU5fWzGmKPxgnuYySv5rM6LLMajC3pVdx",
+                "Traits": [
+                    "trees2d",
+                    "Type_M"
+                ],
+                "Sky Color": "bf397a",
+                "Day Length": "1019 minutes",
+                "World Type": "Outer World",
+                "Year Length": "276 days",
+                "Terrain Color": "7b7934",
+                "Terrain Trait": "flat",
+                "if you are in VR Click here": "ipfs:\/\/QmeW19St53RnbLcnvcUP1ZFBV82UEKFLJpW2n2CsvLG1mv"
+            }
+        },
+        {
+            "asset": "3c2cfd4f1ad33678039cfd0347cca8df363c710067d739624218abc0576f726c647357697468696e3033393732",
+            "quantity": null,
+            "policy_id": "3c2cfd4f1ad33678039cfd0347cca8df363c710067d739624218abc0",
+            "asset_name": "576f726c647357697468696e3033393732",
+            "onchain_metadata": {
+                "Fog": "1",
+                "src": "ipfs:\/\/QmPz5MSRfJQpRZZnFsx1AYC9r2PyNK5EdLHD68ogZhijXf",
+                "name": "Worlds Within 03972",
+                "type": "text\/html",
+                "image": "ipfs:\/\/QmWnhfVmU8pbRBU5fWzGmKPxgnuYySv5rM6LLMajC3pVdx",
+                "Traits": [
+                    "Constant snow",
+                    "trees1d",
+                    "Type_F"
+                ],
+                "Sky Color": "d09c1a",
+                "Day Length": "1149 minutes",
+                "World Type": "Outer World",
+                "Year Length": "467 days",
+                "Terrain Color": "8e9349",
+                "Terrain Trait": "noise",
+                "if you are in VR Click here": "ipfs:\/\/QmPz5MSRfJQpRZZnFsx1AYC9r2PyNK5EdLHD68ogZhijXf"
+            }
+        }
+    ]
+}

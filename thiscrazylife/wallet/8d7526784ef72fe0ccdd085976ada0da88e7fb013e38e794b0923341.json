@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933777,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "8d7526784ef72fe0ccdd085976ada0da88e7fb013e38e794b0923341"
+    },
+    "assets_cache": [
+        {
+            "asset": "8d7526784ef72fe0ccdd085976ada0da88e7fb013e38e794b09233414245415244",
+            "quantity": null,
+            "policy_id": "8d7526784ef72fe0ccdd085976ada0da88e7fb013e38e794b0923341",
+            "asset_name": "4245415244",
+            "onchain_metadata": {
+                "data": "ipfs:\/\/Qmdk5F1yVZowmiwrUZw6mz2LgDWSmHUTv3e6GkFBh7ErBt",
+                "name": "The Philosophy of Beards",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmUkwR7Grc6SdsQheNNNEpeVyRt6bxvAtCXitoC6hZWRH1",
+                        "name": "High-Res Cover Image",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmTRtZLyFBivtZjX7eGPvcDzzh3HCEcekf4xipTYRDRJEf",
+                "sha256": "53cff65ea47f3ffb669d2bae6ed84160620b9847c2a1ae1730587c4282fae0ea",
+                "authors": [
+                    "Thomas S. Gowing"
+                ],
+                "website": "https:\/\/book.io",
+                "mediaType": "image\/jpeg",
+                "attributes": {
+                    "Cover Theme": "The Philosophy of Beards"
+                },
+                "description": [
+                    "What is a Beard?"
+                ],
+                "dataMediaType": "application\/epub+zip",
+                "extraAttributes": {
+                    "Book Title": "The Philosophy of Beards"
+                }
+            }
+        }
+    ]
+}

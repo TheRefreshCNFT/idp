@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933788,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "d894897411707efa755a76deb66d26dfd50593f2e70863e1661e98a0"
+    },
+    "assets_cache": [
+        {
+            "asset": "d894897411707efa755a76deb66d26dfd50593f2e70863e1661e98a07370616365636f696e73",
+            "quantity": null,
+            "policy_id": "d894897411707efa755a76deb66d26dfd50593f2e70863e1661e98a0",
+            "asset_name": "7370616365636f696e73",
+            "onchain_metadata": {
+                "name": "spacecoins",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmZWaVnF5m5h9cd2KeMoqm4QAdsM5ZmEBrnfaLtckNUMGP",
+                        "name": "spacecoins whitepaper",
+                        "mediaType": "application\/pdf"
+                    }
+                ],
+                "image": "ipfs:\/\/Qmc44D9d8oaj38TtrXKXPYyWKpyPButDQtA9pVjBtb1qYV",
+                "website": "https:\/\/spacecoins.io",
+                "description": "your did it!"
+            }
+        }
+    ]
+}

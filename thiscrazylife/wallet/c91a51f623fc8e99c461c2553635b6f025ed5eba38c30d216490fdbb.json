@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933629,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "c91a51f623fc8e99c461c2553635b6f025ed5eba38c30d216490fdbb"
+    },
+    "assets_cache": [
+        {
+            "asset": "c91a51f623fc8e99c461c2553635b6f025ed5eba38c30d216490fdbb53696c6c7953686f727453746f727931",
+            "quantity": null,
+            "policy_id": "c91a51f623fc8e99c461c2553635b6f025ed5eba38c30d216490fdbb",
+            "asset_name": "53696c6c7953686f727453746f727931",
+            "onchain_metadata": {
+                "name": "Silly Short Story #1",
+                "type": "Worm",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmdwPynwhjdryB6PuxNvDZJsyE9vbCFDNVuqZygS6h1GWu",
+                        "name": "Silly Short Story #1",
+                        "mediaType": "image\/gif"
+                    }
+                ],
+                "image": "ipfs:\/\/QmdwPynwhjdryB6PuxNvDZJsyE9vbCFDNVuqZygS6h1GWu",
+                "artist": "thiscrazylife",
+                "policy": {
+                    "type": "all",
+                    "scripts": [
+                        {
+                            "slot": 40752680,
+                            "type": "before"
+                        },
+                        {
+                            "type": "sig",
+                            "keyHash": "c5477b19f365916aa26f8aa88a36b0f25f91143722a1553e9bf70f2d"
+                        }
+                    ]
+                },
+                "traits": [
+                    "Bird Killer"
+                ],
+                "homepage": "https:\/\/twitter.com\/OriginalNFTs",
+                "copyright": "\u00a9 2021"
+            }
+        }
+    ]
+}

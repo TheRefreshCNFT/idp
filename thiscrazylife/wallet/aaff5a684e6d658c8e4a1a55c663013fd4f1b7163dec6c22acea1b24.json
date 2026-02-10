@@ -1,0 +1,111 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933611,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "aaff5a684e6d658c8e4a1a55c663013fd4f1b7163dec6c22acea1b24"
+    },
+    "assets_cache": [
+        {
+            "asset": "aaff5a684e6d658c8e4a1a55c663013fd4f1b7163dec6c22acea1b244372617a794b69746368656e35",
+            "quantity": null,
+            "policy_id": "aaff5a684e6d658c8e4a1a55c663013fd4f1b7163dec6c22acea1b24",
+            "asset_name": "4372617a794b69746368656e35",
+            "onchain_metadata": {
+                "name": "THIS CRAZY KITCHEN: \"Workshop 5 - Review & IPFS\" (2022)",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeie3fsbfrfkdlt6pe34va2l",
+                            "rso6xttoe3ldnnlglub3cmaav75hxry"
+                        ],
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmSAnpEfptHuTfNViRnu1YVUD3i7PLk6zoPtZ17X6fXa89",
+                        "mediaType": "image\/"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmdhYB3CjUCAXMgKqowSGBPoo2AKd9i2Y6zNUBnjdeW6mC",
+                        "mediaType": "image\/gif"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmW6nktjZABC97XXoFP54PzNqE99Xjsw4Sd75XwU1QDd3V",
+                        "name": "The Missing Link: Intro to Web Development",
+                        "mediaType": "application\/pdf"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmRFrybME9G6EF4rHNPKQGd6FZ3GYG3HJu775YPTL2LEM3",
+                        "name": "Cardano Improvement Proposal CIP-27",
+                        "mediaType": "application\/pdf"
+                    }
+                ],
+                "image": "ipfs:\/\/QmSAnpEfptHuTfNViRnu1YVUD3i7PLk6zoPtZ17X6fXa89",
+                "Summary": [
+                    "The fifth edition of",
+                    "THIS CRAZY KITCHEN Cardano Workshop!",
+                    "In this workshop, we review topics covered",
+                    "in previous editions of THIS CRAZY KITCHEN:",
+                    "Included are discussions about basic minting,",
+                    "metadata structures, on-chain minting,",
+                    "and some basic foundations of HTML.",
+                    "The workshop then continues with",
+                    "a conversation about best practices in Cardano",
+                    "with respect to File Management using IPFS.",
+                    "We explored NFT.Storage, which is on the",
+                    "FILECOIN network, and considered what kinds",
+                    "of approaches could be used for long-term",
+                    "asset management with respect to NFTz",
+                    "on Cardano.",
+                    "See you again at the next",
+                    "THIS CRAZY KITCHEN workshop!"
+                ],
+                "mediaType": "image\/png",
+                "Published on": [
+                    "Cardano (Epoch 322)"
+                ],
+                "Kitchen Chefs": [
+                    "ThisCrazyLife & NOODZ"
+                ],
+                "Previous Workshops": {
+                    "workshop 1 \ud83d\udcd6": "https:\/\/tinyurl.com\/CKWorkshop1",
+                    "workshop 2 \ud83d\udcd6": "https:\/\/tinyurl.com\/CKWorkshop2",
+                    "workshop 3 \ud83d\udcd6": "https:\/\/tinyurl.com\/nhdvvp8w",
+                    "workshop 4 \ud83d\udcd6": "https:\/\/tinyurl.com\/5n98zps9"
+                },
+                "Resources: Minting": {
+                    "cardanotools.io\ud83d\udcd3": "https:\/\/cardano-tools.io\/mint",
+                    "pool.pm Metadata Test\ud83d\udcd3": "https:\/\/pool.pm\/test\/metadata"
+                },
+                "Estimated Attendance": [
+                    "\u221e+"
+                ],
+                "Resources: IPFS Management": {
+                    "ipfs.io": [
+                        "https:\/\/docs.ipfs.io\/concepts\/",
+                        "content-addressing\/#identifier-formats"
+                    ],
+                    "Pinata\ud83d\udcd3": "https:\/\/app.pinata.cloud\/",
+                    "NFT.storage\ud83d\udcd3": "https:\/\/nft.storage\/"
+                },
+                "nOODZ \ud83c\udf5c (Creative Developer)": {
+                    "Twitter": "https:\/\/twitter.com\/CardanoNoodz",
+                    "Linktree to GET NOOD": "https:\/\/linktr.ee\/GetNOOD",
+                    "Infinite Possibilities (infi)": "https:\/\/infinitepool.io\/"
+                },
+                "ThisCrazyLife \ud83d\udd01 (Creative Developer)": {
+                    "Discord": "https:\/\/discord.gg\/Ya4XvQ2ey6",
+                    "Twitter": "https:\/\/twitter.com\/_ThisCr8zyLife_",
+                    "thiscrazylife.io": "https:\/\/www.thiscrazylife.io\/"
+                },
+                "the Alexandria Project \ud83d\udcda (Library on Cardano)": {
+                    "Twitter": "https:\/\/twitter.com\/alexandriatap",
+                    "Linktree": "https:\/\/linktr.ee\/AlexandriaTAP",
+                    "Telegram": "https:\/\/t.me\/+5Tff9HTUeEdjZjUx"
+                }
+            }
+        }
+    ]
+}

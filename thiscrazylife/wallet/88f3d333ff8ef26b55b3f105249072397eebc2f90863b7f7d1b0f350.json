@@ -1,0 +1,132 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933735,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "88f3d333ff8ef26b55b3f105249072397eebc2f90863b7f7d1b0f350"
+    },
+    "assets_cache": [
+        {
+            "asset": "88f3d333ff8ef26b55b3f105249072397eebc2f90863b7f7d1b0f3504372617a794b69746368656e38436f6e737472756374",
+            "quantity": null,
+            "policy_id": "88f3d333ff8ef26b55b3f105249072397eebc2f90863b7f7d1b0f350",
+            "asset_name": "4372617a794b69746368656e38436f6e737472756374",
+            "onchain_metadata": {
+                "dVNC": {
+                    "Twitter": "https:\/\/twitter.com\/dvnc_00"
+                },
+                "name": "THIS CRAZY KITCHEN: \"Workshop 8 - Construct\" (2023)",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeihykdkvucx2aq5yb7hz27fqgcsqrn7rfa3g3man7pgyjslzf",
+                            "nw3sq\/Construct.mp4"
+                        ],
+                        "mediaType": "video\/mp4"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmWzBEtd9iRun98u7QtAY3mkBnimj6hkD5dNQWrYrRrnNX",
+                        "View": "of the Construct platform demonstration",
+                        "mediaType": "image\/jpeg"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmTRpSYCCDDXSus1wtJQncUyoLMw9KSRjapBQhVULA5Esy",
+                        "View": "of some of the Workshop participants",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmZokeN49rGUYA58Pa1oCpJENBvmJUwMxcVbCHWyVFx5DA",
+                        "mediaType": "video\/mp4",
+                        "An Example": "of the artwork created during the Workshop"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeifhj5li7efysmpnmhe5h6hez4lawgwguh4jcumau2rbvkg3l",
+                            "pddhe\/1.png"
+                        ],
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": [
+                            "bafybeifhj5li7efysmpnmhe5h6hez4lawgwguh4jcumau2rbvkg3lp",
+                            "ddhe\/2.png"
+                        ],
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmVynd6a2LYu5qqDaSAQiqJRGYmkzB4xXX3kJBvdocAMmQ",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmVynd6a2LYu5qqDaSAQiqJRGYmkzB4xXX3kJBvdocAMmQ",
+                "Summary": [
+                    "The eighth edition of",
+                    "THIS CRAZY KITCHEN Cardano Workshop!",
+                    "In this workshop, we welcome two guest chefs into the kitchen:",
+                    "Charles Machin and dvnc, who help us to explore",
+                    "their new platform: Construct.",
+                    "Using this platform, users will be able to",
+                    "explore programmatic artwork using basic code",
+                    "and example templates for their artwork.",
+                    "We cook up some examples using simple abstract art,",
+                    "and then some more complex entrees of",
+                    "animated artwork using Construct.",
+                    "The final serving on the Workshop Menu",
+                    "is a demonstration of, and invitation into,",
+                    "Project Dreamcatcher, which will be the largest",
+                    "on-chain collaborative artistic experience",
+                    "in the history of Cardano.",
+                    "See you again at the next",
+                    "THIS CRAZY KITCHEN workshop!"
+                ],
+                "mediaType": "image\/png",
+                "A Workshop": "THIS CRAZY KITCHEN 8 - Construct",
+                "Resources:": {
+                    "Construct": "https:\/\/construct.blockgen.art\/",
+                    "W3Schools": "https:\/\/www.w3schools.com\/js\/"
+                },
+                "Published on": [
+                    "Cardano (Epoch 322)"
+                ],
+                "Kitchen Chefs": [
+                    "ThisCrazyLife & NOODZ"
+                ],
+                "charles Machin": {
+                    "Discord": "https:\/\/discord.com\/invite\/BZZCVedNfEll",
+                    "Twitter": "https:\/\/twitter.com\/CM_GenArt",
+                    "Linktree": "https:\/\/linktr.ee\/CharlesMachin"
+                },
+                "Previous Workshops": {
+                    "workshop 1 \ud83d\udcd6": "https:\/\/tinyurl.com\/CKWorkshop1",
+                    "workshop 2 \ud83d\udcd6": "https:\/\/tinyurl.com\/CKWorkshop2",
+                    "workshop 3 \ud83d\udcd6": "https:\/\/tinyurl.com\/CKWorkshop3",
+                    "workshop 4 \ud83d\udcd6": "https:\/\/tinyurl.com\/CKWorkshop4",
+                    "workshop 5 \ud83d\udcd6": "https:\/\/tinyurl.com\/CKWorkshop5",
+                    "workshop 6 \ud83d\udcd6": "https:\/\/tinyurl.com\/CKWorkshop6",
+                    "workshop 7 \ud83d\udcd6": "https:\/\/tinyurl.com\/CKWorkshop7"
+                },
+                "Kitchen Guest Chefs": [
+                    "Charles & DVNC"
+                ],
+                "Estimated Attendance": [
+                    "\u221e+"
+                ],
+                "nOODZ \ud83c\udf5c (Creative Developer)": {
+                    "Twitter": "https:\/\/twitter.com\/CardanoNoodz",
+                    "inFi Stake Pool": "https:\/\/infinitepool.io\/"
+                },
+                "ThisCrazyLife \ud83d\udd01 (Creative Developer)": {
+                    "Discord": "https:\/\/discord.gg\/Ya4XvQ2ey6",
+                    "Twitter": "https:\/\/twitter.com\/_ThisCr8zyLife_",
+                    "Website": "https:\/\/therefreshcnft.com\/"
+                },
+                "the Alexandria Project \ud83d\udcda (Library on Cardano)": {
+                    "Twitter": "https:\/\/twitter.com\/alexandriatap",
+                    "Website": "https:\/\/thelibrary.fun"
+                }
+            }
+        }
+    ]
+}

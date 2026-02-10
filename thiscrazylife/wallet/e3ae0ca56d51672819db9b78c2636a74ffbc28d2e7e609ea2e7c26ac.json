@@ -1,0 +1,82 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933809,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "e3ae0ca56d51672819db9b78c2636a74ffbc28d2e7e609ea2e7c26ac"
+    },
+    "assets_cache": [
+        {
+            "asset": "e3ae0ca56d51672819db9b78c2636a74ffbc28d2e7e609ea2e7c26ac4338436f6c6c65637469626c653430",
+            "quantity": null,
+            "policy_id": "e3ae0ca56d51672819db9b78c2636a74ffbc28d2e7e609ea2e7c26ac",
+            "asset_name": "4338436f6c6c65637469626c653430",
+            "onchain_metadata": {
+                "name": "Crazy 8 Bot Collectible #40",
+                "Quote": "\"You call that a question...\"",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeib3jvjgqcezzqjlz3w4jg6fu7rngiynp3tdvuokjfd63uytqyfu",
+                            "hy\/SilverCrazy8Bot40.glb"
+                        ],
+                        "mediaType": "model\/gltf-binary"
+                    }
+                ],
+                "image": [
+                    "ipfs:\/\/bafkreiay2dzb5jstw6w4pd3rdyhg7bep4nxh6t6h3lmp3wawdkbkc3if",
+                    "3y"
+                ],
+                "Description": [
+                    "The Crazy 8 Bot Collectible is an airdrop for hodlers",
+                    "of The Crazy 8 Bot NFT."
+                ],
+                "bot Creator": "ThisCrazyLife",
+                "visit Pixel": {
+                    "Twitter": "https:\/\/twitter.com\/RefreshedPixel"
+                },
+                "visit ThisCrazyLife": {
+                    "Linktree": "https:\/\/linktr.ee\/ThisCrazyLife"
+                },
+                "bot Collectible Creator": "Pixel"
+            }
+        },
+        {
+            "asset": "e3ae0ca56d51672819db9b78c2636a74ffbc28d2e7e609ea2e7c26ac4338436f6c6c65637469626c653438",
+            "quantity": null,
+            "policy_id": "e3ae0ca56d51672819db9b78c2636a74ffbc28d2e7e609ea2e7c26ac",
+            "asset_name": "4338436f6c6c65637469626c653438",
+            "onchain_metadata": {
+                "name": "Crazy 8 Bot Collectible #48",
+                "Quote": "\"I would say NO even if you kissed my butt.\"",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeib3jvjgqcezzqjlz3w4jg6fu7rngiynp3tdvuokjfd63uytqyfu",
+                            "hy\/SilverCrazy8Bot48.glb"
+                        ],
+                        "mediaType": "model\/gltf-binary"
+                    }
+                ],
+                "image": [
+                    "ipfs:\/\/bafkreiay2dzb5jstw6w4pd3rdyhg7bep4nxh6t6h3lmp3wawdkbkc3if",
+                    "3y"
+                ],
+                "Description": [
+                    "The Crazy 8 Bot Collectible is an airdrop for hodlers",
+                    "of The Crazy 8 Bot NFT."
+                ],
+                "bot Creator": "ThisCrazyLife",
+                "visit Pixel": {
+                    "Twitter": "https:\/\/twitter.com\/RefreshedPixel"
+                },
+                "visit ThisCrazyLife": {
+                    "Linktree": "https:\/\/linktr.ee\/ThisCrazyLife"
+                },
+                "bot Collectible Creator": "Pixel"
+            }
+        }
+    ]
+}

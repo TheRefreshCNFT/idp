@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933802,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "92a6a2fb9861c5fb376e3bd576c4fe36e12ce8fe0c4669d921eab731"
+    },
+    "assets_cache": [
+        {
+            "asset": "92a6a2fb9861c5fb376e3bd576c4fe36e12ce8fe0c4669d921eab7317061737361676530323231",
+            "quantity": null,
+            "policy_id": "92a6a2fb9861c5fb376e3bd576c4fe36e12ce8fe0c4669d921eab731",
+            "asset_name": "7061737361676530323231",
+            "onchain_metadata": {
+                "name": "HNY.2023 #0221",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmaL5TrzfPvXnx87e6jFG1YsnJuwEMWA7ztV5vHAPeWYrY",
+                        "mediaType": "model\/gltf-binary"
+                    }
+                ],
+                "image": "ipfs:\/\/QmPanmdut3Pv1kurCTqigaWhuJkHqYLBUDRR6RyL4yExA8",
+                "Follow": {
+                    "Web": "https:\/\/unspins.io",
+                    "Discord": "https:\/\/discord.gg\/JCv4cK4sbS",
+                    "Twitter": "https:\/\/twitter.com\/WoohMine38"
+                },
+                "Series": "HNY.2023",
+                "Creator": "WooH\u32e1",
+                "Project": "WooH's Passage",
+                "mediaType": "image\/gif",
+                "Description": "Happy New Year - 2023",
+                "Preview and Twitter card": {
+                    "Web page": "https:\/\/tinyurl.com\/46wyvasa"
+                }
+            }
+        }
+    ]
+}

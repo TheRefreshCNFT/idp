@@ -1,0 +1,43 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933654,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "a8608df12a746799565a277c8c42cea5d1ee0bc9134f60e0cc72e16f"
+    },
+    "assets_cache": [
+        {
+            "asset": "a8608df12a746799565a277c8c42cea5d1ee0bc9134f60e0cc72e16f4d6572727920537075642d4d617373",
+            "quantity": null,
+            "policy_id": "a8608df12a746799565a277c8c42cea5d1ee0bc9134f60e0cc72e16f",
+            "asset_name": "4d6572727920537075642d4d617373",
+            "onchain_metadata": {
+                "url": "https:\/\/twitter.com\/abstractpotato",
+                "name": "Merry Spud-Mass",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmPnK81Z1nqxZLEGeXK9Wb89qmpX4ZrZS7T1mZ8rAicDjC",
+                        "mediaType": "model\/gltf-binary"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmPnK81Z1nqxZLEGeXK9Wb89qmpX4ZrZS7T1mZ8rAicDjC",
+                        "mediaType": "model\/glb"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmQCNzJ98dFY2MnYbzgFaS2T6Lt1z4nNxXVCYZ58db4Had",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmWtq1rKUGkji5fLLJruBnpRuTcgv7JBh6NaMrYccsoH2X",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmWv4ZFuvHnwbE3tZvCTweyLrpA8zJtXzKahZpbBaZJMV3",
+                "artist": "Abstract Potato",
+                "mediaType": "image\/png"
+            }
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933735,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "8815a5aff345f3322a783182b4bfc2eda83fbc7f177073f58cbfcbb7"
+    },
+    "assets_cache": [
+        {
+            "asset": "8815a5aff345f3322a783182b4bfc2eda83fbc7f177073f58cbfcbb7536c6f707079506f65546f6b656e",
+            "quantity": null,
+            "policy_id": "8815a5aff345f3322a783182b4bfc2eda83fbc7f177073f58cbfcbb7",
+            "asset_name": "536c6f707079506f65546f6b656e",
+            "onchain_metadata": {
+                "name": "Sloppy Poe Token",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmXCkK1pDgrc58SJHzWpmZ8cz6HjKqgrEYfgr7Bn8zVZ9k",
+                        "name": "Sloppy Poe Token",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmXCkK1pDgrc58SJHzWpmZ8cz6HjKqgrEYfgr7Bn8zVZ9k",
+                "Ticker": "SLP",
+                "Website": "https:\/\/poetonic.com\/",
+                "mediaType": "image\/png",
+                "Description": "oFf1c1aL Sh3itco1n Uf Da Sl0pPi Po3s."
+            }
+        }
+    ]
+}

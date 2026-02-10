@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933623,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "b7c783f6304eddbdf8f0dece4715d63cb9f453be89d97c8fba155d57"
+    },
+    "assets_cache": [
+        {
+            "asset": "b7c783f6304eddbdf8f0dece4715d63cb9f453be89d97c8fba155d5752455349",
+            "quantity": null,
+            "policy_id": "b7c783f6304eddbdf8f0dece4715d63cb9f453be89d97c8fba155d57",
+            "asset_name": "52455349",
+            "onchain_metadata": {
+                "name": "RESI",
+                "image": "ipfs:\/\/QmdJDuPGbiLZiCRHxyECZXcP6f4R1EuvA3Wfj8AM7skfaK",
+                "mediaType": "image\/png",
+                "attributes": {
+                    "publisher": "https:\/\/resi.works"
+                }
+            }
+        }
+    ]
+}

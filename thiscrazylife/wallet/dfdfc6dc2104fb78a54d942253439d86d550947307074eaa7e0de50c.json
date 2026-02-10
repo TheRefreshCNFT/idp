@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933617,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "dfdfc6dc2104fb78a54d942253439d86d550947307074eaa7e0de50c"
+    },
+    "assets_cache": [
+        {
+            "asset": "dfdfc6dc2104fb78a54d942253439d86d550947307074eaa7e0de50c476e6f6d65736b6965733474684a756c7930303233",
+            "quantity": null,
+            "policy_id": "dfdfc6dc2104fb78a54d942253439d86d550947307074eaa7e0de50c",
+            "asset_name": "476e6f6d65736b6965733474684a756c7930303233",
+            "onchain_metadata": {
+                "name": "Gnomeskies 4th July 0023",
+                "image": "ipfs:\/\/QmeTZM7vuuXey4Wfim1ZGivVU1pdo6pJ2tjDwogixJ2BBP",
+                "-----Traits-----": [
+                    {
+                        "Background": "Eaglesky"
+                    },
+                    {
+                        "Body": "Eaglesky"
+                    },
+                    {
+                        "Outfit": "Hotdogsky"
+                    },
+                    {
+                        "Special": "Hotdogsky"
+                    }
+                ],
+                "-----Product Information-----": [
+                    {
+                        "Website": "https:\/\/ergnomes.io\/hosky"
+                    },
+                    {
+                        "Copyright": "ERGnomes 2022; all rights reserved"
+                    }
+                ]
+            }
+        }
+    ]
+}

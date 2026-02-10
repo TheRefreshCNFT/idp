@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933746,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "e24d94846cae058b807f65958e3f3e0f280b4d1cf0548f0a48f3f5a4"
+    },
+    "assets_cache": [
+        {
+            "asset": "e24d94846cae058b807f65958e3f3e0f280b4d1cf0548f0a48f3f5a44265617374416e64426f6e65303036",
+            "quantity": null,
+            "policy_id": "e24d94846cae058b807f65958e3f3e0f280b4d1cf0548f0a48f3f5a4",
+            "asset_name": "4265617374416e64426f6e65303036",
+            "onchain_metadata": {
+                "name": "BEAST & BONE - 006",
+                "House": "Jewel",
+                "Order": "Fortune",
+                "image": "ipfs:\/\/QmPXztiPvsnrTMmUFC4tibTEfC4LNTyViJxqJgerqK2ZtR",
+                "Artist": "SkullTakes x Ai",
+                "Twitter": "https:\/\/Twitter.com\/SkullTakes",
+                "Website": "skulltakes.io",
+                "Attributes": "Wealth - Power - Glory",
+                "Tempering Forces": "Conceit - Tyranny",
+                "Path Of Discovery": "Realization"
+            }
+        },
+        {
+            "asset": "e24d94846cae058b807f65958e3f3e0f280b4d1cf0548f0a48f3f5a44265617374416e64426f6e65323230",
+            "quantity": null,
+            "policy_id": "e24d94846cae058b807f65958e3f3e0f280b4d1cf0548f0a48f3f5a4",
+            "asset_name": "4265617374416e64426f6e65323230",
+            "onchain_metadata": {
+                "name": "BEAST & BONE - 220",
+                "House": "Bile",
+                "Order": "Humors",
+                "image": "ipfs:\/\/Qmd3heW1gNquVwAvFyfFnrgR8pJ7qnBAmJhmB28ES4WU2M",
+                "Artist": "SkullTakes x Ai",
+                "Twitter": "https:\/\/Twitter.com\/SkullTakes",
+                "Website": "skulltakes.io",
+                "Attributes": "Envy - Anger - Resentment",
+                "Tempering Forces": "Catharsis - Humility",
+                "Path Of Discovery": "Expulsion"
+            }
+        }
+    ]
+}

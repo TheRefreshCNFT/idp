@@ -1,0 +1,77 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933735,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "89e0ada301acc3017c818a4d1a20b7933da7cc5b6c4f51dda0235a65"
+    },
+    "assets_cache": [
+        {
+            "asset": "89e0ada301acc3017c818a4d1a20b7933da7cc5b6c4f51dda0235a6543617264616e6f204d696e697374727920436c6173736963",
+            "quantity": null,
+            "policy_id": "89e0ada301acc3017c818a4d1a20b7933da7cc5b6c4f51dda0235a65",
+            "asset_name": "43617264616e6f204d696e697374727920436c6173736963",
+            "onchain_metadata": {
+                "name": "Cardano Ministry Classic",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmP2yC6hx8hvM8yzrjyCM8nN1MEPFq7gvyb4B5MkCSoge5",
+                        "name": "Welcome to the Ministry Classic",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "image": "ipfs:\/\/QmP2yC6hx8hvM8yzrjyCM8nN1MEPFq7gvyb4B5MkCSoge5",
+                "mediaType": "image\/jpeg",
+                "ministers": {
+                    "StockingUp7": "https:\/\/twitter.com\/StockingUp7",
+                    "Starchtoshi Nakamoto": "https:\/\/mobile.twitter.com\/starchtoshi"
+                },
+                "published": "Epoch 332",
+                "description": [
+                    "This fungible token makes ye an official member of",
+                    "the Cardano Ministry Classic",
+                    "Join Us"
+                ],
+                "published by": "Cardano Ministry Classic",
+                "ministry Artist": {
+                    "Occult": "https:\/\/twitter.com\/occult_artista"
+                },
+                "ministry Wallet": [
+                    "If ye be in a giving mood, ye are invited",
+                    "to send any ADA or NFTs to",
+                    "$learning"
+                ],
+                "Ministry Classic Tenets": [
+                    "*",
+                    "Thou shalt Honor the Cardano Blockchain above all others",
+                    "*",
+                    "Thou shalt secure thy ADA Classic with thine own crypto keys",
+                    "",
+                    "Thou shalt stake thy ADA Classic with an SPO,",
+                    "not leave it on exchanges",
+                    "*",
+                    "Thou shalt do thine own research &",
+                    "defend Cardano Classic (with facts) against the forces of FUD",
+                    "|",
+                    "Thou shalt NOT have paper-hands",
+                    "unless to save thyself from despair",
+                    "*",
+                    "Thou shalt NOT FOMO into Hard Forks",
+                    "unless thou consider thyself a true clas\u00b7si\u00b7cist",
+                    "*",
+                    "Thou shalt NOT invest more than thou can afford to lose",
+                    "*",
+                    "Thou shalt Honor the Ministry Classic with good behavior",
+                    "on crypto Twitter whilst donning its crest"
+                ],
+                "ministry Classic Acolytes": {
+                    "NOODZ": "https:\/\/twitter.com\/CardanoNoodz",
+                    "ThisCrazyLife": "https:\/\/twitter.com\/_ThisCr8zyLife_",
+                    "Abstract Potato": "https:\/\/twitter.com\/abstractpotato"
+                }
+            }
+        }
+    ]
+}

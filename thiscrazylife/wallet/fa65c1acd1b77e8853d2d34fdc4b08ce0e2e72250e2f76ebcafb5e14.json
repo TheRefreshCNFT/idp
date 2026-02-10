@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933796,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "fa65c1acd1b77e8853d2d34fdc4b08ce0e2e72250e2f76ebcafb5e14"
+    },
+    "assets_cache": [
+        {
+            "asset": "fa65c1acd1b77e8853d2d34fdc4b08ce0e2e72250e2f76ebcafb5e144675636b596f75",
+            "quantity": null,
+            "policy_id": "fa65c1acd1b77e8853d2d34fdc4b08ce0e2e72250e2f76ebcafb5e14",
+            "asset_name": "4675636b596f75",
+            "onchain_metadata": {
+                "name": "YOU ARE A FUCKING IDIOT",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/Qmen4ScFzJi2QKkrfVuTDDUXNujCn614khVh6UVHy7iExk",
+                        "name": "FuckYou",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "image": "ipfs:\/\/Qmen4ScFzJi2QKkrfVuTDDUXNujCn614khVh6UVHy7iExk",
+                "mediaType": "image\/jpeg"
+            }
+        }
+    ]
+}

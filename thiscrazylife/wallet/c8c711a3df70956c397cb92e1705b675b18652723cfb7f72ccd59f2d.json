@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933629,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "c8c711a3df70956c397cb92e1705b675b18652723cfb7f72ccd59f2d"
+    },
+    "assets_cache": [
+        {
+            "asset": "c8c711a3df70956c397cb92e1705b675b18652723cfb7f72ccd59f2d434841524c4553",
+            "quantity": null,
+            "policy_id": "c8c711a3df70956c397cb92e1705b675b18652723cfb7f72ccd59f2d",
+            "asset_name": "434841524c4553",
+            "onchain_metadata": {
+                "id": "0",
+                "name": "About Stuff E2 $CHARLES",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmUTc6mLeLA8ywYaA9mwB66v8VLTm3bSEAWH9kZpArefeT",
+                        "name": "High-Res Cover Image",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmVpRC2P5GG51paH5j1FBYEHRHcLVisGeTiySdQ6KwkGNL",
+                "sha256": "c3a3ac1f27486eeb9d0336b442ce6e053698ffbf7dc02de1ebc8ab5bd25bde62",
+                "authors": [
+                    "Stuff.io"
+                ],
+                "deaType": "video",
+                "website": "https:\/\/stuff.io",
+                "mediaType": "image\/jpeg",
+                "attributes": {
+                    "Cover Theme": "$CHARLES"
+                },
+                "entrypoint": "ipfs:\/\/QmTesRJsAkAF1h4va2L1wgiNy8SRqVaYVun6vcK9nS2DV3",
+                "description": [
+                    "The first ever video media token on Cardano featuring the legend",
+                    "ary OG, Charles Hoskinson. For personal, non-commercial use only",
+                    "."
+                ],
+                "dataMediaType": "application\/lpf+zip",
+                "extraAttributes": {
+                    "Name": "About Stuff E2 $CHARLES"
+                }
+            }
+        }
+    ]
+}

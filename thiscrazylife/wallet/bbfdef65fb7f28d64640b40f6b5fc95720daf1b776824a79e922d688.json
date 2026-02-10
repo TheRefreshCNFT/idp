@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933629,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "bbfdef65fb7f28d64640b40f6b5fc95720daf1b776824a79e922d688"
+    },
+    "assets_cache": [
+        {
+            "asset": "bbfdef65fb7f28d64640b40f6b5fc95720daf1b776824a79e922d68846616861646f756b656e31304b363532",
+            "quantity": null,
+            "policy_id": "bbfdef65fb7f28d64640b40f6b5fc95720daf1b776824a79e922d688",
+            "asset_name": "46616861646f756b656e31304b363532",
+            "onchain_metadata": {
+                "src": "ipfs:\/\/QmQpVXE7jSjNSFbnU1u4PkJysJGRHi4uKm7CmeRiThvtpe",
+                "name": "Fahadouken 10K Tribute #652",
+                "type": "image\/png",
+                "image": "ipfs:\/\/QmeWcyohxXtSn36NZmVYAUEdGhqQwRt6KBhT8G4dahbCqF",
+                "artist": "oodon",
+                "twitter": "https:\/\/twitter.com\/itsoodon",
+                "website": "https:\/\/twitter.com\/FahadoukenNFT",
+                "publisher": "3DMintLab",
+                "description": "Tribute to Fahadouken for collecting 10k CNFTs"
+            }
+        }
+    ]
+}

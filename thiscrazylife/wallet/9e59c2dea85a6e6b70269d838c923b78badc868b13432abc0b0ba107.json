@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933840,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "9e59c2dea85a6e6b70269d838c923b78badc868b13432abc0b0ba107"
+    },
+    "assets_cache": [
+        {
+            "asset": "9e59c2dea85a6e6b70269d838c923b78badc868b13432abc0b0ba107000de14042616b65644e6174696f6e333336",
+            "quantity": null,
+            "policy_id": "9e59c2dea85a6e6b70269d838c923b78badc868b13432abc0b0ba107",
+            "asset_name": "000de14042616b65644e6174696f6e333336",
+            "onchain_metadata": {
+                "image": "ipfs:\/\/QmP4G2rethHQMJmkvwMtWRYqyj57nvCvfoKJuM1fvd785p",
+                "name": "Baked Nation #336",
+                "background": "464f72616e6765",
+                "skin": "4b54616e6e656420436c6179",
+                "eyebrows": "45416e677279",
+                "eyes": "4b53746f6e65642045796573",
+                "mouth": "4d44726970707920546f6e677565",
+                "hats and hair": "53426c61636b204261636b776172647320436170",
+                "clothes": "4c53686172702043617375616c",
+                "accessories": "48426c757368696e67",
+                "back accessories": "40"
+            }
+        },
+        {
+            "asset": "9e59c2dea85a6e6b70269d838c923b78badc868b13432abc0b0ba107000de14042616b65644e6174696f6e33373535",
+            "quantity": null,
+            "policy_id": "9e59c2dea85a6e6b70269d838c923b78badc868b13432abc0b0ba107",
+            "asset_name": "000de14042616b65644e6174696f6e33373535",
+            "onchain_metadata": {
+                "image": "ipfs:\/\/QmbKLUWXyqZq4doEnZfPHDjNe39bD9mqyHk3oQ1xsWKFiN",
+                "name": "Baked Nation #3755",
+                "background": "4b4461726b20507572706c65",
+                "skin": "4a576869746520436c6179",
+                "eyebrows": "46476f6c64656e",
+                "eyes": "49536964652045796573",
+                "mouth": "454265617264",
+                "hats and hair": "4b426c6f6e64652046616465",
+                "clothes": "54393073204a61636b65742079657420616761696e",
+                "accessories": "475061646c6f636b",
+                "back accessories": "40"
+            }
+        },
+        {
+            "asset": "9e59c2dea85a6e6b70269d838c923b78badc868b13432abc0b0ba107000de14042616b65644e6174696f6e34303638",
+            "quantity": null,
+            "policy_id": "9e59c2dea85a6e6b70269d838c923b78badc868b13432abc0b0ba107",
+            "asset_name": "000de14042616b65644e6174696f6e34303638",
+            "onchain_metadata": {
+                "image": "ipfs:\/\/QmRyXKU6NYLpzvhQ8evbp8LDRaBxJmZ6d6cVDCnofnsf5w",
+                "name": "Baked Nation #4068",
+                "background": "4b4461726b20507572706c65",
+                "skin": "4a42726f776e20436c6179",
+                "eyebrows": "4e476f6c64656e2050696572636564",
+                "eyes": "4b4d656c7465642045796573",
+                "mouth": "4d44726970707920546f6e677565",
+                "hats and hair": "5041726d79205374756464656420436170",
+                "clothes": "54393073204a61636b65742079657420616761696e",
+                "accessories": "4e5768697465204561722053747564",
+                "back accessories": "40"
+            }
+        }
+    ]
+}

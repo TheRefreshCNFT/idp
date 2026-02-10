@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933611,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "9c54bb728df9847b0358c84c942500646326a1b581a2b8c43689d220"
+    },
+    "assets_cache": [
+        {
+            "asset": "9c54bb728df9847b0358c84c942500646326a1b581a2b8c43689d2205374726970706572436f696e",
+            "quantity": null,
+            "policy_id": "9c54bb728df9847b0358c84c942500646326a1b581a2b8c43689d220",
+            "asset_name": "5374726970706572436f696e",
+            "onchain_metadata": {
+                "url": "https:\/\/strippercoin.io\/vstrip",
+                "use": "More info coming soon",
+                "name": "vSTRIP",
+                "toDo": "vSTRIP details coming soon!",
+                "image": "ipfs:\/\/Qma4hVrxSEPf2V2JZHAEfcstnxJvXWWqHUSfsiKqAJ7ir5"
+            }
+        }
+    ]
+}

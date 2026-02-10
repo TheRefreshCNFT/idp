@@ -1,0 +1,121 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933746,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "bf62017ddf575eba549fc6e052e2f4b87bf4cd19359365d3701f7a8e"
+    },
+    "assets_cache": [
+        {
+            "asset": "bf62017ddf575eba549fc6e052e2f4b87bf4cd19359365d3701f7a8e48656172744f66476f6c64",
+            "quantity": null,
+            "policy_id": "bf62017ddf575eba549fc6e052e2f4b87bf4cd19359365d3701f7a8e",
+            "asset_name": "48656172744f66476f6c64",
+            "onchain_metadata": {
+                "name": "HeartOfGold",
+                "files": [
+                    {
+                        "src": [
+                            "data:text\/html;base64,PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj",
+                            "4KPGhlYWQ+Cgk8bWV0YSBjaGFyc2V0PSJVVEYtOCI+Cgk8bWV0YSBodHRwLWVxdW",
+                            "l2PSJYLVVBLUNvbXBhdGlibGUiIGNvbnRlbnQ9IklFLWVkZ2UiPgoJPG1ldGEgbm",
+                            "FtZT0idmlld3BvcnQiIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgaW5pdG",
+                            "lhbC1zY2FsZT0xLjAiPgoJPHRpdGxlPkhlYXJ0T2ZHb2xkPC90aXRsZT4KPHN0eW",
+                            "xlPgoKKiB7CgltYXJnaW46IDA7CglwYWRkaW5nOiAwOwoJYm94LXNpemluZzogYm",
+                            "9yZGVyLWJveDsKfQoKY2FudmFzIHsKCSBwb3NpdGlvbjogIGFic29sdXRlOwoJIH",
+                            "RvcDogIDA7CgkgbGVmdDogMDsKfQoKYm9keSB7CglvdmVyZmxvdzogIGhpZGRlbj",
+                            "sKfQoKPC9zdHlsZT4KCjxib2R5PgoJPGNhbnZhcyBpZD0nY2FudmFzMScgc3R5bG",
+                            "U9Im9iamVjdC1maXQ6IGNvbnRhaW47IHdpZHRoOiAxMDB2dzsgaGVpZ2h0OiAxMD",
+                            "B2aCI7IHdpZHRoPSI1NTAiIGhlaWdodD0iNTUwIj48L2NhbnZhcz48L2Rpdj4KCj",
+                            "xzY3JpcHQ+CgovL0dldCBSYW5kb20gQ29sb3VyIGZ1bmN0aW9uCmZ1bmN0aW9uIG",
+                            "dldFJhbmRvbUNvbG9yKCkgewogICAgICAgICAgICB2YXIgbGV0dGVycyA9ICcwMT",
+                            "IzNDU2Nzg5QUJDREVGJzsKICAgICAgICAgICAgdmFyIGNvbG9yID0gJyMnOwogIC",
+                            "AgICAgICAgICBmb3IgKHZhciBpID0gMDsgaSA8IDY7IGkrKykgewogICAgICAgIC",
+                            "AgICAgICAgY29sb3IgKz0gbGV0dGVyc1tNYXRoLmZsb29yKE1hdGgucmFuZG9tKC",
+                            "kgKiAxNildOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgICByZXR1cm4gY2",
+                            "9sb3I7CiAgICAgICAgICAgIH07CgovL1JhbmRvbSBJbnRlZ2VyIGZ1bmN0aW9uCm",
+                            "Z1bmN0aW9uIGdldFJhbmRvbUludChtaW4sIG1heCkgewogICAgICAgICAgICByZX",
+                            "R1cm4gTWF0aC5mbG9vcihNYXRoLnJhbmRvbSgpICogKG1heCAtIG1pbiArIDEpIC",
+                            "sgbWluKTsKICAgICAgICAgIH07Ci8vU2V0IHVwIGNhbnZhcyAKCgljb25zdCBjYW",
+                            "52YXMgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY2FudmFzMScpOwoJY29uc3",
+                            "QgY3R4ID0gY2FudmFzLmdldENvbnRleHQoJzJkJyk7CgljYW52YXMud2lkdGggPS",
+                            "A1NTA7CgljYW52YXMuaGVpZ2h0ID0gNTUwOwoJY2FudmFzLnN0eWxlLndpZHRoID",
+                            "0gJzEwMHZ3JzsKICBjYW52YXMuc3R5bGUuaGVpZ2h0ID0gJzEwMHZoJzsKICBjYW",
+                            "52YXMuc3R5bGUudHJhbnNmb3JtID0gInJvdGF0ZSgyNzBkZWcpIjsgICAgICAgIC",
+                            "AvLyBvciAtOTAgZGVwZW5kaW5nIG9uIG5lZWQKICBjYW52YXMuc3R5bGUud2Via2",
+                            "l0VHJhbnNmb3JtID0gInJvdGF0ZSgyNzBkZWcpIjsKICBjdHguZmlsbFN0eWxlPS",
+                            "dibGFjayc7CiAgY3R4LmZpbGxSZWN0KDAsIDAsIGNhbnZhcy53aWR0aCwgY2Fudm",
+                            "FzLmhlaWdodCk7CiAgZG9jdW1lbnQuYm9keS5zdHlsZS5iYWNrZ3JvdW5kQ29sb3",
+                            "IgPSAnYmxhY2snOwoKLy9DcmVhdGUgU3ltYm9scyBhbmQgYXBwbHkgRWZmZWN0Cg",
+                            "oJY2xhc3MgU3ltYm9sIHsKCQljb25zdHJ1Y3Rvcih4LCB5LCBmb250U2l6ZSwgY2",
+                            "FudmFzSGVpZ2h0KXsKCQkJdGhpcy5jaGFyYWN0ZXJzID0gJzAxJzsKCQkJdGhpcy",
+                            "54ID0geDsKCQkJdGhpcy55ID0geTsKCQkJdGhpcy5mb250U2l6ZSA9IGZvbnRTaX",
+                            "plOwoJCQl0aGlzLnRleHQgPSAnJzsKCQkJdGhpcy5jYW52YXNIZWlnaHQgPSBjYW",
+                            "52YXNIZWlnaHQ7CgoJCX0KCQlkcmF3KGNvbnRleHQpewoJCQl0aGlzLnRleHQgPS",
+                            "B0aGlzLmNoYXJhY3RlcnMuY2hhckF0KE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKS",
+                            "p0aGlzLmNoYXJhY3RlcnMubGVuZ3RoKSk7CgkJCWNvbnRleHQuZmlsbFRleHQodG",
+                            "hpcy50ZXh0LCB0aGlzLnggKiB0aGlzLmZvbnRTaXplLCB0aGlzLnkgKiB0aGlzLm",
+                            "ZvbnRTaXplKTsKCQkJaWYgKHRoaXMueSAqIHRoaXMuZm9udFNpemUgPiB0aGlzLm",
+                            "NhbnZhc0hlaWdodCAmJiBNYXRoLnJhbmRvbSgpID4gMC4xKXsKCQkJCXRoaXMueS",
+                            "A9IDA7CgkJCX0gZWxzZSB7CgkJCQl0aGlzLnkgKz0gMTsKCQkJfQoKCQl9Cgl9Cg",
+                            "oJY2xhc3MgRWZmZWN0IHsKCQljb25zdHJ1Y3RvcihjYW52YXNXaWR0aCwgY2Fudm",
+                            "FzSGVpZ2h0KXsKCQkJdGhpcy5jYW52YXNXaWR0aCA9IGNhbnZhc1dpZHRoOwoJCQ",
+                            "l0aGlzLmNhbnZhc0hlaWdodCA9IGNhbnZhc0hlaWdodDsKCQkJdGhpcy5mb250U2",
+                            "l6ZSA9IDE7CgkJCXRoaXMuY29sdW1ucyA9IHRoaXMuY2FudmFzV2lkdGgvdGhpcy",
+                            "5mb250U2l6ZTsKCQkJdGhpcy5zeW1ib2xzID0gW107CgkJCXRoaXMuaW5pdGlhbG",
+                            "l6ZSgpOwoKCQl9CgkJaW5pdGlhbGl6ZSgpewoJCQlmb3IgKGxldCBpID0gMDsgaS",
+                            "A8IHRoaXMuY29sdW1uczsgaSsrKXsKCQkJCXRoaXMuc3ltYm9sc1tpXSA9IG5ldy",
+                            "BTeW1ib2woaSwgMCwgdGhpcy5mb250U2l6ZSwgdGhpcy5jYW52YXNIZWlnaHQpOy",
+                            "AKCQkJfQoJCX0KCQlyZXNpemUod2lkdGgsIGhlaWdodCl7CgkJCXRoaXMuY2Fudm",
+                            "FzV2lkdGggPSB3aWR0aDsKCQkJdGhpcy5jYW52YXNIZWlnaHQgPSBoZWlnaHQ7Cg",
+                            "kJCXRoaXMuY29sdW1ucyA9IHRoaXMuY2FudmFzV2lkdGgvdGhpcy5mb250U2l6ZT",
+                            "sKCQkJdGhpcy5zeW1ib2xzID0gW107CgkJCXRoaXMuaW5pdGlhbGl6ZSgpOwoKCQ",
+                            "l9Cgl9Cgpjb25zdCBlZmZlY3QgPSBuZXcgRWZmZWN0KGNhbnZhcy53aWR0aCwgY2",
+                            "FudmFzLmhlaWdodCk7CmxldCBsYXN0VGltZSA9IDA7CmNvbnN0IGZwcyA9IDYwOw",
+                            "pjb25zdCBuZXh0RnJhbWUgPSAyNTAwL2ZwczsKbGV0IHRpbWVyID0gMDsKCgp2YX",
+                            "IgY29sb3VyX2FycmF5ID0gbmV3IEFycmF5ICgKCSdvcmFuZ2UnLAoJJ2dvbGQnLA",
+                            "oJJ2RhcmtPcmFuZ2UnCgkpCgovL0FuaW1hdGUgQmluYXJ5CgpmdW5jdGlvbiBhbm",
+                            "ltYXRlKHRpbWVTdGFtcCl7Cgljb25zdCBkZWx0YVRpbWUgPSB0aW1lU3RhbXAgLS",
+                            "BsYXN0VGltZTsKCWxhc3RUaW1lID0gdGltZVN0YW1wOwoKCglpZiAodGltZXIgPi",
+                            "BuZXh0RnJhbWUpewoJY3R4LmZpbGxTdHlsZSA9ICdyZ2JhKDAsIDAsIDAsIDAuMD",
+                            "A1KSc7CgljdHgudGV4dEFsaWduID0gJ2NlbnRlcic7CgljdHguZmlsbFJlY3QoMC",
+                            "wgMCwgY2FudmFzLndpZHRoLzIsIGNhbnZhcy5oZWlnaHQvMik7CgljdHguZmlsbF",
+                            "N0eWxlID0gY29sb3VyX2FycmF5W2dldFJhbmRvbUludCgwLDIpXTsKCWN0eC5mb2",
+                            "50ID0gZWZmZWN0LmZvbnRTaXplICsgJ3B4IG1vbm9zcGFjZSc7CgllZmZlY3Quc3",
+                            "ltYm9scy5mb3JFYWNoKHN5bWJvbCA9PiBzeW1ib2wuZHJhdyhjdHgpKTsKCWVmZm",
+                            "VjdC5zeW1ib2xzLmZvckVhY2goc3ltYm9sID0+IHN5bWJvbC5kcmF3KGN0eCkpOw",
+                            "oJCgljdHgudHJhbnNsYXRlKGNhbnZhcy53aWR0aC8yLCBjYW52YXMuaGVpZ2h0Lz",
+                            "IpOwoJY3R4LnJvdGF0ZShNYXRoLlBJIC8gMzUpOwoJY3R4LnJvdGF0ZShNYXRoLl",
+                            "BJIC8gMTMwKTsKCWN0eC50cmFuc2xhdGUoLWNhbnZhcy53aWR0aC8yLCAtY2Fudm",
+                            "FzLmhlaWdodC8yKTsKCgl0aW1lciA9IDA7CQoJfSBlbHNlIHsKCQl0aW1lciArPS",
+                            "BkZWx0YVRpbWU7Cgl9CglyZXF1ZXN0QW5pbWF0aW9uRnJhbWUoYW5pbWF0ZSk7Cn",
+                            "0KCmFuaW1hdGUoMCk7CgoKLy9FdmVudCBMaXN0ZW5lciBmb3IgUmVzaXplCndpbm",
+                            "Rvdy5hZGRFdmVudExpc3RlbmVyKCdyZXNpemUnLCBmdW5jdGlvbigpewoJCQljYW",
+                            "52YXMud2lkdGggPSA1NTA7CgkJCWNhbnZhcy5oZWlnaHQgPSA1NTA7CgkJCWVmZm",
+                            "VjdC5yZXNpemUoY2FudmFzLndpZHRoLCBjYW52YXMuaGVpZ2h0KTsKfSkKCi8vRX",
+                            "ZlbnQgTGlzdGVuZXIgZm9yIENsaWNrCiAgICAgIGNhbnZhcy5hZGRFdmVudExpc3",
+                            "RlbmVyKAogICAgICAgICJjbGljayIsCiAgICAgICAgZnVuY3Rpb24gKGV2ZW50KS",
+                            "B7CgogICAgICAgICAgaWYgKCFldmVudC50YXJnZXQubWF0Y2hlcygnLmNhbnZhcy",
+                            "cpKSB7CgogICAgICAgIGxvY2F0aW9uLnJlbG9hZCgpOwogICAgICAgICAgfQoKIC",
+                            "AgICAgICB9LAogICAgICAgIGZhbHNlCiAgICAgICk7Cgo8L3NjcmlwdD4KPC9ib2",
+                            "R5Pgo8L2h0bWw+Cg=="
+                        ],
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/QmXdr3yMUEyBBmzYACrNeXFVT8i9Z54Gg5d8AFo2oW186H",
+                "artist": {
+                    "Skipper": "https:\/\/twitter.com\/skipper_cnft"
+                },
+                "mediaType": "image\/png",
+                "description": [
+                    "This token is given to early supporters of Skipper CNFT.",
+                    "It provides the owner with discounts and privileged",
+                    "access to future airdrops and collections"
+                ]
+            }
+        }
+    ]
+}

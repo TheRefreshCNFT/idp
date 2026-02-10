@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933643,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "f1c721eb4dbd1265b969a9ca876efc3c9124bbeb1f3242f2c0d617f5"
+    },
+    "assets_cache": [
+        {
+            "asset": "f1c721eb4dbd1265b969a9ca876efc3c9124bbeb1f3242f2c0d617f5456e69676d61506978656c3834",
+            "quantity": null,
+            "policy_id": "f1c721eb4dbd1265b969a9ca876efc3c9124bbeb1f3242f2c0d617f5",
+            "asset_name": "456e69676d61506978656c3834",
+            "onchain_metadata": {
+                "name": "Pixel art S1",
+                "image": "ipfs:\/\/ipfs\/QmVu3471eeFciDsBuzKuX8xDEnpBSUsMCUPmDR7rw4eyX5",
+                "Twitter": [
+                    "https:\/\/twitter.com\/EnigmA_SPO"
+                ],
+                "Rarities": [
+                    "Common"
+                ]
+            }
+        }
+    ]
+}

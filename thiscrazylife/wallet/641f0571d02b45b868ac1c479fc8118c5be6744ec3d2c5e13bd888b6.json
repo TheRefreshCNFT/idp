@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933704,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "641f0571d02b45b868ac1c479fc8118c5be6744ec3d2c5e13bd888b6"
+    },
+    "assets_cache": [
+        {
+            "asset": "641f0571d02b45b868ac1c479fc8118c5be6744ec3d2c5e13bd888b65a4f4d424945",
+            "quantity": null,
+            "policy_id": "641f0571d02b45b868ac1c479fc8118c5be6744ec3d2c5e13bd888b6",
+            "asset_name": "5a4f4d424945",
+            "onchain_metadata": {
+                "name": "$ZOMBIE",
+                "image": "ipfs:\/\/QmP9yLdssqjm9xo738QiE6H5QBvUTnEt9yS27hKPriwNcy",
+                "artist": "Zombie King",
+                "summary": "The Onadracs - Zombie Coin",
+                "assetType": "FT",
+                "mediaType": "image\/png",
+                "publisher": [
+                    "https:\/\/theonadracs.com",
+                    "https:\/\/tokhun.io"
+                ],
+                "description": [
+                    "In Game Utility Token"
+                ]
+            }
+        }
+    ]
+}

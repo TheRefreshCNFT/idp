@@ -1,0 +1,54 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933829,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "feb6b2d1fa0187685ec241e00cd06274901481f61a4f3e6c243ca189"
+    },
+    "assets_cache": [
+        {
+            "asset": "feb6b2d1fa0187685ec241e00cd06274901481f61a4f3e6c243ca1895469636b6574696e67546573742330353931",
+            "quantity": null,
+            "policy_id": "feb6b2d1fa0187685ec241e00cd06274901481f61a4f3e6c243ca189",
+            "asset_name": "5469636b6574696e67546573742330353931",
+            "onchain_metadata": {
+                "name": "TicketingTest#0591",
+                "files": [
+                    {
+                        "src": "https:\/\/cdn.nucast.events\/KB2P8gG5gDPNmplzNB2E",
+                        "name": "TicketingTest#0591",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "https:\/\/cdn.nucast.events\/KB2P8gG5gDPNmplzNB2E",
+                "website": "https:\/\/ticketing.nucast.io",
+                "mediaType": "image\/png",
+                "Multiplier": "20x",
+                "description": "This is a community test mint for nucast ticketing."
+            }
+        },
+        {
+            "asset": "feb6b2d1fa0187685ec241e00cd06274901481f61a4f3e6c243ca1895469636b6574696e67546573742330383133",
+            "quantity": null,
+            "policy_id": "feb6b2d1fa0187685ec241e00cd06274901481f61a4f3e6c243ca189",
+            "asset_name": "5469636b6574696e67546573742330383133",
+            "onchain_metadata": {
+                "name": "TicketingTest#0813",
+                "files": [
+                    {
+                        "src": "https:\/\/cdn.nucast.events\/JYZXCRA1rluz5vSkYlHZ",
+                        "name": "TicketingTest#0813",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "https:\/\/cdn.nucast.events\/JYZXCRA1rluz5vSkYlHZ",
+                "website": "https:\/\/ticketing.nucast.io",
+                "mediaType": "image\/png",
+                "Multiplier": "20x",
+                "description": "This is a community test mint for nucast ticketing."
+            }
+        }
+    ]
+}

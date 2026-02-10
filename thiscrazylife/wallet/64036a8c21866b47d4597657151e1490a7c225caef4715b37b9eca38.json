@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933721,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "64036a8c21866b47d4597657151e1490a7c225caef4715b37b9eca38"
+    },
+    "assets_cache": [
+        {
+            "asset": "64036a8c21866b47d4597657151e1490a7c225caef4715b37b9eca38383934346131326236383766666666",
+            "quantity": null,
+            "policy_id": "64036a8c21866b47d4597657151e1490a7c225caef4715b37b9eca38",
+            "asset_name": "383934346131326236383766666666",
+            "onchain_metadata": {
+                "lat": "26.23205985159235",
+                "lng": "-80.0902172847612",
+                "url": "https:\/\/smart-places.io\/landplots\/8944a12b687ffff",
+                "name": "SmartPlaces #8944a12b687ffff",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmRHfekoaQHCajxGyJkTwCdjEuKA8MtLQG5TeL3a7FysLc",
+                        "name": "SmartPlaces #8944a12b687ffff",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "hexId": "8944a12b687ffff",
+                "image": "ipfs:\/\/QmRHfekoaQHCajxGyJkTwCdjEuKA8MtLQG5TeL3a7FysLc",
+                "place": "Pompano Beach",
+                "country": "United States",
+                "mediaType": "image\/png",
+                "publisher": "smart-places.io",
+                "description": [
+                    "Decentralized social ecosystem that rewards users",
+                    "for connecting and interacting"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933815,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "ec77283fe87b1ccd7e5e8eb963de4c90abc8488e1e090b16b7f70a50"
+    },
+    "assets_cache": [
+        {
+            "asset": "ec77283fe87b1ccd7e5e8eb963de4c90abc8488e1e090b16b7f70a50476e6f6d65736b69657336395368616465734f665275673035323633",
+            "quantity": null,
+            "policy_id": "ec77283fe87b1ccd7e5e8eb963de4c90abc8488e1e090b16b7f70a50",
+            "asset_name": "476e6f6d65736b69657336395368616465734f665275673035323633",
+            "onchain_metadata": {
+                "name": "Gnomeskies 69 Shades of Rug 5263",
+                "image": "ipfs:\/\/QmcoNgmRwY4irbUxnzombGBZgSDnUbiFKcb9gmrwTCiDuQ",
+                "-----Traits-----": [
+                    {
+                        "Background": "Idiot"
+                    },
+                    {
+                        "Accessory": "McHosky"
+                    },
+                    {
+                        "Body": "McHosky"
+                    },
+                    {
+                        "Hat": "McHosky"
+                    },
+                    {
+                        "Moustache": "McHosky"
+                    },
+                    {
+                        "Outfit": "McHosky"
+                    }
+                ],
+                "-----Product Information-----": [
+                    {
+                        "Website": "https:\/\/ergnomes.io\/hosky"
+                    },
+                    {
+                        "Copyright": "ERGnomes 2022; all rights reserved"
+                    }
+                ]
+            }
+        }
+    ]
+}

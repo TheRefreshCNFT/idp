@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933629,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "bad98abcc82a3051b5c65fd675b1aaf5a00adaf256fcf21b95dd6eb8"
+    },
+    "assets_cache": [
+        {
+            "asset": "bad98abcc82a3051b5c65fd675b1aaf5a00adaf256fcf21b95dd6eb8476f6c64656e5469636b6574313131",
+            "quantity": null,
+            "policy_id": "bad98abcc82a3051b5c65fd675b1aaf5a00adaf256fcf21b95dd6eb8",
+            "asset_name": "476f6c64656e5469636b6574313131",
+            "onchain_metadata": {
+                "name": "Lovelace Club Golden Ticket #111",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmSUhQUnnnVrxiNL24gWEuvcxbjacEoSgeQkjSRM56oKNc",
+                        "mediaType": "video\/mp4"
+                    }
+                ],
+                "image": "ipfs:\/\/QmTANfJtShEqgkGLYvZTBQDDcUKXu3V9vaYKhex5qug6rp",
+                "Status": "Lucky",
+                "Twitter": "https:\/\/twitter.com\/LovelaceClubNFT",
+                "Description": [
+                    "The Golden Tickets are the first installment from Lovelace Club",
+                    "This collection of animated 3D tickets offers ",
+                    "holders significant perks within the LLC ecosystem."
+                ],
+                "Ticket Details": [
+                    "This Golden Ticket lands in your wallet.",
+                    "Right on time, neither early nor late. ",
+                    "Hold onto it tight! After all, this was fate!"
+                ]
+            }
+        }
+    ]
+}

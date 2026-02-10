@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933821,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "ef338b1f583f5aa0f7945f8a7e27fee9c577f6b420bdf05451716928"
+    },
+    "assets_cache": [
+        {
+            "asset": "ef338b1f583f5aa0f7945f8a7e27fee9c577f6b420bdf05451716928596f757265617374306e65726e6f77",
+            "quantity": null,
+            "policy_id": "ef338b1f583f5aa0f7945f8a7e27fee9c577f6b420bdf05451716928",
+            "asset_name": "596f757265617374306e65726e6f77",
+            "onchain_metadata": {
+                "name": "You're a st0ner now",
+                "image": "ipfs:\/\/QmSrrpNrMXEBzV2TW8oN8ov7vK5pvmN5NMcfcwsTn9VQ3Z",
+                "author": "Cardano Stonerz Club \/  B1g J03 th3 D0n"
+            }
+        }
+    ]
+}

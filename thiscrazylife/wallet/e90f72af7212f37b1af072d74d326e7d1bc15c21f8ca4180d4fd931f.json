@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933623,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "e90f72af7212f37b1af072d74d326e7d1bc15c21f8ca4180d4fd931f"
+    },
+    "assets_cache": [
+        {
+            "asset": "e90f72af7212f37b1af072d74d326e7d1bc15c21f8ca4180d4fd931f484f50",
+            "quantity": null,
+            "policy_id": "e90f72af7212f37b1af072d74d326e7d1bc15c21f8ca4180d4fd931f",
+            "asset_name": "484f50",
+            "onchain_metadata": {
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmZAYsZ3nHXaFH3joqZpyPHYH5Ma3ffvK9Bv76FvVyXPb4",
+                        "name": "HOP",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmZAYsZ3nHXaFH3joqZpyPHYH5Ma3ffvK9Bv76FvVyXPb4",
+                "symbol": "HOP",
+                "ticker": "HOP",
+                "discord": "https:\/\/discord.gg\/RjR6DWdja7",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 1720368272949
+                },
+                "twitter": "https:\/\/x.com\/FrogsOnCardano",
+                "website": "https:\/\/frogsnft.super.site",
+                "decimals": 0,
+                "mintedBy": "$KONDA Minting platform",
+                "provider": "$KONDA minting platform",
+                "launchpad": "MKC",
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "description": [
+                    "$HOP is the meme and utility coin of Frogs collection. Don't buy",
+                    " rugs, buy $HOP s"
+                ],
+                "totalSupply": 420069000000
+            }
+        }
+    ]
+}

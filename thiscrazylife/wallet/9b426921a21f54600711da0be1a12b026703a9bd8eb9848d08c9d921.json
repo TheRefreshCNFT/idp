@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933840,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "9b426921a21f54600711da0be1a12b026703a9bd8eb9848d08c9d921"
+    },
+    "assets_cache": [
+        {
+            "asset": "9b426921a21f54600711da0be1a12b026703a9bd8eb9848d08c9d921434154534b59",
+            "quantity": null,
+            "policy_id": "9b426921a21f54600711da0be1a12b026703a9bd8eb9848d08c9d921",
+            "asset_name": "434154534b59",
+            "onchain_metadata": {
+                "name": "CATSKY Token",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmTdCxJJBc8C4yCdaL9yHP4X3p9ir8mN3718zin7i6sjoD",
+                        "name": "CATSKY",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmTdCxJJBc8C4yCdaL9yHP4X3p9ir8mN3718zin7i6sjoD",
+                "symbol": "CATSKY",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 90820698
+                },
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "Degeneracy": "OVER 9000",
+                "description": "Why? because we know you are stupid enough",
+                "totalSupply": 999999999997
+            }
+        }
+    ]
+}

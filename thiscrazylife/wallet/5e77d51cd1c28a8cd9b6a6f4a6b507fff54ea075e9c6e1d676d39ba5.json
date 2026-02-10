@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933666,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "5e77d51cd1c28a8cd9b6a6f4a6b507fff54ea075e9c6e1d676d39ba5"
+    },
+    "assets_cache": [
+        {
+            "asset": "5e77d51cd1c28a8cd9b6a6f4a6b507fff54ea075e9c6e1d676d39ba550616e646f72656131353235",
+            "quantity": null,
+            "policy_id": "5e77d51cd1c28a8cd9b6a6f4a6b507fff54ea075e9c6e1d676d39ba5",
+            "asset_name": "50616e646f72656131353235",
+            "onchain_metadata": {
+                "name": "Pandorea1525",
+                "type": "Ambient",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmRcrPmf9mWwEi2toeAX6b8cYkprmoyzPgNzTTM62UD7cB",
+                        "name": "Pandorea1525",
+                        "mediaType": "image\/jpeg"
+                    }
+                ],
+                "image": "ipfs:\/\/Qme4ZCvUwQ9XX38tV11aNdsBFzurd9eTErYpekUNnW1kuL",
+                "edition": "Discovery",
+                "palette": "Dream",
+                "mediaType": "image\/jpeg"
+            }
+        }
+    ]
+}

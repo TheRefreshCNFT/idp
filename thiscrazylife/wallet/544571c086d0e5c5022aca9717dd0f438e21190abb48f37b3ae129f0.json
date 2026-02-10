@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933716,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "544571c086d0e5c5022aca9717dd0f438e21190abb48f37b3ae129f0"
+    },
+    "assets_cache": [
+        {
+            "asset": "544571c086d0e5c5022aca9717dd0f438e21190abb48f37b3ae129f047524f57",
+            "quantity": null,
+            "policy_id": "544571c086d0e5c5022aca9717dd0f438e21190abb48f37b3ae129f0",
+            "asset_name": "47524f57",
+            "onchain_metadata": {
+                "name": "GROW Token",
+                "image": "ipfs:\/\/QmQfouHNMDotxVJ5cVrQkdewN5XTTerDnpNhE3JT9FLzfW",
+                "website": "https:\/\/growpools.io",
+                "description": "Each token is imbued with power to bring Unity, Love & Abundance"
+            }
+        }
+    ]
+}

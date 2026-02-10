@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933765,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "64e549542c1252a80bb7f0d2aaccfae269e950ccd84c2975b9f40265"
+    },
+    "assets_cache": [
+        {
+            "asset": "64e549542c1252a80bb7f0d2aaccfae269e950ccd84c2975b9f40265614d494e",
+            "quantity": null,
+            "policy_id": "64e549542c1252a80bb7f0d2aaccfae269e950ccd84c2975b9f40265",
+            "asset_name": "614d494e",
+            "onchain_metadata": {
+                "name": "Minswap Airdrop Ticket | minswap-airdrop.org",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmWbyw2GicUccqD6oHYvwsYY5FbjCAv3bQukkx7aq94nei",
+                        "name": "aMIN",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmWbyw2GicUccqD6oHYvwsYY5FbjCAv3bQukkx7aq94nei",
+                "symbol": "aMIN",
+                "Website": "https:\/\/minswap-airdrop.org",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 124471352
+                },
+                "mediaType": "image\/png",
+                "Description": "Minswap Airdrop Ticket | https:\/\/minswap-airdrop.org",
+                "description": "Minswap Airdrop Ticket | minswap-airdrop.org",
+                "totalSupply": "100000000000"
+            }
+        }
+    ]
+}

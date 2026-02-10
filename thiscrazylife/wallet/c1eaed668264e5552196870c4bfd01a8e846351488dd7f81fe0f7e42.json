@@ -1,0 +1,80 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933679,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "c1eaed668264e5552196870c4bfd01a8e846351488dd7f81fe0f7e42"
+    },
+    "assets_cache": [
+        {
+            "asset": "c1eaed668264e5552196870c4bfd01a8e846351488dd7f81fe0f7e42696e6669524554495245443434",
+            "quantity": null,
+            "policy_id": "c1eaed668264e5552196870c4bfd01a8e846351488dd7f81fe0f7e42",
+            "asset_name": "696e6669524554495245443434",
+            "onchain_metadata": {
+                "POOL": "infi",
+                "name": "INFI RETIREMENT PARTY",
+                "image": "ipfs:\/\/QmZ83EdpcYdvAkYpo5TgmwcbYKWhAXpHhyfymozxrHBX8A",
+                "Status": "RETIRING SOON\u2122\ufe0f",
+                "mediaType": "image\/jpeg",
+                "Wait Wut?!": [
+                    "It's time to retire and we are here to party!",
+                    "In 2022, infi began as an exploration for",
+                    "learning how to build a Stake Pool on Cardano.",
+                    "This learning experience was inspired by",
+                    "conversations at the Cardano Summit Event,",
+                    "and we are thankful to everyone who",
+                    "joined us on this journey along the way."
+                ],
+                "a Love Letter": [
+                    "to the entire Cardano community"
+                ],
+                "a Special Thanks": [
+                    "We are very grateful for the Cardano Foundation",
+                    "and their multi-million ADA delegation that",
+                    "helped infi produce 259 blocks during",
+                    "the lifetime of the pool on Cardano mainnet.",
+                    "Special thanks to Johnny Kelly as well,",
+                    "whose grey hairs can be attributed to",
+                    "the frustrations of infi key management."
+                ],
+                "a call to Action": [
+                    "Father time has come knocking, and we are",
+                    "officially moving into retirement for infi Pool!",
+                    "If you are a delegator, PLEASE move your stake",
+                    "to another pool, and we are very happy to",
+                    "encourage you all to support some amazing",
+                    "STRCH Pools like WEED and BONE."
+                ],
+                "special Shoutout": [
+                    "Johnny Kelly",
+                    "Fractal Fuzion",
+                    "Abstract Potato",
+                    "The Cardano Stonerz Club",
+                    "WEED Pool",
+                    "BONE Pool",
+                    "ThisCrazyLife",
+                    "The Refresh Gang",
+                    "Cardano Over Coffee",
+                    "CNFT Protege",
+                    "The Cardano Foundation"
+                ],
+                "A Cordial Inviation": [
+                    "to the INFI RETIREMENT PARTY"
+                ],
+                "please Move Your Delegation to": {
+                    "BONE Pool": [
+                        "https:\/\/pool.pm\/97aaa4621cffb87c3e8380376406",
+                        "cc9501d6c9e1cbb459e17cd60602"
+                    ],
+                    "WEED pool": [
+                        "https:\/\/pool.pm\/932a460e99687c00e8afbda204f1",
+                        "aedb9479a9c4448c4bf738058590"
+                    ]
+                }
+            }
+        }
+    ]
+}

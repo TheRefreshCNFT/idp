@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933716,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "52576e845a7569b4191eb49a864fddf3009b7b48d2a93802038e7bcb"
+    },
+    "assets_cache": [
+        {
+            "asset": "52576e845a7569b4191eb49a864fddf3009b7b48d2a93802038e7bcb434e46544d6972726f72696e67313037",
+            "quantity": null,
+            "policy_id": "52576e845a7569b4191eb49a864fddf3009b7b48d2a93802038e7bcb",
+            "asset_name": "434e46544d6972726f72696e67313037",
+            "onchain_metadata": {
+                "url": "https:\/\/cryptoheroez.io\/cnft_mirroring",
+                "name": "CNFT Mirroring #107\/128",
+                "note": "I mirrored my cNFT first! Ha!",
+                "image": "ipfs:\/\/QmdjMhSuT8HGLd2WTBbSyMwFVCX5XiBJmvP6B9ben5BaVo",
+                "rarity": "special",
+                "creator": [
+                    "CryptoHeroez.io",
+                    "Jiri Hysek"
+                ]
+            }
+        }
+    ]
+}

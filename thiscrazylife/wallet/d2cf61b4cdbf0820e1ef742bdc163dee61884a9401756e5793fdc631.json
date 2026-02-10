@@ -1,0 +1,51 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933617,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "d2cf61b4cdbf0820e1ef742bdc163dee61884a9401756e5793fdc631"
+    },
+    "assets_cache": [
+        {
+            "asset": "d2cf61b4cdbf0820e1ef742bdc163dee61884a9401756e5793fdc6315768793234",
+            "quantity": null,
+            "policy_id": "d2cf61b4cdbf0820e1ef742bdc163dee61884a9401756e5793fdc631",
+            "asset_name": "5768793234",
+            "onchain_metadata": {
+                "name": "Why is $SNEK higher than $HOSKY",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmNnU9Ruu2A7CKGJAgNkSSwQ68yqE86CorSNr6J2DoWhho",
+                        "date": "31 May 2023",
+                        "space": {
+                            "World Mobile Community Update": [
+                                "https:\/\/twitter.com\/WorldMobileTeam\/",
+                                "status\/1663983710377525265?s=20"
+                            ]
+                        },
+                        "mediaType": "video\/quicktime",
+                        "Mr. Telecom": "\"We Love Hosky.\"",
+                        "A TRANSCRIPT:": "",
+                        "Charles Hoskinson:": [
+                            "\"I mean, honestly, the more prescient question",
+                            "to ask me is, like,",
+                            "'Why is $SNEK higher than $HOSKY'?",
+                            "It's hard not to take that personally.\""
+                        ],
+                        "market Cap of $HOSKY": "$0.0000000",
+                        "_____________________": ""
+                    },
+                    {
+                        "": "Why else would he take it personal if its not him behind it?",
+                        "src": "ipfs:\/\/QmPH38hKNqbqJ8Kpx2tbqMSAdDmLbqzyGrXvbXnCYMYf5j",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmfTNtWe16WGJMky95MhuBvPRfK3ZojjHYuoJX2i38ijPS",
+                "mediaType": "image\/png"
+            }
+        }
+    ]
+}

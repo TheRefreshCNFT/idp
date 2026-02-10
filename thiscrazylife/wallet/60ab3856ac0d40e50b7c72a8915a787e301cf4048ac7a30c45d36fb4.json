@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933765,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "60ab3856ac0d40e50b7c72a8915a787e301cf4048ac7a30c45d36fb4"
+    },
+    "assets_cache": [
+        {
+            "asset": "60ab3856ac0d40e50b7c72a8915a787e301cf4048ac7a30c45d36fb45468654b6964333639",
+            "quantity": null,
+            "policy_id": "60ab3856ac0d40e50b7c72a8915a787e301cf4048ac7a30c45d36fb4",
+            "asset_name": "5468654b6964333639",
+            "onchain_metadata": {
+                "Hash": "af950ba99f7751ba734803c4d153319c8efd46574322064e1d36cb3b9cd25cdb",
+                "data": "ipfs:\/\/QmaBAqNZAAq8PHzTeGQryKUmMLAwAXcJJHog9XyfnuewLx",
+                "name": "THE KID #369",
+                "Cover": "Salt Lake City",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmdjcgyZssQZzu1gmTHh8PPtoGJeMkzjt1fY44XbZFDsCp",
+                        "name": "Front Cover",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmTtVkX7XUQhYVgqyj3mqJ32VRjk7mxWG6m116jWRKnoCC",
+                        "name": "Back Cover",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmdjcgyZssQZzu1gmTHh8PPtoGJeMkzjt1fY44XbZFDsCp",
+                "website": "https:\/\/www.nucast.io\/",
+                "mediaType": "image\/png",
+                "Collection": "Prestige Collection",
+                "Cover Rank": "6",
+                "Description": [
+                    "The Kid (1921) is a silent film where Charlie Chaplin's",
+                    "character, The Tramp, raises an abandoned baby in the slums.",
+                    "Their bond and survival are tested when the now-wealthy",
+                    "biological mother seeks her lost child.",
+                    "The movie is a mix of comedy and drama, showcasing Chaplin's",
+                    "skill in blending emotional depth with slapstick humor."
+                ],
+                "Category Rank": "3"
+            }
+        }
+    ]
+}

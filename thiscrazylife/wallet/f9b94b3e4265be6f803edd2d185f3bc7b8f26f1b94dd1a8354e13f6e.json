@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933821,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "f9b94b3e4265be6f803edd2d185f3bc7b8f26f1b94dd1a8354e13f6e"
+    },
+    "assets_cache": [
+        {
+            "asset": "f9b94b3e4265be6f803edd2d185f3bc7b8f26f1b94dd1a8354e13f6e4261627964757820",
+            "quantity": null,
+            "policy_id": "f9b94b3e4265be6f803edd2d185f3bc7b8f26f1b94dd1a8354e13f6e",
+            "asset_name": "4261627964757820",
+            "onchain_metadata": {
+                "name": "Babydux ",
+                "image": "ipfs:\/\/QmU7YhuQDn47oYZtizvUbjn7G4mr9ce9yZRyeHdRUyaow6",
+                "ticker": "bbydux",
+                "poolAuthor": "745d9c682914410b36963058dc7017226cbc727dca8522a19c9a9f18",
+                "description": "Here before someone else does it. Quak."
+            }
+        }
+    ]
+}

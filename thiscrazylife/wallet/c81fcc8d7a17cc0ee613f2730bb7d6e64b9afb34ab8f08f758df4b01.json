@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933629,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "c81fcc8d7a17cc0ee613f2730bb7d6e64b9afb34ab8f08f758df4b01"
+    },
+    "assets_cache": [
+        {
+            "asset": "c81fcc8d7a17cc0ee613f2730bb7d6e64b9afb34ab8f08f758df4b0148594354",
+            "quantity": null,
+            "policy_id": "c81fcc8d7a17cc0ee613f2730bb7d6e64b9afb34ab8f08f758df4b01",
+            "asset_name": "48594354",
+            "onchain_metadata": {
+                "Link": "https:\/\/hyenacoin.net",
+                "name": "Hyena Coin VIP Rewards",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmVmj2KXU8n2QN1PoCpLdckg3mDD2yWZjAjFQkwvcFDDTp",
+                        "name": "HYCT",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmVmj2KXU8n2QN1PoCpLdckg3mDD2yWZjAjFQkwvcFDDTp",
+                "symbol": "HYCT",
+                "minting": {
+                    "type": "time-lock-policy",
+                    "blockchain": "cardano",
+                    "mintedBeforeSlotNumber": 114596405
+                },
+                "mediaType": "image\/png",
+                "tokenType": "token",
+                "description": "You can receive HYC rewards at https:\/\/hyenacoin.net",
+                "totalSupply": 1000000
+            }
+        }
+    ]
+}

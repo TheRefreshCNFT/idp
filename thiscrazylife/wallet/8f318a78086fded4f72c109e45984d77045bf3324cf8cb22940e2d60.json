@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933740,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "8f318a78086fded4f72c109e45984d77045bf3324cf8cb22940e2d60"
+    },
+    "assets_cache": [
+        {
+            "asset": "8f318a78086fded4f72c109e45984d77045bf3324cf8cb22940e2d605368696c6c414d616e6961",
+            "quantity": null,
+            "policy_id": "8f318a78086fded4f72c109e45984d77045bf3324cf8cb22940e2d60",
+            "asset_name": "5368696c6c414d616e6961",
+            "onchain_metadata": {
+                "name": "ShillAMania",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmYyq7DbWHh1rQXF4qQYdhnm13uEHEJF8qRNCVx7s7sGRE",
+                        "name": "ShillAMania",
+                        "mediaType": "image\/png"
+                    }
+                ],
+                "image": "ipfs:\/\/QmYyq7DbWHh1rQXF4qQYdhnm13uEHEJF8qRNCVx7s7sGRE",
+                "Discord": "https:\/\/discord.gg\/RfZCthU5Az",
+                "mediaType": "image\/png",
+                "description": "This is a Souvenir for the first Shill A Mania"
+            }
+        }
+    ]
+}

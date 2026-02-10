@@ -1,0 +1,425 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933809,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "e3b7134b8dc227df4aac22eb384d37d23a3a762f037324724cacce8d"
+    },
+    "assets_cache": [
+        {
+            "asset": "e3b7134b8dc227df4aac22eb384d37d23a3a762f037324724cacce8d4d616b654e4654734e6f74576172556b7261696e65",
+            "quantity": null,
+            "policy_id": "e3b7134b8dc227df4aac22eb384d37d23a3a762f037324724cacce8d",
+            "asset_name": "4d616b654e4654734e6f74576172556b7261696e65",
+            "onchain_metadata": {
+                "name": "Make NFTs Not War \ud83d\udd4a (Series #4)",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeifodxspk3iekckacvpjnfvyxhnfxfxz6dvhwsra7rnt5iypayak",
+                            "a4\/Ukraine4.html"
+                        ],
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/QmT5nmrUSm4jZbLcwTR8jDUrSFZs26nZTCEn3BXH3hB79h",
+                "Series": "#4",
+                "Donation": [
+                    "100% of proceeds from this series",
+                    "will be donated in their entirety",
+                    "to support those affected by the",
+                    "ongoing crisis in Ukraine."
+                ],
+                "Organizations": {
+                    "unicef": "http:\/\/unicef.org\/ukraineconflict",
+                    "razom for Ukraine": "https:\/\/razomforukraine.org\/projects\/zhadan\/",
+                    "Voices of Children": "https:\/\/voices.org.ua\/en\/"
+                },
+                "A Word of Thanks": [
+                    "Thank you very kindly for your support.",
+                    "We wish nothing but love, safety, and healing",
+                    "for anyone and everyone who has been",
+                    "negatively affected by the ongoing crisis."
+                ],
+                "contributors contact": {
+                    "NOODZ": "https:\/\/www.twitter.com\/CardanoNoodz",
+                    "Ju5ts0crypt0": "https:\/\/twitter.com\/JRypt0",
+                    "Kaleido Klara": "https:\/\/twitter.com\/KaleidoKlara",
+                    "Thiscrazylife": "https:\/\/twitter.com\/_ThisCr8zyLife_",
+                    "Abstract Potato": "https:\/\/twitter.com\/abstractpotato"
+                },
+                "alexandria Project (TAP) Contributors": [
+                    "Abstract Potato",
+                    "Ju5ts0cRypt0",
+                    "Kaleido Klara",
+                    "NOODZ",
+                    "ThisCrazyLife"
+                ]
+            }
+        },
+        {
+            "asset": "e3b7134b8dc227df4aac22eb384d37d23a3a762f037324724cacce8d4d616b654e4654734e6f74576172556b7261696e6531",
+            "quantity": null,
+            "policy_id": "e3b7134b8dc227df4aac22eb384d37d23a3a762f037324724cacce8d",
+            "asset_name": "4d616b654e4654734e6f74576172556b7261696e6531",
+            "onchain_metadata": {
+                "name": "Make NFTs Not War \ud83d\udd4a (Series #1)",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeiet6ydptidj3mchygpuxu37mqsrfnizo5h2nixbqfv74oyf6mvb",
+                            "iy\/Ukraine1.html"
+                        ],
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/QmZS19ERPryNhaAAWFmbXpperTkiaNCvN4D6Q43Zh6tENs",
+                "Series": "#1",
+                "Donation": [
+                    "100% of proceeds from this series",
+                    "will be donated in their entirety",
+                    "to support those affected by the",
+                    "ongoing crisis in Ukraine."
+                ],
+                "Organizations": {
+                    "unicef": "http:\/\/unicef.org\/ukraineconflict",
+                    "razom for Ukraine": "https:\/\/razomforukraine.org\/projects\/zhadan\/",
+                    "Voices of Children": "https:\/\/voices.org.ua\/en\/"
+                },
+                "A Word of Thanks": [
+                    "Thank you very kindly for your support.",
+                    "We wish nothing but love, safety, and healing",
+                    "for anyone and everyone who has been",
+                    "negatively affected by the ongoing crisis."
+                ],
+                "contributors contact": {
+                    "NOODZ": "https:\/\/www.twitter.com\/CardanoNoodz",
+                    "Ju5ts0crypt0": "https:\/\/twitter.com\/JRypt0",
+                    "Kaleido Klara": "https:\/\/twitter.com\/KaleidoKlara",
+                    "Thiscrazylife": "https:\/\/twitter.com\/_ThisCr8zyLife_",
+                    "Abstract Potato": "https:\/\/twitter.com\/abstractpotato"
+                },
+                "alexandria Project (TAP) Contributors": [
+                    "Abstract Potato",
+                    "Ju5ts0cRypt0",
+                    "Kaleido Klara",
+                    "NOODZ",
+                    "ThisCrazyLife"
+                ]
+            }
+        },
+        {
+            "asset": "e3b7134b8dc227df4aac22eb384d37d23a3a762f037324724cacce8d4d616b654e4654734e6f74576172556b7261696e6532",
+            "quantity": null,
+            "policy_id": "e3b7134b8dc227df4aac22eb384d37d23a3a762f037324724cacce8d",
+            "asset_name": "4d616b654e4654734e6f74576172556b7261696e6532",
+            "onchain_metadata": {
+                "name": "Make NFTs Not War \ud83d\udd4a (Series #2)",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeibvsh4a56mkan2vrpgcbxmxwk5mmr4s2pxpoxhayhdph5t",
+                            "fe3xl2u\/Ukraine2.html"
+                        ],
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/QmcbbEHf5Q4zhjQ9QznEPpJEWTTkaqawTYp52QVqWjdFyL",
+                "Series": "#2",
+                "Donation": [
+                    "100% of proceeds from this series",
+                    "will be donated in their entirety",
+                    "to support those affected by the",
+                    "ongoing crisis in Ukraine."
+                ],
+                "Organizations": {
+                    "unicef": "http:\/\/unicef.org\/ukraineconflict",
+                    "razom for Ukraine": "https:\/\/razomforukraine.org\/projects\/zhadan\/",
+                    "Voices of Children": "https:\/\/voices.org.ua\/en\/"
+                },
+                "A Word of Thanks": [
+                    "Thank you very kindly for your support.",
+                    "We wish nothing but love, safety, and healing",
+                    "for anyone and everyone who has been",
+                    "negatively affected by the ongoing crisis."
+                ],
+                "contributors contact": {
+                    "NOODZ": "https:\/\/www.twitter.com\/CardanoNoodz",
+                    "Ju5ts0crypt0": "https:\/\/twitter.com\/JRypt0",
+                    "Kaleido Klara": "https:\/\/twitter.com\/KaleidoKlara",
+                    "Thiscrazylife": "https:\/\/twitter.com\/_ThisCr8zyLife_",
+                    "Abstract Potato": "https:\/\/twitter.com\/abstractpotato"
+                },
+                "alexandria Project (TAP) Contributors": [
+                    "Abstract Potato",
+                    "Ju5ts0cRypt0",
+                    "Kaleido Klara",
+                    "NOODZ",
+                    "ThisCrazyLife"
+                ]
+            }
+        },
+        {
+            "asset": "e3b7134b8dc227df4aac22eb384d37d23a3a762f037324724cacce8d4d616b654e4654734e6f74576172556b7261696e6533",
+            "quantity": null,
+            "policy_id": "e3b7134b8dc227df4aac22eb384d37d23a3a762f037324724cacce8d",
+            "asset_name": "4d616b654e4654734e6f74576172556b7261696e6533",
+            "onchain_metadata": {
+                "name": "Make NFTs Not War \ud83d\udd4a (Series #3)",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeihvn734tslnxopfihvpyknyfxl5pzyd2rg6y7rj7u5zgc7j5l3z",
+                            "ue\/Ukraine3.html"
+                        ],
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/QmeLd3PKy7oxMj1iyqrfRQFjw6KW47CvRbv5ZChnAcT5UT",
+                "Series": "#3",
+                "Donation": [
+                    "100% of proceeds from this series",
+                    "will be donated in their entirety",
+                    "to support those affected by the",
+                    "ongoing crisis in Ukraine."
+                ],
+                "Organizations": {
+                    "unicef": "http:\/\/unicef.org\/ukraineconflict",
+                    "razom for Ukraine": "https:\/\/razomforukraine.org\/projects\/zhadan\/",
+                    "Voices of Children": "https:\/\/voices.org.ua\/en\/"
+                },
+                "A Word of Thanks": [
+                    "Thank you very kindly for your support.",
+                    "We wish nothing but love, safety, and healing",
+                    "for anyone and everyone who has been",
+                    "negatively affected by the ongoing crisis."
+                ],
+                "contributors contact": {
+                    "NOODZ": "https:\/\/www.twitter.com\/CardanoNoodz",
+                    "Ju5ts0crypt0": "https:\/\/twitter.com\/JRypt0",
+                    "Kaleido Klara": "https:\/\/twitter.com\/KaleidoKlara",
+                    "Thiscrazylife": "https:\/\/twitter.com\/_ThisCr8zyLife_",
+                    "Abstract Potato": "https:\/\/twitter.com\/abstractpotato"
+                },
+                "alexandria Project (TAP) Contributors": [
+                    "Abstract Potato",
+                    "Ju5ts0cRypt0",
+                    "Kaleido Klara",
+                    "NOODZ",
+                    "ThisCrazyLife"
+                ]
+            }
+        },
+        {
+            "asset": "e3b7134b8dc227df4aac22eb384d37d23a3a762f037324724cacce8d4d616b654e4654734e6f74576172556b7261696e6535",
+            "quantity": null,
+            "policy_id": "e3b7134b8dc227df4aac22eb384d37d23a3a762f037324724cacce8d",
+            "asset_name": "4d616b654e4654734e6f74576172556b7261696e6535",
+            "onchain_metadata": {
+                "name": "Make NFTs Not War \ud83d\udd4a (Series #5)",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeiejr2mdou7jpxzogtqzql64otsdnjclw7tzmgyqmax3tnpbwiln",
+                            "ty\/Ukraine5.html"
+                        ],
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/Qmc9opCbQk7TjFG3EP3WwYEP9cP7ShCk9Kob91n8a6Nju2",
+                "Series": "#5",
+                "Donation": [
+                    "100% of proceeds from this series",
+                    "will be donated in their entirety",
+                    "to support those affected by the",
+                    "ongoing crisis in Ukraine."
+                ],
+                "Organizations": {
+                    "unicef": "http:\/\/unicef.org\/ukraineconflict",
+                    "razom for Ukraine": "https:\/\/razomforukraine.org\/projects\/zhadan\/",
+                    "Voices of Children": "https:\/\/voices.org.ua\/en\/"
+                },
+                "A Word of Thanks": [
+                    "Thank you very kindly for your support.",
+                    "We wish nothing but love, safety, and healing",
+                    "for anyone and everyone who has been",
+                    "negatively affected by the ongoing crisis."
+                ],
+                "contributors contact": {
+                    "NOODZ": "https:\/\/www.twitter.com\/CardanoNoodz",
+                    "Ju5ts0crypt0": "https:\/\/twitter.com\/JRypt0",
+                    "Kaleido Klara": "https:\/\/twitter.com\/KaleidoKlara",
+                    "Thiscrazylife": "https:\/\/twitter.com\/_ThisCr8zyLife_",
+                    "Abstract Potato": "https:\/\/twitter.com\/abstractpotato"
+                },
+                "alexandria Project (TAP) Contributors": [
+                    "Abstract Potato",
+                    "Ju5ts0cRypt0",
+                    "Kaleido Klara",
+                    "NOODZ",
+                    "ThisCrazyLife"
+                ]
+            }
+        },
+        {
+            "asset": "e3b7134b8dc227df4aac22eb384d37d23a3a762f037324724cacce8d4d616b654e4654734e6f74576172556b7261696e6536",
+            "quantity": null,
+            "policy_id": "e3b7134b8dc227df4aac22eb384d37d23a3a762f037324724cacce8d",
+            "asset_name": "4d616b654e4654734e6f74576172556b7261696e6536",
+            "onchain_metadata": {
+                "name": "Make NFTs Not War \ud83d\udd4a (Series #6)",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeihrtfi756zvr2mtr6aief5dffz66qqj7iwlycupds5quhe3hh3o",
+                            "zi\/Ukraine6.html"
+                        ],
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/QmTL4jbhjVWUZo5c2d6Yt9Ty8b5ASQuVxgMYbBNe9x4BVK",
+                "Series": "#6",
+                "Donation": [
+                    "100% of proceeds from this series",
+                    "will be donated in their entirety",
+                    "to support those affected by the",
+                    "ongoing crisis in Ukraine."
+                ],
+                "Organizations": {
+                    "unicef": "http:\/\/unicef.org\/ukraineconflict",
+                    "razom for Ukraine": "https:\/\/razomforukraine.org\/projects\/zhadan\/",
+                    "Voices of Children": "https:\/\/voices.org.ua\/en\/"
+                },
+                "A Word of Thanks": [
+                    "Thank you very kindly for your support.",
+                    "We wish nothing but love, safety, and healing",
+                    "for anyone and everyone who has been",
+                    "negatively affected by the ongoing crisis."
+                ],
+                "contributors contact": {
+                    "NOODZ": "https:\/\/www.twitter.com\/CardanoNoodz",
+                    "Ju5ts0crypt0": "https:\/\/twitter.com\/JRypt0",
+                    "Kaleido Klara": "https:\/\/twitter.com\/KaleidoKlara",
+                    "Thiscrazylife": "https:\/\/twitter.com\/_ThisCr8zyLife_",
+                    "Abstract Potato": "https:\/\/twitter.com\/abstractpotato"
+                },
+                "alexandria Project (TAP) Contributors": [
+                    "Abstract Potato",
+                    "Ju5ts0cRypt0",
+                    "Kaleido Klara",
+                    "NOODZ",
+                    "ThisCrazyLife"
+                ]
+            }
+        },
+        {
+            "asset": "e3b7134b8dc227df4aac22eb384d37d23a3a762f037324724cacce8d4d616b654e4654734e6f74576172556b7261696e6537",
+            "quantity": null,
+            "policy_id": "e3b7134b8dc227df4aac22eb384d37d23a3a762f037324724cacce8d",
+            "asset_name": "4d616b654e4654734e6f74576172556b7261696e6537",
+            "onchain_metadata": {
+                "name": "Make NFTs Not War \ud83d\udd4a (Series #7)",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/bafybeiafw2vlmjeqolvye2wuru5dxplh7fa7p6szrz6llg4sduikbbdf",
+                            "ra\/Ukraine7.html"
+                        ],
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/QmPt494MEv448BTXUF1HWReppFj6hh6VuGqN2EWeNKQ9Wa",
+                "Series": "#7",
+                "Donation": [
+                    "100% of proceeds from this series",
+                    "will be donated in their entirety",
+                    "to support those affected by the",
+                    "ongoing crisis in Ukraine."
+                ],
+                "Organizations": {
+                    "unicef": "http:\/\/unicef.org\/ukraineconflict",
+                    "razom for Ukraine": "https:\/\/razomforukraine.org\/projects\/zhadan\/",
+                    "Voices of Children": "https:\/\/voices.org.ua\/en\/"
+                },
+                "A Word of Thanks": [
+                    "Thank you very kindly for your support.",
+                    "We wish nothing but love, safety, and healing",
+                    "for anyone and everyone who has been",
+                    "negatively affected by the ongoing crisis."
+                ],
+                "contributors contact": {
+                    "NOODZ": "https:\/\/www.twitter.com\/CardanoNoodz",
+                    "Ju5ts0crypt0": "https:\/\/twitter.com\/JRypt0",
+                    "Kaleido Klara": "https:\/\/twitter.com\/KaleidoKlara",
+                    "Thiscrazylife": "https:\/\/twitter.com\/_ThisCr8zyLife_",
+                    "Abstract Potato": "https:\/\/twitter.com\/abstractpotato"
+                },
+                "alexandria Project (TAP) Contributors": [
+                    "Abstract Potato",
+                    "Ju5ts0cRypt0",
+                    "Kaleido Klara",
+                    "NOODZ",
+                    "ThisCrazyLife"
+                ]
+            }
+        },
+        {
+            "asset": "e3b7134b8dc227df4aac22eb384d37d23a3a762f037324724cacce8d4d616b654e4654734e6f74576172556b7261696e6538",
+            "quantity": null,
+            "policy_id": "e3b7134b8dc227df4aac22eb384d37d23a3a762f037324724cacce8d",
+            "asset_name": "4d616b654e4654734e6f74576172556b7261696e6538",
+            "onchain_metadata": {
+                "name": "Make NFTs Not War \ud83d\udd4a (Series #8)",
+                "files": [
+                    {
+                        "src": [
+                            "ipfs:\/\/Qmb3SneA5uBvTyypL31W5ELwU3kfH2v5hECTbjbgSAXxy9"
+                        ],
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": [
+                            "ipfs:\/\/Qmb3SneA5uBvTyypL31W5ELwU3kfH2v5hECTbjbgSAXxy9"
+                        ],
+                        "mediaType": "text\/html"
+                    }
+                ],
+                "image": "ipfs:\/\/Qmb3SneA5uBvTyypL31W5ELwU3kfH2v5hECTbjbgSAXxy9",
+                "Series": "#8",
+                "Donation": [
+                    "100% of proceeds from this series",
+                    "will be donated in their entirety",
+                    "to support those affected by the",
+                    "ongoing crisis in Ukraine."
+                ],
+                "Organizations": {
+                    "unicef": "http:\/\/unicef.org\/ukraineconflict",
+                    "razom for Ukraine": "https:\/\/razomforukraine.org\/projects\/zhadan\/",
+                    "Voices of Children": "https:\/\/voices.org.ua\/en\/"
+                },
+                "A Word of Thanks": [
+                    "Thank you very kindly for your support.",
+                    "We wish nothing but love, safety, and healing",
+                    "for anyone and everyone who has been",
+                    "negatively affected by the ongoing crisis."
+                ],
+                "contributors contact": {
+                    "NOODZ": "https:\/\/www.twitter.com\/CardanoNoodz",
+                    "Ju5ts0crypt0": "https:\/\/twitter.com\/JRypt0",
+                    "Kaleido Klara": "https:\/\/twitter.com\/KaleidoKlara",
+                    "Thiscrazylife": "https:\/\/twitter.com\/_ThisCr8zyLife_",
+                    "Abstract Potato": "https:\/\/twitter.com\/abstractpotato"
+                },
+                "alexandria Project (TAP) Contributors": [
+                    "Abstract Potato",
+                    "Ju5ts0cRypt0",
+                    "Kaleido Klara",
+                    "NOODZ",
+                    "ThisCrazyLife"
+                ]
+            }
+        }
+    ]
+}

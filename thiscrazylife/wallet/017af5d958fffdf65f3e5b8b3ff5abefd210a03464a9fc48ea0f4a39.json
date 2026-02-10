@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933623,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "017af5d958fffdf65f3e5b8b3ff5abefd210a03464a9fc48ea0f4a39"
+    },
+    "assets_cache": [
+        {
+            "asset": "017af5d958fffdf65f3e5b8b3ff5abefd210a03464a9fc48ea0f4a390014df10574c4b",
+            "quantity": null,
+            "policy_id": "017af5d958fffdf65f3e5b8b3ff5abefd210a03464a9fc48ea0f4a39",
+            "asset_name": "0014df10574c4b",
+            "onchain_metadata": {
+                "name": "WALK",
+                "description": "The $WLK utility token serves as the primary currency within the Walkers ecosystem. Walkers is an ecosystem that seamlessly integrates GameFi elements. The revolutionary \"move to earn\" model sets Walkers apart by offering unique rewards to holders based on both the distance they walk and their level of socialization and engagement.",
+                "ticker": "WLK",
+                "url": "https:\/\/walkerscardano.xyz\/",
+                "logo": "ipfs:\/\/bafkreihnyyqnm5gl6msyue5vaxndgl4ioh2okdge4tidrmjfgxd7f4k5ae",
+                "decimals": 0
+            }
+        }
+    ]
+}

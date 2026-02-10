@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "name": "Wallet Collection",
+        "addedAt": 1768933829,
+        "type": "wallet"
+    },
+    "policy": {
+        "policyId": "375df3f2fb44d3c42b3381a09edd4ea2303a57ada32b5308c0774ee0"
+    },
+    "assets_cache": [
+        {
+            "asset": "375df3f2fb44d3c42b3381a09edd4ea2303a57ada32b5308c0774ee0544f4b45",
+            "quantity": null,
+            "policy_id": "375df3f2fb44d3c42b3381a09edd4ea2303a57ada32b5308c0774ee0",
+            "asset_name": "544f4b45",
+            "onchain_metadata": {
+                "name": "TOKE",
+                "files": [
+                    {
+                        "src": "ipfs:\/\/QmNopseDH4rx2UgZWCsesKc2NwfZV16LtKEvQmRbHfxrWS",
+                        "name": "TOKE.webp",
+                        "mediaType": "image\/webp"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmT4GwQx4MSPTy55wkU3eUVJmvsba2H6prPnxB8NEeRwRU",
+                        "name": "TOKE.png",
+                        "mediaType": "image\/png"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmXT7JyTTEgZr1gWKjgMR7YcvDmjQtVeUvCtRigcURMdTH",
+                        "name": "TOKE.gif",
+                        "mediaType": "image\/gif"
+                    },
+                    {
+                        "src": "ipfs:\/\/QmcXvsL36fKm1syKbLgtBLdYcfnvJBcwN9fYg9Wj5KnfJV",
+                        "name": "TOKE.jpg",
+                        "mediaType": "image\/jpg"
+                    }
+                ],
+                "image": "ipfs:\/\/QmT4GwQx4MSPTy55wkU3eUVJmvsba2H6prPnxB8NEeRwRU",
+                "ticker": "TOKE",
+                "website": "https:\/\/tokeopay.io",
+                "mediaType": "image\/png",
+                "token site": "https:\/\/tokeo.gitbook.io\/tokeo\/tokeo\/tokenomics-overview",
+                "whitepaper": "https:\/\/tokeo.gitbook.io\/tokeo\/tokeo\/tokenomics-overview",
+                "description": "The official Tokeo Token."
+            }
+        }
+    ]
+}
