@@ -3198,8 +3198,8 @@ input, textarea, select {
         <textarea class="json-editor" id="jsonEditorArea" style="width:100%; height:300px; background:#000; color:#0f0; font-family:monospace; border:1px solid #333; padding:10px;" spellcheck="false"></textarea>
         <div id="jsonError" style="color:#ff6b6b; display:none; margin-top:5px;"></div>
         <div class="row" style="justify-content:flex-end; margin-top:15px; display:flex; gap:10px;">
-            <button class="secondary" id="metaEditorBackBtn" onclick="metaEditorGoBack()">Go Back</button>
-            <button id="metaEditorSaveBtn" onclick="metaEditorSave()">Save</button>
+            <button class="secondary" id="metaEditorBackBtn" onclick="closeModal('metaEditorModal')">Go Back</button>
+            <button id="metaEditorSaveBtn" onclick="saveJsonEdit()">Save</button>
         </div>
     </div>
 </div>
