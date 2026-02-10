@@ -9801,7 +9801,7 @@ function renderDefaultProps() {
             <div style="color:var(--text-light)"><i class="fas fa-tag"></i></div>
             <div style="font-size:0.9rem; color:var(--text-light)">${p}</div>
             <input type="text" class="prop-val" data-prop="${p}" value="${savedVal}" placeholder="Value for ${p}...">
-            <button class="danger icon-btn" onclick="this.closest('.prop-row').remove(); window.triggerAutosave && window.triggerAutosave();">×</button>
+            <button class="danger icon-btn" onclick="window.removeDefaultPropRow(this)">×</button>
         `;
         container.appendChild(div);
     });
@@ -9822,11 +9822,50 @@ function renderDefaultProps() {
             <div class="col">
                 <input type="text" class="p-val" value="${val}" placeholder="Global Value">
             </div>
-            <button class="danger icon-btn" onclick="this.closest('.prop-row').remove(); window.triggerAutosave && window.triggerAutosave();">×</button>
+            <button class="danger icon-btn" onclick="window.removeDefaultPropRow(this)">×</button>
         `;
         container.appendChild(div);
     });
 }
+
+window.removeDefaultPropRow = function(btn) {
+    const row = btn?.closest?.('.prop-row');
+    if (!row) return;
+
+    const removedKey = (
+        row.querySelector('.prop-val')?.dataset?.prop ||
+        row.querySelector('.p-key')?.value || ''
+    ).trim();
+
+    row.remove();
+
+    const defaultsNow = getLiveDefaultProps();
+
+    if (removedKey && Array.isArray(studioAssets)) {
+        studioAssets.forEach(asset => {
+            if (!asset || !asset.traits || typeof asset.traits !== 'object') return;
+            if (Object.prototype.hasOwnProperty.call(asset.traits, removedKey)) {
+                delete asset.traits[removedKey];
+            }
+
+            if (removedKey === 'Name' && asset.defaultProps && typeof asset.defaultProps === 'object') {
+                delete asset.defaultProps.name;
+            }
+        });
+    }
+
+    syncDefaultPropsToAllAssets(defaultsNow);
+
+    const k = getActiveCollKey();
+    if (k) {
+        const prev = collStateMem.get(String(k)) || {};
+        collStateMem.set(String(k), { ...prev, defaultProps: defaultsNow, studioAssets });
+    }
+
+    if (typeof renderStudioPreview === 'function') renderStudioPreview();
+    if (typeof updateAssetPreview === 'function') updateAssetPreview();
+    if (typeof window.triggerAutosave === 'function') window.triggerAutosave();
+};
 
 
 window.applyCollectionThumbFromInput = function() {
@@ -11376,7 +11415,7 @@ function renderCollectionSettings(collKey) {
                 <div style="color:var(--text-light)"><i class="fas fa-tag"></i></div>
                 <div style="font-size:0.9rem; color:var(--text-light)">${p}</div>
                 <input type="text" class="prop-val" data-prop="${p}" value="${val}" placeholder="Value for ${p}...">
-                <button class="danger icon-btn" onclick="this.closest('.prop-row').remove(); window.triggerAutosave && window.triggerAutosave();">×</button>
+                <button class="danger icon-btn" onclick="window.removeDefaultPropRow(this)">×</button>
             `;
             defContainer.appendChild(div);
         });
@@ -11399,7 +11438,7 @@ function renderCollectionSettings(collKey) {
                 <div class="col">
                     <input type="text" class="p-val" value="${val}" placeholder="Global Value">
                 </div>
-                <button class="danger icon-btn" onclick="this.closest('.prop-row').remove(); window.triggerAutosave && window.triggerAutosave();">×</button>
+                <button class="danger icon-btn" onclick="window.removeDefaultPropRow(this)">×</button>
             `;
             metaContainer.appendChild(div);
         });
