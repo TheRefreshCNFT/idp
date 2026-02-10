@@ -3198,8 +3198,8 @@ input, textarea, select {
         <textarea class="json-editor" id="jsonEditorArea" style="width:100%; height:300px; background:#000; color:#0f0; font-family:monospace; border:1px solid #333; padding:10px;" spellcheck="false"></textarea>
         <div id="jsonError" style="color:#ff6b6b; display:none; margin-top:5px;"></div>
         <div class="row" style="justify-content:flex-end; margin-top:15px; display:flex; gap:10px;">
-            <button class="secondary" onclick="closeModal('metaEditorModal')">Cancel</button>
-            <button onclick="saveJsonEdit()">Validate & Save</button>
+            <button class="secondary" id="metaEditorBackBtn" onclick="closeModal('metaEditorModal')">Go Back</button>
+            <button id="metaEditorSaveBtn" onclick="saveJsonEdit()">Save</button>
         </div>
     </div>
 </div>
@@ -10076,142 +10076,170 @@ function importConfig(e) {
 }
 
 // --- LOGIC: Metadata Editor ---
-/*
-Single Asset Editor
-function openMetaEditor() {
-    // Generate dry-run metadata
-    const dummyMeta = buildMetadata("Preview", "Preview Name");
-    const jsonStr = JSON.stringify(dummyMeta, null, 2);
-    document.getElementById('jsonEditorArea').value = jsonStr;
-    document.getElementById('metaEditorModal').classList.add('open');
+function buildMetadataForAsset(asset) {
+    const safeAsset = asset || {};
+    const meta = {
+        name: safeAsset.name || '',
+        image: safeAsset.coverImage ? (safeAsset.coverImage.length > 64 ? safeAsset.coverImage.match(/.{1,64}/g) : safeAsset.coverImage) : 'ipfs://placeholder',
+        mediaType: 'image/png',
+        files: []
+    };
+
+    const traits = (safeAsset.traits && typeof safeAsset.traits === 'object') ? safeAsset.traits : {};
+    let fileObjName = '';
+
+    Object.entries(traits).forEach(([k, v]) => {
+        if (k == null) return;
+        const key = String(k).trim();
+        if (!key) return;
+        if (v == null) return;
+        if (typeof v === 'string' && v.trim() === '') return;
+
+        if (key.toLowerCase() === 'name') {
+            fileObjName = String(v);
+            return;
+        }
+
+        if (key.toLowerCase() === 'links') {
+            meta.links = { web: Array.isArray(v) ? v.join('') : v };
+            return;
+        }
+
+        meta[key.toLowerCase()] = v;
+    });
+
+    const chunks = (safeAsset.mainContent || '').match(/.{1,64}/g) || [];
+    const file0 = {
+      mediaType: (safeAsset.mainEncoding === 'utf8') ? 'text/html;charset=utf-8' : 'text/html',
+      src: chunks
+    };
+
+    const nm = String(fileObjName ?? '').trim();
+    if (nm !== '') file0.name = nm;
+
+    meta.files.push(file0);
+    return meta;
 }
-*/
+
+function applyJsonToAsset(asset, targetData) {
+    if (!asset || !targetData || typeof targetData !== 'object') return;
+
+    if (typeof targetData.name === 'string' && targetData.name.trim()) {
+        asset.name = targetData.name.trim();
+    }
+
+    if (targetData.image) {
+        asset.coverImage = Array.isArray(targetData.image) ? targetData.image.join('') : String(targetData.image);
+    }
+
+    const nextTraits = {};
+    const existingTraits = (asset.traits && typeof asset.traits === 'object') ? asset.traits : {};
+
+    Object.entries(existingTraits).forEach(([k, v]) => {
+        if (k && DEFAULT_PROPS.includes(k)) nextTraits[k] = v;
+    });
+
+    Object.entries(targetData).forEach(([key, val]) => {
+        const low = String(key).toLowerCase();
+        if (['name','image','mediatype','files','links'].includes(low)) return;
+        nextTraits[key] = val;
+    });
+
+    const fileName = targetData.files?.[0]?.name;
+    if (fileName != null && String(fileName).trim() !== '') {
+        nextTraits.Name = String(fileName);
+    }
+
+    if (targetData.links && typeof targetData.links === 'object' && targetData.links.web != null) {
+        nextTraits.Links = targetData.links.web;
+    }
+
+    asset.traits = nextTraits;
+
+    const srcData = targetData.files?.[0]?.src;
+    if (srcData != null) {
+        asset.mainContent = Array.isArray(srcData) ? srcData.join('') : String(srcData);
+    }
+
+    const srcMediaType = String(targetData.files?.[0]?.mediaType || '').toLowerCase();
+    asset.mainEncoding = srcMediaType.includes('utf-8') ? 'utf8' : (asset.mainEncoding || 'base64');
+}
+
+function setMetaEditorMode(mode) {
+    const backBtn = document.getElementById('metaEditorBackBtn');
+    const saveBtn = document.getElementById('metaEditorSaveBtn');
+    const title = document.querySelector('#metaEditorModal .modal-title');
+    if (backBtn) backBtn.textContent = 'Go Back';
+    if (saveBtn) saveBtn.textContent = 'Save';
+    if (title) title.textContent = mode === 'asset' ? 'Asset JSON Editor' : 'Metadata Editor';
+}
+
 function openMetaEditor() {
-    // FIX: Generate metadata for ALL assets in the studio
     let fullCollectionMeta = [];
 
-    // 1. Force update current asset from UI before generating
     if (studioSelectedAssetIndex > -1 && studioAssets[studioSelectedAssetIndex]) {
         updateAssetObjectFromUI(studioAssets[studioSelectedAssetIndex]);
     }
 
-    // 2. Loop through all assets and build metadata
     studioAssets.forEach(asset => {
-        // We temporarily treat this asset as the "active" one for buildMetadata
-        // However, buildMetadata currently reads DOM inputs. 
-        // We must construct the meta object manually from the asset data to be accurate.
-        
-        //let customFileName = asset.name;
-        
-        // Basic Meta Construction based on stored asset data
-        const meta = {
-            name: asset.name, 
-            image: asset.coverImage ? (asset.coverImage.length > 64 ? asset.coverImage.match(/.{1,64}/g) : asset.coverImage) : "ipfs://placeholder",
-            mediaType: "image/png", // Placeholder, ideally stored in asset
-            files: []
-        };
-        
-        // Add Traits
-        if (asset.traits) {
-          Object.entries(asset.traits).forEach(([k, v]) => {
-            if (k == null) return;
-        
-            const key = String(k).trim();
-            if (!key) return;
-            if (key.toLowerCase() === "name") return;
-        
-            if (v == null) return;
-            if (typeof v === "string" && v.trim() === "") return;
-        
-            meta[key.toLowerCase()] = v;
-          });
-        }
-
-        
-        // Add File
-        const isUtf8 = (asset.mainEncoding === 'utf8');
-        const mime = isUtf8 ? "text/html;charset=utf-8" : "text/html"; // simplify for editor view
-        
-        // For the editor view, we might not want the MASSIVE base64 strings cluttering it, 
-        // but if you want the "Whole collection" this includes the code.
-        const chunks = (asset.mainContent || "").match(/.{1,64}/g) || [];
-        
-        const customFileName =
-          (asset.defaultProps && typeof asset.defaultProps.name === "string")
-            ? asset.defaultProps.name.trim()
-            : "";
-            
-                let fileObjName = "";
-
-    document.querySelectorAll('.meta-row, .prop-row').forEach(row => {
-         if (row.classList.contains('code-row')) {
-             const syncCb = row.querySelector('.p-meta-sync');
-             if (!syncCb || !syncCb.checked) return; 
-         }
-         if(row.querySelector('.do-not-add') && row.querySelector('.do-not-add').checked) return;
-         
-         let key = "";
-         let val = "";
-         
-         const keyInput = row.querySelector('.p-key');
-         const propInput = row.querySelector('.prop-val');
-
-         if (keyInput) {
-             key = keyInput.value;
-             val = row.querySelector('.p-val')?.value || "";
-         } else if (propInput) {
-             key = propInput.dataset.prop;
-             val = propInput.value;
-         }
-         
-         if(!key) return;
-         
-         // CASE 1: The "Name" Property -> Goes to files[0].name
-         // This captures "F5" from your defaultProps
-         if (key.toLowerCase() === 'name') {
-             fileObjName = val; 
-             return; // Correct: Do NOT add "Name" to top-level traits
-         }
-
-         // CASE 2: Links
-         if(key === 'Links') {
-            meta["links"] = { "web": (Array.isArray(val) ? val.join('') : val) };
-            return;
-         }
-
-         // CASE 3: Standard Traits
-         if (val && val.length > 64) val = val.match(/.{1,64}/g);
-         meta[key.toLowerCase()] = val;
-    });
-        
-        const file0 = {
-          mediaType: isUtf8 ? "text/html;charset=utf-8" : "text/html",
-          src: chunks
-        };
-        
-        const nm = String(fileObjName ?? "").trim();
-        if (nm !== "") file0.name = nm;   // only add if non-blank
-        
-        meta.files.push(file0);
-
-        fullCollectionMeta.push(meta);
+        fullCollectionMeta.push(buildMetadataForAsset(asset));
     });
 
-    // 3. Display array or single object depending on count
     const finalOutput = fullCollectionMeta.length === 1 ? fullCollectionMeta[0] : fullCollectionMeta;
-    
-    const jsonStr = JSON.stringify(finalOutput, null, 2);
-    document.getElementById('jsonEditorArea').value = jsonStr;
+    document.getElementById('jsonEditorArea').value = JSON.stringify(finalOutput, null, 2);
+    document.getElementById('jsonError').style.display = 'none';
+    metaEditorState = { mode: 'collection', assetIndex: -1 };
+    setMetaEditorMode('collection');
     document.getElementById('metaEditorModal').classList.add('open');
 }
 
-window.saveJsonEdit = function() {
+function openAssetJsonEditor(assetIndex) {
+    if (assetIndex < 0 || assetIndex >= studioAssets.length) return;
+
+    if (studioSelectedAssetIndex > -1 && studioAssets[studioSelectedAssetIndex]) {
+        updateAssetObjectFromUI(studioAssets[studioSelectedAssetIndex]);
+    }
+
+    const targetAsset = studioAssets[assetIndex];
+    const jsonStr = JSON.stringify(buildMetadataForAsset(targetAsset), null, 2);
+
+    metaEditorState = { mode: 'asset', assetIndex: assetIndex };
+    setMetaEditorMode('asset');
+    document.getElementById('jsonEditorArea').value = jsonStr;
+    document.getElementById('jsonError').style.display = 'none';
+    document.getElementById('metaEditorModal').classList.add('open');
+}
+
+function metaEditorGoBack() {
+    document.getElementById('jsonError').style.display = 'none';
+    closeModal('metaEditorModal');
+}
+
+function metaEditorSave() {
     const txt = document.getElementById('jsonEditorArea').value;
     try {
         const parsed = JSON.parse(txt);
         document.getElementById('jsonError').style.display = 'none';
 
-        // Handle Array (Multi-Asset view) vs Object
+        if (metaEditorState.mode === 'asset') {
+            const idx = metaEditorState.assetIndex;
+            if (idx > -1 && studioAssets[idx]) {
+                applyJsonToAsset(studioAssets[idx], parsed);
+                normalizeStudioAssetNames();
+                if (studioSelectedAssetIndex === idx) {
+                    selectStudioAsset(idx);
+                } else {
+                    renderStudioPreview();
+                }
+            }
+            saveActiveCollectionState();
+            updateAssetPreview();
+            closeModal('metaEditorModal');
+            log('Asset JSON saved', 'success');
+            return;
+        }
+
+        // Collection editor behavior (existing build-section editor)
         let targetData = parsed;
         if (Array.isArray(parsed)) {
             const idx = (studioSelectedAssetIndex > -1) ? studioSelectedAssetIndex : 0;
@@ -10220,58 +10248,30 @@ window.saveJsonEdit = function() {
 
         if (studioSelectedAssetIndex > -1 && studioAssets[studioSelectedAssetIndex]) {
             const asset = studioAssets[studioSelectedAssetIndex];
-            
-            // --- SYNC JSON BACK TO DOM INPUTS ---
-            // This ensures visual inputs match the JSON you just edited
-            
-            // 1. Common Property "Name" (files[0].name)
-            const fileName = targetData.files?.[0]?.name ?? "";
-            
-            // Find the Default Prop input for "Name"
-            const nameDefInput = document.querySelector('.prop-val[data-prop="Name"]');
-            if (nameDefInput) {
-                nameDefInput.value = fileName;
-            }
-
-
-            // 2. Other Traits
-            if (targetData) {
-                Object.entries(targetData).forEach(([key, val]) => {
-                    if(['name','image','mediaType','files','links'].includes(key)) return;
-                    
-                    // Case-insensitive lookup for property inputs
-                    const inputs = document.querySelectorAll('.prop-val');
-                    inputs.forEach(inp => {
-                        if (inp.dataset.prop.toLowerCase() === key.toLowerCase()) {
-                            inp.value = val;
-                        }
-                    });
-                });
-            }
-            
-            // 3. FORCE SAVE DOM TO MEMORY
+            applyJsonToAsset(asset, targetData);
             updateAssetObjectFromUI(asset);
-            
-            // 4. FORCE SAVE MEMORY TO SERVER
             if (typeof scheduleSaveActive === 'function') {
-                scheduleSaveActive(); 
+                scheduleSaveActive();
             } else if (typeof saveActiveCollectionState === 'function') {
                 saveActiveCollectionState();
             }
         }
-        
+
         syncDefaultPropsToAllAssets();
         renderStudioPreview();
-
         closeModal('metaEditorModal');
-        log("JSON Saved & Inputs Updated", "success");
+        log('JSON Saved & Inputs Updated', 'success');
         updateAssetPreview();
-        
+
     } catch(e) {
-        document.getElementById('jsonError').textContent = "Invalid JSON: " + e.message;
+        document.getElementById('jsonError').textContent = 'Invalid JSON: ' + e.message;
         document.getElementById('jsonError').style.display = 'block';
     }
 }
+
+window.metaEditorGoBack = metaEditorGoBack;
+window.metaEditorSave = metaEditorSave;
+window.saveJsonEdit = metaEditorSave;
 
 // --- LOGIC: Code Sandwich (Decode -> Replace -> Encode) ---
 function prepareContent() {
@@ -10643,6 +10643,7 @@ mintRevealTimer = setTimeout(() => {
 let studioAssets = []; 
 let studioSelectedAssetIndex = -1;
 let studioActiveFilter = 'ALL';
+let metaEditorState = { mode: 'collection', assetIndex: -1 };
 
 // 1. Create New Asset
 window.createNewAsset = function() {
@@ -10703,6 +10704,53 @@ window.createNewAsset = function() {
     if (typeof saveActiveCollectionState === 'function') {
         saveActiveCollectionState();
     }
+};
+
+window.removeStudioAsset = function(index) {
+    if (index < 0 || index >= studioAssets.length) return;
+
+    if (studioSelectedAssetIndex > -1 && studioAssets[studioSelectedAssetIndex]) {
+        updateAssetObjectFromUI(studioAssets[studioSelectedAssetIndex]);
+    }
+
+    const targetAsset = studioAssets[index];
+    const removeCompletely = isBlankDefaultOnlyAsset(targetAsset);
+
+    if (removeCompletely) {
+        studioAssets.splice(index, 1);
+        normalizeStudioAssetNames();
+        if (studioAssets.length === 0) {
+            studioSelectedAssetIndex = -1;
+        } else if (studioSelectedAssetIndex >= studioAssets.length) {
+            studioSelectedAssetIndex = studioAssets.length - 1;
+        } else if (studioSelectedAssetIndex > index) {
+            studioSelectedAssetIndex -= 1;
+        }
+    } else {
+        studioAssets[index] = createBlankStudioAssetAt(index);
+        if (studioSelectedAssetIndex === index) {
+            studioSelectedAssetIndex = -1;
+        }
+    }
+
+    const newTotal = studioAssets.length;
+    const maxInput = document.getElementById('totalAssets');
+    if (maxInput) maxInput.value = newTotal;
+
+    const maxPill = document.getElementById('headerMaxDisplay');
+    if (maxPill) maxPill.innerText = newTotal;
+
+    const countPill = document.getElementById('headerAssetCount');
+    if (countPill) countPill.innerText = newTotal;
+
+    renderStudioPreview();
+
+    if (studioSelectedAssetIndex > -1 && studioAssets[studioSelectedAssetIndex]) {
+        selectStudioAsset(studioSelectedAssetIndex);
+    }
+
+    saveActiveCollectionState();
+    updateAssetPreview();
 };
 
 
@@ -10797,6 +10845,63 @@ window.updateSelectedAssetFromUI = function() {
     updateAssetObjectFromUI(asset);
     renderStudioPreview(); 
 };
+
+function getStudioBaseName() {
+    const baseNameInput = document.getElementById('collectionName');
+    return (baseNameInput && baseNameInput.value) ? baseNameInput.value : 'Asset';
+}
+
+function createBlankStudioAssetAt(index) {
+    const safeIndex = Math.max(0, Number(index) || 0);
+    const nextNum = safeIndex + 1;
+    const baseName = getStudioBaseName();
+    const commonProps = (typeof readDefaultProps === 'function') ? readDefaultProps() : {};
+    const type = document.querySelector('input[name="astype"]:checked')?.value || 'nft';
+    const displaySuffix = (type === 'ft') ? '' : (' #' + nextNum);
+
+    return {
+        id: 'blank_' + Date.now() + '_' + safeIndex,
+        name: baseName.replace(/[^a-zA-Z0-9]/g, '') + nextNum,
+        displayName: baseName + displaySuffix,
+        mainContent: '',
+        mainEncoding: 'base64',
+        coverImage: '',
+        traits: { ...commonProps },
+        codeRows: [],
+        metaRows: []
+    };
+}
+
+function normalizeStudioAssetNames() {
+    const baseName = getStudioBaseName();
+    const type = document.querySelector('input[name="astype"]:checked')?.value || 'nft';
+    studioAssets.forEach((asset, idx) => {
+        if (!asset) return;
+        const nextNum = idx + 1;
+        if (!asset.name || /^Asset\d+$/i.test(String(asset.name))) {
+            asset.name = baseName.replace(/[^a-zA-Z0-9]/g, '') + nextNum;
+        }
+        if (!asset.displayName || /^Asset\s?#\d+$/i.test(String(asset.displayName))) {
+            asset.displayName = type === 'ft' ? baseName : `${baseName} #${nextNum}`;
+        }
+    });
+}
+
+function isBlankDefaultOnlyAsset(asset) {
+    if (!asset || typeof asset !== 'object') return false;
+    const hasMain = !!String(asset.mainContent || '').trim();
+    const hasCover = !!String(asset.coverImage || '').trim();
+    const hasCodeRows = Array.isArray(asset.codeRows) && asset.codeRows.length > 0;
+    const hasMetaRows = Array.isArray(asset.metaRows) && asset.metaRows.length > 0;
+
+    if (hasMain || hasCover || hasCodeRows || hasMetaRows) return false;
+
+    const defaults = (typeof readDefaultProps === 'function') ? readDefaultProps() : {};
+    const defaultKeys = new Set(Object.keys(defaults).map(k => String(k).trim().toLowerCase()));
+    const traits = (asset.traits && typeof asset.traits === 'object') ? asset.traits : {};
+
+    return Object.keys(traits).every(k => defaultKeys.has(String(k).trim().toLowerCase()));
+}
 
 // 4. Render Grid & Dropdown
 window.renderStudioPreview = function() {
@@ -11051,18 +11156,36 @@ window.renderStudioPreview = function() {
 
         if (traitsBox.hasChildNodes()) card.appendChild(traitsBox);
 
-        // --- 4. ADD PROPERTY BUTTON ---
+        // --- 4. ACTION BUTTONS ---
         const addPropBtn = document.createElement('button');
-        addPropBtn.className = "secondary small-btn"; 
-        addPropBtn.style.cssText = "margin: 8px; width: calc(100% - 16px); display:flex; justify-content:center; gap:5px;";
+        addPropBtn.className = "secondary small-btn";
+        addPropBtn.style.cssText = "margin: 8px 8px 0 8px; width: calc(100% - 16px); display:flex; justify-content:center; gap:5px;";
         addPropBtn.innerHTML = `<i class="fas fa-plus"></i> Property`;
-        
         addPropBtn.onclick = (e) => {
-            e.stopPropagation(); 
+            e.stopPropagation();
             openSingleAssetPropModal(idx);
         };
-        
         card.appendChild(addPropBtn);
+
+        const assetJsonBtn = document.createElement('button');
+        assetJsonBtn.className = "secondary small-btn";
+        assetJsonBtn.style.cssText = "margin: 6px 8px 0 8px; width: calc(100% - 16px); display:flex; justify-content:center; gap:5px;";
+        assetJsonBtn.innerHTML = `<i class="fas fa-code"></i> JSON`;
+        assetJsonBtn.onclick = (e) => {
+            e.stopPropagation();
+            openAssetJsonEditor(idx);
+        };
+        card.appendChild(assetJsonBtn);
+
+        const removeAssetBtn = document.createElement('button');
+        removeAssetBtn.className = "secondary small-btn";
+        removeAssetBtn.style.cssText = "margin: 6px 8px 8px 8px; width: calc(100% - 16px); display:flex; justify-content:center; gap:5px; color:#ff7d7d; border-color:rgba(255,125,125,0.45);";
+        removeAssetBtn.innerHTML = `<i class="fas fa-minus"></i> Asset`;
+        removeAssetBtn.onclick = (e) => {
+            e.stopPropagation();
+            removeStudioAsset(idx);
+        };
+        card.appendChild(removeAssetBtn);
 
         // Card Click Selection
         card.onclick = (e) => {
