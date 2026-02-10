@@ -8626,6 +8626,54 @@ return {
     };
 }
 
+// Syncs all header display pills from a state object on initial load / collection switch.
+// Mirrors the derivation logic of the inline oninput/onchange handlers in the HTML.
+function syncAllHeaderPills(s) {
+    if (!s) s = {};
+
+    // Collection Details header pills
+    const collNamePill = document.getElementById('headerCollNameDisplay');
+    if (collNamePill) collNamePill.innerText = s.collectionName || 'Not Set';
+
+    const maxPill = document.getElementById('headerMaxDisplay');
+    if (maxPill) maxPill.innerText = s.totalAssets || '1';
+
+    const typePill = document.getElementById('headerTypeDisplay');
+    if (typePill) {
+        const typeMap = { 'nft': 'NFT', 'edition': 'Edition', 'ft': 'FT' };
+        typePill.innerText = typeMap[s.astype] || 'NFT';
+    }
+
+    // Asset Preview header pill
+    const assetCountPill = document.getElementById('headerAssetCount');
+    if (assetCountPill) assetCountPill.innerText = studioAssets.length;
+
+    // Payment Info header pills
+    const addrPill = document.getElementById('headerAddrDisplay');
+    if (addrPill) {
+        if (s.useWalletAddr) {
+            addrPill.innerText = 'Wallet';
+        } else if (s.receiveAddr && s.receiveAddr.length > 5) {
+            addrPill.innerText = s.receiveAddr.substring(0, 5) + '...';
+        } else {
+            addrPill.innerText = s.receiveAddr || 'Not Set';
+        }
+    }
+
+    const costPill = document.getElementById('headerCostDisplay');
+    if (costPill) {
+        if (s.costType === 'paid') {
+            costPill.innerText = (s.mintCost || '0') + ' ₳';
+        } else {
+            costPill.innerText = 'Free';
+        }
+    }
+
+    // Mint Station max supply display
+    const maxSupply = document.getElementById('maxSupplyDisplay');
+    if (maxSupply) maxSupply.textContent = s.totalAssets || '1';
+}
+
 function writeCollectionStateToUI(s) {
     if (!s) s = {};
 
@@ -8694,13 +8742,15 @@ function writeCollectionStateToUI(s) {
     } else {
         // No assets saved, create clean slate (Asset #1)
         studioAssets = [];
-        const useColl = s.useCollName ?? true; 
+        const useColl = s.useCollName ?? true;
         const base = s.collectionName || "Asset";
-        const initName = useColl ? `${base} #1` : (s.assetNameInput || `${base} #1`);
+        const initAssetKey = useColl ? base.replace(/[^a-zA-Z0-9]/g, '') + "1" : (s.assetNameInput || base.replace(/[^a-zA-Z0-9]/g, '') + "1");
+        const initDisplayName = useColl ? `${base} #1` : (s.assetNameInput || `${base} #1`);
 
         const initialAsset = {
             id: 'init_' + Date.now(),
-            name: initName,
+            name: initAssetKey,
+            displayName: initDisplayName,
             mainContent: s.codeContent || "",
             mainEncoding: s.encoding || "base64",
             coverImage: s.previewImgInput || "",
@@ -8714,7 +8764,9 @@ function writeCollectionStateToUI(s) {
         studioSelectedAssetIndex = -1; 
         selectStudioAsset(0);
     }
-    
+
+    syncAllHeaderPills(s);
+
     if (typeof renderStudioPreview === 'function') renderStudioPreview();
 }
 
@@ -10607,15 +10659,18 @@ window.createNewAsset = function() {
     const baseNameInput = document.getElementById('collectionName');
     const baseName = baseNameInput && baseNameInput.value ? baseNameInput.value : "Asset";
 
+    const type = document.querySelector('input[name="astype"]:checked')?.value || "nft";
+    const displaySuffix = (type === "ft") ? "" : (" #" + nextNum);
     const newAsset = {
         id: 'new_' + Date.now(),
-        name: baseName.replace(/[^a-zA-Z0-9 ]/g, '') + " #" + nextNum,
+        name: baseName.replace(/[^a-zA-Z0-9]/g, '') + nextNum,
+        displayName: baseName + displaySuffix,
         mainContent: "",
         mainEncoding: "base64",
         coverImage: "",
         traits: { ...commonProps },
         codeRows: [],
-        metaRows: [] 
+        metaRows: []
     };
 
     // C) Push to Data Source
@@ -10670,6 +10725,11 @@ window.selectStudioAsset = function(index) {
     const nameInp = document.getElementById('assetNameInput');
     if (nameInp) nameInp.value = asset.name;
 
+    // Sync displayName to body dataset so updateAssetPreview / buildMetadata stays correct
+    if (asset.displayName) {
+        document.body.dataset.currentDisplayName = asset.displayName;
+    }
+
     const codeInp = document.getElementById('codeContent');
     // FIX: Fallback to empty string if undefined
     if (codeInp) codeInp.value = asset.mainContent || "";
@@ -10712,6 +10772,7 @@ function updateAssetObjectFromUI(asset) {
     if (!asset) return;
 
     asset.name = document.getElementById('assetNameInput').value;
+    asset.displayName = document.body.dataset.currentDisplayName || asset.displayName || asset.name;
     asset.mainContent = document.getElementById('codeContent').value;
     asset.mainEncoding = document.querySelector('input[name="encoding"]:checked')?.value || 'base64';
     asset.coverImage = document.getElementById('previewImgInput').value;
@@ -10785,7 +10846,7 @@ window.renderStudioPreview = function() {
     // --- POPULATE DROPDOWN ---
     if (filterSelect && studioSelectedAssetIndex > -1) {
         const currentAsset = studioAssets[studioSelectedAssetIndex];
-        const derivedMeta = buildMetadata(currentAsset.name, currentAsset.name);
+        const derivedMeta = buildMetadata(currentAsset.name, currentAsset.displayName || currentAsset.name);
         
         const traits = {};
         const skipKeys = ['name', 'image', 'mediatype', 'files', 'src'];
@@ -10916,7 +10977,7 @@ window.renderStudioPreview = function() {
         const nameDiv = document.createElement('div');
         nameDiv.className = 'asset-name';
         const base = document.getElementById('collectionName').value || "Asset";
-        nameDiv.textContent = asset.name || `${base} #${idx+1}`;
+        nameDiv.textContent = asset.displayName || asset.name || `${base} #${idx+1}`;
         card.appendChild(nameDiv);
 
         // --- 3. TRAITS (LOGIC FIXED) ---
@@ -11333,6 +11394,11 @@ function updateAssetPreview() {
     // Update Labels & Store Data for Builder
     document.getElementById('assetNamePreview').textContent = `Display Name: ${displayName}`;
     document.body.dataset.currentDisplayName = displayName;
+
+    // Persist displayName directly on the current asset object
+    if (typeof studioSelectedAssetIndex !== 'undefined' && studioSelectedAssetIndex > -1 && studioAssets[studioSelectedAssetIndex]) {
+        studioAssets[studioSelectedAssetIndex].displayName = displayName;
+    }
 
     const useAsset = document.getElementById('useAssetThumbInMint')?.checked;
     if (!mintPreviewLocked) {
