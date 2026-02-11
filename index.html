@@ -1974,6 +1974,81 @@ input, textarea, select {
 @keyframes spin{ to{ transform: rotate(360deg); } }
     .drag-active { border-color: var(--success) !important; background: rgba(76, 175, 80, 0.1) !important; }
 
+    /* Station Upload Zones (Thumb & Banner) */
+    .station-upload-zone {
+        position: relative;
+        border: 2px dashed var(--border);
+        border-radius: 12px;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        transition: border-color 0.2s, background 0.2s;
+    }
+    .station-upload-zone:hover { border-color: var(--primary); background: rgba(90,230,255,0.04); }
+    .station-upload-zone.drag-active { border-color: var(--success) !important; background: rgba(76,175,80,0.10) !important; }
+    .station-upload-zone.has-image { border-style: solid; }
+
+    .station-upload-thumb {
+        width: 120px;
+        height: 120px;
+        min-width: 120px;
+        min-height: 120px;
+    }
+    .station-upload-banner {
+        width: 100%;
+        height: 140px;
+    }
+
+    .station-upload-placeholder {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 6px;
+        text-align: center;
+        padding: 10px;
+        color: var(--text-light);
+        font-size: 0.75rem;
+        pointer-events: none;
+    }
+
+    .station-upload-img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+    .station-upload-remove {
+        position: absolute;
+        top: 4px;
+        right: 4px;
+        width: 24px;
+        height: 24px;
+        border-radius: 50%;
+        border: none;
+        background: rgba(0,0,0,0.7);
+        color: #ff5252;
+        font-size: 0.75rem;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 2;
+        transition: background 0.2s;
+    }
+    .station-upload-remove:hover { background: rgba(255,82,82,0.3); }
+
+    /* Green checked state for station setup pills */
+    .check-wrap input[type="checkbox"]:checked { accent-color: #00e676; }
+    .check-wrap.station-checked {
+        color: #00e676 !important;
+        font-weight: 700;
+        text-shadow: 0 0 8px rgba(0, 230, 118, 0.5);
+    }
+
     /* MODAL */
     .modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.85); backdrop-filter: blur(8px); z-index: 2000; display: none; justify-content: center; align-items: center; }
     .modal-overlay.open { display: flex; }
@@ -2656,49 +2731,79 @@ input, textarea, select {
     </div>
     
     <div class="cardBody" id="stationSetupBody" style="display:none;">
-        
-        <label>Collection Thumbnail (Sale Page Only)</label>
-        <div class="row" id="collectionThumbDropZone" style="border:2px dashed var(--border); padding:10px; border-radius:10px;">
-            <input type="text" id="collectionThumbInput" placeholder="fbThumb.png or ipfs://..." style="flex:1;">
-            <button class="secondary icon-btn" id="btnUploadCollectionThumb" style="white-space:nowrap;">
-                <i class="fas fa-camera"></i> Upload
+
+        <!-- Collection Thumbnail -->
+        <div style="display:flex; align-items:center; gap:10px; margin-bottom:8px;">
+            <label style="margin:0;">Collection Thumbnail</label>
+            <button class="secondary icon-btn" id="btnThumbUseLink" style="font-size:0.75rem; padding:4px 10px; white-space:nowrap;">
+                <i class="fas fa-link"></i> Use a Link
+            </button>
+        </div>
+        <div class="station-upload-zone station-upload-thumb" id="collectionThumbDropZone">
+            <div class="station-upload-placeholder" id="thumbPlaceholder">
+                <i class="fas fa-camera" style="font-size:1.4rem; opacity:0.5;"></i>
+                <span>Browse, drag &amp; drop to add a thumbnail on the sale page</span>
+            </div>
+            <img id="collectionThumbPreview" class="station-upload-img" style="display:none;">
+            <button class="station-upload-remove" id="btnRemoveThumb" style="display:none;" title="Remove thumbnail">
+                <i class="fas fa-times"></i>
             </button>
             <input type="file" id="collectionThumbFileInput" accept="image/*" style="display:none">
         </div>
-        <img id="collectionThumbPreview" style="object-fit:cover; width:100px; height:100px; margin-top:10px; border-radius:12px; display:none;">
-        <div id="collectionThumbHint" class="hint hidden">Drag & drop to update collection thumbnail</div>
+        <input type="hidden" id="collectionThumbInput" value="">
 
         <div style="width:100%; height:1px; background:rgba(255,255,255,0.1); margin:20px 0;"></div>
 
-        <label>Mint Station Banner</label>
-        <div class="row" style="border:2px dashed var(--border); padding:10px; border-radius:10px; align-items: center;">
-            <div style="flex:1; font-size:0.85rem; color:var(--text-light);">
-                Upload a custom banner image for the Mint Station display.
-            </div>
-            <label class="secondary icon-btn" id="bannerUploadBtn" style="white-space:nowrap;">
-                <i class="fas fa-image"></i> Upload
-                <input type="file" id="bannerInput" accept="image/*" style="display:none"> 
-            </label>
+        <!-- Mint Station Banner -->
+        <div style="display:flex; align-items:center; gap:10px; margin-bottom:8px;">
+            <label style="margin:0;">Mint Station Banner</label>
+            <button class="secondary icon-btn" id="btnBannerUseLink" style="font-size:0.75rem; padding:4px 10px; white-space:nowrap;">
+                <i class="fas fa-link"></i> Use a Link
+            </button>
         </div>
-        <img id="bannerPreview" style="object-fit:cover; width:100%; height:80px; margin-top:10px; border-radius:10px; display:none; border:1px solid var(--border);">
+        <div class="station-upload-zone station-upload-banner" id="bannerDropZone">
+            <div class="station-upload-placeholder" id="bannerPlaceholder">
+                <i class="fas fa-image" style="font-size:1.4rem; opacity:0.5;"></i>
+                <span>Upload Sale Banner</span>
+            </div>
+            <img id="bannerPreview" class="station-upload-img" style="display:none;">
+            <button class="station-upload-remove" id="btnRemoveBanner" style="display:none;" title="Remove banner">
+                <i class="fas fa-times"></i>
+            </button>
+            <input type="file" id="bannerInput" accept="image/*" style="display:none">
+        </div>
 
         <div style="width:100%; height:1px; background:rgba(255,255,255,0.1); margin:20px 0;"></div>
 
         <label style="margin-bottom:10px;">Station Appearance</label>
-        
-        <div class="row" style="margin-bottom:15px;">
-            <div class="col">
-                <label>Background Color</label>
-                <div style="display:flex; align-items:center; gap:10px;">
-                    <input type="color" id="stationBgColor" value="#000000" style="width:50px; padding:2px; height:40px; min-height:40px;">
-                    <span style="font-size:0.8rem; color:var(--text-light); opacity:0.7;">Click to set</span>
+
+        <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:15px;">
+            <div>
+                <label style="font-size:0.8rem;">Background</label>
+                <div style="display:flex; align-items:center; gap:8px;">
+                    <input type="color" id="stationBgColor" value="#050810" style="width:44px; padding:2px; height:38px; min-height:38px;">
+                    <span class="color-hex-label" id="stationBgHex" style="font-size:0.7rem; color:var(--text-light); opacity:0.6; font-family:monospace;">#050810</span>
                 </div>
             </div>
-            <div class="col">
-                <label>Text Color</label>
-                <div style="display:flex; align-items:center; gap:10px;">
-                    <input type="color" id="stationTextColor" value="#ffffff" style="width:50px; padding:2px; height:40px; min-height:40px;">
-                    <span style="font-size:0.8rem; color:var(--text-light); opacity:0.7;">Click to set</span>
+            <div>
+                <label style="font-size:0.8rem;">Text Color</label>
+                <div style="display:flex; align-items:center; gap:8px;">
+                    <input type="color" id="stationTextColor" value="#ffffff" style="width:44px; padding:2px; height:38px; min-height:38px;">
+                    <span class="color-hex-label" id="stationTextHex" style="font-size:0.7rem; color:var(--text-light); opacity:0.6; font-family:monospace;">#ffffff</span>
+                </div>
+            </div>
+            <div>
+                <label style="font-size:0.8rem;">Border Line</label>
+                <div style="display:flex; align-items:center; gap:8px;">
+                    <input type="color" id="stationBorderColor" value="#1e2a5a" style="width:44px; padding:2px; height:38px; min-height:38px;">
+                    <span class="color-hex-label" id="stationBorderHex" style="font-size:0.7rem; color:var(--text-light); opacity:0.6; font-family:monospace;">#1e2a5a</span>
+                </div>
+            </div>
+            <div>
+                <label style="font-size:0.8rem;">Text2 (Accent)</label>
+                <div style="display:flex; align-items:center; gap:8px;">
+                    <input type="color" id="stationText2Color" value="#2196F3" style="width:44px; padding:2px; height:38px; min-height:38px;">
+                    <span class="color-hex-label" id="stationText2Hex" style="font-size:0.7rem; color:var(--text-light); opacity:0.6; font-family:monospace;">#2196F3</span>
                 </div>
             </div>
         </div>
@@ -3221,6 +3326,19 @@ input, textarea, select {
         <div class="row" style="justify-content:flex-end; display:flex; gap:10px;">
             <button class="secondary" onclick="closeModal('colorModal')">Cancel</button>
             <button onclick="applyColorPreset()">Apply</button>
+        </div>
+    </div>
+</div>
+
+<!-- Image URL Modal (Thumb / Banner) -->
+<div class="modal-overlay" id="imageUrlModal" style="z-index:5200;">
+    <div class="modal-box" style="width:min(420px,90%);">
+        <h3 style="color:#fff;" id="imageUrlModalTitle">Image URL</h3>
+        <input type="text" id="imageUrlInput" class="glass-input" placeholder="https://example.com/image.png" style="width:100%;">
+        <img id="imageUrlPreview" style="display:none; width:100%; max-height:160px; object-fit:contain; border-radius:8px; margin-top:10px; border:1px solid var(--border);">
+        <div class="row" style="justify-content:flex-end; display:flex; gap:10px; margin-top:10px;">
+            <button class="secondary" onclick="closeImageUrlModal()">Cancel</button>
+            <button id="btnApplyImageUrl" onclick="applyImageUrl()">Apply</button>
         </div>
     </div>
 </div>
@@ -8274,26 +8392,23 @@ function setupStudioListeners() {
         if (el) el.onclick = fn;
     };
 
-    // Banner & Thumb
-    safeBind('bannerInput', 'change', uploadBanner);
-    
-    // Drag & Drop Zones
-    const bannerArea = getEl('bannerArea');
-    if (bannerArea) {
-        bannerArea.addEventListener('dragover', (ev) => { ev.preventDefault(); bannerArea.classList.add('drag-active'); });
-        bannerArea.addEventListener('dragleave', () => bannerArea.classList.remove('drag-active'));
-        bannerArea.addEventListener('drop', (ev) => {
-            ev.preventDefault();
-            bannerArea.classList.remove('drag-active');
-            const f = ev.dataTransfer?.files?.[0];
-            if (f) {
-                if (f.size > 5 * 1024 * 1024) return alert("File too big (Max 5MB)");
-                const img = getEl('bannerImg');
-                if(img) img.src = URL.createObjectURL(f);
-                if(typeof updateAssetPreview === 'function') updateAssetPreview();
-            }
-        });
-    }
+    // Station Upload Zones (Thumb & Banner)
+    setupStationUploadZone('collectionThumbDropZone', 'collectionThumbFileInput', 'thumb');
+    setupStationUploadZone('bannerDropZone', 'bannerInput', 'banner');
+
+    // Remove buttons
+    safeClick('btnRemoveThumb', () => removeStationImage('thumb'));
+    safeClick('btnRemoveBanner', () => removeStationImage('banner'));
+
+    // Use a Link buttons
+    safeClick('btnThumbUseLink', () => openImageUrlModal('thumb'));
+    safeClick('btnBannerUseLink', () => openImageUrlModal('banner'));
+
+    // Station Appearance color pickers — apply live
+    safeBind('stationBgColor', 'input', applyStationColors);
+    safeBind('stationTextColor', 'input', applyStationColors);
+    safeBind('stationBorderColor', 'input', applyStationColors);
+    safeBind('stationText2Color', 'input', applyStationColors);
 
     // Input Listeners
     safeBind('collectionName', 'input', updateAssetPreview);
@@ -8613,7 +8728,13 @@ return {
         encoding: readRadio('encoding') || 'base64',
         codeContent: document.getElementById('codeContent')?.value ?? '',
 
-        collectionThumbInput: document.getElementById('collectionThumbInput')?.value ?? 'fbThumb.png',
+        collectionThumbInput: document.getElementById('collectionThumbInput')?.value ?? '',
+        bannerImage: (document.getElementById('bannerPreview')?.style.display !== 'none' && document.getElementById('bannerPreview')?.src) ? (document.getElementById('bannerPreview')?.dataset?.filename || '') : '',
+
+        stationBgColor: document.getElementById('stationBgColor')?.value || '#050810',
+        stationTextColor: document.getElementById('stationTextColor')?.value || '#ffffff',
+        stationBorderColor: document.getElementById('stationBorderColor')?.value || '#1e2a5a',
+        stationText2Color: document.getElementById('stationText2Color')?.value || '#2196F3',
         previewImgInput: document.getElementById('previewImgInput')?.value ?? '',
 
         // Critical: These calls gather the dynamic rows
@@ -8712,7 +8833,7 @@ function writeCollectionStateToUI(s) {
     
     // 3. Global Inputs (Thumbnails, etc)
     const cti = document.getElementById('collectionThumbInput');
-    if (cti) cti.value = s.collectionThumbInput ?? 'fbThumb.png';
+    if (cti) cti.value = s.collectionThumbInput ?? '';
 
     writeDefaultProps(s.defaultProps || {});
 
@@ -8720,7 +8841,13 @@ function writeCollectionStateToUI(s) {
     document.getElementById('maxSupplyDisplay').textContent = (document.getElementById('totalAssets')?.value || '∞');
     if (typeof window.handleTypeChange === 'function') window.handleTypeChange();
     if (typeof window.updatePriceDisplay === 'function') window.updatePriceDisplay();
-    if (typeof window.applyCollectionThumbFromInput === 'function') window.applyCollectionThumbFromInput();
+
+    // Restore station images (thumb + banner) with proper previews
+    if (typeof restoreStationImages === 'function') restoreStationImages(s);
+    if (typeof syncStationCheckmarks === 'function') syncStationCheckmarks(s);
+
+    // Restore station appearance colors
+    if (typeof restoreStationColors === 'function') restoreStationColors(s);
     
     const displayTitle = document.getElementById('displayTitle');
     if (displayTitle) displayTitle.textContent = s.collectionName || 'Collection Title';
@@ -9157,8 +9284,13 @@ window.savePolicyAndCreateCollection = async function() {
             policy: created.policy,
             assetNameInput: '',
             saleDescription: '',
-            collectionThumbInput: 'fbThumb.png',
-        
+            collectionThumbInput: '',
+            bannerImage: '',
+            stationBgColor: '#050810',
+            stationTextColor: '#ffffff',
+            stationBorderColor: '#1e2a5a',
+            stationText2Color: '#2196F3',
+
             // CRITICAL: ensure brand-new collection cannot inherit globals by omission
             defaultProps: {},
             metaRows: [],
@@ -9550,7 +9682,12 @@ async function switchToCollection(key) {
         mintCost: '',
         encoding: 'base64',
         codeContent: '',
-        collectionThumbInput: 'fbThumb.png',
+        collectionThumbInput: '',
+        bannerImage: '',
+        stationBgColor: '#050810',
+        stationTextColor: '#ffffff',
+        stationBorderColor: '#1e2a5a',
+        stationText2Color: '#2196F3',
         previewImgInput: '',
         defaultProps: {},
         metaRows: [],
@@ -9872,42 +10009,11 @@ window.removeDefaultPropRow = function(btn) {
 
 
 window.applyCollectionThumbFromInput = function() {
-  const val = (document.getElementById('collectionThumbInput')?.value || 'fbThumb.png').trim() || 'fbThumb.png';
-
-  // preview in metadata tab
-  const prev = document.getElementById('collectionThumbPreview');
-  if (prev) {
-    prev.src = val;
-    prev.style.display = 'block';
-  }
-
-  // update mint preview thumb ONLY when not locked and checkbox is NOT forcing asset thumb
-  window.collectionThumbSrc = val;
-
-  const useAsset = document.getElementById('useAssetThumbInMint')?.checked ?? false;
-  if (!window.mintPreviewLocked && !useAsset && typeof window.setMintPreviewToCollectionThumb === 'function') {
-    window.setMintPreviewToCollectionThumb();
-  }
+  // This is now handled by restoreStationImages; kept as no-op for backward compat
 };
+
 function setupCollectionThumbDropZone() {
-  const zone = document.getElementById('collectionThumbDropZone');
-  if (!zone) return;
-
-  const prevent = (e) => { e.preventDefault(); e.stopPropagation(); };
-
-  zone.addEventListener('dragenter', (e) => { prevent(e); zone.classList.add('drag-active'); });
-  zone.addEventListener('dragover',  (e) => { prevent(e); zone.classList.add('drag-active'); });
-  zone.addEventListener('dragleave', (e) => { prevent(e); zone.classList.remove('drag-active'); });
-  zone.addEventListener('drop', (e) => {
-    prevent(e);
-    zone.classList.remove('drag-active');
-
-    // creator-only
-    if (currentUser.identity !== currentUser.identity) return;
-
-    const f = e.dataTransfer?.files?.[0];
-    if (f) handleCollectionThumbFile(f);
-  });
+  // Now handled by setupStationUploadZone — kept as no-op for backward compat
 }
 
 
@@ -12002,12 +12108,479 @@ window.addEventListener('DOMContentLoaded', async () => {
 
 async function uploadBanner(e) {
   if (!isCreatorUser()) return;
-
   const file = e?.target?.files?.[0];
   if(!file) return;
-  if(file.size > 5 * 1024 * 1024) return alert("File too big (Max 5MB)");
-  document.getElementById('bannerImg').src = URL.createObjectURL(file);
-  log("Banner preview updated (Backend req for save)", "success");
+  handleStationImage(file, 'banner');
+}
+
+// ==========================================
+// STATION IMAGE MANAGEMENT (Thumb & Banner)
+// ==========================================
+
+// Track which type the URL modal is open for
+let _imageUrlModalTarget = null; // 'thumb' | 'banner'
+
+function getCollectionImageBasePath() {
+  const username = (currentUser.username || '').trim();
+  const key = getActiveCollKey();
+  if (!username || !key) return '';
+  return `/idp/${username}/mint/${key}/`;
+}
+
+// --- Core handler: validate + upload + preview ---
+async function handleStationImage(file, type) {
+  if (!file) return;
+  if (!file.type.startsWith('image/')) return alert('File must be an image');
+  if (file.size > 5 * 1024 * 1024) return alert('File too big (Max 5MB)');
+
+  const username = (currentUser.username || '').trim();
+  const key = getActiveCollKey();
+  if (!username || !key) return alert('No active collection');
+
+  const fd = new FormData();
+  fd.append('action', 'upload');
+  fd.append('username', username);
+  fd.append('collectionKey', key);
+  fd.append('type', type);
+  fd.append('image', file);
+
+  try {
+    const res = await fetch('/idp/station_image.php', { method: 'POST', body: fd });
+    const text = await res.text();
+    let data;
+    try { data = JSON.parse(text); } catch (pe) {
+      console.error('station_image.php response not JSON:', text);
+      return alert('Upload failed — server error');
+    }
+    if (!data.ok) return alert(data.error || 'Upload failed');
+
+    // Show preview
+    const localUrl = URL.createObjectURL(file);
+    showStationImagePreview(type, localUrl, data.filename);
+    log(`${type === 'thumb' ? 'Thumbnail' : 'Banner'} uploaded`, 'success');
+  } catch (err) {
+    console.error('Station image upload error:', err);
+    alert('Upload failed — network error');
+  }
+}
+
+function showStationImagePreview(type, src, filenameOrUrl) {
+  if (type === 'thumb') {
+    const preview = document.getElementById('collectionThumbPreview');
+    const placeholder = document.getElementById('thumbPlaceholder');
+    const removeBtn = document.getElementById('btnRemoveThumb');
+    const zone = document.getElementById('collectionThumbDropZone');
+    const hiddenInput = document.getElementById('collectionThumbInput');
+
+    if (preview) { preview.src = src; preview.style.display = 'block'; }
+    if (placeholder) placeholder.style.display = 'none';
+    if (removeBtn) removeBtn.style.display = 'flex';
+    if (zone) zone.classList.add('has-image');
+    if (hiddenInput) hiddenInput.value = filenameOrUrl || '';
+
+    // Update mint preview thumb
+    window.collectionThumbSrc = src;
+    const useAsset = document.getElementById('useAssetThumbInMint')?.checked ?? false;
+    if (!window.mintPreviewLocked && !useAsset && typeof window.setMintPreviewToCollectionThumb === 'function') {
+      window.setMintPreviewToCollectionThumb();
+    }
+  } else {
+    const preview = document.getElementById('bannerPreview');
+    const placeholder = document.getElementById('bannerPlaceholder');
+    const removeBtn = document.getElementById('btnRemoveBanner');
+    const zone = document.getElementById('bannerDropZone');
+
+    if (preview) { preview.src = src; preview.style.display = 'block'; preview.dataset.filename = filenameOrUrl || ''; }
+    if (placeholder) placeholder.style.display = 'none';
+    if (removeBtn) removeBtn.style.display = 'flex';
+    if (zone) zone.classList.add('has-image');
+
+    // Also update the mint station banner display
+    const bannerImg = document.getElementById('bannerImg');
+    if (bannerImg) bannerImg.src = src;
+  }
+
+  // Update the header checkmark
+  updateStationCheckmark(type, true);
+
+  // Persist to collection memory
+  saveActiveCollectionState();
+}
+
+function clearStationImagePreview(type) {
+  if (type === 'thumb') {
+    const preview = document.getElementById('collectionThumbPreview');
+    const placeholder = document.getElementById('thumbPlaceholder');
+    const removeBtn = document.getElementById('btnRemoveThumb');
+    const zone = document.getElementById('collectionThumbDropZone');
+    const hiddenInput = document.getElementById('collectionThumbInput');
+
+    if (preview) { preview.src = ''; preview.style.display = 'none'; }
+    if (placeholder) placeholder.style.display = 'flex';
+    if (removeBtn) removeBtn.style.display = 'none';
+    if (zone) zone.classList.remove('has-image');
+    if (hiddenInput) hiddenInput.value = '';
+
+    window.collectionThumbSrc = '';
+  } else {
+    const preview = document.getElementById('bannerPreview');
+    const placeholder = document.getElementById('bannerPlaceholder');
+    const removeBtn = document.getElementById('btnRemoveBanner');
+    const zone = document.getElementById('bannerDropZone');
+
+    if (preview) { preview.src = ''; preview.style.display = 'none'; preview.dataset.filename = ''; }
+    if (placeholder) placeholder.style.display = 'flex';
+    if (removeBtn) removeBtn.style.display = 'none';
+    if (zone) zone.classList.remove('has-image');
+
+    const bannerImg = document.getElementById('bannerImg');
+    if (bannerImg) bannerImg.src = '';
+  }
+
+  updateStationCheckmark(type, false);
+}
+
+// --- Delete handler ---
+async function removeStationImage(type) {
+  const username = (currentUser.username || '').trim();
+  const key = getActiveCollKey();
+  if (!username || !key) return;
+
+  const fd = new FormData();
+  fd.append('action', 'delete');
+  fd.append('username', username);
+  fd.append('collectionKey', key);
+  fd.append('type', type);
+
+  try {
+    await fetch('/idp/station_image.php', { method: 'POST', body: fd });
+  } catch (err) {
+    console.warn('Station image delete error:', err);
+  }
+
+  clearStationImagePreview(type);
+  saveActiveCollectionState();
+  log(`${type === 'thumb' ? 'Thumbnail' : 'Banner'} removed`, 'info');
+}
+
+// --- URL modal ---
+function openImageUrlModal(type) {
+  _imageUrlModalTarget = type;
+  const modal = document.getElementById('imageUrlModal');
+  const title = document.getElementById('imageUrlModalTitle');
+  const input = document.getElementById('imageUrlInput');
+  const preview = document.getElementById('imageUrlPreview');
+
+  if (title) title.textContent = type === 'thumb' ? 'Thumbnail Image URL' : 'Banner Image URL';
+  if (input) input.value = '';
+  if (preview) { preview.src = ''; preview.style.display = 'none'; }
+  if (modal) modal.classList.add('open');
+
+  // Live preview as user types
+  if (input) {
+    input.oninput = () => {
+      const url = input.value.trim();
+      if (url && (url.startsWith('http') || url.startsWith('ipfs://'))) {
+        preview.src = url;
+        preview.style.display = 'block';
+        preview.onerror = () => { preview.style.display = 'none'; };
+      } else {
+        preview.style.display = 'none';
+      }
+    };
+  }
+}
+
+window.closeImageUrlModal = function() {
+  const modal = document.getElementById('imageUrlModal');
+  if (modal) modal.classList.remove('open');
+  _imageUrlModalTarget = null;
+};
+
+window.applyImageUrl = async function() {
+  const type = _imageUrlModalTarget;
+  if (!type) return;
+
+  const input = document.getElementById('imageUrlInput');
+  const url = (input?.value || '').trim();
+  if (!url) return alert('Please enter a URL');
+
+  const username = (currentUser.username || '').trim();
+  const key = getActiveCollKey();
+  if (!username || !key) return alert('No active collection');
+
+  // Save URL to server
+  const fd = new FormData();
+  fd.append('action', 'setUrl');
+  fd.append('username', username);
+  fd.append('collectionKey', key);
+  fd.append('type', type);
+  fd.append('url', url);
+
+  try {
+    const res = await fetch('/idp/station_image.php', { method: 'POST', body: fd });
+    const text = await res.text();
+    let data;
+    try { data = JSON.parse(text); } catch (pe) {
+      console.error('station_image.php response not JSON:', text);
+      return alert('Failed to set URL — server error');
+    }
+    if (!data.ok) return alert(data.error || 'Failed to set URL');
+  } catch (err) {
+    console.error('Set URL error:', err);
+    return alert('Network error');
+  }
+
+  showStationImagePreview(type, url, url);
+  closeImageUrlModal();
+  log(`${type === 'thumb' ? 'Thumbnail' : 'Banner'} URL applied`, 'success');
+};
+
+// --- Header checkmarks ---
+function updateStationCheckmark(type, isSet) {
+  const id = type === 'thumb' ? 'checkThumb' : 'checkBanner';
+  const cb = document.getElementById(id);
+  if (!cb) return;
+  cb.checked = isSet;
+  // Bold green glow on the parent label when checked
+  const label = cb.closest('.check-wrap');
+  if (label) {
+    if (isSet) {
+      label.classList.add('station-checked');
+    } else {
+      label.classList.remove('station-checked');
+    }
+  }
+}
+
+// --- Sync checkmarks from collection state ---
+function syncStationCheckmarks(state) {
+  if (!state) state = {};
+
+  // Thumb: has value and it's not empty/default placeholder
+  const thumbVal = (state.collectionThumbInput || '').trim();
+  const hasThumb = thumbVal !== '' && thumbVal !== 'fbThumb.png';
+  updateStationCheckmark('thumb', hasThumb);
+
+  // Banner
+  const bannerVal = (state.bannerImage || '').trim();
+  updateStationCheckmark('banner', bannerVal !== '');
+}
+
+// --- Drag & Drop + Click setup for both zones ---
+function setupStationUploadZone(zoneId, fileInputId, type) {
+  const zone = document.getElementById(zoneId);
+  const fileInput = document.getElementById(fileInputId);
+  if (!zone || !fileInput) return;
+
+  const prevent = (e) => { e.preventDefault(); e.stopPropagation(); };
+
+  // Click to browse
+  zone.addEventListener('click', (e) => {
+    // Don't trigger browse if clicking the X remove button
+    if (e.target.closest('.station-upload-remove')) return;
+    fileInput.click();
+  });
+
+  // File input change
+  fileInput.addEventListener('change', (e) => {
+    const f = e.target.files?.[0];
+    if (f) handleStationImage(f, type);
+    fileInput.value = ''; // reset so same file can be re-selected
+  });
+
+  // Drag & drop
+  zone.addEventListener('dragenter', (e) => { prevent(e); zone.classList.add('drag-active'); });
+  zone.addEventListener('dragover',  (e) => { prevent(e); zone.classList.add('drag-active'); });
+  zone.addEventListener('dragleave', (e) => { prevent(e); zone.classList.remove('drag-active'); });
+  zone.addEventListener('drop', (e) => {
+    prevent(e);
+    zone.classList.remove('drag-active');
+    const f = e.dataTransfer?.files?.[0];
+    if (f) handleStationImage(f, type);
+  });
+}
+
+// --- Restore previews on collection switch ---
+function restoreStationImages(state) {
+  if (!state) state = {};
+
+  const username = (currentUser.username || '').trim();
+  const key = getActiveCollKey();
+  const basePath = (username && key) ? `/idp/${username}/mint/${key}/` : '';
+
+  // Thumbnail
+  const thumbVal = (state.collectionThumbInput || '').trim();
+  if (thumbVal && thumbVal !== 'fbThumb.png') {
+    const thumbSrc = thumbVal.startsWith('http') || thumbVal.startsWith('ipfs://') ? thumbVal : basePath + thumbVal;
+    showStationImagePreview('thumb', thumbSrc, thumbVal);
+  } else {
+    clearStationImagePreview('thumb');
+  }
+
+  // Banner
+  const bannerVal = (state.bannerImage || '').trim();
+  if (bannerVal) {
+    const bannerSrc = bannerVal.startsWith('http') || bannerVal.startsWith('ipfs://') ? bannerVal : basePath + bannerVal;
+    showStationImagePreview('banner', bannerSrc, bannerVal);
+  } else {
+    clearStationImagePreview('banner');
+  }
+}
+
+// ==========================================
+// STATION APPEARANCE — LIVE COLOR APPLICATION
+// ==========================================
+
+function lightenColor(hex, amount) {
+  // Parse hex to RGB, lighten each channel, return hex
+  hex = hex.replace('#', '');
+  if (hex.length === 3) hex = hex[0]+hex[0]+hex[1]+hex[1]+hex[2]+hex[2];
+  let r = parseInt(hex.substring(0,2), 16);
+  let g = parseInt(hex.substring(2,4), 16);
+  let b = parseInt(hex.substring(4,6), 16);
+  r = Math.min(255, r + Math.round((255 - r) * amount));
+  g = Math.min(255, g + Math.round((255 - g) * amount));
+  b = Math.min(255, b + Math.round((255 - b) * amount));
+  return '#' + [r,g,b].map(c => c.toString(16).padStart(2,'0')).join('');
+}
+
+function applyStationColors(skipSave) {
+  const card = document.getElementById('buyerUI');
+  if (!card) return;
+
+  const bg      = document.getElementById('stationBgColor')?.value    || '#050810';
+  const text    = document.getElementById('stationTextColor')?.value  || '#ffffff';
+  const border  = document.getElementById('stationBorderColor')?.value || '#1e2a5a';
+  const text2   = document.getElementById('stationText2Color')?.value || '#2196F3';
+
+  // Update hex labels
+  const bgHex = document.getElementById('stationBgHex');
+  const txtHex = document.getElementById('stationTextHex');
+  const brdHex = document.getElementById('stationBorderHex');
+  const t2Hex = document.getElementById('stationText2Hex');
+  if (bgHex)  bgHex.textContent = bg;
+  if (txtHex) txtHex.textContent = text;
+  if (brdHex) brdHex.textContent = border;
+  if (t2Hex)  t2Hex.textContent = text2;
+
+  // --- Background with gradient ---
+  const bgLight = lightenColor(bg, 0.12);
+  card.style.background = `linear-gradient(160deg, ${bgLight} 0%, ${bg} 40%, ${bg} 100%)`;
+
+  // --- Card border ---
+  card.style.border = `1px solid ${border}`;
+
+  // --- Header ---
+  const header = card.querySelector('.cardHeader');
+  if (header) {
+    header.style.borderBottom = `1px solid ${border}`;
+    header.style.background = 'transparent';
+  }
+
+  // --- "Mint Station" h3 = text2 ---
+  const h3 = card.querySelector('.cardHeader h3');
+  if (h3) h3.style.color = text2;
+
+  // --- Stat pills (Sold, Income) ---
+  const pills = card.querySelectorAll('.stat-pill');
+  pills.forEach(p => {
+    p.style.borderColor = border;
+    p.style.color = text;  // label text like "Sold:" "Income:"
+  });
+
+  // --- Stat pill bold values = text2 ---
+  const pillBolds = card.querySelectorAll('.stat-pill b');
+  pillBolds.forEach(b => b.style.color = text2);
+
+  // --- Body text (title, description, labels) = text color ---
+  const body = document.getElementById('buyerUIBody');
+  if (body) {
+    const title = document.getElementById('displayTitle');
+    if (title) title.style.color = text;
+
+    const desc = document.getElementById('displayDesc');
+    if (desc) desc.style.color = text;
+
+    // Quantity label
+    const qtyRow = document.getElementById('qtyRow');
+    if (qtyRow) {
+      qtyRow.querySelectorAll('label').forEach(l => l.style.color = text);
+    }
+
+    // Quantity select border
+    const mintQty = document.getElementById('mintQty');
+    if (mintQty) {
+      mintQty.style.borderColor = border;
+      mintQty.style.color = text;
+    }
+
+    // Price display = text2
+    const priceDisplay = document.getElementById('totalPriceDisplay');
+    if (priceDisplay) priceDisplay.style.color = text2;
+
+    // Mint Now button
+    const mintBtn = document.getElementById('btnMint');
+    if (mintBtn) {
+      const btnBg = lightenColor(bg, 0.25);
+      mintBtn.style.background = `linear-gradient(135deg, ${lightenColor(bg, 0.3)}, ${lightenColor(bg, 0.15)})`;
+      mintBtn.style.color = text2;
+      mintBtn.style.borderColor = border;
+    }
+
+    // Log box border
+    const logBox = document.getElementById('txLog');
+    if (logBox) logBox.style.borderColor = border;
+  }
+
+  // Persist to memory immediately (skip during restore to avoid loops)
+  if (!skipSave && typeof saveActiveCollectionState === 'function') saveActiveCollectionState();
+}
+
+function restoreStationColors(state) {
+  if (!state) state = {};
+
+  const bgInput     = document.getElementById('stationBgColor');
+  const textInput   = document.getElementById('stationTextColor');
+  const borderInput = document.getElementById('stationBorderColor');
+  const text2Input  = document.getElementById('stationText2Color');
+
+  if (bgInput)     bgInput.value     = state.stationBgColor     || '#050810';
+  if (textInput)   textInput.value   = state.stationTextColor   || '#ffffff';
+  if (borderInput) borderInput.value = state.stationBorderColor || '#1e2a5a';
+  if (text2Input)  text2Input.value  = state.stationText2Color  || '#2196F3';
+
+  applyStationColors(true); // skipSave — we're restoring, not changing
+}
+
+function resetStationColors() {
+  // Reset Mint Station card to default CSS (clears inline styles)
+  const card = document.getElementById('buyerUI');
+  if (!card) return;
+
+  card.style.background = '';
+  card.style.border = '';
+
+  const header = card.querySelector('.cardHeader');
+  if (header) { header.style.borderBottom = ''; header.style.background = ''; }
+
+  const h3 = card.querySelector('.cardHeader h3');
+  if (h3) h3.style.color = '';
+
+  card.querySelectorAll('.stat-pill').forEach(p => { p.style.borderColor = ''; p.style.color = ''; });
+  card.querySelectorAll('.stat-pill b').forEach(b => b.style.color = '');
+
+  const body = document.getElementById('buyerUIBody');
+  if (body) {
+    const t = document.getElementById('displayTitle'); if (t) t.style.color = '';
+    const d = document.getElementById('displayDesc');  if (d) d.style.color = '';
+    const qr = document.getElementById('qtyRow');
+    if (qr) qr.querySelectorAll('label').forEach(l => l.style.color = '');
+    const mq = document.getElementById('mintQty'); if (mq) { mq.style.borderColor = ''; mq.style.color = ''; }
+    const pd = document.getElementById('totalPriceDisplay'); if (pd) pd.style.color = '';
+    const mb = document.getElementById('btnMint'); if (mb) { mb.style.background = ''; mb.style.color = ''; mb.style.borderColor = ''; }
+    const lb = document.getElementById('txLog'); if (lb) lb.style.borderColor = '';
+  }
 }
 
 // IMPORTANT: make ONE function that studio runs after *any* successful connect.
