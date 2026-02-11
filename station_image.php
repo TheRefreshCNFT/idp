@@ -11,10 +11,10 @@ function out($ok, $data = [], $code = 200) {
 $action   = $_POST['action']   ?? '';
 $username = trim($_POST['username'] ?? '');
 $collKey  = trim($_POST['collectionKey'] ?? '');
-$type     = trim($_POST['type'] ?? ''); // 'thumb' or 'banner'
+$type     = trim($_POST['type'] ?? ''); // 'thumb', 'banner', or 'bgimg'
 
 if (!$username || !$collKey || !$type) out(false, ['error' => 'Missing parameters'], 400);
-if (!in_array($type, ['thumb', 'banner'], true)) out(false, ['error' => 'Invalid type'], 400);
+if (!in_array($type, ['thumb', 'banner', 'bgimg'], true)) out(false, ['error' => 'Invalid type'], 400);
 
 // Sanitize
 $username = preg_replace('/[^a-zA-Z0-9_\-]/', '', $username);
@@ -26,7 +26,8 @@ $collDir = $idpRoot . '/' . $username . '/mint/' . $collKey;
 
 if (!is_dir($collDir)) out(false, ['error' => 'Collection not found'], 404);
 
-$prefix = ($type === 'thumb') ? 'fbThumb' : 'fbBanner';
+$prefixMap = ['thumb' => 'fbThumb', 'banner' => 'fbBanner', 'bgimg' => 'fbBgImg'];
+$prefix = $prefixMap[$type] ?? 'fbThumb';
 
 // Helper: remove any existing file with this prefix
 function removeExisting($dir, $prefix) {
@@ -65,11 +66,8 @@ if ($action === 'upload') {
     if (is_file($collJsonPath)) {
         $collData = json_decode(file_get_contents($collJsonPath), true) ?: [];
     }
-    if ($type === 'thumb') {
-        $collData['collectionThumbInput'] = $newName;
-    } else {
-        $collData['bannerImage'] = $newName;
-    }
+    $fieldMap = ['thumb' => 'collectionThumbInput', 'banner' => 'bannerImage', 'bgimg' => 'bgImage'];
+    $collData[$fieldMap[$type]] = $newName;
     file_put_contents($collJsonPath, json_encode($collData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
 
     out(true, ['filename' => $newName]);
@@ -85,11 +83,8 @@ if ($action === 'delete') {
     if (is_file($collJsonPath)) {
         $collData = json_decode(file_get_contents($collJsonPath), true) ?: [];
     }
-    if ($type === 'thumb') {
-        unset($collData['collectionThumbInput']);
-    } else {
-        unset($collData['bannerImage']);
-    }
+    $fieldMap = ['thumb' => 'collectionThumbInput', 'banner' => 'bannerImage', 'bgimg' => 'bgImage'];
+    unset($collData[$fieldMap[$type]]);
     file_put_contents($collJsonPath, json_encode($collData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
 
     out(true, ['deleted' => $prefix]);
@@ -109,11 +104,8 @@ if ($action === 'setUrl') {
     if (is_file($collJsonPath)) {
         $collData = json_decode(file_get_contents($collJsonPath), true) ?: [];
     }
-    if ($type === 'thumb') {
-        $collData['collectionThumbInput'] = $url;
-    } else {
-        $collData['bannerImage'] = $url;
-    }
+    $fieldMap = ['thumb' => 'collectionThumbInput', 'banner' => 'bannerImage', 'bgimg' => 'bgImage'];
+    $collData[$fieldMap[$type]] = $url;
     file_put_contents($collJsonPath, json_encode($collData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
 
     out(true, ['url' => $url]);
