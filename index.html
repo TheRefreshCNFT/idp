@@ -9462,23 +9462,23 @@ function populateStudioFields() {
 
     // 2. Find the collection object in your data array
     const coll = Array.isArray(serverCollIndex) ? serverCollIndex.find(c => (c.key || c.id || c.slug) === key) : null;
-    
+
     if (!coll) {
         console.warn("Collection not found for key:", key);
         return;
     }
 
+    // 2a. Resolve policy data: check collStateMem first (has full collection.json),
+    // then fall back to serverCollIndex entry
+    const memState = collStateMem.get(key);
+    const policyObj = memState?.policy || coll.policy || null;
+    const resolvedPolicyId = policyObj?.policyId || policyObj?.policy_id || coll.policyId || null;
 
-// --- 2a. FETCH MISSING POLICY DATA ---
-    if (!coll.policyId && !coll.loadingPolicy) {
-        coll.loadingPolicy = true; 
+    // --- 2b. FETCH MISSING POLICY DATA (only if no policy anywhere) ---
+    if (!resolvedPolicyId && !coll.loadingPolicy) {
+        coll.loadingPolicy = true;
 
-        // 1. GET THE USERNAME
-        // Change 'username' to whatever key you use to save the user's name
         const username = (currentUser.username || '').trim();
-        
-        // 2. CONSTRUCT THE CORRECT PATH
-        // Path: /idp/USERNAME/mint/COLLECTION_KEY/policy.json
         const fetchPath = `/idp/${username}/mint/${key}/policy.json`;
 
         fetch(fetchPath)
@@ -9487,10 +9487,9 @@ function populateStudioFields() {
                 return res.json();
             })
             .then(data => {
-                // ... (rest of the logic remains the same)
                 Object.assign(coll, data);
                 if(data.maxSupply) coll.supply = data.maxSupply;
-                coll.loadingPolicy = false; 
+                coll.loadingPolicy = false;
                 populateStudioFields();
             })
             .catch(err => {
@@ -9500,13 +9499,12 @@ function populateStudioFields() {
 
         const shortEl = document.getElementById('policyIdShort');
         if(shortEl) shortEl.innerText = "Loading...";
-        return; 
+        return;
     }
-    
-    
+
+
     // --- POLICY ID LOGIC ---
-    // Now this will work because we fetched the data above
-    const polId = coll.policyId || coll.id || "Not Created Yet";
+    const polId = resolvedPolicyId || coll.id || "Not Created Yet";
 
     const shortEl = document.getElementById('policyIdShort');
     if(shortEl) {
@@ -9519,10 +9517,9 @@ function populateStudioFields() {
     }
 
     // --- POLICY TYPE LOGIC ---
-    // policy.json uses 'type' (e.g. "open"), code was looking for 'policyType'.
-    // We check both just to be safe.
-    const pType = coll.type || coll.policyType;
-    const isLocked = (pType === 'timelock'); 
+    // Resolve policy type from the nested policy object or flat fields
+    const pType = policyObj?.type || policyObj?.policyType || coll.type || coll.policyType;
+    const isLocked = (pType === 'timelock');
     const typeStr = isLocked ? 'LOCKED' : 'OPEN';
 
     const badge = document.getElementById('policyTypeHeader');
@@ -9541,8 +9538,8 @@ function populateStudioFields() {
     // --- LOCK DATE / COUNTDOWN ---
     const lockRow = document.getElementById('lockDetailsCol');
     if(lockRow) {
-        // Check both 'lockDate' and 'lockUntil' (from your json)
-        const lDate = coll.lockDate || coll.lockUntil; 
+        // Check nested policy object first, then flat fields
+        const lDate = policyObj?.lockUntil || policyObj?.lockDate || coll.lockDate || coll.lockUntil;
         
         if(isLocked && lDate) {
             lockRow.style.display = 'block';
@@ -9584,41 +9581,39 @@ function populateStudioFields() {
 }
 
 function renderPolicyUI(policy) {
-  const sum = document.getElementById('policySummary');
-  const body = document.querySelector('#policySection .sectionBody');
-  if (!sum || !body) return;
-
-  if (!policy) {
-    sum.textContent = '';
-    body.innerHTML = `<div class="hint">No policy yet. Click <b>+ New Collection</b> to create one.</div>`;
-    return;
-  }
+  if (!policy) return;
 
   const policyId  = String(policy.policyId || policy.policy_id || policy.id || '');
   const policyType = String(policy.policyType || policy.type || '').toLowerCase();
-  const lockUntil = String(policy.lockUntil || policy.lock_until || policy.lockDate || '');
+  const isLocked = (policyType === 'timelock');
 
-  sum.textContent = policyId ? `${policyId.slice(0, 12)}…` : (policyType ? policyType.toUpperCase() : 'Policy');
+  // Update the pill in the section header
+  const shortEl = document.getElementById('policyIdShort');
+  if (shortEl) {
+      shortEl.innerText = policyId
+          ? (policyId.length > 10 ? policyId.substring(0, 5) + '...' : policyId)
+          : 'Not Created Yet';
+  }
 
-  body.innerHTML = `
-    <div class="row">
-      <div class="col">
-        <label>Policy ID</label>
-        <input type="text" value="${policyId}" readonly>
-      </div>
-      <div class="col">
-        <label>Policy Type</label>
-        <input type="text" value="${policyType || ''}" readonly>
-      </div>
-    </div>
-    ${policyType === 'timelock' ? `
-    <div class="row">
-      <div class="col">
-        <label>Lock Until</label>
-        <input type="text" value="${lockUntil}" readonly>
-      </div>
-    </div>` : ''}
-  `;
+  // Update the full policy ID input
+  const fullEl = document.getElementById('policyIdFull');
+  if (fullEl) fullEl.value = policyId || 'Not Created Yet';
+
+  // Update the type badge pill
+  const badge = document.getElementById('policyTypeHeader');
+  if (badge) {
+      const typeStr = isLocked ? 'LOCKED' : 'OPEN';
+      badge.innerText = typeStr;
+      badge.style.color = isLocked ? '#ff6b6b' : 'var(--primary)';
+      badge.style.background = isLocked ? 'rgba(255,107,107,0.2)' : 'rgba(33,150,243,0.2)';
+  }
+
+  // Update the type display in the body
+  const typeDisp = document.getElementById('policyTypeDisplay');
+  if (typeDisp) {
+      typeDisp.innerText = isLocked ? 'LOCKED' : 'OPEN';
+      typeDisp.style.color = isLocked ? '#ff6b6b' : 'var(--primary)';
+  }
 }
 
 
